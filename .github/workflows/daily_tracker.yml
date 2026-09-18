@@ -30,6 +30,6 @@ jobs:
     - name: Commit and push updated CSV
       run: |
         git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]"
-        git add ai_news_stats.csv
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update daily AI stats [skip ci]" && git push)
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add ai_news_stats.csv
+          git diff-index --quiet HEAD || (git commit -m "Update daily AI stats" && git push)
