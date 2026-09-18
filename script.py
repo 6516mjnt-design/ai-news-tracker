@@ -11,7 +11,7 @@ PAPERS = {
     "産経新聞": "sankei.com"
 }
 
-KEYWORDS = "(AI OR 人工知能 OR 生成AI OR ChatGPT)"
+KEYWORDS = "(intitle:AI OR intitle:人工知能 OR intitle:生成AI OR intitle:ChatGPT)"
 
 def get_google_news_rss(query: str):
     encoded_query = urllib.parse.quote(query)
