@@ -12,7 +12,7 @@ PAPERS = {
 }
 
 # 検索キーワード
-KEYWORDS = "(intitle:AI OR intitle:人工知能 OR intitle:生成AI OR intitle:ChatGPT)"
+KEYWORDS = '(intitle:"AI" OR intitle:人工知能 OR intitle:生成AI OR intitle:ChatGPT) -intitle:株 -intitle:市況'
 
 def get_google_news_rss(query: str):
     encoded_query = urllib.parse.quote(query)
@@ -23,17 +23,17 @@ def get_google_news_rss(query: str):
 def collect_daily_ai_stats():
     today = datetime.date.today().strftime("%Y-%m-%d")
     results = {"date": today}
-    
-    print(f"=== {today} のAI関連記事集計を開始します ===")
-    
+
     for paper_key, domain in PAPERS.items():
-        # 「when:1d」を追加して直近24時間の記事のみに限定
-        search_query = f"{KEYWORDS} site:{domain} when:1d"
+        # 日経新聞だけ直近12時間に絞り込み、他社は直近24時間のままにする
+        time_frame = "when:12h" if paper_key == "nikkei" else "when:1d"
+        search_query = f"{KEYWORDS} site:{domain} {time_frame}"
+        
         feed = get_google_news_rss(search_query)
         article_count = len(feed.entries)
         results[paper_key] = article_count
         print(f"・{paper_key} ({domain}): {article_count} 件")
-        
+
     return results
 
 def save_to_csv(data_dict, filename="ai_news_stats.csv"):
