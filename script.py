@@ -9,7 +9,7 @@ PAPERS = {
 
 KEYWORDS = '(OpenAI OR ChatGPT OR Gemini OR Claude OR Copilot OR Meta OR Anthropic OR "生成AI" OR "LLM") (intitle:"新モデル" OR intitle:"新機能" OR intitle:"発表" OR intitle:"リリース" OR intitle:"公開") -intitle:株 -intitle:市況 -intitle:PR -intitle:プレスリリース -intitle:無料'
 CSV_FILENAME = "ai_news_stats.csv"
-RETENTION_DAYS = 30  # データを保持する日数（30日を超えたものは自動削除）
+RETENTION_DAYS = 30  # 30日分のみ保持
 
 def get_google_news_rss(query: str):
     encoded_query = urllib.parse.quote(query)
@@ -27,7 +27,6 @@ def collect_daily_ai_stats():
     unique_titles = list(dict.fromkeys(raw_titles))
     article_count = len(unique_titles)
     
-    # LLMにコピペしやすいよう、番号付きの改行区切りでフォーマット
     if unique_titles:
         formatted_titles = "\n".join([f"{i+1}. {t}" for i, t in enumerate(unique_titles)])
     else:
@@ -47,16 +46,16 @@ def save_to_csv_with_cleanup(data_dict, filename=CSV_FILENAME, retention_days=RE
     
     try:
         df_existing = pd.read_csv(filename)
+        # 過去の集計（産経新聞版等）との列の整合性を合わせる
         df_updated = pd.concat([df_existing, df_new], ignore_index=True)
         df_updated.drop_duplicates(subset=["date"], keep="last", inplace=True)
     except (FileNotFoundError, pd.errors.EmptyDataError):
         df_updated = df_new
         
-    # --- 古いデータの自動破棄処理 ---
-    df_updated['date_dt'] = pd.to_datetime(df_updated['date'])
+    # 古いデータの自動破棄処理（日付フォーマットのエラーを吸収）
+    df_updated['date_dt'] = pd.to_datetime(df_updated['date'], errors='coerce')
     cutoff_date = datetime.datetime.now() - datetime.timedelta(days=retention_days)
     
-    # 30日以内のデータだけを残す
     df_filtered = df_updated[df_updated['date_dt'] >= cutoff_date].copy()
     df_filtered.drop(columns=['date_dt'], inplace=True)
     
