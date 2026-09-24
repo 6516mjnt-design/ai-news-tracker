@@ -3,13 +3,13 @@ import urllib.parse
 import feedparser
 import pandas as pd
 
-# 対象メディアを産経新聞のみに絞り込み
+# 対象メディアを日経新聞のみに絞り込み
 PAPERS = {
-    "sankei": "sankei.com"
+    "nikkei": "nikkei.com"
 }
 
-# 「新モデル・新機能・発表」に特化したキーワード設定
-KEYWORDS = '(intitle:"新モデル" OR intitle:"新機能" OR intitle:"発表" OR intitle:"リリース" OR intitle:"公開") (intitle:"AI" OR intitle:"生成AI" OR intitle:"LLM") -intitle:株 -intitle:市況'
+# 「新モデル・新機能・発表」特化 ＋ PR・宣伝・株市況の除外キーワード
+KEYWORDS = '(intitle:"新モデル" OR intitle:"新機能" OR intitle:"発表" OR intitle:"リリース" OR intitle:"公開") (intitle:"AI" OR intitle:"生成AI" OR intitle:"LLM") -intitle:株 -intitle:市況 -intitle:PR -intitle:プレスリリース -intitle:無料'
 CSV_FILENAME = "ai_news_stats.csv"
 
 def get_google_news_rss(query: str):
@@ -20,7 +20,8 @@ def get_google_news_rss(query: str):
 def collect_daily_ai_stats():
     today = datetime.date.today().strftime("%Y-%m-%d")
     
-    domain = PAPERS["sankei"]
+    domain = PAPERS["nikkei"]
+    # 日経新聞用に直近24時間の指定（必要に応じて when:12h へ変更可能）
     search_query = f"{KEYWORDS} site:{domain} when:1d"
     
     feed = get_google_news_rss(search_query)
@@ -33,11 +34,11 @@ def collect_daily_ai_stats():
     
     results = {
         "date": today,
-        "sankei_count": article_count,
-        "sankei_titles": titles_str
+        "nikkei_count": article_count,
+        "nikkei_titles": titles_str
     }
     
-    print(f"・産経新聞 ({domain}): {article_count} 件")
+    print(f"・日本経済新聞 ({domain}): {article_count} 件")
     if titles:
         print("  タイトル:")
         for t in titles:
