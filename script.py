@@ -3,13 +3,14 @@ import urllib.parse
 import feedparser
 import pandas as pd
 
-# 対象メディアを日経新聞のみに絞り込み
+# 対象メディア
 PAPERS = {
     "nikkei": "nikkei.com"
 }
 
-# 「新モデル・新機能・発表」特化 ＋ PR・宣伝・株市況の除外キーワード
-KEYWORDS = '(intitle:"新モデル" OR intitle:"新機能" OR intitle:"発表" OR intitle:"リリース" OR intitle:"公開") (intitle:"AI" OR intitle:"生成AI" OR intitle:"LLM") -intitle:株 -intitle:市況 -intitle:PR -intitle:プレスリリース -intitle:無料'
+# 主要AI企業・モデルに特化＋ノイズ除外の検索クエリ
+# (日経新聞内の重要AIニュースに厳選)
+KEYWORDS = '(OpenAI OR ChatGPT OR Gemini OR Claude OR Copilot OR Meta OR Anthropic) (intitle:"新モデル" OR intitle:"新機能" OR intitle:"発表" OR intitle:"リリース" OR intitle:"公開") -intitle:株 -intitle:市況 -intitle:PR -intitle:プレスリリース -intitle:無料 -intitle:診断'
 CSV_FILENAME = "ai_news_stats.csv"
 
 def get_google_news_rss(query: str):
@@ -19,29 +20,34 @@ def get_google_news_rss(query: str):
 
 def collect_daily_ai_stats():
     today = datetime.date.today().strftime("%Y-%m-%d")
-    
     domain = PAPERS["nikkei"]
-    # 日経新聞用に直近24時間の指定（必要に応じて when:12h へ変更可能）
+    
+    # site:nikkei.com を確実に適用
     search_query = f"{KEYWORDS} site:{domain} when:1d"
     
     feed = get_google_news_rss(search_query)
     
-    titles = [entry.title for entry in feed.entries]
-    article_count = len(titles)
+    # 重複タイトルを除外して取得
+    raw_titles = [entry.title for entry in feed.entries]
+    unique_titles = list(dict.fromkeys(raw_titles))
+    article_count = len(unique_titles)
     
-    # 複数タイトルをパイプ(|)区切りで結合
-    titles_str = " | ".join(titles) if titles else "なし"
+    # 改行で縦に綺麗に並べる（番号付き）
+    if unique_titles:
+        formatted_titles = "\n".join([f"{i+1}. {t}" for i, t in enumerate(unique_titles)])
+    else:
+        formatted_titles = "なし"
     
     results = {
         "date": today,
         "nikkei_count": article_count,
-        "nikkei_titles": titles_str
+        "nikkei_titles": formatted_titles
     }
     
     print(f"・日本経済新聞 ({domain}): {article_count} 件")
-    if titles:
+    if unique_titles:
         print("  タイトル:")
-        for t in titles:
+        for t in unique_titles:
             print(f"   - {t}")
 
     return results
@@ -51,6 +57,7 @@ def save_to_csv(data_dict, filename=CSV_FILENAME):
     
     try:
         df_existing = pd.read_csv(filename)
+        # 既存列を整理して更新
         df_updated = pd.concat([df_existing, df_new], ignore_index=True)
         df_updated.drop_duplicates(subset=["date"], keep="last", inplace=True)
     except (FileNotFoundError, pd.errors.EmptyDataError):
