@@ -3,15 +3,13 @@ import urllib.parse
 import feedparser
 import pandas as pd
 
-# 対象メディア
 PAPERS = {
     "nikkei": "nikkei.com"
 }
 
-# 主要AI企業・モデルに特化＋ノイズ除外の検索クエリ
-# (日経新聞内の重要AIニュースに厳選)
-KEYWORDS = '(OpenAI OR ChatGPT OR Gemini OR Claude OR Copilot OR Meta OR Anthropic) (intitle:"新モデル" OR intitle:"新機能" OR intitle:"発表" OR intitle:"リリース" OR intitle:"公開") -intitle:株 -intitle:市況 -intitle:PR -intitle:プレスリリース -intitle:無料 -intitle:診断'
+KEYWORDS = '(OpenAI OR ChatGPT OR Gemini OR Claude OR Copilot OR Meta OR Anthropic OR "生成AI" OR "LLM") (intitle:"新モデル" OR intitle:"新機能" OR intitle:"発表" OR intitle:"リリース" OR intitle:"公開") -intitle:株 -intitle:市況 -intitle:PR -intitle:プレスリリース -intitle:無料'
 CSV_FILENAME = "ai_news_stats.csv"
+RETENTION_DAYS = 30  # データを保持する日数（30日を超えたものは自動削除）
 
 def get_google_news_rss(query: str):
     encoded_query = urllib.parse.quote(query)
@@ -22,17 +20,14 @@ def collect_daily_ai_stats():
     today = datetime.date.today().strftime("%Y-%m-%d")
     domain = PAPERS["nikkei"]
     
-    # site:nikkei.com を確実に適用
     search_query = f"{KEYWORDS} site:{domain} when:1d"
-    
     feed = get_google_news_rss(search_query)
     
-    # 重複タイトルを除外して取得
     raw_titles = [entry.title for entry in feed.entries]
     unique_titles = list(dict.fromkeys(raw_titles))
     article_count = len(unique_titles)
     
-    # 改行で縦に綺麗に並べる（番号付き）
+    # LLMにコピペしやすいよう、番号付きの改行区切りでフォーマット
     if unique_titles:
         formatted_titles = "\n".join([f"{i+1}. {t}" for i, t in enumerate(unique_titles)])
     else:
@@ -44,28 +39,30 @@ def collect_daily_ai_stats():
         "nikkei_titles": formatted_titles
     }
     
-    print(f"・日本経済新聞 ({domain}): {article_count} 件")
-    if unique_titles:
-        print("  タイトル:")
-        for t in unique_titles:
-            print(f"   - {t}")
-
+    print(f"・日本経済新聞 ({domain}): {article_count} 件取得")
     return results
 
-def save_to_csv(data_dict, filename=CSV_FILENAME):
+def save_to_csv_with_cleanup(data_dict, filename=CSV_FILENAME, retention_days=RETENTION_DAYS):
     df_new = pd.DataFrame([data_dict])
     
     try:
         df_existing = pd.read_csv(filename)
-        # 既存列を整理して更新
         df_updated = pd.concat([df_existing, df_new], ignore_index=True)
         df_updated.drop_duplicates(subset=["date"], keep="last", inplace=True)
     except (FileNotFoundError, pd.errors.EmptyDataError):
         df_updated = df_new
         
-    df_updated.to_csv(filename, index=False, encoding="utf-8-sig")
-    print(f"\n集計データを '{filename}' に保存しました。")
+    # --- 古いデータの自動破棄処理 ---
+    df_updated['date_dt'] = pd.to_datetime(df_updated['date'])
+    cutoff_date = datetime.datetime.now() - datetime.timedelta(days=retention_days)
+    
+    # 30日以内のデータだけを残す
+    df_filtered = df_updated[df_updated['date_dt'] >= cutoff_date].copy()
+    df_filtered.drop(columns=['date_dt'], inplace=True)
+    
+    df_filtered.to_csv(filename, index=False, encoding="utf-8-sig")
+    print(f"\n集計データを '{filename}' に保存しました。（直近 {retention_days} 日分のみ保持）")
 
 if __name__ == "__main__":
     stats = collect_daily_ai_stats()
-    save_to_csv(stats)
+    save_to_csv_with_cleanup(stats)
