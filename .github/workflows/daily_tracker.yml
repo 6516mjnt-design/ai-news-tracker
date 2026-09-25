@@ -2,15 +2,15 @@ name: Daily AI News Tracker
 
 on:
   schedule:
-    # 毎日 日本時間 午前7:00（UTC 22:00）に自動実行
-    - cron: '18 21 * * *' # 日本時間 06:18（UTC 21:18）に変更
-  workflow_dispatch: # GitHubの画面から手動実行も可能にする設定
+    # 毎日 日本時間 午前6:18（UTC 21:18）に自動実行
+    - cron: '18 21 * * *'
+  workflow_dispatch: # 手動実行許可
 
 jobs:
   build-and-run:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # リポジトリへの書き込み（Push）権限を許可
+      contents: write # 書き込み権限
 
     steps:
       - name: リポジトリのチェックアウト
@@ -29,11 +29,10 @@ jobs:
       - name: 集計スクリプトの実行
         run: python script.py
 
-      - name: 変更をコミットしてPush
+      - name: 変更を強制コミットしてPush
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add ai_news_stats.csv
-          
-          # 変更がある場合のみコミット＆Pushする
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update daily AI news stats [skip ci]" && git push)
+          git commit -m "Auto-update daily AI news stats [skip ci]" || exit 0
+          git push
