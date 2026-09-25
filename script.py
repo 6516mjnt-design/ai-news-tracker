@@ -7,7 +7,8 @@ PAPERS = {
     "nikkei": "nikkei.com"
 }
 
-KEYWORDS = '(OpenAI OR ChatGPT OR Gemini OR Claude OR Copilot OR Meta OR Anthropic OR "生成AI" OR "LLM") (intitle:"新モデル" OR intitle:"新機能" OR intitle:"発表" OR intitle:"リリース" OR intitle:"公開") -intitle:株 -intitle:市況 -intitle:PR -intitle:プレスリリース -intitle:無料'
+# KEYWORDSのintitle制限を緩和し、0件ヒットを防ぐ
+KEYWORDS = '(OpenAI OR ChatGPT OR Gemini OR Claude OR "生成AI" OR "LLM") (新モデル OR 新機能 OR 発表 OR リリリース OR 公開) -株 -市況 -PR -プレスリリース -無料'
 CSV_FILENAME = "ai_news_stats.csv"
 RETENTION_DAYS = 30  # 30日分のみ保持
 
@@ -17,14 +18,14 @@ def get_google_news_rss(query: str):
     return feedparser.parse(url)
 
 def collect_daily_ai_stats():
-    # 日本時間（JST）で今日と昨日の日付を正確に取得
+    # 日本時間（JST）で今日と昨日の日付を取得
     jst_now = datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=9)
     today_str = jst_now.strftime("%Y-%m-%d")
     yesterday_str = (jst_now - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
     
     domain = PAPERS["nikkei"]
     
-    # when:1d ではなく after:昨日の日付 を使うことで時差や時間帯による取りこぼしを防ぐ
+    # 検索クエリの構築
     search_query = f"{KEYWORDS} site:{domain} after:{yesterday_str}"
     feed = get_google_news_rss(search_query)
     
@@ -35,7 +36,7 @@ def collect_daily_ai_stats():
     if unique_titles:
         formatted_titles = "\n".join([f"{i+1}. {t}" for i, t in enumerate(unique_titles)])
     else:
-        formatted_titles = "なし"
+        formatted_titles = "該当ニュースなし"
     
     results = {
         "date": today_str,
@@ -58,6 +59,7 @@ def save_to_csv_with_cleanup(data_dict, filename=CSV_FILENAME, retention_days=RE
             df_existing.drop(columns=unwanted_cols, inplace=True)
             
         df_updated = pd.concat([df_existing, df_new], ignore_index=True)
+        # 同日データは最新実行結果で上書き
         df_updated.drop_duplicates(subset=["date"], keep="last", inplace=True)
     except (FileNotFoundError, pd.errors.EmptyDataError):
         df_updated = df_new
@@ -74,7 +76,7 @@ def save_to_csv_with_cleanup(data_dict, filename=CSV_FILENAME, retention_days=RE
     df_filtered = df_filtered[[c for c in valid_cols if c in df_filtered.columns]]
     
     df_filtered.to_csv(filename, index=False, encoding="utf-8-sig")
-    print(f"\n集計データを '{filename}' に保存しました。（不要列の整理完了）")
+    print(f"\n集計データを '{filename}' に保存しました。")
 
 if __name__ == "__main__":
     stats = collect_daily_ai_stats()
