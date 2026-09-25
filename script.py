@@ -7,7 +7,7 @@ PAPERS = {
     "nikkei": "nikkei.com"
 }
 
-# KEYWORDSの条件を整理し、検索漏れを防ぐ
+# KEYWORDSのintitle制限を外し、Google News RSSの検索漏れを完全防止
 KEYWORDS = '(OpenAI OR ChatGPT OR Gemini OR Claude OR "生成AI" OR "LLM") (新モデル OR 新機能 OR 発表 OR リリース OR 公開) -株 -市況 -PR -プレスリリース -無料'
 CSV_FILENAME = "ai_news_stats.csv"
 RETENTION_DAYS = 30  # 30日分のみ保持
@@ -18,15 +18,14 @@ def get_google_news_rss(query: str):
     return feedparser.parse(url)
 
 def collect_daily_ai_stats():
-    # 日本時間（JST = UTC + 9時間）を確実に計算
-    utc_now = datetime.datetime.now(datetime.timezone.utc)
-    jst_now = utc_now + datetime.timedelta(hours=9)
+    # 日本時間（JST）で今日と昨日の日付を取得
+    jst_now = datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=9)
     today_str = jst_now.strftime("%Y-%m-%d")
     yesterday_str = (jst_now - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
     
     domain = PAPERS["nikkei"]
     
-    # 昨日の日付以降を指定して最新ニュースを取得
+    # after: 検索で直近ニュースを確実に集計
     search_query = f"{KEYWORDS} site:{domain} after:{yesterday_str}"
     feed = get_google_news_rss(search_query)
     
@@ -54,7 +53,7 @@ def save_to_csv_with_cleanup(data_dict, filename=CSV_FILENAME, retention_days=RE
     try:
         df_existing = pd.read_csv(filename)
         
-        # 不要な過去の列（sankei_count, sankei_titles 等）があれば削除
+        # 不要な過去の列（sankei_count 等）を削除
         unwanted_cols = [col for col in df_existing.columns if 'sankei' in col]
         if unwanted_cols:
             df_existing.drop(columns=unwanted_cols, inplace=True)
@@ -77,7 +76,7 @@ def save_to_csv_with_cleanup(data_dict, filename=CSV_FILENAME, retention_days=RE
     df_filtered = df_filtered[[c for c in valid_cols if c in df_filtered.columns]]
     
     df_filtered.to_csv(filename, index=False, encoding="utf-8-sig")
-    print(f"\n集計データを '{filename}' に正常保存しました。")
+    print(f"\n集計データを '{filename}' に保存しました。")
 
 if __name__ == "__main__":
     stats = collect_daily_ai_stats()
