@@ -3,11 +3,7 @@ import urllib.parse
 import feedparser
 import pandas as pd
 
-PAPERS = {
-    "nikkei": "nikkei.com"
-}
-
-# 条件を緩和：AI関連用語のみで幅広くヒットさせる（「新モデル」「発表」などの限定を解除）
+# AI関連用語を幅広く収集（サイト制限を解除）
 KEYWORDS = '(OpenAI OR ChatGPT OR Gemini OR Claude OR Copilot OR Meta OR Anthropic OR "生成AI" OR "LLM") -株 -市況 -PR -プレスリリース -無料'
 CSV_FILENAME = "ai_news_stats.csv"
 RETENTION_DAYS = 30  # 30日分保持
@@ -17,13 +13,13 @@ def get_google_news_rss(query: str):
     url = f"https://news.google.com/rss/search?q={encoded_query}&hl=ja&gl=JP&ceid=JP:ja"
     return feedparser.parse(url)
 
-def fetch_stats_for_date(target_date_str: str, domain: str):
-    """指定した日付（target_date_str: YYYY-MM-DD）の翌日基準でニュースを取得"""
-    # 日付から1日前の文字列を計算（after:用）
-    dt = datetime.datetime.strptime(target_date_str, "%Y-%m-%d")
-    after_date_str = (dt - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
+def collect_daily_ai_stats():
+    jst_now = datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=9)
+    today_str = jst_now.strftime("%Y-%m-%d")
+    yesterday_str = (jst_now - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
     
-    search_query = f"{KEYWORDS} site:{domain} after:{after_date_str}"
+    # 直近ニュースを幅広く取得
+    search_query = f"{KEYWORDS} after:{yesterday_str}"
     feed = get_google_news_rss(search_query)
     
     raw_titles = [entry.title for entry in feed.entries]
@@ -35,52 +31,55 @@ def fetch_stats_for_date(target_date_str: str, domain: str):
     else:
         formatted_titles = "該当ニュースなし"
     
-    return {
-        "date": target_date_str,
+    results = {
+        "date": today_str,
         "nikkei_count": article_count,
         "nikkei_titles": formatted_titles
     }
+    
+    print(f"・主要AIニュース: {article_count} 件取得 [{today_str}]")
+    return results
 
-def collect_and_rebuild_stats():
-    # 日本時間（JST）で今日と昨日の日付を取得
-    jst_now = datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=9)
-    today_str = jst_now.strftime("%Y-%m-%d")
-    yesterday_str = (jst_now - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
-    
-    domain = PAPERS["nikkei"]
-    
-    # 昨日（24日）と今日（25日）のデータを同じ最新条件で再取得して基準を統一
-    print(f"・[再集計] {yesterday_str} のデータを集計中...")
-    stats_yesterday = fetch_stats_for_date(yesterday_str, domain)
-    
-    print(f"・[再集計] {today_str} のデータを集計中...")
-    stats_today = fetch_stats_for_date(today_str, domain)
-    
-    new_rows = [stats_yesterday, stats_today]
-    df_new = pd.DataFrame(new_rows)
+def clean_and_save_csv(data_dict, filename=CSV_FILENAME, retention_days=RETENTION_DAYS):
+    df_new = pd.DataFrame([data_dict])
     
     try:
-        df_existing = pd.read_csv(CSV_FILENAME, dtype=str)
-        # 不要な過去列の除去
+        df_existing = pd.read_csv(filename, dtype=str)
+        
+        # 日付表記の統一（2026/9/24 → 2026-09-24）
+        df_existing['date'] = pd.to_datetime(df_existing['date'], errors='coerce').dt.strftime('%Y-%m-%d')
+        
+        # 不要な列の削除
         unwanted_cols = [col for col in df_existing.columns if 'sankei' in col]
         if unwanted_cols:
             df_existing.drop(columns=unwanted_cols, inplace=True)
             
-        # 再取得対象の日付（昨日・今日）の既存行を除去
-        target_dates = [today_str, yesterday_str]
-        df_existing = df_existing[~df_existing['date'].astype(str).isin(target_dates)].copy()
+        # 過去の同日データがある場合、件数が多い（情報量が多い）ほうを優先保持する
+        df_existing['count_num'] = pd.to_numeric(df_existing['nikkei_count'], errors='coerce').fillna(0)
+        df_existing.sort_values(by=['date', 'count_num'], ascending=[True, False], inplace=True)
+        df_existing.drop_duplicates(subset=['date'], keep='first', inplace=True)
+        df_existing.drop(columns=['count_num'], inplace=True)
         
+        # 本日分を追加（本日分が既にあれば最新データで更新）
+        df_existing = df_existing[df_existing['date'] != data_dict['date']]
         df_updated = pd.concat([df_existing, df_new], ignore_index=True)
     except (FileNotFoundError, pd.errors.EmptyDataError):
         df_updated = df_new
 
-    # 日付で昇順ソートして列順を整形
-    df_updated.sort_values(by="date", inplace=True)
+    # 30日以上前の古いデータを削除
+    df_updated['date_dt'] = pd.to_datetime(df_updated['date'], errors='coerce')
+    cutoff_date = datetime.datetime.now() - datetime.timedelta(days=retention_days)
+    df_filtered = df_updated[df_updated['date_dt'] >= cutoff_date].copy()
+    df_filtered.drop(columns=['date_dt'], inplace=True)
+
+    # 日付昇順で整列
+    df_filtered.sort_values(by="date", inplace=True)
     valid_cols = ['date', 'nikkei_count', 'nikkei_titles']
-    df_updated = df_updated[[c for c in valid_cols if c in df_updated.columns]]
+    df_filtered = df_filtered[[c for c in valid_cols if c in df_filtered.columns]]
     
-    df_updated.to_csv(CSV_FILENAME, index=False, encoding="utf-8-sig")
-    print(f"\n基準を統一した集計データを '{CSV_FILENAME}' に保存・更新完了しました。")
+    df_filtered.to_csv(filename, index=False, encoding="utf-8-sig")
+    print(f"\nCSVファイルを整理し、'{filename}' に正常保存しました。")
 
 if __name__ == "__main__":
-    collect_and_rebuild_stats()
+    stats = collect_daily_ai_stats()
+    clean_and_save_csv(stats)
