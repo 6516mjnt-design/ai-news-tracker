@@ -17,7 +17,8 @@ def get_google_news_rss(query: str):
     return feedparser.parse(url)
 
 def collect_daily_ai_stats():
-    today = datetime.date.today().strftime("%Y-%m-%d")
+    # 日本時間（JST）の日付を取得
+    jst_today = (datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=9)).strftime("%Y-%m-%d")
     domain = PAPERS["nikkei"]
     
     search_query = f"{KEYWORDS} site:{domain} when:1d"
@@ -33,12 +34,12 @@ def collect_daily_ai_stats():
         formatted_titles = "なし"
     
     results = {
-        "date": today,
+        "date": jst_today,
         "nikkei_count": article_count,
         "nikkei_titles": formatted_titles
     }
     
-    print(f"・日本経済新聞 ({domain}): {article_count} 件取得")
+    print(f"・日本経済新聞 ({domain}): {article_count} 件取得 [{jst_today}]")
     return results
 
 def save_to_csv_with_cleanup(data_dict, filename=CSV_FILENAME, retention_days=RETENTION_DAYS):
@@ -46,21 +47,30 @@ def save_to_csv_with_cleanup(data_dict, filename=CSV_FILENAME, retention_days=RE
     
     try:
         df_existing = pd.read_csv(filename)
-        # 過去の集計（産経新聞版等）との列の整合性を合わせる
+        
+        # 不要な過去の列（sankei_count, sankei_titles 等）を削除
+        unwanted_cols = [col for col in df_existing.columns if col.startswith('sankei')]
+        if unwanted_cols:
+            df_existing.drop(columns=unwanted_cols, inplace=True)
+            
         df_updated = pd.concat([df_existing, df_new], ignore_index=True)
         df_updated.drop_duplicates(subset=["date"], keep="last", inplace=True)
     except (FileNotFoundError, pd.errors.EmptyDataError):
         df_updated = df_new
         
-    # 古いデータの自動破棄処理（日付フォーマットのエラーを吸収）
+    # 古いデータの自動破棄処理（30日分のみ保持）
     df_updated['date_dt'] = pd.to_datetime(df_updated['date'], errors='coerce')
     cutoff_date = datetime.datetime.now() - datetime.timedelta(days=retention_days)
     
     df_filtered = df_updated[df_updated['date_dt'] >= cutoff_date].copy()
     df_filtered.drop(columns=['date_dt'], inplace=True)
     
+    # 列順を整形 ['date', 'nikkei_count', 'nikkei_titles']
+    valid_cols = ['date', 'nikkei_count', 'nikkei_titles']
+    df_filtered = df_filtered[[c for c in valid_cols if c in df_filtered.columns]]
+    
     df_filtered.to_csv(filename, index=False, encoding="utf-8-sig")
-    print(f"\n集計データを '{filename}' に保存しました。（直近 {retention_days} 日分のみ保持）")
+    print(f"\n集計データを '{filename}' に保存しました。（不要列の整理完了）")
 
 if __name__ == "__main__":
     stats = collect_daily_ai_stats()
