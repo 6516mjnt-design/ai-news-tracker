@@ -17,11 +17,15 @@ def get_google_news_rss(query: str):
     return feedparser.parse(url)
 
 def collect_daily_ai_stats():
-    # 日本時間（JST）の日付を取得
-    jst_today = (datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=9)).strftime("%Y-%m-%d")
+    # 日本時間（JST）で今日と昨日の日付を正確に取得
+    jst_now = datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=9)
+    today_str = jst_now.strftime("%Y-%m-%d")
+    yesterday_str = (jst_now - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
+    
     domain = PAPERS["nikkei"]
     
-    search_query = f"{KEYWORDS} site:{domain} when:1d"
+    # when:1d ではなく after:昨日の日付 を使うことで時差や時間帯による取りこぼしを防ぐ
+    search_query = f"{KEYWORDS} site:{domain} after:{yesterday_str}"
     feed = get_google_news_rss(search_query)
     
     raw_titles = [entry.title for entry in feed.entries]
@@ -34,12 +38,12 @@ def collect_daily_ai_stats():
         formatted_titles = "なし"
     
     results = {
-        "date": jst_today,
+        "date": today_str,
         "nikkei_count": article_count,
         "nikkei_titles": formatted_titles
     }
     
-    print(f"・日本経済新聞 ({domain}): {article_count} 件取得 [{jst_today}]")
+    print(f"・日本経済新聞 ({domain}): {article_count} 件取得 [{today_str}]")
     return results
 
 def save_to_csv_with_cleanup(data_dict, filename=CSV_FILENAME, retention_days=RETENTION_DAYS):
