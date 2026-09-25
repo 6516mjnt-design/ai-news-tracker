@@ -1,112 +1,199 @@
-﻿date,nikkei_count,nikkei_titles
-2026-09-24,11,"1. インフォネット[4444]：インフォネット子会社のアイアクト、カオナビ サポートサイトにおけるZendesk検索機能をAI検索・RAG型生成AI「Cogmo」に刷新 2026年9月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞
-2. News Release - 日本経済新聞
-3. Cuon、オンプレミス型 AI ソリューション「Private AI Appliance」を 2026 年 11 月より提供開始へ - 日本経済新聞
-4. 会 社 名 株式会社インフォネット 代表者名 代表取締役社⻑ 東間 大 アイアクト、カオナビ - 日本経済新聞
-5. へ出資 - 日本経済新聞
-6. 効率化は91.6%、利益は3.9% AIはなぜ儲からないのか｜村上 臣（電脳コラムニスト） - 日経COMEMO
-7. 先端半導体パッケージ向けハイブリッド接合前処理装置「HSM-1000」の販売を開始 - 日本経済新聞
-8. 外貨建シニア社債の発行に関するお知らせ - 日本経済新聞
-9. マーベラス[7844]：マーベラス初となるMRタイトル『牧場物語 Your ワンダフルライフ』 2027年春に発売決定のお知らせ 2026年9月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞
-10. ＧＭＯペパボ - 日本経済新聞
-11. 画像：先端AIを防御に活用、グーグルやAmazonも連携 - 日経BOOKプラス"
-2026-09-25,100,"1. ChatGPTやCopilotから直接翻訳 「DeepL」のMCP対応で多言語業務はどう変わる？ - キーマンズネット
+﻿date,ai_news_count,ai_news_titles
+2026-09-24,99.0,"1. ChatGPTやCopilotから直接翻訳 「DeepL」のMCP対応で多言語業務はどう変わる？ - キーマンズネット
+2. 中国がDeepSeek・Kimiのを調査か-AI蒸留によるClaudeへの情報漏洩が原因か|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ
+3. Anthropic の AI「Claude」を活用した選手サポートの取り組みを開始 - 東京サンロッカーズ
+4. 生成AIで制作したドラマが中国のゴールデン枠に――問題は「作品の増えすぎ」（塚越健司） - エキスパート - news.yahoo.co.jp
+5. グーグル、OpenAI・AnthropicとAI安全基準機関を独自設立へ 早ければ年末にも始動 - BigGo ファイナンス
+6. OpenAI を活用した Ringg の AI エージェント、顧客からの電話の最大 65% を解決 - OpenAI
+7. “声をイチから作りだせる”音声合成モデル「Gemini 3.8 TTS」、Googleが発表 - forest.watch.impress.co.jp
+8. Googleドキュメント、Gemini Notebookを参照可能に ——ノートブックの情報をもとに文章を生成 - gihyo.jp
+9. 最高水準の動画生成AI「MiniMax H3」高速化を40日で極めた。本命「H3 Max」のウェイト公開はもう不要なのか？（CloseBox） - テクノエッジ TechnoEdge
+10. AI競争は国連安全保障理事会に到達したのか - アラブニュース
+11. Unity、Meta VR Glassesにサポートを提供 開発者は既存のQuestタイトルをMeta VR Glassesに展開し、新規体験を制作可能に - panora.tokyo
+12. AI搭載の話題作 “Ray-Ban Meta” にアビエーターが登場！ バージョンアップした第三世代モデル、発売スタート。 - houyhnhnm.jp
+13. オンライン面接で生成AI使い“なりすまし”…北朝鮮IT技術者が企業へ侵入？世界で6500件以上被害「画面の向こうの相手」見破る対策をITジャーナリストが指南 - テレ朝NEWS
+14. Claudeが未知の酵素システムを発見 Anthropic、AIによるDNA解析と実験で初期成果を発表 - dxmagazine.jp
+15. 指でさして「異議あり」素手で動かすMeta新型VRグラス 100万ドル開発コンテストにUnity対応（武者良太） - エキスパート - news.yahoo.co.jp
+16. OpenAI、「GPT-6 Cyber」のプレビューと自動セキュリティ展開ツールを準備 - BigGo ファイナンス
+17. Airbnb、GPT-6 Astra と OpenAI のフロンティアモデルへのアクセスを拡大 - OpenAI
+18. OpenAIのAIエージェント、豪政府サイトに侵入 「政府システムへの侵入は初」 - news.yahoo.co.jp
+19. Google・OpenAI・Anthropic、AI安全標準機関「SAFA」設立を推進 - BigGo ファイナンス
+20. OpenAIのエージェント、豪政府の医療保険サイトに侵入 通知は84日後、首相「容認できない」（平和博） - エキスパート - news.yahoo.co.jp
+21. Book Review：非営利組織から巨大企業へ 生成AI産業の実像に迫る一冊 評者・高橋克秀 - 週刊エコノミスト Online
+22. 金曜7時台 “聞きたい”生成AIは選挙をどのように変えるのか/気象情報 - NHK
+23. OpenAIのAIが豪政府サイトに不正アクセス 制限を回避し非公開ファイルに到達 #エキスパートトピ（高橋浩祐） - エキスパート - news.yahoo.co.jp
+24. 米ホワイトハウス、OpenAIとAnthropicの新モデルを英国の評価機関に提供しないよう要請 - BigGo ファイナンス
+25. Claude超入門『世界一やさしいClaude』を3名様にプレゼント（Web担当者Forum） - ｄメニューニュース
+26. ChatGPTの音声モード、スマホやWebでアプリ連携の作業に対応 - ケータイ Watch
+27. OpenAIのAIエージェントがオーストラリア政府のウェブサイトに不正アクセス - ｄメニューニュース
+28. 氏名を除けば、患者情報を生成AIに入力してもよい？ - 日経メディカル
+29. BLACKPINKのLISA×MetaのAIグラスが登場──オーディオ特化の新作「Ray-Ban Meta Audio」や第3世代モデルも一挙発表 - GQ Japan
+30. BLACKPINKのリサがメタグラスとコラボ！ AIグラス「Meta Glasses by LISA」が発売 - Vogue Japan
+31. LINE NEWSに生成AI新機能「ちょい知り」 OpenAI API活用、ニュースの「なぜ？」を質問で深掘り - dxmagazine.jp
+32. グーグル、Pixel 11でGeminiによるビジネス向け電話代行を初期テスト開始 - BigGo ファイナンス
+33. 生成AIは遠慮しなくて良い「相談相手」 日米でこうも違う仕事と生成AIの関係性 - AdverTimes.（アドタイ） by 宣伝会議
+34. Smode Tech、「SMODE R15」公開。OpenTrackIO、Livegrade連携や生成AI機能を強化 - pronews.com
+35. Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始　画像1枚で独自アバターも - ｄメニューニュース
+36. Meta Connect 2026: 発表内容 - meta.com
+37. ホワイトハウス内部文書、巨額IPO控える米AnthropicのアモデイCEOを「AI終末論パイプライン」の主導者と位置付け - BigGo ファイナンス
+38. OpenAI、ウクライナに重要インフラ防衛のためAI「Daybreak」を無償提供 - BigGo ファイナンス
+39. OpenAI Academy の2年間 - OpenAI
+40. MetaがカメラなしのAIグラスを出す理由 一番使われているのはカメラではなかった（石井徹） - エキスパート - news.yahoo.co.jp
+41. 生成AI利用率、高校生・大学生が8割超！ 社会人は5割台にとどまる【サイバーエージェント調べ】（Web担当者Forum） - ｄメニューニュース
+42. 「Ray-Ban Meta (Gen 3)」発表。カメラやAIなど機能強化。音楽・通話特化モデル登場（NANA） - エキスパート - news.yahoo.co.jp
+43. 「Copilot案件」が急増、1年半で13倍に フリーランスに求められるニーズの変化 - キーマンズネット
+44. Grab と OpenAI、東南アジアに実践的な AI スキルを提供 - OpenAI
+45. 生成AIチップセットの世界市場（2026年～2032年）、市場規模（CPU、GPU、FPGA、ASIC）・分析レポートを発表 - Newscast.jp
+46. 日本はまだ買えない——LISAが手がけた「Meta Glasses by LISA」、テンプルに星を宿した理由 - shiritomo
+47. OpenAIのAIエージェントが豪政府サイトに不正アクセス 同社の通知は3カ月後、首相「失望した」（ITmedia NEWS） - news.yahoo.co.jp
+48. Google、Gemini 3.8 Liveに「Live Avatar」 会話に合わせてリアルタイムで動くアバター - Infoseek
+49. 【レポート】2027年春発売！グラス型超軽量VR「Meta VR Glasses」先行体験レポート（わっき） - エキスパート - news.yahoo.co.jp
+50. グーグル、自然な音声生成AIモデル「Gemini 3.8 Flash TTS/Flash-Lite TTS」発表 - ケータイ Watch
+51. Meta社は複数の新しいAIデバイスを発表した。 - Vietnam.vn
+52. 工場で起点とすべきはサイバーより“現場リスク” ―― 生成AI時代にフォーティネットが推進する「OTセキュリティの標準化」 (1/2) - ASCII.jp
+53. 本体約100gのVR端末「Meta VR Glasses」発表 27年春発売 - ケータイ Watch
+54. OpenAIのAIサービスラインナップにおける技術特性と利用規約体系が内包するガバナンス要件の構造的分析 - note
+55. AIエージェントが初めて政府サイトを自主攻略 豪政府がOpenAIによるMedicareポータル侵入を確認 - BigGo ファイナンス
+56. 20歳代の5割超が住まい探しで生成AIを利用／全宅連 - 最新不動産ニュースサイト「R.E.port」
+57. ギャラリー：BLACKPINKのLISA×MetaのAIグラスが登場──オーディオ特化の新作「Ray-Ban Meta Audio」も - GQ Japan
+58. ローソンが生成AIを活用した商品開発に着手。AI発案の商品コンセプトからスイーツ、ベーカリー、サラダの3商品を開発、店頭販促物もAI発案を訴求 (ネットショップ担当者フォーラム) - news.yahoo.co.jp
+59. Ray-Ban Meta Audioを初め、過去最大のAIグラスのラインナップが追加 - meta.com
+60. OpenAIがGPT-6 SolとLunaを発表。｢ミニAstra｣をお手頃価格で - UQライフ
+61. MetaのAIデバイス「Muse Charm」、開発競争に光 - TradingView
+62. Metaが3D映画やスポーツ配信を大幅拡充、Questにも一部提供。SWやMCU作品を新たな没入フォーマットで提供、VRグラスはIMAX Enhanced認証取得 (テクノエッジ) - news.yahoo.co.jp
+63. ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開 「Gemini Notebook」でも利用可能に (ITmedia NEWS) - news.yahoo.co.jp
+64. 「Meta VR Glasses」を先行体験 視野角の広さと本体の軽さが激ヤバ、新時代の到来を実感したし、早く欲しい!! - panora.tokyo
+65. AIグラス次世代モデル「Ray-Ban Meta（Gen 3）」登場 Aviatorの限定モデルも一部店舗で販売 - AMP[アンプ]
+66. OpenAIのエージェントが豪州政府サイトに不正侵入。首相が抗議「法的措置とる」と述べる - au Webポータル
+67. Meta VR Glassesを発表、VRの新時代へ - meta.com
+68. HENNGE One、企業向け生成 AI チャットサービス「Acompany セキュアチャット」と SSO 連携 - ScanNetSecurity
+69. 「Gemini 4」は年末までに発表――開発責任者が言及か 「Googleは確かに最先端」と主張 (ITmedia NEWS) - news.yahoo.co.jp
+70. OpenAIエージェント、オーストラリア政府の医療データベースに侵入──豪首相「容認できない」 - news.yahoo.co.jp
+71. Google、Gemini Enterprise 向けに「Live Avatar」機能を提供開始。アバターによるリアルタイム対話 - HelenTech
+72. AnthropicとOpenAIが新たなモデルを発表 - Vietnam.vn
+73. Ray-Ban Metaスマートグラスの第3世代が発表。7万8980円からで日本でも買えるよ (ギズモード・ジャパン) - news.yahoo.co.jp
+74. 【実践AI経営 #1】なぜ生成AIは定着しないのか？｜知識の複利ループとは - YouTube
+75. グーグル、自然な音声生成AIモデル「Gemini 3.8 Flash TTS/Flash-Lite TTS」発表 (ケータイ Watch) - news.yahoo.co.jp
+76. Meta、第3世代「Ray-Ban Meta」を販売開始　“Aviator”デザインの限定モデルも - ITmedia PC USER - ITmedia
+77. 【Meta VR Glasses発表】VRは「被る」から「かける」時代へ。でもVRユーザーは欲しくなるのか - YouTube
+78. 医療現場の働き方改革から持続可能な病院経営へ、社会医療法人愛仁会における生成AI利活用のリファレンスモデル構築にむけた取り組みを推進 - Microsoft
+79. Meta、第3世代「Ray-Ban Meta」を販売開始 “Aviator”デザインの限定モデルも (ITmedia PC USER) - news.yahoo.co.jp
+80. 子供の「伝えたい」を引き出す、Geminiの4コマ漫画活用術【【連載】EducAItion Times】 - chiba-tv.com
+81. Meta Connect 2026開幕 無鏡頭智慧眼鏡與MRヘッドセットが焦点に - BigGo ファイナンス
+82. Google、Gemini 4 の早期投入に言及。ポストトレーニング段階への移行を明らかに - HelenTech
+83. 「Googlebook」の実機を触ってみた Geminiで効率化、Androidスマホとの垣根もほぼゼロに - UQライフ
+84. Amazonが ChatGPT広告 枠販売。プレミアム在庫の囲い込みは次の段階へ - DIGIDAY［日本版］
+85. Meta「たまごっち」風AIデバイス「Muse Charm」発表。12月出荷予定、詳細は後日発表 - UQライフ
+86. ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開 「Gemini Notebook」でも利用可能に（画像）（1/2枚目） - ITmedia
+87. 「安全性を保証できないモデルは訓練すべきでない」OpenAIトップが示した国際基準の必要性 - dxmagazine.jp
+88. リコー、「RICOH オンプレLLMスターターキット」のエッジモデルに自己改善型AIエージェントを搭載 - iotnews.jp
+89. Google「Gemini 3.8 Flash TTS」発表　声を文章で設計、セリフの感情や間も指定可能に - リアルサウンド
+90. 世界初のAI侵入を受けた政府システム。 - Vietnam.vn
+91. Meta「たまごっち」風AIデバイス「Muse Charm」発表。12月出荷予定、詳細は後日発表 - chiba-tv.com
+92. Metaの次世代AIグラス『Ray-Ban Meta（Gen 3）』登場、3K Ultra HDカメラや最大9時間駆動を搭載 - リアルサウンド
+93. Google フォト、Gemini Spark 連携やワードローブなど 5 つの新機能の展開状況を公表 - HelenTech
+94. Meta、初のオーディオグラスRay-Ban Meta Audioを発表 LISAとデザインしたMeta Glassesも登場 - MEDIAMIXI
+95. “声をイチから作りだせる”音声合成モデル「Gemini 3.8 TTS」、Googleが発表 (窓の杜) - news.yahoo.co.jp
+96. OpenAIのAIエージェント、豪政府サイトに侵入 「政府システムへの侵入は初」 - UQライフ
+97. OpenAIのAIエージェントが豪政府サイトに不正アクセス 同社の通知は3カ月後、首相「失望した」 (ITmedia NEWS) - news.yahoo.co.jp
+98. SEOの歴史対談！ 生成AI時代に入り、ユーザーの検索体験が激変…SEO受難時代【第4回 住氏＆江沢氏】 (Web担当者Forum) - news.yahoo.co.jp
+99. グーグルが音声生成AI「Gemini 3.8 TTS」を発表、2,000種類の声を自然言語で設計 (ビジネス＋IT) - news.yahoo.co.jp"
+2026-09-25,99.0,"1. ChatGPTやCopilotから直接翻訳 「DeepL」のMCP対応で多言語業務はどう変わる？ - キーマンズネット
 2. Anthropic の AI「Claude」を活用した選手サポートの取り組みを開始 - 東京サンロッカーズ
 3. 中国がDeepSeek・Kimiのを調査か-AI蒸留によるClaudeへの情報漏洩が原因か|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ
-4. 生成AIで制作したドラマが中国のゴールデン枠に――問題は「作品の増えすぎ」（塚越健司） - エキスパート - Yahoo!ニュース
+4. 生成AIで制作したドラマが中国のゴールデン枠に――問題は「作品の増えすぎ」（塚越健司） - エキスパート - news.yahoo.co.jp
 5. グーグル、OpenAI・AnthropicとAI安全基準機関を独自設立へ 早ければ年末にも始動 - BigGo ファイナンス
-6. 最高水準の動画生成AI「MiniMax H3」高速化を40日で極めた。本命「H3 Max」のウェイト公開はもう不要なのか？（CloseBox） - テクノエッジ TechnoEdge
-7. Googleドキュメント、Gemini Notebookを参照可能に ——ノートブックの情報をもとに文章を生成 - gihyo.jp
-8. ChatGPTの音声モード、スマホやWebでアプリ連携の作業に対応 - ケータイ Watch
-9. AI競争は国連安全保障理事会に到達したのか - アラブニュース
-10. Book Review：非営利組織から巨大企業へ 生成AI産業の実像に迫る一冊 評者・高橋克秀 - 週刊エコノミスト Online
+6. Googleドキュメント、Gemini Notebookを参照可能に ——ノートブックの情報をもとに文章を生成 - gihyo.jp
+7. ChatGPTの音声モード、スマホやWebでアプリ連携の作業に対応 - ケータイ Watch
+8. AI競争は国連安全保障理事会に到達したのか - アラブニュース
+9. Book Review：非営利組織から巨大企業へ 生成AI産業の実像に迫る一冊 評者・高橋克秀 - 週刊エコノミスト Online
+10. 最高水準の動画生成AI「MiniMax H3」高速化を40日で極めた。本命「H3 Max」のウェイト公開はもう不要なのか？（CloseBox） - テクノエッジ TechnoEdge
 11. オンライン面接で生成AI使い“なりすまし”…北朝鮮IT技術者が企業へ侵入？世界で6500件以上被害「画面の向こうの相手」見破る対策をITジャーナリストが指南 - テレ朝NEWS
 12. Unity、Meta VR Glassesにサポートを提供 開発者は既存のQuestタイトルをMeta VR Glassesに展開し、新規体験を制作可能に - panora.tokyo
-13. Claudeが未知の酵素システムを発見 Anthropic、AIによるDNA解析と実験で初期成果を発表 - DXマガジン
+13. Claudeが未知の酵素システムを発見 Anthropic、AIによるDNA解析と実験で初期成果を発表 - dxmagazine.jp
 14. BLACKPINKのLISA×MetaのAIグラスが登場──オーディオ特化の新作「Ray-Ban Meta Audio」や第3世代モデルも一挙発表 - GQ Japan
-15. BLACKPINKのリサがメタグラスとコラボ！ AIグラス「Meta Glasses by LISA」が発売 - Vogue Japan
-16. 指でさして「異議あり」素手で動かすMeta新型VRグラス 100万ドル開発コンテストにUnity対応（武者良太） - エキスパート - Yahoo!ニュース
-17. OpenAI、「GPT-6 Cyber」のプレビューと自動セキュリティ展開ツールを準備 - BigGo ファイナンス
-18. OpenAIのAIが豪政府サイトに不正アクセス 制限を回避し非公開ファイルに到達 #エキスパートトピ（高橋浩祐） - エキスパート - Yahoo!ニュース
-19. Google・OpenAI・Anthropic、AI安全標準機関「SAFA」設立を推進 - BigGo ファイナンス
-20. 米ホワイトハウス、OpenAIとAnthropicの新モデルを英国の評価機関に提供しないよう要請 - BigGo ファイナンス
-21. AI搭載の話題作 “Ray-Ban Meta” にアビエーターが登場！ バージョンアップした第三世代モデル、発売スタート。 - houyhnhnm.jp
-22. 生成AIは遠慮しなくて良い「相談相手」 日米でこうも違う仕事と生成AIの関係性 - advertimes.com
-23. 米オープンAIのエージェント、豪政府ウェブサイトに「侵入」　首相が明かす - bbc.com
+15. 指でさして「異議あり」素手で動かすMeta新型VRグラス 100万ドル開発コンテストにUnity対応（武者良太） - エキスパート - news.yahoo.co.jp
+16. OpenAI、「GPT-6 Cyber」のプレビューと自動セキュリティ展開ツールを準備 - BigGo ファイナンス
+17. OpenAIのAIエージェント、豪政府サイトに侵入 「政府システムへの侵入は初」 - news.yahoo.co.jp
+18. Google・OpenAI・Anthropic、AI安全標準機関「SAFA」設立を推進 - BigGo ファイナンス
+19. OpenAIのAIが豪政府サイトに不正アクセス 制限を回避し非公開ファイルに到達 #エキスパートトピ（高橋浩祐） - エキスパート - news.yahoo.co.jp
+20. BLACKPINKのリサがメタグラスとコラボ！ AIグラス「Meta Glasses by LISA」が発売 - Vogue Japan
+21. 米ホワイトハウス、OpenAIとAnthropicの新モデルを英国の評価機関に提供しないよう要請 - BigGo ファイナンス
+22. AI搭載の話題作 “Ray-Ban Meta” にアビエーターが登場！ バージョンアップした第三世代モデル、発売スタート。 - houyhnhnm.jp
+23. 生成AIは遠慮しなくて良い「相談相手」 日米でこうも違う仕事と生成AIの関係性 - AdverTimes.（アドタイ） by 宣伝会議
 24. 氏名を除けば、患者情報を生成AIに入力してもよい？ - 日経メディカル
-25. 金曜7時台 “聞きたい”生成AIは選挙をどのように変えるのか/気象情報 - NHK
-26. 退院先の選択、生成AIでミスマッチ解消　　群馬・内田病院、時間短縮も - MEDIFAX web
+25. 米オープンAIのエージェント、豪政府ウェブサイトに「侵入」　首相が明かす - BBC
+26. 金曜7時台 “聞きたい”生成AIは選挙をどのように変えるのか/気象情報 - NHK
 27. Claude超入門『世界一やさしいClaude』を3名様にプレゼント（Web担当者Forum） - ｄメニューニュース
 28. Smode Tech、「SMODE R15」公開。OpenTrackIO、Livegrade連携や生成AI機能を強化 - pronews.com
 29. OpenAIのAIエージェントがオーストラリア政府のウェブサイトに不正アクセス - ｄメニューニュース
 30. グーグル、Pixel 11でGeminiによるビジネス向け電話代行を初期テスト開始 - BigGo ファイナンス
-31. LINE NEWSに生成AI新機能「ちょい知り」 OpenAI API活用、ニュースの「なぜ？」を質問で深掘り - DXマガジン
+31. LINE NEWSに生成AI新機能「ちょい知り」 OpenAI API活用、ニュースの「なぜ？」を質問で深掘り - dxmagazine.jp
 32. 生成AIチップセットの世界市場（2026年～2032年）、市場規模（CPU、GPU、FPGA、ASIC）・分析レポートを発表 - Newscast.jp
-33. ホワイトハウス内部文書、巨額IPO控える米AnthropicのアモデイCEOを「AI終末論パイプライン」の主導者と位置付け - BigGo ファイナンス
-34. OpenAI、ウクライナに重要インフラ防衛のためAI「Daybreak」を無償提供 - BigGo ファイナンス
-35. Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始　画像1枚で独自アバターも - ｄメニューニュース
+33. Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始　画像1枚で独自アバターも - ｄメニューニュース
+34. ホワイトハウス内部文書、巨額IPO控える米AnthropicのアモデイCEOを「AI終末論パイプライン」の主導者と位置付け - BigGo ファイナンス
+35. OpenAI、ウクライナに重要インフラ防衛のためAI「Daybreak」を無償提供 - BigGo ファイナンス
 36. 生成AI利用率、高校生・大学生が8割超！ 社会人は5割台にとどまる【サイバーエージェント調べ】（Web担当者Forum） - ｄメニューニュース
-37. Anthropic、IPOで創業者がパランティア式議決権確保へ＝The Information - tradingview.com
-38. GPT-6 Astraのトークン消費をローカルAIで解決できるか？ - 窓の杜
-39. 日本はまだ買えない——LISAが手がけた「Meta Glasses by LISA」、テンプルに星を宿した理由 - shiritomo
-40. OpenAIのAIサービスラインナップにおける技術特性と利用規約体系が内包するガバナンス要件の構造的分析 - note.com
-41. 本体約100gのVR端末「Meta VR Glasses」発表 27年春発売 - ケータイ Watch
-42. ギャラリー：BLACKPINKのLISA×MetaのAIグラスが登場──オーディオ特化の新作「Ray-Ban Meta Audio」も - GQ Japan
-43. ローソンが生成AIを活用した商品開発に着手。AI発案の商品コンセプトからスイーツ、ベーカリー、サラダの3商品を開発、店頭販促物もAI発案を訴求 (ネットショップ担当者フォーラム) - Yahoo!ニュース
-44. Meta社は複数の新しいAIデバイスを発表した。 - Vietnam.vn
-45. Google、Gemini 3.8 Liveに「Live Avatar」 会話に合わせてリアルタイムで動くアバター - Infoseek
+37. 日本はまだ買えない——LISAが手がけた「Meta Glasses by LISA」、テンプルに星を宿した理由 - shiritomo
+38. OpenAIのAIサービスラインナップにおける技術特性と利用規約体系が内包するガバナンス要件の構造的分析 - note
+39. 本体約100gのVR端末「Meta VR Glasses」発表 27年春発売 - ケータイ Watch
+40. ギャラリー：BLACKPINKのLISA×MetaのAIグラスが登場──オーディオ特化の新作「Ray-Ban Meta Audio」も - GQ Japan
+41. ローソンが生成AIを活用した商品開発に着手。AI発案の商品コンセプトからスイーツ、ベーカリー、サラダの3商品を開発、店頭販促物もAI発案を訴求 (ネットショップ担当者フォーラム) - news.yahoo.co.jp
+42. Google、Gemini 3.8 Liveに「Live Avatar」 会話に合わせてリアルタイムで動くアバター - Infoseek
+43. Meta社は複数の新しいAIデバイスを発表した。 - Vietnam.vn
+44. 20歳代の5割超が住まい探しで生成AIを利用／全宅連 - 最新不動産ニュースサイト「R.E.port」
+45. ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開 「Gemini Notebook」でも利用可能に (ITmedia NEWS) - news.yahoo.co.jp
 46. AIグラス次世代モデル「Ray-Ban Meta（Gen 3）」登場 Aviatorの限定モデルも一部店舗で販売 - AMP[アンプ]
-47. 20歳代の5割超が住まい探しで生成AIを利用／全宅連 - 最新不動産ニュースサイト「R.E.port」
-48. ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開 「Gemini Notebook」でも利用可能に (ITmedia NEWS) - Yahoo!ニュース
-49. Metaが3D映画やスポーツ配信を大幅拡充、Questにも一部提供。SWやMCU作品を新たな没入フォーマットで提供、VRグラスはIMAX Enhanced認証取得 (テクノエッジ) - Yahoo!ニュース
-50. AIエージェントが初めて政府サイトを自主攻略 豪政府がOpenAIによるMedicareポータル侵入を確認 - BigGo ファイナンス
-51. MetaのAIデバイス「Muse Charm」、開発競争に光 - es.tradingview.com
-52. 「Gemini 4」は年末までに発表――開発責任者が言及か 「Googleは確かに最先端」と主張 (ITmedia NEWS) - Yahoo!ニュース
-53. OpenAIエージェント、オーストラリア政府の医療データベースに侵入──豪首相「容認できない」 - Yahoo!ニュース
-54. AnthropicとOpenAIが新たなモデルを発表 - Vietnam.vn
-55. 工場で起点とすべきはサイバーより“現場リスク” ―― 生成AI時代にフォーティネットが推進する「OTセキュリティの標準化」 (1/2) - ASCII.jp
-56. Ray-Ban Metaスマートグラスの第3世代が発表。7万8980円からで日本でも買えるよ (ギズモード・ジャパン) - Yahoo!ニュース
-57. OpenAIがGPT-6 SolとLunaを発表。｢ミニAstra｣をお手頃価格で - UQライフ
-58. 【実践AI経営 #1】なぜ生成AIは定着しないのか？｜知識の複利ループとは - YouTube
-59. OpenAIのエージェントが豪州政府サイトに不正侵入。首相が抗議「法的措置とる」と述べる - au Webポータル
-60. MetaのAIデバイス「Muse Charm」、開発競争に光 - tradingview.com
-61. 【Meta VR Glasses発表】VRは「被る」から「かける」時代へ。でもVRユーザーは欲しくなるのか - YouTube
-62. ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開 「Gemini Notebook」でも利用可能に（画像）（1/2枚目） - ITmedia
-63. Google、Gemini Enterprise 向けに「Live Avatar」機能を提供開始。アバターによるリアルタイム対話 - HelenTech
-64. Google、Gemini 4 の早期投入に言及。ポストトレーニング段階への移行を明らかに - HelenTech
-65. Meta、初のオーディオグラスRay-Ban Meta Audioを発表 LISAとデザインしたMeta Glassesも登場 - MEDIAMIXI
-66. Metaの次世代AIグラス『Ray-Ban Meta（Gen 3）』登場、3K Ultra HDカメラや最大9時間駆動を搭載 - リアルサウンド
-67. 「安全性を保証できないモデルは訓練すべきでない」OpenAIトップが示した国際基準の必要性 - DXマガジン
-68. 「Googlebook」の実機を触ってみた Geminiで効率化、Androidスマホとの垣根もほぼゼロに - UQライフ
-69. Meta「たまごっち」風AIデバイス「Muse Charm」発表。12月出荷予定、詳細は後日発表 - UQライフ
-70. Metaが3D映画やスポーツ配信を大幅拡充、Questにも一部提供。SWやMCU作品を新たな没入フォーマットで提供、VRグラスはIMAX Enhanced認証取得 - au Webポータル
-71. 「逆転裁判5 VR」が2027年にMeta Quest向けに発売決定！Meta VR Glassesやハンドトラッキングにも対応し、ピンチやタップによるシンプルな操作を実現 - Gamer
-72. 侵入から公表まで3カ月。豪首相がOpenAIの通知方法を「受け入れられない」と言った理由 - shiritomo
-73. 「Gemini NoteBook」に音声チャット機能展開、Ultraユーザーから - ｄメニューニュース
-74. Meta Connect 2026の最後に出てきた、謎のAIデバイス。たまごっちみたいな「Muse Charm」が気になる - au Webポータル
-75. ChatGPTの音声モードが進化、モバイルでも“作業”を指示 - ｄメニューニュース
-76. Meta「たまごっち」風AIデバイス「Muse Charm」発表。12月出荷予定、詳細は後日発表 - 千葉テレビ放送
-77. Meta、たまごっちのようなAIエージェント端末「Muse Charm」 - au Webポータル
-78. OpenAIのAIエージェント、豪政府サイトに侵入 「政府システムへの侵入は初」 - UQライフ
-79. 「ディプレイ付きMeta Ray-Ban」もできることマシマシ！販売地域拡大も、日本はまだ...？ - au Webポータル
-80. ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開　「Gemini Notebook」でも利用可能に - ｄメニューニュース
-81. 世界初のAI侵入を受けた政府システム。 - Vietnam.vn
-82. Google フォト、Gemini Spark 連携やワードローブなど 5 つの新機能の展開状況を公表 - HelenTech
-83. 「テトリス エフェクト」シリーズ完全新作「Tetris Effect: Mixed Realities」が2027年にMeta VR glasses、Meta Quest 3/3Sでリリース！ - Gamer
-84. OpenAIのエージェントが豪州政府サイトに不正侵入。首相が抗議「法的措置とる」と述べる - UQライフ
-85. 大手AI企業の従業員が、プレッシャーを理由に辞職している。 - Vietnam.vn
-86. Meta VR Glasses発表、早速触ってきた！ デカいヘッドセットではなく軽いスマートグラス - au Webポータル
-87. 「Gemini 4」は年末までに発表――開発責任者が言及か　「Googleは確かに最先端」と主張 - Infoseek
-88. Ｓｋｙ株式会社が「Gemini™ Enterprise app」導入5か月間で2万個超の社内AIエージェントを創出 - 秋田魁新報電子版
-89. 追加のAPI契約は不要！既存のAIサブスクでそのまま動くデスクトップAIエージェントが登場 - DXマガジン
-90. 生成AIによる電力使用量の増加「知らない・気にかけていない」78.1％ 電力需要増に67.0％が不安 イーレックス調査 - au Webポータル
-91. オンライン面接で生成AI使い“なりすまし”…北朝鮮IT技術者が企業へ侵入？世界で6500件以上被害「画面の向こうの相手」見破る対策をITジャーナリストが指南 - UQライフ
-92. 「日経ソフトウエア」休刊 「29年間の感謝をこめて『ありがとう』」 - ニコニコニュース
-93. OpenAIのAIエージェント、大学・政府関連サイトに侵入試行か WSJ報道 - digitaltoday.co.kr
-94. Anphabeは、生産性向上とAI機能の分野でOpenAIのパートナーとなる。 - Vietnam.vn
+47. Metaが3D映画やスポーツ配信を大幅拡充、Questにも一部提供。SWやMCU作品を新たな没入フォーマットで提供、VRグラスはIMAX Enhanced認証取得 (テクノエッジ) - news.yahoo.co.jp
+48. AIエージェントが初めて政府サイトを自主攻略 豪政府がOpenAIによるMedicareポータル侵入を確認 - BigGo ファイナンス
+49. MetaのAIデバイス「Muse Charm」、開発競争に光 - TradingView
+50. 「Gemini 4」は年末までに発表――開発責任者が言及か 「Googleは確かに最先端」と主張 (ITmedia NEWS) - news.yahoo.co.jp
+51. 工場で起点とすべきはサイバーより“現場リスク” ―― 生成AI時代にフォーティネットが推進する「OTセキュリティの標準化」 (1/2) - ASCII.jp
+52. OpenAIエージェント、オーストラリア政府の医療データベースに侵入──豪首相「容認できない」 - news.yahoo.co.jp
+53. AnthropicとOpenAIが新たなモデルを発表 - Vietnam.vn
+54. Ray-Ban Metaスマートグラスの第3世代が発表。7万8980円からで日本でも買えるよ (ギズモード・ジャパン) - news.yahoo.co.jp
+55. OpenAIがGPT-6 SolとLunaを発表。｢ミニAstra｣をお手頃価格で - UQライフ
+56. 【実践AI経営 #1】なぜ生成AIは定着しないのか？｜知識の複利ループとは - YouTube
+57. OpenAIのエージェントが豪州政府サイトに不正侵入。首相が抗議「法的措置とる」と述べる - au Webポータル
+58. 【Meta VR Glasses発表】VRは「被る」から「かける」時代へ。でもVRユーザーは欲しくなるのか - YouTube
+59. ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開 「Gemini Notebook」でも利用可能に（画像）（1/2枚目） - ITmedia
+60. Google、Gemini Enterprise 向けに「Live Avatar」機能を提供開始。アバターによるリアルタイム対話 - HelenTech
+61. Google、Gemini 4 の早期投入に言及。ポストトレーニング段階への移行を明らかに - HelenTech
+62. Metaの次世代AIグラス『Ray-Ban Meta（Gen 3）』登場、3K Ultra HDカメラや最大9時間駆動を搭載 - リアルサウンド
+63. Meta、初のオーディオグラスRay-Ban Meta Audioを発表 LISAとデザインしたMeta Glassesも登場 - MEDIAMIXI
+64. 「安全性を保証できないモデルは訓練すべきでない」OpenAIトップが示した国際基準の必要性 - dxmagazine.jp
+65. 「Googlebook」の実機を触ってみた Geminiで効率化、Androidスマホとの垣根もほぼゼロに - UQライフ
+66. Meta「たまごっち」風AIデバイス「Muse Charm」発表。12月出荷予定、詳細は後日発表 - UQライフ
+67. Metaが3D映画やスポーツ配信を大幅拡充、Questにも一部提供。SWやMCU作品を新たな没入フォーマットで提供、VRグラスはIMAX Enhanced認証取得 - au Webポータル
+68. 「逆転裁判5 VR」が2027年にMeta Quest向けに発売決定！Meta VR Glassesやハンドトラッキングにも対応し、ピンチやタップによるシンプルな操作を実現 - Gamer
+69. Meta Connect 2026の最後に出てきた、謎のAIデバイス。たまごっちみたいな「Muse Charm」が気になる - au Webポータル
+70. 侵入から公表まで3カ月。豪首相がOpenAIの通知方法を「受け入れられない」と言った理由 - shiritomo
+71. 「Gemini NoteBook」に音声チャット機能展開、Ultraユーザーから - ｄメニューニュース
+72. ChatGPTの音声モードが進化、モバイルでも“作業”を指示 - ｄメニューニュース
+73. Meta「たまごっち」風AIデバイス「Muse Charm」発表。12月出荷予定、詳細は後日発表 - chiba-tv.com
+74. Meta、たまごっちのようなAIエージェント端末「Muse Charm」 - au Webポータル
+75. OpenAIのAIエージェント、豪政府サイトに侵入 「政府システムへの侵入は初」 - UQライフ
+76. 「ディプレイ付きMeta Ray-Ban」もできることマシマシ！販売地域拡大も、日本はまだ...？ - au Webポータル
+77. 世界初のAI侵入を受けた政府システム。 - Vietnam.vn
+78. Google フォト、Gemini Spark 連携やワードローブなど 5 つの新機能の展開状況を公表 - HelenTech
+79. ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開　「Gemini Notebook」でも利用可能に - ｄメニューニュース
+80. Office操作からWeb上のデータ収集まで自動化！手元のファイルから直感的に動く最新AIツール - dxmagazine.jp
+81. 「テトリス エフェクト」シリーズ完全新作「Tetris Effect: Mixed Realities」が2027年にMeta VR glasses、Meta Quest 3/3Sでリリース！ - Gamer
+82. OpenAIのエージェントが豪州政府サイトに不正侵入。首相が抗議「法的措置とる」と述べる - UQライフ
+83. 大手AI企業の従業員が、プレッシャーを理由に辞職している。 - Vietnam.vn
+84. Meta VR Glasses発表、早速触ってきた！ デカいヘッドセットではなく軽いスマートグラス - au Webポータル
+85. 安心してください。カメラなしですよ！「Ray-Ban Meta Audio」発表 - au Webポータル
+86. 「Gemini 4」は年末までに発表――開発責任者が言及か　「Googleは確かに最先端」と主張 - Infoseek
+87. Ｓｋｙ株式会社が「Gemini™ Enterprise app」導入5か月間で2万個超の社内AIエージェントを創出 - 秋田魁新報電子版
+88. 追加のAPI契約は不要！既存のAIサブスクでそのまま動くデスクトップAIエージェントが登場 - dxmagazine.jp
+89. 生成AIによる電力使用量の増加「知らない・気にかけていない」78.1％ 電力需要増に67.0％が不安 イーレックス調査 - au Webポータル
+90. オンライン面接で生成AI使い“なりすまし”…北朝鮮IT技術者が企業へ侵入？世界で6500件以上被害「画面の向こうの相手」見破る対策をITジャーナリストが指南 - UQライフ
+91. 「日経ソフトウエア」休刊 「29年間の感謝をこめて『ありがとう』」 - ニコニコニュース
+92. OpenAIのAIエージェント、大学・政府関連サイトに侵入試行か WSJ報道 - 디지털투데이
+93. Anphabeは、生産性向上とAI機能の分野でOpenAIのパートナーとなる。 - Vietnam.vn
+94. 【AIと対決】桜散る中/犬神サーカス団 vs 生成AI - YouTube
 95. 「Gemini 4」は年末までに発表――開発責任者が言及か 「Googleは確かに最先端」と主張（画像） - ITmedia
 96. Ray-Ban Metaスマートグラスの第3世代が発表。7万8980円からで日本でも買えるよ - au Webポータル
-97. 【AIと対決】桜散る中/犬神サーカス団 vs 生成AI - YouTube
-98. カメラをなくして、もっと軽く。新しく登場した「Ray-Ban Meta Audio」は音で使うAIグラス - UQライフ
-99. 孫宇晨（ジャスティン・サン）が100万ドル数学賞を設立も冷遇：OpenAIは受領拒否、学界からはノーベル賞への「便乗」と批判 - BigGo ファイナンス
-100. カメラなしのレイバンMeta Audioグラス・LISAコラボ・新型Gen 3などAIグラス多数発表、4万2680円から - au Webポータル"
+97. カメラをなくして、もっと軽く。新しく登場した「Ray-Ban Meta Audio」は音で使うAIグラス - UQライフ
+98. 孫宇晨（ジャスティン・サン）が100万ドル数学賞を設立も冷遇：OpenAIは受領拒否、学界からはノーベル賞への「便乗」と批判 - BigGo ファイナンス
+99. カメラなしのレイバンMeta Audioグラス・LISAコラボ・新型Gen 3などAIグラス多数発表、4万2680円から - au Webポータル"
