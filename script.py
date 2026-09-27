@@ -4,10 +4,10 @@ import os
 import feedparser
 import pandas as pd
 
-# 対象キーワード群（「人工知能」などの紙面表現を追加）
-BASE_KEYWORDS = '(OpenAI OR ChatGPT OR Gemini OR Claude OR Copilot OR Meta OR Anthropic OR "生成AI" OR "LLM" OR "人工知能" OR "AI")'
+# 対象キーワード群（全角「ＡＩ」「生成ＡＩ」も網羅）
+BASE_KEYWORDS = '(OpenAI OR ChatGPT OR Gemini OR Claude OR Copilot OR Meta OR Anthropic OR "生成AI" OR "生成ＡＩ" OR "LLM" OR "人工知能" OR "AI" OR "ＡＩ")'
 
-# 日本の主要メディア・大手新聞社（産経新聞・読売新聞などを幅広くカバー）
+# 日本の主要メディア・大手新聞社（読売・産経・日経・朝日・毎日・IT専門誌）
 MEDIA_KEYWORDS = '("日本経済新聞" OR "日経" OR "読売新聞" OR "読売" OR "産経新聞" OR "産経" OR "産経ニュース" OR "朝日新聞" OR "毎日新聞" OR "ITmedia" OR "Impress" OR "ASCII" OR "CNET" OR "ZDNET" OR "ビジネス+IT" OR "Ledge.ai")'
 
 # 不要なノイズ・PR・海外自動翻訳メディアの除外リスト
@@ -22,25 +22,29 @@ def get_google_news_rss(query: str):
     return feedparser.parse(url)
 
 def fetch_news_for_date(target_date_str: str):
-    """指定日のニュースを取得（産経・読売等大手紙優先 ＋ 産経専用枠 ＋ 一般枠）"""
+    """指定日のニュースを取得（読売・産経を個別に確保しつつ全メディアをバランスよく収集）"""
     dt = datetime.datetime.strptime(target_date_str, "%Y-%m-%d")
     after_date_str = (dt - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
     
-    # 検索クエリ1：産経新聞・産経ニュース専用のAI関連記事枠（取りこぼし防止）
-    query_sankei = f'("産経新聞" OR "産経ニュース" OR "産経") AND {BASE_KEYWORDS} {EXCLUDE_KEYWORDS} after:{after_date_str}'
+    # クエリ1：読売新聞専用（全角ＡＩ・ドメイン指定対応）
+    query_yomiuri = f'("読売新聞" OR "読売" OR site:yomiuri.co.jp) AND {BASE_KEYWORDS} {EXCLUDE_KEYWORDS} after:{after_date_str}'
     
-    # 検索クエリ2：大手新聞・主要メディア指定のAIニュース
+    # クエリ2：産経新聞専用
+    query_sankei = f'("産経新聞" OR "産経ニュース" OR "産経" OR site:sankei.com) AND {BASE_KEYWORDS} {EXCLUDE_KEYWORDS} after:{after_date_str}'
+    
+    # クエリ3：大手新聞・主要メディア枠
     query_major = f"{BASE_KEYWORDS} AND {MEDIA_KEYWORDS} {EXCLUDE_KEYWORDS} after:{after_date_str}"
     
-    # 検索クエリ3：一般的なAIニュース
+    # クエリ4：一般AIニュース枠
     query_general = f"{BASE_KEYWORDS} {EXCLUDE_KEYWORDS} after:{after_date_str}"
     
+    feed_yomiuri = get_google_news_rss(query_yomiuri)
     feed_sankei = get_google_news_rss(query_sankei)
     feed_major = get_google_news_rss(query_major)
     feed_general = get_google_news_rss(query_general)
     
-    # 産経新聞枠を最優先、次に主要メディア枠、最後に全体枠を結合
-    all_entries = feed_sankei.entries + feed_major.entries + feed_general.entries
+    # 各フィードから全角・半角の差分や重複を意識して結合
+    all_entries = feed_yomiuri.entries + feed_sankei.entries + feed_major.entries + feed_general.entries
     
     raw_titles = []
     seen_titles = set()
@@ -50,7 +54,7 @@ def fetch_news_for_date(target_date_str: str):
             raw_titles.append(entry.title)
             
     news_list = []
-    for raw in raw_titles[:120]:  # 大手紙を広く拾うため上限を120件に拡張
+    for raw in raw_titles[:150]:  # 1日最大150件まで確保
         if " - " in raw:
             title_part, source_part = raw.rsplit(" - ", 1)
         else:
@@ -74,7 +78,7 @@ def rebuild_and_collect_all_news():
     for target_date in [day_before_yesterday_str, yesterday_str, today_str]:
         daily_items = fetch_news_for_date(target_date)
         all_new_data.extend(daily_items)
-        print(f"・{target_date} 分: {len(daily_items)} 件取得（産経新聞専用枠適用済み）")
+        print(f"・{target_date} 分: {len(daily_items)} 件取得（読売全角文字・ドメイン指定対応済み）")
         
     df_new = pd.DataFrame(all_new_data)
     
