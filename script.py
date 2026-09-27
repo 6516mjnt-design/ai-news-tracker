@@ -4,8 +4,15 @@ import os
 import feedparser
 import pandas as pd
 
-# 対象キーワード群（RSSで誤作動を起こさないシンプル表記）
-BASE_KEYWORDS = '生成AI OR 人工知能 OR OpenAI OR ChatGPT OR Gemini OR Claude OR Copilot OR LLM'
+# 対象キーワード群（カタカナ表記・フィジカルAIを追加）
+BASE_KEYWORDS = (
+    '生成AI OR 人工知能 OR '
+    'オープンAI OR OpenAI OR ChatGPT OR '
+    'グーグル OR Google OR Gemini OR '
+    'アンソロピック OR Anthropic OR Claude OR '
+    'Copilot OR LLM OR '
+    'フィジカルAI OR "フィジカル AI" OR "Physical AI"'
+)
 
 CSV_FILENAME = "ai_news_stats.csv"
 RETENTION_DAYS = 30  # 30日分保持
@@ -18,7 +25,7 @@ def get_google_news_rss(query: str):
 def fetch_news():
     """Google ニュースRSSから確実に対象新聞社・主要メディアの記事を取得"""
     
-    # 互換性を重視した個別クエリ（site: や過度な括弧を使わない）
+    # メディアごとの個別クエリ（シンプル構文で安定取得）
     queries = [
         # 大手全国紙
         f"産経新聞 {BASE_KEYWORDS}",
@@ -33,7 +40,7 @@ def fetch_news():
         f"ASCII {BASE_KEYWORDS}",
         f"CNET {BASE_KEYWORDS}",
         # 全体補完クエリ
-        f"生成AI OR 人工知能"
+        f"生成AI OR フィジカルAI OR オープンAI OR グーグル OR アンソロピック"
     ]
     
     raw_entries = []
@@ -57,9 +64,9 @@ def fetch_news():
             title_part = raw_title
             source_part = "不明"
             
-        # 配信日時の取得（RSSの published_parsed から日付文字列を生成）
+        # 配信日時の取得（JST補正）
         if hasattr(entry, 'published_parsed') and entry.published_parsed:
-            pub_date = datetime.datetime(*entry.published_parsed[:6]) + datetime.timedelta(hours=9) # JST補正
+            pub_date = datetime.datetime(*entry.published_parsed[:6]) + datetime.timedelta(hours=9)
             date_str = pub_date.strftime("%Y-%m-%d")
         else:
             date_str = datetime.datetime.now().strftime("%Y-%m-%d")
@@ -83,7 +90,6 @@ def rebuild_and_collect_all_news():
         try:
             df_existing = pd.read_csv(CSV_FILENAME, dtype=str)
             if 'date' in df_existing.columns and 'news_title' in df_existing.columns:
-                # 既存データと新規データを結合して重複削除
                 df_combined = pd.concat([df_existing, df_new], ignore_index=True)
                 df_combined.drop_duplicates(subset=['date', 'news_title'], inplace=True)
             else:
