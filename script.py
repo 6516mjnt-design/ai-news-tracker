@@ -4,9 +4,11 @@ import os
 import feedparser
 import pandas as pd
 
-# 対象キーワード群（日本語・英語の両対応）
+# 日本語キーワード
 BASE_KEYWORDS_JA = '生成AI OR 人工知能 OR オープンAI OR OpenAI OR ChatGPT OR グーグル OR Google OR Gemini OR アンソロピック OR Anthropic OR Claude OR Copilot OR LLM OR フィジカルAI OR "Physical AI"'
-BASE_KEYWORDS_EN = 'Generative AI OR AI OR OpenAI OR ChatGPT OR Google OR Gemini OR Anthropic OR Claude OR Copilot OR "Physical AI"'
+
+# 英語キーワード（海外本国用）
+BASE_KEYWORDS_EN = '"Generative AI" OR "Artificial Intelligence" OR OpenAI OR ChatGPT OR Google OR Gemini OR Anthropic OR Claude OR Copilot OR "Physical AI"'
 
 CSV_FILENAME = "ai_news_stats.csv"
 RETENTION_DAYS = 30  # 30日分保持
@@ -17,59 +19,65 @@ def get_google_news_rss(query: str, hl='ja', gl='JP', ceid='JP:ja'):
     return feedparser.parse(url)
 
 def fetch_news():
-    """日米英の主要メディアに絞ってニュースを取得"""
-    
-    # 1. 日本の主要メディア（5紙 ＋ NHK）
+    """日米英の主要メディアに絞ってニュースを確実に取得"""
+    raw_entries = []
+    seen_titles = set()
+
+    def add_entries(feed):
+        for entry in feed.entries:
+            if entry.title not in seen_titles:
+                seen_titles.add(entry.title)
+                raw_entries.append(entry)
+
+    # 1. 日本国内 主要5紙 ＋ NHK（日本語設定）
     queries_ja = [
         f"日本経済新聞 OR 日経 {BASE_KEYWORDS_JA}",
         f"読売新聞 {BASE_KEYWORDS_JA}",
         f"朝日新聞 {BASE_KEYWORDS_JA}",
         f"毎日新聞 {BASE_KEYWORDS_JA}",
         f"産経新聞 {BASE_KEYWORDS_JA}",
-        f"NHK OR NHKニュース {BASE_KEYWORDS_JA}"
+        f"NHK OR NHKニュース {BASE_KEYWORDS_JA}",
+        # 海外メディアの日本語版記事（CNN Japan, BBC Japan等）
+        f"CNN {BASE_KEYWORDS_JA}",
+        f"BBC {BASE_KEYWORDS_JA}",
+        f"ロイター {BASE_KEYWORDS_JA}",
+        f"ブルームバーグ {BASE_KEYWORDS_JA}"
     ]
-    
-    # 2. 米国・英国の主要メディア（CNN, BBC, Reuters, WSJ等）
-    # ※海外主要メディアの日本語版記事および英語版記事の両方を補完
-    queries_en = [
-        f"CNN {BASE_KEYWORDS_EN}",
-        f"BBC {BASE_KEYWORDS_EN}",
-        f"Reuters {BASE_KEYWORDS_EN}",
-        f"AP News {BASE_KEYWORDS_EN}",
-        f"Bloomberg {BASE_KEYWORDS_EN}",
-        f'"Wall Street Journal" OR WSJ {BASE_KEYWORDS_EN}',
-        f'"New York Times" {BASE_KEYWORDS_EN}',
-        f'"Financial Times" OR FT {BASE_KEYWORDS_EN}',
-        f"Guardian {BASE_KEYWORDS_EN}"
-    ]
-    
-    raw_entries = []
-    seen_titles = set()
-    
-    # 日本メディアの取得
     for q in queries_ja:
         feed = get_google_news_rss(q, hl='ja', gl='JP', ceid='JP:ja')
-        for entry in feed.entries:
-            if entry.title not in seen_titles:
-                seen_titles.add(entry.title)
-                raw_entries.append(entry)
-                
-    # 米英主要メディアの取得（日本語版および国際配信版）
-    for q in queries_en:
-        # 日本語版フィード（CNN Japan, BBC Japanなど）
-        feed_ja = get_google_news_rss(q, hl='ja', gl='JP', ceid='JP:ja')
-        for entry in feed_ja.entries:
-            if entry.title not in seen_titles:
-                seen_titles.add(entry.title)
-                raw_entries.append(entry)
-                
-        # 本国版（英語）フィード
-        feed_en = get_google_news_rss(q, hl='en-US', gl='US', ceid='US:en')
-        for entry in feed_en.entries:
-            if entry.title not in seen_titles:
-                seen_titles.add(entry.title)
-                raw_entries.append(entry)
-                
+        add_entries(feed)
+
+    # 2. 米国主要メディア（米国・英語設定 + source演算子）
+    us_sources = [
+        'source:"CNN"',
+        'source:"Reuters"',
+        'source:"Associated Press"',
+        'source:"Bloomberg"',
+        'source:"The Wall Street Journal"',
+        'source:"The New York Times"',
+        'source:"The Washington Post"',
+        'source:"NBC News"',
+        'source:"ABC News"',
+        'source:"CBS News"'
+    ]
+    for src in us_sources:
+        q = f"{src} AND ({BASE_KEYWORDS_EN})"
+        feed = get_google_news_rss(q, hl='en-US', gl='US', ceid='US:en')
+        add_entries(feed)
+
+    # 3. 英国主要メディア（英国・英語設定 + source演算子）
+    uk_sources = [
+        'source:"BBC"',
+        'source:"Financial Times"',
+        'source:"The Guardian"',
+        'source:"The Telegraph"',
+        'source:"The Independent"'
+    ]
+    for src in uk_sources:
+        q = f"{src} AND ({BASE_KEYWORDS_EN})"
+        feed = get_google_news_rss(q, hl='en-GB', gl='GB', ceid='GB:en')
+        add_entries(feed)
+
     news_list = []
     for entry in raw_entries:
         raw_title = entry.title
