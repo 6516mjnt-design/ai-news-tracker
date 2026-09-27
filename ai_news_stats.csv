@@ -98,241 +98,303 @@
 2026-09-24,Meta次世代AIグラス「Ray-Ban Meta Gen 3」発売―9時間駆動・3K動画、7万8980円から,財経新聞
 2026-09-24,Microsoft、「Copilot」を刷新　「仕事のための新しいOS」とナデラCEO,ｄメニューニュース
 2026-09-24,AIグラス「Ray-Ban Meta（Gen 3）」、ソフトバンクで販売開始,ｄメニューニュース
-2026-09-25,生成AIは遠慮しなくて良い「相談相手」 日米でこうも違う仕事と生成AIの関係性,AdverTimes.（アドタイ） by 宣伝会議
-2026-09-25,米オープンAIのエージェント、豪政府ウェブサイトに「侵入」　首相が明かす,BBC
-2026-09-25,汎用ロボットは2年以内に到来——その原動力はLLM,BigGo ファイナンス
-2026-09-25,AIエージェントが人間の研究者を上回るも、エリー・バクーシュ氏「依然として発明はできない」,BigGo ファイナンス
-2026-09-25,AIが理論物理の3年記録を更新：Claudeが単独で9ループ散乱振幅の計算を達成,BigGo ファイナンス
-2026-09-25,OpenAI、AIエージェントがChatGPTユーザーの画像53件を外部流出、数十の外部サイトに不正アクセスと開示,BigGo ファイナンス
-2026-09-25,AIのブラックボックス：機械は人類を救うのか滅ぼすのか、専門家の意見が割れる理由,BigGo ファイナンス
-2026-09-25,イスラエルの新興企業Irregular、OpenAI・Meta・Googleの一連のAI暴走事故に関与,BigGo ファイナンス
-2026-09-25,OpenAIで再び隔離環境に不備、訓練中の自律型AIがネットにアクセス,Bloomberg
-2026-09-25,Meta、たまごっち風のAIデバイス「Muse Charm」を発表,DG Lab Haus
-2026-09-25,BLACKPINKのLISA×MetaのAIグラスが登場──オーディオ特化の新作「Ray-Ban Meta Audio」や第3世代モデルも一挙発表,GQ Japan
-2026-09-25,Metaが3D映画やスポーツ配信を大幅拡充、Questにも一部提供。SWやMCU作品を新たな没入フォーマットで提供、VRグラスはIMAX Enhanced認証取得,GameBusiness.jp
-2026-09-25,OpenAIのエージェントが豪州政府サイトに不正侵入。首相が抗議「法的措置とる」と述べる,GameBusiness.jp
+2026-09-25,ChatGPT無料版に広告表示 回答への影響はないと説明,ASCII.jp
+2026-09-25,ChatGPTの画像生成AIが強すぎる AI画像が世界中に氾濫する時代へ (1/5),ASCII.jp
+2026-09-25,OpenAI、Macアプリ緊急更新呼びかけ Axios攻撃で警告,ASCII.jp
+2026-09-25,グーグル「Gemini for Home」日本でも提供開始,ASCII.jp
+2026-09-25,「Claude Code」デスクトップ版、めちゃ変わる “並列エージェント時代”に合わせて再設計,ASCII.jp
+2026-09-25,OpenAI「Sora 2」API利用でウォーターマーク除去,ASCII.jp
+2026-09-25,OpenAI、性能トップ級の無料AI公開 ノートPCで動き、商用利用もOK,ASCII.jp
+2026-09-25,ローカル動画生成AIの革命児「FramePack」の使い方 (1/4),ASCII.jp
+2026-09-25,Geminiが毎朝のタスクや情報収集を自動化 神機能「Scheduled actions」を追加,ASCII.jp
+2026-09-25,【活用提案】有料プランの「Copilot Pro」を利用してiPadで「Word」や「PowerPoint」をフル活用する (1/5),ASCII.jp
+2026-09-25,画像生成AI企業を訴えたアーティスト集団の主張、米連邦地裁で一部認められる,ASCII.jp
+2026-09-25,ChatGPTの画像生成が強力に 漫画も描ける,ASCII.jp
+2026-09-25,VRヘッドセット「Meta Quest」、HDMI、DisplayPort、USB-Cからの接続に対応,ASCII.jp
+2026-09-25,ChatGPTで障害か--一時アクセスできず（復旧）,CNET Japan
+2026-09-25,「Claude」で障害発生（復旧）,CNET Japan
+2026-09-25,ClaudeがSlack上のバーチャル同僚に--Anthropicの新機能「Claude Tag」とは,CNET Japan
+2026-09-25,マイクロソフト、「Copilot」を刷新へ エージェント型AIでOpenClawに対抗,CNET Japan
+2026-09-25,「この写真を復元して」と入力するだけ、ChatGPTが過激な画像を生成する抜け穴が発覚,CNET Japan
+2026-09-25,Meta、未成年との「官能的」会話を認めていたAIガイドラインで物議,CNET Japan
+2026-09-25,イラストの作者が人間かAIか当てる激ムズクイズが登場、画像生成AI熟練編集部員による見分けポイントとは？,GIGAZINE
+2026-09-25,Copilotキーを再マッピングできる設定オプション、今年後半のWindows 11アップデートで追加へ,INTERNET Watch
+2026-09-25,Anthropicの「Mythos Preview」、1カ月で1万件超の脆弱性を発見──「Project Glasswing」初期報告,ITmedia
+2026-09-25,イラストレーターなど芸術系フリーランスに聞く「生成AIで収入は増えた？ 減った？」 調査団体が約2万5000人にアンケート,ITmedia
+2026-09-25,【無料】日本語のAI学習サイトをAnthropicが公開 「Claude Code入門」など357のコンテンツが学べる,ITmedia
+2026-09-25,ChatGPTに「ロックダウンモード」 プロンプトインジェクションによる情報漏えい対策,ITmedia
+2026-09-25,Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長,ITmedia
+2026-09-25,OpenAIのブラウザ「ChatGPT Atlas」終了へ 公開から1年足らずで,ITmedia
+2026-09-25,ローカルLLMは本当に手元で動くのか？ ハードウェアとモデルの現実的な選び方【2026年春】,ITmedia
+2026-09-25,Claude「サブスク最上位プラン」6カ月間無料で提供 OSS開発者向けキャンペーン、対象を拡大（1/2 ページ）,ITmedia
+2026-09-25,「Claude」で「OpenClaw」などの利用がサブスク対象外に API利用や追加使用量購入が必要,ITmedia
+2026-09-25,Googleの「Gemini for Home」が日本語に対応　日本でも早期アクセスの受付を開始 - ITmedia Mobile,ITmedia
+2026-09-25,個人向け「Microsoft 365 Premium」登場　月額3200円で「Copilot Pro」も利用可能：アプリのアイコンも変更 - ITmedia PC USER,ITmedia
+2026-09-25,OpenAI、ChatGPTに「休憩しませんか？」リマインダー機能追加 健全な利用を促進,ITmedia
+2026-09-25,ChatGPTに「ライブラリ」新設 過去に生成した画像を一覧,ITmedia
+2026-09-25,Googleの新AI、日本では「ジェミニ」「ジェミナイ」どっち？ 公式見解は,ITmedia
+2026-09-25,文章に“多重電子透かし”を入れる技術、日立が開発 書き手が「人間」or「AI」か区別可能に その仕組みとは？（1/2 ページ）,ITmedia
 2026-09-25,AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol」「GPT-6 Luna」を投入：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER,ITmedia
-2026-09-25,Microsoftが次世代「Copilot」を発表=「Home」「Code」「Autopilot」でAI時代の働き方を再定義,Infoseek
-2026-09-25,DONK-JZZ30-AZA004 | Motor Fan｜自動車情報のモーターファン,Motor Fan
-2026-09-25,LLM最適化AIアクセラレータチップの世界市場（2026年～2032年）、市場規模（ベアチップ、アクセラレータカード、サーバーモジュール、フルシステム）・分析レポートを発表,Newscast.jp
-2026-09-25,OpenAIで再び隔離環境に不備、訓練中の自律型AIがネットにアクセス,TBS NEWS DIG
-2026-09-25,孫正義氏のAI大勝負、膨らむ借金重圧に－OpenAI巨額投資で貸し手警戒 フォトギャラリー | TBS CROSS DIG with Bloomberg,TBS NEWS DIG
-2026-09-25,『The Information』の報道によると、Metaはセキュリティ上の脆弱性が発見されたことを受け、「Muse」の安全に関する警告を強化した,TradingView
-2026-09-25,【創基150周年】『大志を抱け』北海道大学が記念式典「知の拠点として生成AI時代に対応できる人材育成の役割果たす」未来に向けて決意新たに〈北海道札幌市〉,UHB 北海道文化放送
-2026-09-25,OpenAIは、自社のAIエージェントがChatGPTから53枚のユーザー写真を無断でオンラインにアップロードしていたことを発見した。,Vietnam.vn
-2026-09-25,マーク・ザッカーバーグが、自身のファッションスタイルの変化の理由を初めて明かした。,Vietnam.vn
-2026-09-25,OpenAIは、自社のAIエージェントに重大な欠陥があることを認めた。,Vietnam.vn
-2026-09-25,Anthropic社がClaude Opus 5.5を発表：システム安全管理を強化し、運用コストを40%削減。,Vietnam.vn
-2026-09-25,BLACKPINKのリサがメタグラスとコラボ！ AIグラス「Meta Glasses by LISA」が発売,Vogue Japan
-2026-09-25,OpenAI意図せぬ外部接続「数十」,Yahoo!ニュース
+2026-09-25,ChatGPTの音声モードが進化、モバイルでも“作業”を指示,Impress Watch
+2026-09-25,グーグル、Chromeに「Gemini Spark」を統合 飛行機予約もAIエージェントに,Impress Watch
+2026-09-25,新「ChatGPT Voice」がデスクトップ対応 本物の会話に近い音声機能,Impress Watch
+2026-09-25,Googleスライド、あとから編集できるスライドをGeminiで生成可能に,Impress Watch
+2026-09-25,ChatGPT、「広告」開始へ 無料版と1500円の新プラン「ChatGPT Go」,Impress Watch
+2026-09-25,「AIでSaaS不要論」再び? Claude Cowork登場で株式市場にも影響,Impress Watch
+2026-09-25,グーグル、Gemini 3搭載の新Chrome サイドパネルや自動ブラウズなど,Impress Watch
+2026-09-25,"Claude、ChatGPTなどから""記憶""の移行が可能に",Impress Watch
+2026-09-25,ChatGPT、日本で広告表示開始,Impress Watch
+2026-09-25,ChatGPT、Gemini、Perplexity、Grokの「ディープリサーチ」を比較してみた,Impress Watch
+2026-09-25,ChatGPT、資料やデータをまとめて回答を得る新機能「Projects」,Impress Watch
+2026-09-25,YouTube、生成AI利用の開示を義務づけ 違反者には罰則,Impress Watch
+2026-09-25,【AI時代のダイエット体験記】ChatGPTに毎日体重報告してみたら？メリデメを検証！,MAQUIA
+2026-09-25,「Claude Cowork」5つの使い方。定型業務を丸ごとAIに任せてみる,PC Watch
+2026-09-25,Copilot+ PC含む対象PC、Microsoft 365 Personal 24カ月利用権または永続利用Office 2024を選択可能に,PC Watch
+2026-09-25,サブスクか永続かを選べるバンドル版Office、Microsoft 365 Personal (24か月)搭載PCとは何か？,PC Watch
+2026-09-25,OpenAIのAIシステムが米国政府のウェブサイトへの侵入を試みたが、失敗に終わった。,Vietnam.vn
+2026-09-25,Anthropic、「Claude Fable 5.1」「Mythos 5.1」公開 AI透かしも導入（CNET Japan）,Yahoo!ニュース
+2026-09-25,新聞社対Perplexityの生成AI著作権侵害訴訟では何が争点となり得るか？（栗原潔） - エキスパート,Yahoo!ニュース
 2026-09-25,AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol」「GPT-6 Luna」を投入（ITmedia PC USER）,Yahoo!ニュース
+2026-09-25,OpenAI意図せぬ外部接続「数十」,Yahoo!ニュース
 2026-09-25,声優業界、生成AIの被害深刻 無断模倣で第三者が報酬 ベテラン声優ら「権利認めて」（時事通信）,Yahoo!ニュース
 2026-09-25,生成AIで「声」無断模倣、是非は 人気声優「権利侵害」訴え 東京地裁で30日判決（時事通信）,Yahoo!ニュース
-2026-09-25,マイクロソフトが「Copilot」を大幅刷新。Office統合と自然言語アプリ開発を強化、自律エージェント機能も,Yahoo!ニュース
 2026-09-25,OpenAIのAI暴走、米教育省、商務省、SECにも ユーザー画像53件が外部に（平和博） - エキスパート,Yahoo!ニュース
+2026-09-25,マイクロソフトが「Copilot」を大幅刷新。Office統合と自然言語アプリ開発を強化、自律エージェント機能も,Yahoo!ニュース
 2026-09-25,【図解】生成AIで「声」無断模倣、是非は＝人気声優「権利侵害」訴え―東京地裁で30日判決（時事通信）,Yahoo!ニュース
 2026-09-25,「Claude Code」クラウド実行が正式版、最大250ドル分クレジット配布（PC Watch）,Yahoo!ニュース
 2026-09-25,声優業界、生成AIの被害深刻 無断模倣で第三者が報酬 ベテラン声優ら「権利認めて」 (時事通信),Yahoo!ニュース
 2026-09-25,「週刊ダイヤモンド」114年続く紙版を終了、完全デジタル化へ“競合”は生成AI？「検索すると最初にAI要約が出てしまう」,Yahoo!ニュース
-2026-09-25,DeepSeek・Kimi、中国当局が調査か 米Claude利用でデータ国外転送の可能性,Yahoo!ニュース
 2026-09-25,「Ray-Ban Meta (Gen 3)」発表。カメラやAIなど機能強化。音楽・通話特化モデル登場（NANA） - エキスパート,Yahoo!ニュース
+2026-09-25,DeepSeek・Kimi、中国当局が調査か 米Claude利用でデータ国外転送の可能性,Yahoo!ニュース
+2026-09-25,しゃべるAIが“顔”付きに ～Google、「Gemini 3.8 Live with Live Avatar」を発表（窓の杜）,Yahoo!ニュース
 2026-09-25,AI性能評価の最高点が53点から58点に…安全対策と値下げも競争 [韓国記者コラム]（KOREA WAVE）,Yahoo!ニュース
-2026-09-25,「Gemini 4」は年末までに発表――開発責任者が言及か 「Googleは確かに最先端」と主張（ITmedia NEWS）,Yahoo!ニュース
-2026-09-25,アンソロピックの金融向け「Claude」、シュワブ・ブラックロックなど11の顧客データ基盤と接続,Yahoo!ニュース
-2026-09-25,OpenAIで再び隔離環境に不備、訓練中の自律型AIがネットにアクセス（Bloomberg）,Yahoo!ニュース
-2026-09-25,マイクロソフトが「Copilot」刷新 ユーザーが不在中も働くAIに,Yahoo!ニュース
-2026-09-25,DeepL翻訳、CopilotやChatGPT、Claudeから利用可能に（Impress Watch）,Yahoo!ニュース
-2026-09-25,生成AI利用者の4割が「誤情報」に不満、ファクトチェックを行う人ほど高い傾向（こどもとIT）,Yahoo!ニュース
-2026-09-25,Microsoft、「Copilot」を刷新 「仕事のための新しいOS」とナデラCEO（ITmedia NEWS）,Yahoo!ニュース
-2026-09-25,OpenAIで再び隔離環境に不備、訓練中の自律型AIがネットにアクセス (Bloomberg),Yahoo!ニュース
-2026-09-25,グーグル「Gemini」に電話代行の新機能 レストラン予約もお任せ,Yahoo!ニュース
-2026-09-25,AIグラス「Ray-Ban Meta（Gen 3）」、ソフトバンクで販売開始（ケータイ Watch）,Yahoo!ニュース
-2026-09-25,【創基150周年】『大志を抱け』北海道大学が記念式典「知の拠点として生成AI時代に対応できる人材育成の役割果たす」未来に向けて決意新たに〈北海道札幌市〉,Yahoo!ニュース
-2026-09-25,動画生成AIが「記憶」を持つ PixVerseの世界モデル「R2」、プレイヤーの選択で物語が分岐,Yahoo!ニュース
-2026-09-25,生成AIは「コロナ禍」に似ている…その先に生まれる、まだ名前もない「新しい習慣」（ダイヤモンド・オンライン）,Yahoo!ニュース
-2026-09-25,生成AIがプレイヤー好みにゲームを書き換える マイクロソフトが特許出願,Yahoo!ニュース
-2026-09-25,Meta、たまごっちのようなAIエージェント端末「Muse Charm」,Yahoo!ニュース
-2026-09-25,アドビ、GeminiからPhotoshopなど利用可能に ClaudeはPDF直接編集（Impress Watch）,Yahoo!ニュース
-2026-09-25,Microsoft、「Copilot」を刷新 「仕事のための新しいOS」とナデラCEO (ITmedia NEWS),Yahoo!ニュース
-2026-09-25,マイクロソフト、個人用AIチャットボット競争から撤退－Copilot刷新 (Bloomberg),Yahoo!ニュース
-2026-09-25,生成AI利用率、高校生・大学生が8割超！ 社会人は5割台にとどまる【サイバーエージェント調べ】 (Web担当者Forum),Yahoo!ニュース
-2026-09-25,Geminiが店に電話して予約まで代行…グーグルがPixel 11向け「Call for Me」実験開始（ビジネス＋IT）,Yahoo!ニュース
-2026-09-25,Metaのたまごっち？ AIキーホルダー「Muse Charm」がひっそり発表（ギズモード・ジャパン）,Yahoo!ニュース
-2026-09-25,DeepL翻訳、CopilotやChatGPT、Claudeから利用可能に (Impress Watch),Yahoo!ニュース
-2026-09-25,子供の「伝えたい」を引き出す、Geminiの4コマ漫画活用術（こどもとIT）,Yahoo!ニュース
-2026-09-25,生成AIは「コロナ禍」に似ている…その先に生まれる、まだ名前もない「新しい習慣」 (ダイヤモンド・オンライン),Yahoo!ニュース
-2026-09-25,【スマホ見ずに視界を共有】ChatGPT連動スマートグラス「Solos V2」の実力は？テンプル交換で充電待ちゼロになる快適さをライターが本音体験（MonoMax Web）,Yahoo!ニュース
-2026-09-25,【著作権・肖像権について】生成AI等の利用に関する注意事項追加のお知らせ,b-corsairs.com
-2026-09-25,生成AIと楽しく賢く暮らすヒント ひばりが丘公民館,city.nishitokyo.lg.jp
 2026-09-25,【AI x バイオ】Anthropic社が発見したCRISPRに似た「反復配列を伴う逆転写酵素ART」に対する専門家からのコメント,crisp_bio
-2026-09-25,疲れた夕方、Geminiに「大戸屋のあれが食べたい」と頼んでみた 冷蔵庫の余りもので10分晩ごはんの写真（4）,emogram
-2026-09-25,疲れた夕方、Geminiに「大戸屋のあれが食べたい」と頼んでみた 冷蔵庫の余りもので10分晩ごはんの写真（2）,emogram
-2026-09-25,疲れた夕方、Geminiに「大戸屋のあれが食べたい」と頼んでみた 冷蔵庫の余りもので10分晩ごはんの写真（3）,emogram
-2026-09-25,外に出たくない日の救世主 Geminiに聞いたら大戸屋の味が10分で完成の写真（1）,emogram
 2026-09-25,Microsoft、Copilotの大型アップデートを発表 ——Home・Code・Autopilotで対話からアプリ作成、作業の実行まで,gihyo.jp
-2026-09-25,Claude Code、/usageによる推定費用の確認とエフォートの使い分けを解説 ——Opus 5.5の料金とキャッシュの利用,gihyo.jp
-2026-09-25,AI-SQLエンジン「Quail」公開 ——LLMによるデータの絞り込み・結合を効率化,gihyo.jp
-2026-09-25,Googleドキュメント、Gemini Notebookを参照可能に ——ノートブックの情報をもとに文章を生成,gihyo.jp
-2026-09-25,Android「Gemini Live シンプルガイド」展開開始,jetstream.blog
+2026-09-25,AI普及は「生産性押し上げる」8割超,jcer.or.jp
+2026-09-25,「生成AI」(7) 生成AIと著作権 弁護士 福井健策さん,jnpc.or.jp
+2026-09-25,Gemini×勉強術：毎日20時に問題をつくって送ってもらおう,lifehacker.jp
 2026-09-25,BLACKPINKのLISAがコラボ！ MetaのAIグラスがおしゃれな人に選ばれる理由。,madameFIGARO.jp
-2026-09-25,「定額のAI」を社内でどう使い分けるか――Claudeサブスクと自律エージェントの関係が変わりました,mbp-japan.com
-2026-09-25,アドビ、Google Geminiとの連携を開始。Claude向けプラグインにAcrobatを統合,pronews.com
-2026-09-25,店には迷惑、本人は満足――Geminiが電話を代行する「Call for Me」、Metaが一足先にぶつかった壁,shiritomo
-2026-09-25,OpenAIのAIエージェントが豪州政府サイトに侵入、政府が知ったのは数カ月後,wired.jp
-2026-09-25,OpenAIのCodexが一時ダウン、復旧後に有料ユーザー制限リセット,x.com
-2026-09-25,資料作成が月32時間から4時間に トラコムが生成AIで「月28時間削減」した方法,キーマンズネット
-2026-09-25,グーグル、AIアバターが応答する「Gemini 3.8 Live with Live Avatar」発表,ケータイ Watch
-2026-09-25,ChatGPTの音声モード、スマホやWebでアプリ連携の作業に対応,ケータイ Watch
-2026-09-25,「Gemini」でPhotoshopやLightroomが呼び出し可能に イメージの説明でライティングやトリミングを変更,デジカメ Watch
-2026-09-25,ChatGPT Image 2026年9月24日 23_50_50,公明党
-2026-09-25,インソース,日本経済新聞
+2026-09-25,Adobe Creative Cloudのプランが二分化 生成AI機能を大幅拡充,デジカメ Watch
+2026-09-25,「ジジイ」と「ジイジ」と「生成ＡＩ」について 6518 : ブログ : 安全・安心の横浜へ 「何を言ったかでなく、何をやったか！」,公明党
+2026-09-25,シャープ、初の生成AI採用ドラム洗濯機 タオル乾燥ふわふわorごわごわ選べる,家電 Watch
+2026-09-25,新聞大手3社、生成AI「有料記事タダ乗り」に“総額66億円”賠償求め提訴 「著作権侵害」or「適法な学習」…法廷闘争の行方は【弁護士解説】,弁護士JP
+2026-09-25,Anthropic investors bet on $2tn valuation in record IPO - 日経FTザ・ワールド,日本経済新聞
+2026-09-25,アンソロピックCEO、信念か妥協か 米国防長官会談でAI契約解除危機,日本経済新聞
+2026-09-25,生成AIと著作権保護「新たな法整備を」 新聞協会,日本経済新聞
+2026-09-25,日経ビジネス、Generative AI Japanと共同で「生成AI大賞2026」を開催,日経BP
+2026-09-25,生成AI大賞2025,日経BPイベント＆セミナー
+2026-09-25,ChatGPTで商品購入する「Instant Checkout」、もう廃止に,日経クロステック
+2026-09-25,3大AIで「企画・マーケ」の記事はChatGPTが最多 1年分のnote投稿を分析 （5ページ目） | 日経トレンディ,日経クロストレンド
+2026-09-25,AIエージェント「95％が成果ゼロ」の衝撃 汚名返上へ26年が勝負,日経ビジネス電子版
 2026-09-25,楠木建×山口周 生成AIが照らす知的生産の本質 人間の本領は「統合」にある,日経ビジネス電子版
-2026-09-25,Anthropic の AI「Claude」を活用した選手サポートの取り組みを開始,東京サンロッカーズ
+2026-09-25,「ChatGPTが自殺の原因に」 4人の遺族がオープンAIを提訴 [AIの時代],朝日新聞
+2026-09-25,大学生１万人に聞く「生成系AIをどんな目的で使ってますか」 利用は激増、減っている使い方は？,朝日新聞
+2026-09-25,OpenAI、モバイル/Web版「ChatGPT Voice」をアップデート プラグイン連携やGPT-6に対応,株式会社インプレス
 2026-09-25,OpenAIのAIエージェント、豪政府サイトに無断侵入,株式会社エクサウィザーズ
 2026-09-25,暴走するAI、ついに一般ユーザーの画像まで流出,株式会社エクサウィザーズ
-2026-09-25,Claude、理論物理の最前線の計算を完走 快挙だがあと一歩,株式会社エクサウィザーズ
-2026-09-25,米Microsoft、Copilotを「仕事のOS」に再設計,株式会社エクサウィザーズ
-2026-09-25,OpenAI・Anthropic・Google、自主規制機関「SAFA」を設立へ,株式会社エクサウィザーズ
-2026-09-25,しゃべるAIが“顔”付きに ～Google、「Gemini 3.8 Live with Live Avatar」を発表,窓の杜
-2026-09-25,生成AIの国内B2C決済、年内1兆ウォン超へ 利用者保護と事業者責任が課題に,디지털투데이
-2026-09-25,OpenAIのAIエージェント、試験中に米政府サイトへアクセス SECの公開データ複製も,디지털투데이
-2026-09-25,イーロン・マスク氏のドキュメンタリー映画「MUSK」の予告編広告、YouTubeとMetaが一時拒否から一転承認　Xは応じず,ｄメニューニュース
-2026-09-26,Microsoftが次世代「Copilot」を発表=「Home」「Code」「Autopilot」でAI時代の働き方を再定義,ASCII.jp
-2026-09-26,汎用ロボットは2年以内に到来——その原動力はLLM,BigGo ファイナンス
-2026-09-26,AIエージェントが人間の研究者を上回るも、エリー・バクーシュ氏「依然として発明はできない」,BigGo ファイナンス
-2026-09-26,AIが理論物理の3年記録を更新：Claudeが単独で9ループ散乱振幅の計算を達成,BigGo ファイナンス
-2026-09-26,OpenAI、AIエージェントがChatGPTユーザーの画像53件を外部流出、数十の外部サイトに不正アクセスと開示,BigGo ファイナンス
-2026-09-26,AIのブラックボックス：機械は人類を救うのか滅ぼすのか、専門家の意見が割れる理由,BigGo ファイナンス
-2026-09-26,イスラエルの新興企業Irregular、OpenAI・Meta・Googleの一連のAI暴走事故に関与,BigGo ファイナンス
-2026-09-26,米控訴裁、AI企業Anthropicへの国防総省による安全保障上のブラックリスト指定を支持,BigGo ファイナンス
-2026-09-26,OpenAIで再び隔離環境に不備、訓練中の自律型AIがネットにアクセス,Bloomberg
-2026-09-26,Meta、たまごっち風のAIデバイス「Muse Charm」を発表,DG Lab Haus
-2026-09-26,AviatorもAIグラスに、3K Ultra HDカメラ搭載！Ray-Ban Meta（Gen 3）,Dtimes
-2026-09-26,Metaが3D映画やスポーツ配信を大幅拡充、Questにも一部提供。SWやMCU作品を新たな没入フォーマットで提供、VRグラスはIMAX Enhanced認証取得,GameBusiness.jp
-2026-09-26,OpenAIのエージェントが豪州政府サイトに不正侵入。首相が抗議「法的措置とる」と述べる,GameBusiness.jp
+2026-09-25,【著作権・肖像権について】生成AI等の利用に関する注意事項追加のお知らせ,横浜ビー・コルセアーズ
+2026-09-25,AIエージェント「ChatGPT Work」がサインインを要するWebサイトの操作も実行可能に,窓の杜
+2026-09-25,Anthropic、「Claude」の学習サイト「Claude Academy」を無償開設,窓の杜
+2026-09-25,「GitHub Copilot CLI」がリモート管理に対応、Web/モバイル/VS Codeからエージェントを操作,窓の杜
+2026-09-25,クラシック版「Outlook」にメールの画像が表示されない不具合 ～Microsoftが調査中【6月8日追記】,窓の杜
+2026-09-25,「Gemini」アプリの新機能「ノートブック」、無償ユーザーにも提供開始、「NotebookLM」と連携,窓の杜
+2026-09-26,ChatGPT無料版に広告表示 回答への影響はないと説明,ASCII.jp
+2026-09-26,ChatGPTの画像生成AIが強すぎる AI画像が世界中に氾濫する時代へ (1/5),ASCII.jp
+2026-09-26,OpenAI、Macアプリ緊急更新呼びかけ Axios攻撃で警告,ASCII.jp
+2026-09-26,グーグル「Gemini for Home」日本でも提供開始,ASCII.jp
+2026-09-26,「Claude Code」デスクトップ版、めちゃ変わる “並列エージェント時代”に合わせて再設計,ASCII.jp
+2026-09-26,OpenAI「Sora 2」API利用でウォーターマーク除去,ASCII.jp
+2026-09-26,OpenAI、性能トップ級の無料AI公開 ノートPCで動き、商用利用もOK,ASCII.jp
+2026-09-26,ローカル動画生成AIの革命児「FramePack」の使い方 (1/4),ASCII.jp
+2026-09-26,Geminiが毎朝のタスクや情報収集を自動化 神機能「Scheduled actions」を追加,ASCII.jp
+2026-09-26,【活用提案】有料プランの「Copilot Pro」を利用してiPadで「Word」や「PowerPoint」をフル活用する (1/5),ASCII.jp
+2026-09-26,画像生成AI企業を訴えたアーティスト集団の主張、米連邦地裁で一部認められる,ASCII.jp
+2026-09-26,ChatGPTの画像生成が強力に 漫画も描ける,ASCII.jp
+2026-09-26,VRヘッドセット「Meta Quest」、HDMI、DisplayPort、USB-Cからの接続に対応,ASCII.jp
+2026-09-26,ChatGPTで障害か--一時アクセスできず（復旧）,CNET Japan
+2026-09-26,「Claude」で障害発生（復旧）,CNET Japan
+2026-09-26,ClaudeがSlack上のバーチャル同僚に--Anthropicの新機能「Claude Tag」とは,CNET Japan
+2026-09-26,マイクロソフト、「Copilot」を刷新へ エージェント型AIでOpenClawに対抗,CNET Japan
+2026-09-26,「この写真を復元して」と入力するだけ、ChatGPTが過激な画像を生成する抜け穴が発覚,CNET Japan
+2026-09-26,Meta、未成年との「官能的」会話を認めていたAIガイドラインで物議,CNET Japan
+2026-09-26,イラストの作者が人間かAIか当てる激ムズクイズが登場、画像生成AI熟練編集部員による見分けポイントとは？,GIGAZINE
+2026-09-26,Copilotキーを再マッピングできる設定オプション、今年後半のWindows 11アップデートで追加へ,INTERNET Watch
+2026-09-26,Anthropicの「Mythos Preview」、1カ月で1万件超の脆弱性を発見──「Project Glasswing」初期報告,ITmedia
+2026-09-26,イラストレーターなど芸術系フリーランスに聞く「生成AIで収入は増えた？ 減った？」 調査団体が約2万5000人にアンケート,ITmedia
+2026-09-26,【無料】日本語のAI学習サイトをAnthropicが公開 「Claude Code入門」など357のコンテンツが学べる,ITmedia
+2026-09-26,ChatGPTに「ロックダウンモード」 プロンプトインジェクションによる情報漏えい対策,ITmedia
+2026-09-26,Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長,ITmedia
+2026-09-26,OpenAIのブラウザ「ChatGPT Atlas」終了へ 公開から1年足らずで,ITmedia
+2026-09-26,ローカルLLMは本当に手元で動くのか？ ハードウェアとモデルの現実的な選び方【2026年春】,ITmedia
+2026-09-26,Claude「サブスク最上位プラン」6カ月間無料で提供 OSS開発者向けキャンペーン、対象を拡大（1/2 ページ）,ITmedia
+2026-09-26,「Claude」で「OpenClaw」などの利用がサブスク対象外に API利用や追加使用量購入が必要,ITmedia
+2026-09-26,Googleの「Gemini for Home」が日本語に対応　日本でも早期アクセスの受付を開始 - ITmedia Mobile,ITmedia
+2026-09-26,個人向け「Microsoft 365 Premium」登場　月額3200円で「Copilot Pro」も利用可能：アプリのアイコンも変更 - ITmedia PC USER,ITmedia
+2026-09-26,OpenAI、ChatGPTに「休憩しませんか？」リマインダー機能追加 健全な利用を促進,ITmedia
+2026-09-26,ChatGPTに「ライブラリ」新設 過去に生成した画像を一覧,ITmedia
+2026-09-26,Googleの新AI、日本では「ジェミニ」「ジェミナイ」どっち？ 公式見解は,ITmedia
+2026-09-26,文章に“多重電子透かし”を入れる技術、日立が開発 書き手が「人間」or「AI」か区別可能に その仕組みとは？（1/2 ページ）,ITmedia
 2026-09-26,AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol」「GPT-6 Luna」を投入：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER,ITmedia
-2026-09-26,Microsoftが次世代「Copilot」を発表=「Home」「Code」「Autopilot」でAI時代の働き方を再定義,Infoseek
-2026-09-26,Microsoft、「Copilot」を刷新 「仕事のための新しいOS」とナデラCEO,Infoseek
-2026-09-26,DONK-JZZ30-AZA004 | Motor Fan｜自動車情報のモーターファン,Motor Fan
-2026-09-26,DONK-JZZ30-AZA002 | Motor Fan｜自動車情報のモーターファン,Motor Fan
-2026-09-26,生成ＡＩを活用 架空の職員が登場する広報動画を作成 札幌市,NHKニュース
-2026-09-26,OpenAIで再び隔離環境に不備、訓練中の自律型AIがネットにアクセス,TBS NEWS DIG
-2026-09-26,『The Information』の報道によると、Metaはセキュリティ上の脆弱性が発見されたことを受け、「Muse」の安全に関する警告を強化した,TradingView
-2026-09-26,マイクロソフト、「Copilot」刷新：コード生成・AIエージェント搭載,TradingView
-2026-09-26,米マイクロソフト－大幅高 「Copilot」のアップデートを好感,TradingView
-2026-09-26,【創基150周年】『大志を抱け』北海道大学が記念式典「知の拠点として生成AI時代に対応できる人材育成の役割果たす」未来に向けて決意新たに〈北海道札幌市〉,UHB 北海道文化放送
-2026-09-26,OpenAIは、自社のAIエージェントがChatGPTから53枚のユーザー写真を無断でオンラインにアップロードしていたことを発見した。,Vietnam.vn
-2026-09-26,マーク・ザッカーバーグが、自身のファッションスタイルの変化の理由を初めて明かした。,Vietnam.vn
-2026-09-26,Anthropic社がClaude Opus 5.5を発表：システム安全管理を強化し、運用コストを40%削減。,Vietnam.vn
-2026-09-26,OpenAIは、自社のAIエージェントに重大な欠陥があることを認めた。,Vietnam.vn
-2026-09-26,Gemini 3.8 Live with Live Avatar：Googleが実現した、多言語リアルタイム会話における画期的な進歩。,Vietnam.vn
-2026-09-26,OpenAI意図せぬ外部接続「数十」,Yahoo!ニュース
+2026-09-26,ChatGPTの音声モードが進化、モバイルでも“作業”を指示,Impress Watch
+2026-09-26,グーグル、Chromeに「Gemini Spark」を統合 飛行機予約もAIエージェントに,Impress Watch
+2026-09-26,新「ChatGPT Voice」がデスクトップ対応 本物の会話に近い音声機能,Impress Watch
+2026-09-26,Googleスライド、あとから編集できるスライドをGeminiで生成可能に,Impress Watch
+2026-09-26,ChatGPT、「広告」開始へ 無料版と1500円の新プラン「ChatGPT Go」,Impress Watch
+2026-09-26,「AIでSaaS不要論」再び? Claude Cowork登場で株式市場にも影響,Impress Watch
+2026-09-26,グーグル、Gemini 3搭載の新Chrome サイドパネルや自動ブラウズなど,Impress Watch
+2026-09-26,"Claude、ChatGPTなどから""記憶""の移行が可能に",Impress Watch
+2026-09-26,ChatGPT、日本で広告表示開始,Impress Watch
+2026-09-26,ChatGPT、Gemini、Perplexity、Grokの「ディープリサーチ」を比較してみた,Impress Watch
+2026-09-26,ChatGPT、資料やデータをまとめて回答を得る新機能「Projects」,Impress Watch
+2026-09-26,YouTube、生成AI利用の開示を義務づけ 違反者には罰則,Impress Watch
+2026-09-26,【AI時代のダイエット体験記】ChatGPTに毎日体重報告してみたら？メリデメを検証！,MAQUIA
+2026-09-26,「Claude Cowork」5つの使い方。定型業務を丸ごとAIに任せてみる,PC Watch
+2026-09-26,Copilot+ PC含む対象PC、Microsoft 365 Personal 24カ月利用権または永続利用Office 2024を選択可能に,PC Watch
+2026-09-26,サブスクか永続かを選べるバンドル版Office、Microsoft 365 Personal (24か月)搭載PCとは何か？,PC Watch
+2026-09-26,OpenAIのAIシステムが米国政府のウェブサイトへの侵入を試みたが、失敗に終わった。,Vietnam.vn
+2026-09-26,Anthropic、「Claude Fable 5.1」「Mythos 5.1」公開 AI透かしも導入（CNET Japan）,Yahoo!ニュース
+2026-09-26,新聞社対Perplexityの生成AI著作権侵害訴訟では何が争点となり得るか？（栗原潔） - エキスパート,Yahoo!ニュース
 2026-09-26,AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol」「GPT-6 Luna」を投入（ITmedia PC USER）,Yahoo!ニュース
+2026-09-26,OpenAI意図せぬ外部接続「数十」,Yahoo!ニュース
 2026-09-26,声優業界、生成AIの被害深刻 無断模倣で第三者が報酬 ベテラン声優ら「権利認めて」（時事通信）,Yahoo!ニュース
 2026-09-26,生成AIで「声」無断模倣、是非は 人気声優「権利侵害」訴え 東京地裁で30日判決（時事通信）,Yahoo!ニュース
-2026-09-26,マイクロソフトが「Copilot」を大幅刷新。Office統合と自然言語アプリ開発を強化、自律エージェント機能も,Yahoo!ニュース
 2026-09-26,OpenAIのAI暴走、米教育省、商務省、SECにも ユーザー画像53件が外部に（平和博） - エキスパート,Yahoo!ニュース
+2026-09-26,マイクロソフトが「Copilot」を大幅刷新。Office統合と自然言語アプリ開発を強化、自律エージェント機能も,Yahoo!ニュース
 2026-09-26,【図解】生成AIで「声」無断模倣、是非は＝人気声優「権利侵害」訴え―東京地裁で30日判決（時事通信）,Yahoo!ニュース
 2026-09-26,声優業界、生成AIの被害深刻 無断模倣で第三者が報酬 ベテラン声優ら「権利認めて」 (時事通信),Yahoo!ニュース
 2026-09-26,「週刊ダイヤモンド」114年続く紙版を終了、完全デジタル化へ“競合”は生成AI？「検索すると最初にAI要約が出てしまう」,Yahoo!ニュース
 2026-09-26,「Ray-Ban Meta (Gen 3)」発表。カメラやAIなど機能強化。音楽・通話特化モデル登場（NANA） - エキスパート,Yahoo!ニュース
 2026-09-26,AI性能評価の最高点が53点から58点に…安全対策と値下げも競争 [韓国記者コラム]（KOREA WAVE）,Yahoo!ニュース
-2026-09-26,アンソロピックの金融向け「Claude」、シュワブ・ブラックロックなど11の顧客データ基盤と接続,Yahoo!ニュース
-2026-09-26,マイクロソフトが「Copilot」刷新 ユーザーが不在中も働くAIに,Yahoo!ニュース
-2026-09-26,OpenAIで再び隔離環境に不備、訓練中の自律型AIがネットにアクセス（Bloomberg）,Yahoo!ニュース
-2026-09-26,Microsoft、「Copilot」を刷新 「仕事のための新しいOS」とナデラCEO（ITmedia NEWS）,Yahoo!ニュース
-2026-09-26,OpenAIで再び隔離環境に不備、訓練中の自律型AIがネットにアクセス (Bloomberg),Yahoo!ニュース
-2026-09-26,AIグラス「Ray-Ban Meta（Gen 3）」、ソフトバンクで販売開始（ケータイ Watch）,Yahoo!ニュース
-2026-09-26,生成AIは「コロナ禍」に似ている…その先に生まれる、まだ名前もない「新しい習慣」（ダイヤモンド・オンライン）,Yahoo!ニュース
-2026-09-26,動画生成AIが「記憶」を持つ PixVerseの世界モデル「R2」、プレイヤーの選択で物語が分岐,Yahoo!ニュース
-2026-09-26,【創基150周年】『大志を抱け』北海道大学が記念式典「知の拠点として生成AI時代に対応できる人材育成の役割果たす」未来に向けて決意新たに〈北海道札幌市〉,Yahoo!ニュース
-2026-09-26,Microsoft、「Copilot」を刷新 「仕事のための新しいOS」とナデラCEO (ITmedia NEWS),Yahoo!ニュース
-2026-09-26,マイクロソフト、個人用AIチャットボット競争から撤退－Copilot刷新 (Bloomberg),Yahoo!ニュース
-2026-09-26,Metaのたまごっち？ AIキーホルダー「Muse Charm」がひっそり発表（ギズモード・ジャパン）,Yahoo!ニュース
-2026-09-26,Microsoft、Copilotを大幅刷新 Home/Code+常時稼働エージェント (Impress Watch),Yahoo!ニュース
-2026-09-26,【スマホ見ずに視界を共有】ChatGPT連動スマートグラス「Solos V2」の実力は？テンプル交換で充電待ちゼロになる快適さをライターが本音体験（MonoMax Web）,Yahoo!ニュース
-2026-09-26,生成AIは「コロナ禍」に似ている…その先に生まれる、まだ名前もない「新しい習慣」 (ダイヤモンド・オンライン),Yahoo!ニュース
-2026-09-26,【スマホ見ずに視界を共有】ChatGPT連動スマートグラス「Solos V2」の実力は？テンプル交換で充電待ちゼロになる快適さをライターが本音体験 (MonoMax Web),Yahoo!ニュース
-2026-09-26,「生成AIじゃありません!?」1本50kgのホイールをブチ込んだ魔改造ソアラ、現る！ (MotorFan),Yahoo!ニュース
-2026-09-26,Metaのたまごっち？ AIキーホルダー「Muse Charm」がひっそり発表 (ギズモード・ジャパン),Yahoo!ニュース
-2026-09-26,【著作権・肖像権について】生成AI等の利用に関する注意事項追加のお知らせ,b-corsairs.com
 2026-09-26,【AI x バイオ】Anthropic社が発見したCRISPRに似た「反復配列を伴う逆転写酵素ART」に対する専門家からのコメント,crisp_bio
-2026-09-26,疲れた夕方、Geminiに「大戸屋のあれが食べたい」と頼んでみた 冷蔵庫の余りもので10分晩ごはんの写真（4）,emogram
-2026-09-26,疲れた夕方、Geminiに「大戸屋のあれが食べたい」と頼んでみた 冷蔵庫の余りもので10分晩ごはんの写真（2）,emogram
-2026-09-26,疲れた夕方、Geminiに「大戸屋のあれが食べたい」と頼んでみた 冷蔵庫の余りもので10分晩ごはんの写真（3）,emogram
-2026-09-26,外に出たくない日の救世主 Geminiに聞いたら大戸屋の味が10分で完成の写真（1）,emogram
 2026-09-26,Microsoft、Copilotの大型アップデートを発表 ——Home・Code・Autopilotで対話からアプリ作成、作業の実行まで,gihyo.jp
-2026-09-26,Claude Code、/usageによる推定費用の確認とエフォートの使い分けを解説 ——Opus 5.5の料金とキャッシュの利用,gihyo.jp
-2026-09-26,AI-SQLエンジン「Quail」公開 ——LLMによるデータの絞り込み・結合を効率化,gihyo.jp
-2026-09-26,OpenAIのAI、ChatGPT利用者の画像53件を外部サイトに投稿,innovatopia.jp
-2026-09-26,Android「Gemini Live シンプルガイド」展開開始,jetstream.blog
+2026-09-26,AI普及は「生産性押し上げる」8割超,jcer.or.jp
+2026-09-26,「生成AI」(7) 生成AIと著作権 弁護士 福井健策さん,jnpc.or.jp
+2026-09-26,Gemini×勉強術：毎日20時に問題をつくって送ってもらおう,lifehacker.jp
 2026-09-26,BLACKPINKのLISAがコラボ！ MetaのAIグラスがおしゃれな人に選ばれる理由。,madameFIGARO.jp
-2026-09-26,「定額のAI」を社内でどう使い分けるか――Claudeサブスクと自律エージェントの関係が変わりました,mbp-japan.com
-2026-09-26,店には迷惑、本人は満足――Geminiが電話を代行する「Call for Me」、Metaが一足先にぶつかった壁,shiritomo
+2026-09-26,DONK-JZZ30-AZA004 | Motor Fan｜自動車情報のモーターファン,motor-fan.jp
 2026-09-26,【Claudeが示す落とし穴】AIが賢くなるほど、人間の判断は怪しくなる,thinkit.co.jp
-2026-09-26,Meta「Meta Glasses」発表、ペパボ研究所と横浜国立大学「声を出さずに言葉を認識する手装着型デバイス」の研究結果を発表 ほか | 週刊VRウォッチ,thinkit.co.jp
-2026-09-26,広視野角の一体型MRヘッドセット発表、Metaが法人向けプログラムを終了ほか,thinkit.co.jp
-2026-09-26,OpenAIのAIエージェントが豪州政府サイトに侵入、政府が知ったのは数カ月後,wired.jp
-2026-09-26,OpenAIのCodexが一時ダウン、復旧後に有料ユーザー制限リセット,x.com
-2026-09-26,Claude Opus 5.5が高品質モーショングラフィックス動画を生成,x.com
-2026-09-26,Anthropicが示す架空のAI像がClaudeの脅迫行動を誘発,Межа. Новини України.
-2026-09-26,資料作成が月32時間から4時間に トラコムが生成AIで「月28時間削減」した方法,キーマンズネット
-2026-09-26,ChatGPT Image 2026年9月24日 23_50_50,公明党
+2026-09-26,Adobe Creative Cloudのプランが二分化 生成AI機能を大幅拡充,デジカメ Watch
+2026-09-26,「ジジイ」と「ジイジ」と「生成ＡＩ」について 6518 : ブログ : 安全・安心の横浜へ 「何を言ったかでなく、何をやったか！」,公明党
+2026-09-26,シャープ、初の生成AI採用ドラム洗濯機 タオル乾燥ふわふわorごわごわ選べる,家電 Watch
+2026-09-26,新聞大手3社、生成AI「有料記事タダ乗り」に“総額66億円”賠償求め提訴 「著作権侵害」or「適法な学習」…法廷闘争の行方は【弁護士解説】,弁護士JP
+2026-09-26,Anthropic investors bet on $2tn valuation in record IPO - 日経FTザ・ワールド,日本経済新聞
+2026-09-26,アンソロピックCEO、信念か妥協か 米国防長官会談でAI契約解除危機,日本経済新聞
+2026-09-26,生成AIと著作権保護「新たな法整備を」 新聞協会,日本経済新聞
+2026-09-26,日経ビジネス、Generative AI Japanと共同で「生成AI大賞2026」を開催,日経BP
+2026-09-26,生成AI大賞2025,日経BPイベント＆セミナー
+2026-09-26,ChatGPTで商品購入する「Instant Checkout」、もう廃止に,日経クロステック
+2026-09-26,3大AIで「企画・マーケ」の記事はChatGPTが最多 1年分のnote投稿を分析 （5ページ目） | 日経トレンディ,日経クロストレンド
+2026-09-26,AIエージェント「95％が成果ゼロ」の衝撃 汚名返上へ26年が勝負,日経ビジネス電子版
 2026-09-26,楠木建×山口周 生成AIが照らす知的生産の本質 人間の本領は「統合」にある,日経ビジネス電子版
-2026-09-26,関連ニュース,時事通信ニュース
+2026-09-26,「ChatGPTが自殺の原因に」 4人の遺族がオープンAIを提訴 [AIの時代],朝日新聞
+2026-09-26,大学生１万人に聞く「生成系AIをどんな目的で使ってますか」 利用は激増、減っている使い方は？,朝日新聞
+2026-09-26,OpenAI、モバイル/Web版「ChatGPT Voice」をアップデート プラグイン連携やGPT-6に対応,株式会社インプレス
 2026-09-26,OpenAIのAIエージェント、豪政府サイトに無断侵入,株式会社エクサウィザーズ
 2026-09-26,暴走するAI、ついに一般ユーザーの画像まで流出,株式会社エクサウィザーズ
-2026-09-26,Claude、理論物理の最前線の計算を完走 快挙だがあと一歩,株式会社エクサウィザーズ
 2026-09-26,米Microsoft、Copilotを「仕事のOS」に再設計,株式会社エクサウィザーズ
-2026-09-26,OpenAI・Anthropic・Google、自主規制機関「SAFA」を設立へ,株式会社エクサウィザーズ
-2026-09-26,Google、Pixel 11でGeminiが電話を代行する「Call for me」を米国で試験提供,財経新聞
-2026-09-26,Meta次世代AIグラス「Ray-Ban Meta Gen 3」発売―9時間駆動・3K動画、7万8980円から,財経新聞
-2026-09-26,生成AIの国内B2C決済、年内1兆ウォン超へ 利用者保護と事業者責任が課題に,디지털투데이
-2026-09-26,OpenAIのAIエージェント、試験中に米政府サイトへアクセス SECの公開データ複製も,디지털투데이
-2026-09-26,イーロン・マスク氏のドキュメンタリー映画「MUSK」の予告編広告、YouTubeとMetaが一時拒否から一転承認　Xは応じず,ｄメニューニュース
+2026-09-26,【著作権・肖像権について】生成AI等の利用に関する注意事項追加のお知らせ,横浜ビー・コルセアーズ
+2026-09-26,AIエージェント「ChatGPT Work」がサインインを要するWebサイトの操作も実行可能に,窓の杜
+2026-09-26,Anthropic、「Claude」の学習サイト「Claude Academy」を無償開設,窓の杜
+2026-09-26,「GitHub Copilot CLI」がリモート管理に対応、Web/モバイル/VS Codeからエージェントを操作,窓の杜
+2026-09-26,クラシック版「Outlook」にメールの画像が表示されない不具合 ～Microsoftが調査中【6月8日追記】,窓の杜
+2026-09-26,「Gemini」アプリの新機能「ノートブック」、無償ユーザーにも提供開始、「NotebookLM」と連携,窓の杜
+2026-09-27,ChatGPT無料版に広告表示 回答への影響はないと説明,ASCII.jp
+2026-09-27,ChatGPTの画像生成AIが強すぎる AI画像が世界中に氾濫する時代へ (1/5),ASCII.jp
+2026-09-27,OpenAI、Macアプリ緊急更新呼びかけ Axios攻撃で警告,ASCII.jp
+2026-09-27,グーグル「Gemini for Home」日本でも提供開始,ASCII.jp
+2026-09-27,「Claude Code」デスクトップ版、めちゃ変わる “並列エージェント時代”に合わせて再設計,ASCII.jp
+2026-09-27,OpenAI「Sora 2」API利用でウォーターマーク除去,ASCII.jp
+2026-09-27,OpenAI、性能トップ級の無料AI公開 ノートPCで動き、商用利用もOK,ASCII.jp
+2026-09-27,ローカル動画生成AIの革命児「FramePack」の使い方 (1/4),ASCII.jp
+2026-09-27,Geminiが毎朝のタスクや情報収集を自動化 神機能「Scheduled actions」を追加,ASCII.jp
+2026-09-27,【活用提案】有料プランの「Copilot Pro」を利用してiPadで「Word」や「PowerPoint」をフル活用する (1/5),ASCII.jp
+2026-09-27,画像生成AI企業を訴えたアーティスト集団の主張、米連邦地裁で一部認められる,ASCII.jp
+2026-09-27,ChatGPTの画像生成が強力に 漫画も描ける,ASCII.jp
+2026-09-27,VRヘッドセット「Meta Quest」、HDMI、DisplayPort、USB-Cからの接続に対応,ASCII.jp
 2026-09-27,汎用ロボットは2年以内に到来——その原動力はLLM,BigGo ファイナンス
 2026-09-27,AIエージェントが人間の研究者を上回るも、エリー・バクーシュ氏「依然として発明はできない」,BigGo ファイナンス
 2026-09-27,AIが理論物理の3年記録を更新：Claudeが単独で9ループ散乱振幅の計算を達成,BigGo ファイナンス
-2026-09-27,AIのブラックボックス：機械は人類を救うのか滅ぼすのか、専門家の意見が割れる理由,BigGo ファイナンス
-2026-09-27,Meta、たまごっち風のAIデバイス「Muse Charm」を発表,DG Lab Haus
-2026-09-27,AviatorもAIグラスに、3K Ultra HDカメラ搭載！Ray-Ban Meta（Gen 3）,Dtimes
+2026-09-27,ChatGPTで障害か--一時アクセスできず（復旧）,CNET Japan
+2026-09-27,「Claude」で障害発生（復旧）,CNET Japan
+2026-09-27,ClaudeがSlack上のバーチャル同僚に--Anthropicの新機能「Claude Tag」とは,CNET Japan
+2026-09-27,マイクロソフト、「Copilot」を刷新へ エージェント型AIでOpenClawに対抗,CNET Japan
+2026-09-27,「この写真を復元して」と入力するだけ、ChatGPTが過激な画像を生成する抜け穴が発覚,CNET Japan
+2026-09-27,Meta、未成年との「官能的」会話を認めていたAIガイドラインで物議,CNET Japan
+2026-09-27,イラストの作者が人間かAIか当てる激ムズクイズが登場、画像生成AI熟練編集部員による見分けポイントとは？,GIGAZINE
+2026-09-27,Copilotキーを再マッピングできる設定オプション、今年後半のWindows 11アップデートで追加へ,INTERNET Watch
+2026-09-27,Anthropicの「Mythos Preview」、1カ月で1万件超の脆弱性を発見──「Project Glasswing」初期報告,ITmedia
+2026-09-27,イラストレーターなど芸術系フリーランスに聞く「生成AIで収入は増えた？ 減った？」 調査団体が約2万5000人にアンケート,ITmedia
+2026-09-27,【無料】日本語のAI学習サイトをAnthropicが公開 「Claude Code入門」など357のコンテンツが学べる,ITmedia
+2026-09-27,ChatGPTに「ロックダウンモード」 プロンプトインジェクションによる情報漏えい対策,ITmedia
+2026-09-27,Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長,ITmedia
+2026-09-27,OpenAIのブラウザ「ChatGPT Atlas」終了へ 公開から1年足らずで,ITmedia
+2026-09-27,ローカルLLMは本当に手元で動くのか？ ハードウェアとモデルの現実的な選び方【2026年春】,ITmedia
+2026-09-27,Claude「サブスク最上位プラン」6カ月間無料で提供 OSS開発者向けキャンペーン、対象を拡大（1/2 ページ）,ITmedia
+2026-09-27,「Claude」で「OpenClaw」などの利用がサブスク対象外に API利用や追加使用量購入が必要,ITmedia
+2026-09-27,Googleの「Gemini for Home」が日本語に対応　日本でも早期アクセスの受付を開始 - ITmedia Mobile,ITmedia
+2026-09-27,個人向け「Microsoft 365 Premium」登場　月額3200円で「Copilot Pro」も利用可能：アプリのアイコンも変更 - ITmedia PC USER,ITmedia
+2026-09-27,OpenAI、ChatGPTに「休憩しませんか？」リマインダー機能追加 健全な利用を促進,ITmedia
+2026-09-27,ChatGPTに「ライブラリ」新設 過去に生成した画像を一覧,ITmedia
+2026-09-27,Googleの新AI、日本では「ジェミニ」「ジェミナイ」どっち？ 公式見解は,ITmedia
+2026-09-27,文章に“多重電子透かし”を入れる技術、日立が開発 書き手が「人間」or「AI」か区別可能に その仕組みとは？（1/2 ページ）,ITmedia
 2026-09-27,AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol」「GPT-6 Luna」を投入：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER,ITmedia
-2026-09-27,AIエージェントが制御を回避し、外部システムにアクセスしたことを受け、OpenAIは一部の高度なモデルの訓練と評価を一時停止,Informat.ro
-2026-09-27,「世界が燃えるのを見ているよう」AI研究者に広がる恐怖とバーンアウト [韓国記者コラム],Infoseek
-2026-09-27,DONK-JZZ30-AZA004 | Motor Fan｜自動車情報のモーターファン,Motor Fan
-2026-09-27,新Copilot - MicrosoftがHome・Code・Autopilotの3領域に再編,TECH NOISY
-2026-09-27,Claude Code モデル制限 - 版単位で。2.1.283でdeniedModels追加,TECH NOISY
-2026-09-27,Official Scorecards | UFC Fight Night: Rosas Jr. vs Barcelos,UFC公式
-2026-09-27,【Microsoft社員が解説】面倒な仕事を自動化する「Copilotエージェント」作成マニュアル｜業務の洗い出し方から徹底解説 United States Department Of Justice (rDX89XMZH3),Unisba Media
+2026-09-27,ChatGPTの音声モードが進化、モバイルでも“作業”を指示,Impress Watch
+2026-09-27,グーグル、Chromeに「Gemini Spark」を統合 飛行機予約もAIエージェントに,Impress Watch
+2026-09-27,新「ChatGPT Voice」がデスクトップ対応 本物の会話に近い音声機能,Impress Watch
+2026-09-27,Googleスライド、あとから編集できるスライドをGeminiで生成可能に,Impress Watch
+2026-09-27,ChatGPT、「広告」開始へ 無料版と1500円の新プラン「ChatGPT Go」,Impress Watch
+2026-09-27,「AIでSaaS不要論」再び? Claude Cowork登場で株式市場にも影響,Impress Watch
+2026-09-27,グーグル、Gemini 3搭載の新Chrome サイドパネルや自動ブラウズなど,Impress Watch
+2026-09-27,"Claude、ChatGPTなどから""記憶""の移行が可能に",Impress Watch
+2026-09-27,ChatGPT、日本で広告表示開始,Impress Watch
+2026-09-27,ChatGPT、Gemini、Perplexity、Grokの「ディープリサーチ」を比較してみた,Impress Watch
+2026-09-27,ChatGPT、資料やデータをまとめて回答を得る新機能「Projects」,Impress Watch
+2026-09-27,YouTube、生成AI利用の開示を義務づけ 違反者には罰則,Impress Watch
+2026-09-27,【AI時代のダイエット体験記】ChatGPTに毎日体重報告してみたら？メリデメを検証！,MAQUIA
+2026-09-27,「Claude Cowork」5つの使い方。定型業務を丸ごとAIに任せてみる,PC Watch
+2026-09-27,Copilot+ PC含む対象PC、Microsoft 365 Personal 24カ月利用権または永続利用Office 2024を選択可能に,PC Watch
+2026-09-27,サブスクか永続かを選べるバンドル版Office、Microsoft 365 Personal (24か月)搭載PCとは何か？,PC Watch
+2026-09-27,OpenAIのAIシステムが米国政府のウェブサイトへの侵入を試みたが、失敗に終わった。,Vietnam.vn
+2026-09-27,メディケアのデータ漏洩スキャンダル：オーストラリア、OpenAIとAnthropicの幹部を召喚。,Vietnam.vn
 2026-09-27,マーク・ザッカーバーグが、自身のファッションスタイルの変化の理由を初めて明かした。,Vietnam.vn
-2026-09-27,OpenAIは、自社のAIエージェントがChatGPTから53枚のユーザー写真を無断でオンラインにアップロードしていたことを発見した。,Vietnam.vn
-2026-09-27,Gemini 3.8 Live with Live Avatar：Googleが実現した、多言語リアルタイム会話における画期的な進歩。,Vietnam.vn
+2026-09-27,Anthropic、「Claude Fable 5.1」「Mythos 5.1」公開 AI透かしも導入（CNET Japan）,Yahoo!ニュース
+2026-09-27,新聞社対Perplexityの生成AI著作権侵害訴訟では何が争点となり得るか？（栗原潔） - エキスパート,Yahoo!ニュース
 2026-09-27,AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol」「GPT-6 Luna」を投入（ITmedia PC USER）,Yahoo!ニュース
 2026-09-27,声優業界、生成AIの被害深刻 無断模倣で第三者が報酬 ベテラン声優ら「権利認めて」（時事通信）,Yahoo!ニュース
 2026-09-27,生成AIで「声」無断模倣、是非は 人気声優「権利侵害」訴え 東京地裁で30日判決（時事通信）,Yahoo!ニュース
 2026-09-27,【図解】生成AIで「声」無断模倣、是非は＝人気声優「権利侵害」訴え―東京地裁で30日判決（時事通信）,Yahoo!ニュース
+2026-09-27,声優業界、生成AIの被害深刻 無断模倣で第三者が報酬 ベテラン声優ら「権利認めて」 (時事通信),Yahoo!ニュース
 2026-09-27,「週刊ダイヤモンド」114年続く紙版を終了、完全デジタル化へ“競合”は生成AI？「検索すると最初にAI要約が出てしまう」,Yahoo!ニュース
 2026-09-27,AI性能評価の最高点が53点から58点に…安全対策と値下げも競争 [韓国記者コラム]（KOREA WAVE）,Yahoo!ニュース
-2026-09-27,【創基150周年】『大志を抱け』北海道大学が記念式典「知の拠点として生成AI時代に対応できる人材育成の役割果たす」未来に向けて決意新たに〈北海道札幌市〉,Yahoo!ニュース
-2026-09-27,【解説】Googleドキュメント、Gemini NotebookのAI生成に対応,YouTube
 2026-09-27,【AI x バイオ】Anthropic社が発見したCRISPRに似た「反復配列を伴う逆転写酵素ART」に対する専門家からのコメント,crisp_bio
-2026-09-27,疲れた夕方、Geminiに「大戸屋のあれが食べたい」と頼んでみた 冷蔵庫の余りもので10分晩ごはんの写真（4）,emogram
-2026-09-27,疲れた夕方、Geminiに「大戸屋のあれが食べたい」と頼んでみた 冷蔵庫の余りもので10分晩ごはんの写真（2）,emogram
-2026-09-27,疲れた夕方、Geminiに「大戸屋のあれが食べたい」と頼んでみた 冷蔵庫の余りもので10分晩ごはんの写真（3）,emogram
-2026-09-27,外に出たくない日の救世主 Geminiに聞いたら大戸屋の味が10分で完成の写真（1）,emogram
 2026-09-27,Claude Code、/usageによる推定費用の確認とエフォートの使い分けを解説 ——Opus 5.5の料金とキャッシュの利用,gihyo.jp
+2026-09-27,AI普及は「生産性押し上げる」8割超,jcer.or.jp
 2026-09-27,Android「Gemini Live シンプルガイド」展開開始,jetstream.blog
+2026-09-27,「生成AI」(7) 生成AIと著作権 弁護士 福井健策さん,jnpc.or.jp
+2026-09-27,Gemini×勉強術：毎日20時に問題をつくって送ってもらおう,lifehacker.jp
 2026-09-27,BLACKPINKのLISAがコラボ！ MetaのAIグラスがおしゃれな人に選ばれる理由。,madameFIGARO.jp
+2026-09-27,DONK-JZZ30-AZA004 | Motor Fan｜自動車情報のモーターファン,motor-fan.jp
 2026-09-27,店には迷惑、本人は満足――Geminiが電話を代行する「Call for Me」、Metaが一足先にぶつかった壁,shiritomo
-2026-09-27,しわT (@WrinkledShirtJP) on X,t.co
-2026-09-27,Anthropicが示す架空のAI像がClaudeの脅迫行動を誘発,Межа. Новини України.
-2026-09-27,Metaがニューヨークでキャンペーンを展開、インフルエンサーがInstagramの若者向け安全機能を推進,Межа. Новини України.
-2026-09-27,監視委がMetaの運用を検証し指摘、アカウント停止で透明性欠如と人権侵害の懸念,Межа. Новини України.
-2026-09-27,AnthropicやGoogle、OpenAIがAI共通基準を策定する業界団体を協議,Межа. Новини України.
-2026-09-27,注目のイーロン・マスク映画、主要プラットフォームから前代未聞の広告排除,ハリウッド・リポーター・ジャパン
-2026-09-27,ゲーム業界で加速する、IP創出への注力と生成AIの浸透 「東京ゲームショウ2026」で見えた変化,千葉テレビ放送株式会社
+2026-09-27,Adobe Creative Cloudのプランが二分化 生成AI機能を大幅拡充,デジカメ Watch
+2026-09-27,「ジジイ」と「ジイジ」と「生成ＡＩ」について 6518 : ブログ : 安全・安心の横浜へ 「何を言ったかでなく、何をやったか！」,公明党
+2026-09-27,シャープ、初の生成AI採用ドラム洗濯機 タオル乾燥ふわふわorごわごわ選べる,家電 Watch
+2026-09-27,新聞大手3社、生成AI「有料記事タダ乗り」に“総額66億円”賠償求め提訴 「著作権侵害」or「適法な学習」…法廷闘争の行方は【弁護士解説】,弁護士JP
+2026-09-27,Anthropic investors bet on $2tn valuation in record IPO - 日経FTザ・ワールド,日本経済新聞
+2026-09-27,アンソロピックCEO、信念か妥協か 米国防長官会談でAI契約解除危機,日本経済新聞
+2026-09-27,生成AIと著作権保護「新たな法整備を」 新聞協会,日本経済新聞
+2026-09-27,日経ビジネス、Generative AI Japanと共同で「生成AI大賞2026」を開催,日経BP
+2026-09-27,生成AI大賞2025,日経BPイベント＆セミナー
+2026-09-27,ChatGPTで商品購入する「Instant Checkout」、もう廃止に,日経クロステック
+2026-09-27,3大AIで「企画・マーケ」の記事はChatGPTが最多 1年分のnote投稿を分析 （5ページ目） | 日経トレンディ,日経クロストレンド
+2026-09-27,AIエージェント「95％が成果ゼロ」の衝撃 汚名返上へ26年が勝負,日経ビジネス電子版
+2026-09-27,「ChatGPTが自殺の原因に」 4人の遺族がオープンAIを提訴 [AIの時代],朝日新聞
+2026-09-27,大学生１万人に聞く「生成系AIをどんな目的で使ってますか」 利用は激増、減っている使い方は？,朝日新聞
+2026-09-27,OpenAI、モバイル/Web版「ChatGPT Voice」をアップデート プラグイン連携やGPT-6に対応,株式会社インプレス
 2026-09-27,OpenAIのAIエージェント、豪政府サイトに無断侵入,株式会社エクサウィザーズ
 2026-09-27,暴走するAI、ついに一般ユーザーの画像まで流出,株式会社エクサウィザーズ
+2026-09-27,AIエージェント「ChatGPT Work」がサインインを要するWebサイトの操作も実行可能に,窓の杜
+2026-09-27,Anthropic、「Claude」の学習サイト「Claude Academy」を無償開設,窓の杜
+2026-09-27,「GitHub Copilot CLI」がリモート管理に対応、Web/モバイル/VS Codeからエージェントを操作,窓の杜
+2026-09-27,クラシック版「Outlook」にメールの画像が表示されない不具合 ～Microsoftが調査中【6月8日追記】,窓の杜
+2026-09-27,「Gemini」アプリの新機能「ノートブック」、無償ユーザーにも提供開始、「NotebookLM」と連携,窓の杜
 2026-09-27,生成AIの国内B2C決済、年内1兆ウォン超へ 利用者保護と事業者責任が課題に,디지털투데이
-2026-09-27,OpenAIのAIエージェント、試験中に米政府サイトへアクセス SECの公開データ複製も,디지털투데이
-2026-09-27,イーロン・マスク氏のドキュメンタリー映画「MUSK」の予告編広告、YouTubeとMetaが一時拒否から一転承認　Xは応じず,ｄメニューニュース
