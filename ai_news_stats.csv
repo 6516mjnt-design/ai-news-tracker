@@ -3,13 +3,19 @@
 2026-09-29,Nvidia launches new tool to keep AI agents from going rogue,CNN
 2026-09-29,Midterms 2026: Congress Polls and More,NBC News
 2026-09-29,Teachers at Euan Blair firm report ‘horrendous stress’ after AI used to rate their work,The Guardian
+2026-09-29,AI godfathers warn of runaway ‘intelligence explosion’,The Guardian
 2026-09-29,Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own?,The New York Times
 2026-09-29,Trump Sharply Scales Back Fuel Economy Rules for New Cars,The New York Times
 2026-09-29,"Andrew Bailey, a Deputy Director at the F.B.I., Leaves His Job",The New York Times
 2026-09-29,Cornell Sexual Assault Investigation to Be Reopened,The New York Times
 2026-09-29,Possible Terrorist Plot at RAF Fairford Air Base in U.K.: What We Know,The New York Times
+2026-09-29,Release of Suspects in U.K. Prompts New Questions Over Possible Terror Plot at RAF Fairford Base,The New York Times
+2026-09-29,OpenAIが次世代AIモデルのリリース中止、安全性巡る懸念で－報道（Bloomberg）,Yahoo!ニュース
 2026-09-29,［激動ＡＩ］アンソロピックＣＥＯと会食 トランプ氏、安全性議論か,yomiuri.co.jp
+2026-09-29,アンソロピック、IPO延期も立ち止まれない事情 収益は好調,日本経済新聞
 2026-09-29,あらためて考える「IT資格」の価値、生成AIがあれば勉強は不要なのか,日経クロステック
+2026-09-29,生成AIで変革と内製化を一体推進 紙や手作業を相次ぎ撤廃,日経クロステック
+2026-09-29,ＡＩと数学研究、あり方は データの不正利用、指摘も 「難問解いた」オープンＡＩ発表,朝日新聞
 2026-09-28,〈社説〉米中首脳会談長期的視野で責務果たせ,47news.jp
 2026-09-28,生成AIは「導入」から「定着」のフェーズへ。KINDLER、東京商工会議所 渋谷支部で中小企業向けAI活用セミナーを開催,AERA DIGITAL
 2026-09-28,豪機密情報は「要塞」で保護、副首相が強調－OpenAIモデルの侵入受け,Bloomberg.com
@@ -23,13 +29,18 @@
 2026-09-28,米メタ、ＡＩエージェント「ミューズ」の安全警告強化 脆弱性を発見,Reuters
 2026-09-28,オープンＡＩとアンソロピックのＣＥＯに証言要請、豪議会 ＡＩ巡る調査で | ロイター,Reuters
 2026-09-28,中国宇宙ステーションで初の外国人活動へ、「宇宙外交」でパキスタン人候補が訓練中,Reuters
+2026-09-28,中国宇宙ステーションで初の外国人活動へ、「宇宙外交」でパキスタン人候補が訓練中 | ロイター,Reuters
+2026-09-28,Anthropic will not appear at Senate inquiry into AI and datacentres amid fallout from OpenAI hack,The Guardian
 2026-09-28,Mamdani’s Shadow Looms Over Hochul’s Bid for Re-election,The New York Times
 2026-09-28,"Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",The New York Times
 2026-09-28,Dario Amodei of Anthropic to Dine With Trump at White House,The New York Times
+2026-09-28,Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own?,The New York Times
 2026-09-28,BtoB購買、85.2％が生成AIを活用！ 日経・WBSを上回ったビジネス情報源は？【イニシャル調べ】,Web担当者Forum
+2026-09-28,朝日新聞社が生成AIに自社ブランドを引用される新広告メニュー「AIO/GEOタイアップ」を提供開始,Web担当者Forum
 2026-09-28,オープンＡＩとアンソロピックのＣＥＯに証言要請、豪議会 ＡＩ巡る調査で（ロイター）,Yahoo!ニュース
 2026-09-28,オラクル製ソフトへに再びハッカー攻撃、防御策回避＝グーグル（ロイター）,Yahoo!ニュース
 2026-09-28,トランプ氏、アンソロピックＣＥＯと27日会食へ ＡＩ懸念は一蹴（ロイター）,Yahoo!ニュース
+2026-09-28,BtoB購買、85.2％が生成AIを活用！ 日経・WBSを上回ったビジネス情報源は？【イニシャル調べ】（Web担当者Forum）,Yahoo!ニュース
 2026-09-28,ＮＳＳＯＬ－大幅に3日続伸 アンソロピックと提携 AI基盤を外販＝日経(トレーダーズ・ウェブ),Yahoo!ファイナンス
 2026-09-28,"Migration cuts, AI and rising interest rates mean an era of long-term disinflation",abc.net.au
 2026-09-28,朝日新聞社、生成AI検索時代の新広告メニュー「AIO/GEOタイアップ」を提供開始,au Webポータル
@@ -480,6 +491,7 @@
 2026-09-25,Federal preservation agency says it's 'terminating' required consultation with local officials on Trump's arch - ABC News,"Breaking News, Latest News and Videos"
 2026-09-25,"Trump, House Speaker Johnson expected to meet with tech CEOs on AI next week: Sources - ABC News","Breaking News, Latest News and Videos"
 2026-09-25,Trump welcomes Xi to White House for state dinner - ABC News,"Breaking News, Latest News and Videos"
+2026-09-25,"Anthropic seeks 50.1% voting control for co-founders ahead of IPO, The Information reports",CNA
 2026-09-25,生成AIがプレイヤー好みにゲームを書き換える マイクロソフトが特許出願,CNET Japan
 2026-09-25,「Googlebook」の実機を触ってみた--Geminiで効率化、Androidスマホとの垣根もほぼゼロに,CNET Japan
 2026-09-25,グーグル「Gemini」に電話代行の新機能 レストラン予約もお任せ,CNET Japan
@@ -1249,9 +1261,11 @@
 2026-09-16,毎小ニュース：科学 AI開発減速呼びかけ アンソロピック,毎日新聞
 2026-09-16,「生成AIで変わる開発プロセス(オンライン講座)」開催,産経ニュース
 2026-09-15,China bristles at Anthropic 'fearmongering' on its AI development,1News
+2026-09-15,"Trump calls AI risks a 'hoax', says there is a 'SICK conspiracy'",1News
 2026-09-15,Top 25 Generative AI Finance Use Cases,AIMultiple
 2026-09-15,AIの「キルスイッチ」義務化も検討すべき　アンソロピック共同創業者がBBCに話す,BBC
 2026-09-15,中国、AIをめぐって「悪意ある競争」をしているとの見方を批判,BBC
+2026-09-15,Who is Umar Kremlev? Russian businessman who paid for part of Trump Jr.'s wedding - ABC News,"Breaking News, Latest News and Videos"
 2026-09-15,アップル、「Siri AI」をClaudeやGPTに置き換え可能に？ 「iOS 27」のコードが示す新機能,CNET Japan
 2026-09-15,Cisco president shares thoughts on AI debate,CNN
 2026-09-15,生成AIを「別画面」で使い続けて本当によいのか？ 300人調査で見えた活用定着の“壁”,ITmedia
