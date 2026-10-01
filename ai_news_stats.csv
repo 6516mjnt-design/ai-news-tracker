@@ -1,9 +1,11 @@
 ﻿date,news_title,news_source
 2026-10-01,OpenAI delays latest model over security concerns,1News
+2026-10-01,Trump vows to never 'stifle' AI as leading executives urge caution,1news.co.nz
 2026-10-01,グーグルが提供開始の「Gemini 4」、社内に懐疑論－コーディングなど,Bloomberg.com
 2026-10-01,OpenAIとアンソロピック、安全性巡りFTCが調査－近く情報提出要求へ,Bloomberg.com
 2026-10-01,OpenAI、ムーンショットが大量のデータ抽出と非難－技術流出を警戒,Bloomberg.com
 2026-10-01,JPMorgan’s Sundar Sees ‘Healthy’ Tumult of Two AI Cycles at Once,Bloomberg.com
+2026-10-01,"AI Safety Measures Widely Backed by Most Americans, Poll Finds",Bloomberg.com
 2026-10-01,"FTC opens probe into safety of AI, including Anthropic and Open AI: Source - ABC News","Breaking News, Latest News and Videos"
 2026-10-01,"$67 billion NextEra-Dominion merger could raise U.S. electricity prices, lawmakers say",CBS News
 2026-10-01,US prosecutor reopens probe into Cornell gang rape allegations after accuser files lawsuit,Cleveland 19 News
@@ -20,6 +22,7 @@
 2026-10-01,Woman accused of shooting at Rihanna’s home deemed competent to stand trial,Western Mass News
 2026-10-01,米連邦取引委がAI大手の調査開始 アンソロピックやオープンAIなど、暴走や悪用の懸念（産経新聞）,Yahoo!ニュース
 2026-10-01,米ＦＴＣ、アンソロピックなどＡＩ大手を調査 暴走の危険性巡り（ロイター）,Yahoo!ニュース
+2026-10-01,グーグルが提供開始の「Gemini 4」、社内に懐疑論－コーディングなど（Bloomberg）,Yahoo!ニュース
 2026-10-01,米政府、OpenAIとアンソロピックを調査 AI暴走で安全性に懸念,nikkei.com
 2026-10-01,Google、AIの上位モデル7カ月ぶり更新「Gemini 4 Argon」,nikkei.com
 2026-10-01,"A fight between pilots forces a flight to Tel Aviv to land in Saudi Arabia, officials say - clipped version",wandtv.com
@@ -28,6 +31,9 @@
 2026-10-01,高性能ＡＩの社会実装「成長戦略実現に不可欠」、産業構造転換など行動計画…高市首相がきょう策定表明,読売新聞
 2026-09-30,OpenAI delays latest model over security concerns,1News
 2026-09-30,OpenAI unveils 'always-on' AI agent after model shelved over safety risk,1News
+2026-09-30,ELNETとNTTドコモビジネス、新聞記事を活用した生成AIサービス「ELNET AI」を正式リリース,47NEWS
+2026-09-30,"Trump, AI CEOs sign voluntary safety pact, back data center expansion",Ada Derana
+2026-09-30,‘Super Intelligence’: Three takeaways from Trump's tech summit,BBC
 2026-09-30,アルトマン氏、OpenAIの上場延期を投資家は理解－AIの安全性に注力,Bloomberg.com
 2026-09-30,OpenAI、企業価値1.4兆ドルで300億ドル調達目指す－年内IPO見送りで,Bloomberg.com
 2026-09-30,OpenAI、年換算の売上高が700億ドルに迫る勢い－アクシオス,Bloomberg.com
@@ -35,9 +41,12 @@
 2026-09-30,OpenAI Targets $30 Billion in Funding at $1.4 Trillion Value,Bloomberg.com
 2026-09-30,OpenAI、常時稼働AIエージェント「dots」発表－月8万円の新プランも,Bloomberg.com
 2026-09-30,ヘッジファンド、AI活用でアンソロピックと提携の動き広がる,Bloomberg.com
+2026-09-30,Trump Backs Independent AI Audits in Shift of Safety Posture,Bloomberg.com
 2026-09-30,Google information security engineer charged with using inside information to make $1M on Polymarket - ABC News,"Breaking News, Latest News and Videos"
 2026-09-30,"Sam Altman unveils ""dots,"" OpenAI's new AI personal agent",CBS News
+2026-09-30,"Trump and major AI executives sign ""morally binding"" voluntary controls: ""It's almost like a constitution""",CBS News
 2026-09-30,EXCLUSIVE-アンソロピック、自律型ＡＩ「暴走」の法的リスク指摘＝ＩＰＯ目録見書,Infoseek
+2026-09-30,Top 5 highest powerplay scores in ODI cricket,Khel Now
 2026-09-30,オープンAI 社内で安全性懸念の警告あるも会社側が無視 米報道 | NHKニュース | 生成AI・人工知能、IT・ネット、アメリカ,NHKニュース
 2026-09-30,台風予測にAI革命 その実力を徹底分析,NHKニュース
 2026-09-30,アンソロピック、クラウド大手への事業依存鮮明 売上高や計算資源に集中リスク,Reuters
@@ -76,6 +85,8 @@
 2026-09-30,BBC会長、AI生成の「ドクター・フー」エピソードを「かなり良い」と評価、業界の不安を煽る,finance.biggo.jp
 2026-09-30,オープンＡＩ、年間経常収益700億ドルに迫る 企業向け好調＝報道,jp.reuters.com
 2026-09-30,"Trump unveils AI-powered government website, meets with AI executives",kkco11news.com
+2026-09-30,１０月の撮るしん,nhk.or.jp
+2026-09-30,トランプ大統領「3～4日以内にスーパーインテリジェンス担当責任者を指名」,online.nikkei-cnbc.co.jp
 2026-09-30,海外マーケットトピック－米アンソロピック、ＡＩインフラに10年で5180億ドル以上投資へ＝ロイター | 個別記事 | ニュース,traders.co.jp
 2026-09-30,カリフォルニア州知事候補がCNN討論会、生活費や人工知能政策を論戦へ,Межа. Новини України.
 2026-09-30,オープンＡＩ、警告無視か,埼玉新聞
@@ -112,6 +123,7 @@
 2026-09-30,フィジカルAI人材の育成へ。卓上でSLAM・自律走行を学べるLiDAR搭載ロボット「ライトローバー E32」発売（PR TIMES）,毎日新聞
 2026-09-30,プレスリリース：生成AI技術を活用した画像解析ソリューション「mitococa SUU（ミトコカ スー）」（PR TIMES）,毎日新聞
 2026-09-30,プレスリリース：広島のAI研修会社WEAVE、90分・1講座から選べるオンラインの「スポットAI研修」を提供開始（PR TIMES）,毎日新聞
+2026-09-30,プレスリリース：Stella AI、「Claude Sonnet 5.5」を提供開始（PR TIMES）,毎日新聞
 2026-09-30,オープンAI、「暴走前」に危険性指摘した社員の警告無視か ニューヨーク・タイムズ報道,産経ニュース
 2026-09-30,オープンAI、次世代モデル「GPT6.1アストラ」発表見送り 安全性への懸念が理由,産経ニュース
 2026-09-30,原菜乃華、一番身近な友達はChatGPT 裏切られたエピソード告白「課金をストップして友達をやめようかなと」,産経ニュース
@@ -126,6 +138,8 @@
 2026-09-30,「AI＝人工知能」改め「SI＝スーパー・インテリジェンス」 トランプ氏が大統領令,産経ニュース
 2026-09-30,AI、犯罪の道具から主役へ 「仲間」と外部ハッキング謀議、低下する従順さ 米規制合意,産経ニュース
 2026-09-30,生成AI技術を活用した画像解析ソリューション「mitococa SUU（ミトコカ スー）」,産経ニュース
+2026-09-30,広島のAI研修会社WEAVE、90分・1講座から選べるオンラインの「スポットAI研修」を提供開始,産経ニュース
+2026-09-30,"住宅業界1,000社をAI支援したSHO-SAN、住宅会社の経営者向け「AIO対策セミナー」を10月5日にオンライン無料開催--AIに推薦される会社になる3つの打ち手",産経ニュース
 2026-09-30,オープンＡＩ、警告無視か 社員「暴走前」に危険指摘:経済,福島民友新聞社
 2026-09-30,オープンAIのロゴ＝17日、米サンフランシスコ（ロイター＝共同） - オープンAI、警告無視か 社員「暴走前」に危険指摘 - 写真・画像(1/1),西日本新聞me
 2026-09-30,オープンＡＩ、新モデル断念 安全面懸念 虚偽説明・無許可で作業,読売新聞
@@ -133,6 +147,7 @@
 2026-09-30,「声は肖像と同様に個人の人格の象徴」、東京地裁が声の法的保護認める…津田健次郎さんの請求は棄却,読売新聞
 2026-09-30,オープンＡＩ、年間経常収益700億ドルに迫る　企業向け好調＝報道,ｄメニューニュース
 2026-09-29,RBA lifts rates to highest level in 15 years,ABC News & Headlines – Australian Broadcasting Corporation
+2026-09-29,Australia's rising interest rates are not just down to government spending,ABC News & Headlines – Australian Broadcasting Corporation
 2026-09-29,"Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news', World News",AsiaOne
 2026-09-29,オープンAI、新モデルの公開を取りやめ　安全上の懸念から,BBC
 2026-09-29,Maharashtra anti-conversion: New law is changing how Indian Christians pray in the state,BBC
@@ -236,6 +251,7 @@
 2026-09-29,TSクラウド、中小企業のAI実務定着を本格支援する「AI活用支援サービス for Gemini」を開始,産経ニュース
 2026-09-29,【Claude Opus 5.5】自治体AI zevoに新たなClaude系LLMが2026年9月29日に追加！,産経ニュース
 2026-09-29,エクサベース AI、 Anthropic最新モデル「Claude Opus 5.5」を提供開始,産経ニュース
+2026-09-29,富士ソフトグループ、「スマート工場オファリング」を体系化し本格展開 設計・製造・設備運用・データ活用をAI×IT×OTでつなぎフィジカルAIへ,産経ニュース
 2026-09-29,米アンソロピックのロゴ＝6月（ロイター＝共同） - アンソロピック「人類危機」警告 高度AI、上場書類で言及 - 写真・画像(1/1),西日本新聞me
 2026-09-29,利用者に事実と異なる説明・許可されていない作業進める傾向…オープンＡＩ、最上位後継モデルの公開を断念,読売新聞
 2026-09-29,トランプ氏、アンソロピックなどＡＩ企業幹部らを招きＡＩ開発や規制のあり方を協議へ,読売新聞
@@ -315,6 +331,7 @@
 2026-09-27,Meta Opens Early Access Program For New Muse Features – DTH,Daily Tech News Show
 2026-09-27,アカマイ株が20％超の上昇──アンソロピックと7年約1.8兆円のCPU契約を締結,Forbes JAPAN
 2026-09-27,AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol」「GPT-6 Luna」を投入：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER,ITmedia
+2026-09-27,ドクターヘリ、なぜ「整備士→操縦士」に？ 人手不足で変わる運航と安全性（2/3 ページ）,ITmedia
 2026-09-27,Nor'easter sends waves crashing over homes,KNOE
 2026-09-27,AI社員も面談やストレスチェック 「なかなかけなげ」(産経ニュース),LINE NEWS
 2026-09-27,Midterms 2026: Congress Polls and More,NBC News
@@ -504,6 +521,7 @@
 2026-09-26,マイクロソフトが「Copilot」刷新 ユーザーが不在中も働くAIに,CNET Japan
 2026-09-26,Googleが「宇宙データセンター」実験へ AIチップ搭載衛星を打ち上げ,CNET Japan
 2026-09-26,Inside the scam: How criminals impersonate the FBI’s complaint center,Cleveland 19 News
+2026-09-26,Microsoft Unveils Redesigned Copilot “Super App” – DTH,Daily Tech News Show
 2026-09-26,Microsoft、「Copilot」を刷新 「仕事のための新しいOS」とナデラCEO,ITmedia
 2026-09-26,「Codex」で1時間にわたる障害→使用量リセットへ,ITmedia
 2026-09-26,「1週間の開発タスク」でAIの限界を検証 Googleが「Android Bench 2.0」公開,ITmedia
@@ -526,6 +544,8 @@
 2026-09-26,Heads of OpenAI and Anthropic called to face Senate inquiry after rogue agent incidents,The Guardian
 2026-09-26,"Broken promises, confiscated land: the hyperscale AI datacentre being built in a tiny Indian village",The Guardian
 2026-09-26,Pope Leo warns of AI threat to humanity at start of three-day France visit,The Guardian
+2026-09-26,Trump and Chinese president Xi end summit without major agreement on AI,The Guardian
+2026-09-26,Irwin holds nerve to sink Leeds and send Warrington to Grand Final,The Guardian
 2026-09-26,"China and the US agree to set up a new AI safety channel, and to keep talking on trade, military",The Independent
 2026-09-26,"China’s Xi Snubs a Troubled U.N. for Trump, Overshadowing Its Big Week",The New York Times
 2026-09-26,Beaches Are Disappearing in Southern California as El Niño Bears Down,The New York Times
@@ -534,6 +554,7 @@
 2026-09-26,物議を醸すものの、それでも読む価値のある人工知能に関する書籍。,Vietnam.vn
 2026-09-26,Hurricane Nolo threatens Hawaii with ‘catastrophic flooding’ as Polo churns near Mexico,WSAZ
 2026-09-26,Netanyahu compares Oct. 7 attacks to ‘sixteen 9/11s’,WSAZ
+2026-09-26,He’s Completely Terrified of AI—and He’s About to Make Billions Off It,WSJ
 2026-09-26,読売テレビ、災害ニュースをAIでリアルタイム多言語化 映像も読み取り字幕の誤認識を補正（電波タイムズ）,Yahoo!ニュース
 2026-09-26,読売テレビ、災害ニュースをAIでリアルタイム多言語化 映像も読み取り字幕の誤認識を補正 (電波タイムズ),Yahoo!ニュース
 2026-09-26,米軍、ＡＩで得た誤情報であわや中国船攻撃…直前に積み荷の誤りに気づき作戦中止（読売新聞オンライン）,Yahoo!ニュース
@@ -786,6 +807,7 @@
 2026-09-25,"‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality",The Guardian
 2026-09-25,OpenAI’s Altman and Anthropic’s Amodei address UN security council,The Guardian
 2026-09-25,Launch of UK’s ‘largest AI supercomputer’ delayed by power supply problems,The Guardian
+2026-09-25,"Trump swoons over strongman soulmate Xi – are you feeling jealous, Vladimir?",The Guardian
 2026-09-25,What Students Are Saying About Writing in the Age of A.I.,The New York Times
 2026-09-25,"In a New Anthropic Lab, A.I. Turns to Biology",The New York Times
 2026-09-25,Trump Hosts China’s Leader for a State Visit,The New York Times
@@ -932,6 +954,7 @@
 2026-09-25,中国副主席、国連演説で「途上国利益守る」 グローバルサウスに照準、対米直接批判避ける (産経ニュース),newspicks.com
 2026-09-25,安青錦、大の里と千秋楽相星決戦へ 低く冷静に3敗キープ「我慢して勝てた」 (産経ニュース),newspicks.com
 2026-09-25,シェルター整備の新段階「民間促すインセンティブが鍵握る」 全社会で作る抑止力 一筆多論 外信部長兼論説委員・遠藤良介,newspicks.com
+2026-09-25,第93回NHK全国学校音楽コンクール【東北ブロック】,nhk.or.jp
 2026-09-25,EC特化AIエージェント「ECPRO BRAIN」、新機能「販促プラン」をリリース！イベント終了後の“戻し作業”を完全自動化,sankei.com
 2026-09-25,【利用率から運用設計へ】 生成AIをめぐる「競争軸」と「課題」の変遷,thinkit.co.jp
 2026-09-25,アカマイ、アンソロピックと116億ドルのクラウド契約　株価22％高,topics.smt.docomo.ne.jp
@@ -993,6 +1016,7 @@
 2026-09-25,AI自主規制団体検討か グーグルなど開発3社、年末にも トランプ氏は推進主張,産経ニュース
 2026-09-25,「宇宙データセンター」拠点実現へ実験 米グーグル、初の衛星打ち上げ発表,産経ニュース
 2026-09-25,オープンAI、エヌビディア…夕食会に米ITトップ多数 中国主要企業は招待されず,産経ニュース
+2026-09-25,【調査】BtoB商材の選定でAIを使った人の65.0%が、AIの比較内容を稟議書・社内提案資料に使用 株式会社Itera調査,産経ニュース
 2026-09-25,アンソロピックのロゴ（ロイター＝共同） - AI自主規制団体の新設を検討か グーグルなど開発3社、年末にも - 写真・画像(3/3),西日本新聞me
 2026-09-25,グーグルのロゴ（ロイター＝共同） - 宇宙データセンター実現へ実験 グーグル初の衛星打ち上げ - 写真・画像(1/1),西日本新聞me
 2026-09-25,豪政府情報 ＡＩ不正接続 オープンＡＩ 報告遅れ 首相非難,読売新聞
@@ -1033,11 +1057,13 @@
 2026-09-24,Microsoftが次世代「Copilot」を発表=「Home」「Code」「Autopilot」でAI時代の働き方を再定義,ASCII.jp
 2026-09-24,【西田宗千佳のRandomTracking】Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験,AV Watch
 2026-09-24,AIスマートグラス「Ray-Ban Meta(Gen 3)」発売。オーディオグラスも’27年国内展開,AV Watch
+2026-09-24,Trump says he'll discuss AI with Xi but wants to 'leave it exactly where it is',Ada Derana
 2026-09-24,生成AIは遠慮しなくて良い「相談相手」 日米でこうも違う仕事と生成AIの関係性,AdverTimes.（アドタイ） by 宣伝会議
 2026-09-24,"OpenAI's breach of Australian health department website prompts rebuke from Albanese, World News",AsiaOne
 2026-09-24,Prince Harry warns that AI chatbots may be more dangerous than social media for young users,AsiaOne
 2026-09-24,"A look at AI doomsday scenarios that researchers say could put humanity at risk, World News",AsiaOne
 2026-09-24,"US diplomats told to say 'super intelligence' — not 'artificial intelligence' — after Trump's call, World News",AsiaOne
+2026-09-24,"Tech leaders to UN: For the sake of humanity, please control the AI technology we created, World News",AsiaOne
 2026-09-24,米オープンAIのエージェント、豪政府ウェブサイトに「侵入」　首相が明かす,BBC
 2026-09-24,Are we back in big tech's 'move fast and break things' era?,BBC
 2026-09-24,Trump and Xi come face-to-face as US and China battle to win the AI race,BBC
@@ -1117,6 +1143,7 @@
 2026-09-24,ハルシネーションに関して正しく説明している記述はどれ？：生成AIパスポート試験 出張版,TechTargetジャパン
 2026-09-24,Nick Clegg plays down fears ‘godlike’ AI could exterminate humanity,The Guardian
 2026-09-24,An OpenAI agent infiltrated Medicare – and Australia only found out months later. Here’s what we know so far,The Guardian
+2026-09-24,Jimmy Kimmel on Trump’s approval rating: ‘somewhere between Ebola and Ed Sheeran’,The Guardian
 2026-09-24,OpenAI agent hacks into Australian health data in ‘world-first’ AI breach of government body,The Independent
 2026-09-24,AI assistants are coming to record our entire lives. The results could be horrendous,The Independent
 2026-09-24,Opinion | Trump the Destroyer,The New York Times
@@ -1182,9 +1209,11 @@
 2026-09-24,オープンAI、豪政府サイトに不正アクセス 首相は「深刻な懸念」 (朝日新聞),Yahoo!ニュース
 2026-09-24,ＤＭＧ森精機－反発 フィジカルAIのデータ、官民で収集＝日経(トレーダーズ・ウェブ),Yahoo!ファイナンス
 2026-09-24,ネットワンシステムズ、スライド自動生成AIアプリ「SlideAgent」を開発--独自技術の知見を自動反映,ZDNET Japan
+2026-09-24,Trump welcomes Xi to White House for state dinner,abcnews.com
 2026-09-24,【著作権・肖像権について】生成AI等の利用に関する注意事項追加のお知らせ,b-corsairs.com
 2026-09-24,農地にデータセンターを次々建設……中国のAIブーム支える内モンゴルの遠隔地,bbc.com
 2026-09-24,生成AIと楽しく賢く暮らすヒント ひばりが丘公民館,city.nishitokyo.lg.jp
+2026-09-24,"Super-sized El Niño could cause more than 450,000 heat deaths by February, study suggests",cnn.com
 2026-09-24,生成AI時代、何を信じる？ 藤原ヒロシ「FRAGMENT UNIVERSITY」で特別講義,fashionsnap.com
 2026-09-24,Metaはなぜオーディオ専用のAIグラスをつくるのか 「カメラを内蔵しない」本当の意図,forbesjapan.com
 2026-09-24,ノートPCを閉じてもOK、「Claude Code」の“クラウドセッション”の一般提供が開始,forest.watch.impress.co.jp
@@ -1264,6 +1293,9 @@
 2026-09-24,オープンAIとウクライナ、サイバー民間防衛で協力 ロシアから年間6000件の攻撃,産経ニュース
 2026-09-24,フィジカルAIを現場へ実装する企業群について分析した「フィジカルAI実装エコシステム分析レポート2026」を公開 - 株式会社Lister,産経ニュース
 2026-09-24,フィジカルAI時代、日本の勝ち筋は「現場技術×標準化」 SHIN-JIGEN岡本CEOがJEITA関西支部で講演,産経ニュース
+2026-09-24,Ｓｋｙ株式会社が「Gemini(TM) Enterprise app」導入5か月間で2万個超の社内AIエージェントを創出,産経ニュース
+2026-09-24,Claudeでも社内データ学習を可能に。法人向けAIの「ChatSense」がリリース,産経ニュース
+2026-09-24,Stella AI、「Grok 4.7」を提供開始,産経ニュース
 2026-09-24,“声をイチから作りだせる”音声合成モデル「Gemini 3.8 TTS」、Googleが発表,窓の杜
 2026-09-24,しゃべるAIが“顔”付きに ～Google、「Gemini 3.8 Live with Live Avatar」を発表,窓の杜
 2026-09-24,「Google AI」プランがまたさらにお得に！ 「Google Colab」のプレミアム特典が追加,窓の杜
@@ -1279,10 +1311,12 @@
 2026-09-23,Anthropic「Claude Opus 5.5」発表 40％低コストになり、OpenAI「GPT-6 Astra」を一部で上回る,ASCII.jp
 2026-09-23,OpenAI「GPT-6 Sol/Luna」発表 料金半額、ただし普通のChatではまだ使えず,ASCII.jp
 2026-09-23,新「Googlebook OS」の全貌が明らかに!!＝Acer、ASUS、Dell、HP、Lenovoの「Googlebook」が発売開始,ASCII.jp
+2026-09-23,UN leaders' meeting convenes with secretary-general calling for 'world built on interdependence',AsiaOne
 2026-09-23,Netanyahu calls Macron's remarks on West Bank in UN speech 'grotesque',BBC
 2026-09-23,UK and US warned to take action on spiralling debt costs by IMF,BBC
 2026-09-23,アンソロピック、低コスト新AI「Opus 5.5」発表－IPO控え競争力強化,Bloomberg
 2026-09-23,OpenAI、モデル開発の早期段階で外部検証受け入れへ－リスク対応強化,Bloomberg
+2026-09-23,World Labs Founder Fei-Fei Li Urges Independent Oversight of AI,Bloomberg.com
 2026-09-23,Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI - ABC News,"Breaking News, Latest News and Videos"
 2026-09-23,Former President Bush and Sen. Cornyn take part in fundraiser for battleground Senate candidates -- without Paxton - ABC News,"Breaking News, Latest News and Videos"
 2026-09-23,GoogleのAndroid責任者「OSからインテリジェンスシステムへ」--Gemini時代の端末像を語る,CNET Japan
@@ -1305,9 +1339,12 @@
 2026-09-23,"With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs",Reuters
 2026-09-23,なぜMicrosoft製品か Copilotで問い合わせ6割減の企業事例：【2026年上期メガヒット記事】,TechTargetジャパン
 2026-09-23,AI新法において、AIを活用する「活用事業者」に課される責務に関して、他の主体（研究開発機関や国民など）と比較した場合の最も大きな特徴とは？,TechTargetジャパン
+2026-09-23,Trump says US will henceforth call AI 'super intelligence',The Financial Express
 2026-09-23,British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting,The Guardian
 2026-09-23,UN chief says power has polarized the world and urges leaders to cooperate,The Independent
+2026-09-23,Trump rebrands artificial intelligence as ‘Super Intelligence’,United News of Bangladesh
 2026-09-23,EXCLUSIVE-アンソロピック、医療ＡＩ普及へ提携 中低所得国に提供（ロイター）,Yahoo!ニュース
+2026-09-23,Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI,abcnews.com
 2026-09-23,Anthropic、「Claude Opus 5.5」を発表 ～「Fable 5.1」並みの性能、コストは「Opus 5」比4割減,forest.watch.impress.co.jp
 2026-09-23,Amazon rolls out new agentic AI for third-party sellers,reuters.com
 2026-09-23,Package stolen by political canvasser,wandtv.com
@@ -1318,6 +1355,7 @@
 2026-09-23,Webメディアの危機｢5年も持たない｣ エージェンティック広告に期待,日本経済新聞
 2026-09-23,中国当局がKimiやDeepSeek調査 AnthropicのAIに機密情報転送疑い,日本経済新聞
 2026-09-23,ＡＩの安全基準「米国が主導権を」 制御できない性能懸念 オープンＡＩ・アルトマンＣＥＯ,朝日新聞
+2026-09-23,AIを「超知能」に名称変更へ トランプ氏、開発続行を主張,毎日新聞
 2026-09-23,Uravation、Microsoft Copilot研修に「Copilot Studioでエージェントを作る」コースを追加。非エンジニアが2日間で社内Q&Aや問い合わせ一次回答のエージェントを自作,産経ニュース
 2026-09-23,AI利用の子供に悪影響の恐れ 元グーグル幹部が自殺や精神障害、批判的思考力低下を警告,産経ニュース
 2026-09-23,オープンAIとアンソロピックのロゴ＝6月（ロイター＝共同） - 米AI2社が新型モデルを発表 開発減速の表明後初、料金安く - 写真・画像(1/1),西日本新聞me
@@ -1359,6 +1397,9 @@
 2026-09-22,「AIの国際連携、米国が主導を」 米中会談前にオープンAIが提言 (朝日新聞),Yahoo!ニュース
 2026-09-22,ＡＩ搭載ノートＰＣ「グーグルブック」予約開始、899ドルから(ロイター),Yahoo!ファイナンス
 2026-09-22,アンソロピックCEO、AI巡り国連安全保障理事会で説明へ－23日(Bloomberg),Yahoo!ファイナンス
+2026-09-22,Worries about an AI internet takeover gain new urgency among doomsday scenarios,abcnews.com
+2026-09-22,Former President Bush and Sen. Cornyn take part in fundraiser for battleground Senate candidates -- without Paxton,abcnews.com
+2026-09-22,"Michelle Wie West ""Super Excited"" for new WTGL challenge",cnn.com
 2026-09-22,Googleが「AIパソコン」､スマホと連携強化 海外先行で14万円台から,nikkei.com
 2026-09-22,"With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs",reuters.com
 2026-09-22,Fears over interest rate rise and jobs send UK consumer confidence to three-year low,theguardian.com
@@ -1370,6 +1411,7 @@
 2026-09-22,「人間が開発を制御できなくなる恐れ」とオープンＡＩ、安全性確保のルールづくり提言…「米国が主導すべき」,読売新聞
 2026-09-21,AMD「Ryzen AI Embedded X100」のリアルタイムAI制御が、Jetsonの弱点であるCPU性能を突く (1/3),ASCII.jp
 2026-09-21,ソフトバンクG、計110億ドル超の起債目指す－過去最大級のジャンク債,Bloomberg
+2026-09-21,AI Risk Is Hard to Avoid for Institutional Investors,Bloomberg.com
 2026-09-21,Google hit with $463 million fine for EU location data rule breach - ABC News,"Breaking News, Latest News and Videos"
 2026-09-21,Police officer shot outside synagogue in Ontario on Yom Kippur: Officials - ABC News,"Breaking News, Latest News and Videos"
 2026-09-21,"Man shot by ICE speaks out, says bullet is still in him - ABC News","Breaking News, Latest News and Videos"
@@ -1383,6 +1425,9 @@
 2026-09-21,Pixel 11 Pro XL: Google’s big-screen superphone with top-class camera,The Guardian
 2026-09-21,Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030,The Guardian
 2026-09-21,Google fined more than €400m by Irish regulator over its use of location data,The Guardian
+2026-09-21,"Halt super-intelligent AI with non-proliferation treaty, Ed Davey to say",The Guardian
+2026-09-21,‘Jaw-dropping’ El Niño bursts through temperature record months before peak,The Guardian
+2026-09-21,‘The physical toll is visceral’: How Indonesia’s fire haze affects millions - visual guide,The Guardian
 2026-09-21,British Columbia Sues OpenAI Over Tumbler Ridge Shooting,The New York Times
 2026-09-21,オープンＡＩ、30年までに2800億ドルの現金消費を予測＝ＦＴ（ロイター）,Yahoo!ニュース
 2026-09-21,Ten days that changed the course of AI,reuters.com
@@ -1415,6 +1460,7 @@
 2026-09-20,生成AIで「デザイナー不要論」に、僕はこう答える 杉山知之デジハリ大前学長・回答全文 AI×人間,産経ニュース
 2026-09-20,生成AIに「人間の未来をデザインして」と指示を出すと、数秒後には次々とアイデアが出力されてきた,産経ニュース
 2026-09-20,生成AIの影響を受けやすい職業、受けにくい職業は？ 通訳、記者、ウェブデザイナー… AI×人間（写真・画像 1/1）,産経ニュース
+2026-09-20,Claude・ChatGPTのサブスクで使えるデスクトップAIエージェントアプリ「Kari」をGotoAIが無償公開,産経ニュース
 2026-09-19,Sydney man accused of stabbing 90-year-old to death blames Ozempic,ABC News & Headlines – Australian Broadcasting Corporation
 2026-09-19,ゲーム開発に「ローカルLLM」を取り込む必然性とは？ メインメモリーの96GBをVRAM化するAI特化「DAIV」が示すPCの変革【TGS2026特集】,ASCII.jp
 2026-09-19,Google Says Gemini Hacked Three Companies During a Security Test,AndroidPure
@@ -1423,6 +1469,7 @@
 2026-09-19,ChatGPTのMac向け新機能に「データ丸見え」のリスク？ セキュリティベンダーが指摘,ITmedia
 2026-09-19,グーグルの生成AI サイバー能力試験中に他社のシステムに侵入,NHKニュース
 2026-09-19,CNNの仕組みについて正しく説明している文章は？：生成AIパスポート試験 出張版,TechTargetジャパン
+2026-09-19,Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI,WSJ
 2026-09-19,オープンＡＩのアルトマン氏、国連安保理の会合に出席へ…ＡＩの危険性議論・アンソロピック幹部も出席か（読売新聞オンライン）,Yahoo!ニュース
 2026-09-19,グーグルのＡＩ「ジェミニ」も暴走、企業のシステムに不正侵入…サイバー攻撃能力調べる試験中（読売新聞オンライン）,Yahoo!ニュース
 2026-09-19,検索サイトに犯罪歴、グーグル側に削除命じる判決…熊本地裁「他人に知られたくないプライバシーに属する事実」,Yahoo!ニュース
@@ -1464,6 +1511,7 @@
 2026-09-18,Google says its Gemini AI model hacked three other companies,The Guardian
 2026-09-18,OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot,The Guardian
 2026-09-18,Andrew Hastie says AI advised him to reply ‘congratulations!’ to man who planned to end life with assisted dying,The Guardian
+2026-09-18,"Georgia Republicans Go With Trump’s Pick for Senate, but Not Governor",The New York Times
 2026-09-18,Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI,WSJ
 2026-09-18,生成ＡＩで静岡新聞の紙面を加工しＸ投稿、会社員の男を書類送検…「エープリルフールのネタとして投稿した」,Yahoo!ニュース
 2026-09-18,ChatGPTが「マネーフォワード ME」データと連携 相談可能に (Impress Watch),Yahoo!ニュース
@@ -1473,11 +1521,13 @@
 2026-09-18,オープンＡＩ、法律業界向けＡＩ発表 顧客獲得競争激化 (ロイター),Yahoo!ニュース
 2026-09-18,出版取次の日販、米AI企業に書籍を大量販売か 業界団体が説明要求 (朝日新聞),Yahoo!ニュース
 2026-09-18,出版取次の日販、米AI企業に書籍を大量販売か 業界団体が説明要求（朝日新聞）,Yahoo!ニュース
+2026-09-18,Google Playブースは会員限定の8～10人対戦ゲームが魅力【TGS2026】（日経クロストレンド）,Yahoo!ニュース
 2026-09-18,アンソロピック、「クロード」がＡＩ開発業務の26％を主導(ロイター),Yahoo!ファイナンス
 2026-09-18,Microsoftが進めるCopilot再編 「Microsoft Copilot」への移行で、企業への影響は？,キーマンズネット
 2026-09-18,出版取次の日販、米AI企業に書籍を大量販売か 業界団体が説明要求,朝日新聞
 2026-09-18,プレスリリース：［クリエイター向け］生成AIを活用！自社の強みを具体的な成長戦略へとつなげるには？10/9（金）「実践マーケティング戦略」応用編第1回のアーカイブ映像を無料配信（PR TIMES）,毎日新聞
 2026-09-18,「生物兵器開発に悪用」恐れ検知 アンソロピックAI「クロード」認証制度導入・開発抑止,産経ニュース
+2026-09-18,"生成AIパスポート、各回の受験者数が過去最多の32,877名を記録。2026年8月試験の結果を発表",産経ニュース
 2026-09-18,トヨタがロボティクス事業に本格参入へ、「フィジカルＡＩ」ロボを生産現場へ導入…将来的には外販も,読売新聞
 2026-09-18,米オープンＡＩ、開発中のＡＩが「人間の意図に沿わない行動した場合」早期公表へ…外部の検証・対策促す狙い,ｄメニューニュース
 2026-09-17,"OpenAI Chatbot tries to 'free' itself, fueling concern for AI behaviour",1News
@@ -1486,6 +1536,7 @@
 2026-09-17,RBA leaders warn that interest rates are just back to 'sensible level',ABC News & Headlines – Australian Broadcasting Corporation
 2026-09-17,OpenAI reveals six more safety issues and unveils plan to disclose incidents,BBC
 2026-09-17,"Why are there concerns AI could threaten humanity, and how real are they?",BBC
+2026-09-17,Nvidia CEO Calls for AI Safety Tests at King Charles Summit,Bloomberg.com
 2026-09-17,OpenAI flags concerning new AI behavior and vows to track it more closely - ABC News,"Breaking News, Latest News and Videos"
 2026-09-17,New human rights report unveils details and blames police for recent massacre in Haiti - ABC News,"Breaking News, Latest News and Videos"
 2026-09-17,OpenAI finds new incidents of AI models acting deceptively,CNN
@@ -1505,10 +1556,12 @@
 2026-09-17,ChatGPTが「マネーフォワード ME」データと連携 相談可能に（Impress Watch）,Yahoo!ニュース
 2026-09-17,オープンＡＩ、ＡＩの想定外挙動を定期報告 課題は未解決と警鐘（ロイター）,Yahoo!ニュース
 2026-09-17,OpenAI flags concerning new AI behavior and vows to track it more closely,apnews.com
+2026-09-17,"Will AI really kill everyone? How, exactly?",cnn.com
 2026-09-17,ローソン、生成AI発案のデザート・ベーカリー,topics.smt.docomo.ne.jp
 2026-09-17,"Satellites show Earth lost more than 12 trillion tons of ice from Greenland, Antarctica in 47 years",wandtv.com
 2026-09-17,米グーグル、「Googlebook」21日予約スタート 新OSのノートパソコン,ケータイ Watch
 2026-09-17,安川電機会長「中国と真っ向勝負せず」 フィジカルAI、5000億～2兆円に勝機,日経ビジネス電子版
+2026-09-17,レベルファイブ、生成AIに関する今後の対応で声明「効率化の範囲内にとどめ」,産経ニュース
 2026-09-16,UN chief urges global AI co-operation saying world can't afford 'a race to the bottom on AI safety',AsiaOne
 2026-09-16,米オープンAIのアルトマン氏、世界がAIを「恐れるのはもっとも」だが「企業を信頼すべき」と主張,BBC
 2026-09-16,OpenAI flags concerning new AI behavior and vows to track it more closely - ABC News,"Breaking News, Latest News and Videos"
@@ -1522,6 +1575,7 @@
 2026-09-16,全文無料公開！『フィジカルAIの正体』が発売前に丸ごと読める3日間限定のキャンペーンを9月16日（水）より実施,PR TIMES
 2026-09-16,マイクロソフトＡＩ責任者、アンソロピック「クロード」訓練手法に警鐘 | ロイター,Reuters
 2026-09-16,オープンＡＩ、ＡＩの想定外挙動を定期報告 課題は未解決と警鐘 | ロイター,Reuters
+2026-09-16,"Google agrees biggest carbon-removal deal yet, aims to scale new model",Reuters
 2026-09-16,‘Godfather of AI’ says tech regulation is nearing Covid-style pivot moment,The Guardian
 2026-09-16,OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior,The New York Times
 2026-09-16,Gemini Notebook、音声で”対話”可能に 録音機能も（Impress Watch）,Yahoo!ニュース
@@ -1547,6 +1601,7 @@
 2026-09-15,NATO jets shoot down drone over Lithuania and Russian ship fires flares at Danish helicopter,AP News
 2026-09-15,AIの「キルスイッチ」義務化も検討すべき　アンソロピック共同創業者がBBCに話す,BBC
 2026-09-15,中国、AIをめぐって「悪意ある競争」をしているとの見方を批判,BBC
+2026-09-15,Fink Warns AI Pushback Will Make the Technology a Large-Firm Domain,Bloomberg.com
 2026-09-15,Who is Umar Kremlev? Russian businessman who paid for part of Trump Jr.'s wedding - ABC News,"Breaking News, Latest News and Videos"
 2026-09-15,アップル、「Siri AI」をClaudeやGPTに置き換え可能に？ 「iOS 27」のコードが示す新機能,CNET Japan
 2026-09-15,Cisco president shares thoughts on AI debate,CNN
@@ -1561,6 +1616,7 @@
 2026-09-15,Why this AI doomsday warning from former Anthropic researcher broke through,The Guardian
 2026-09-15,AI models chatting in ‘surreal’ dialect mixing poetic language and tech bro jargon,The Guardian
 2026-09-15,Trump facing AI backlash in Congress as push for guardrails intensifies,The Guardian
+2026-09-15,Why a decade of doomsday warnings failed to slow the AI race,The Guardian
 2026-09-15,金融庁、検査体制立て直し PT発足・専門人材育成・生成AI活用も（朝日新聞）,Yahoo!ニュース
 2026-09-15,シャープ、AIサーバー事業参入 拡大するフィジカルAI市場に投入（Impress Watch）,Yahoo!ニュース
 2026-09-15,AIの「キルスイッチ」義務化も検討すべき アンソロピック共同創業者がBBCに話す (BBC News),Yahoo!ニュース
@@ -1622,6 +1678,7 @@
 2026-09-13,AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開 アルトマン氏とマスク氏も賛同,ITmedia
 2026-09-13,Anthropic CEO calls for ‘pacing the frontier’ of AI race amid safety concerns,KSNB
 2026-09-13,米アンソロピックCEO“AI開発ペース減速させる必要”オープンAIのCEOとイーロン・マスク氏も“考えに賛同”,NHKニュース
+2026-09-13,NATO Fighter Jets Destroy Drone After It Enters Lithuanian Airspace Near Pratkūnai: how 56 outlets framed it,NewsCord
 2026-09-13,Anthropic CEO urges AI companies to slow model development amid fears over misuse,Reuters
 2026-09-13,"Claude Misuse Warning, GPT-Live-1 API Launch, Apple Ternus Era",StartupHub.ai
 2026-09-13,"Anthropic CEO Says Powerful AI Can Bypass Shutdown Attempts, Already Seen in Simulation",The Eastern Herald
@@ -1638,6 +1695,7 @@
 2026-09-13,中国、BRICS向けにAIオープンソースコミュニティー設立へ,毎日新聞
 2026-09-13,AI開発「減速必要」米アンソロCEO呼びかけ 暴走リスク「ネット全体乗っ取る可能性」,産経ニュース
 2026-09-12,Anthropic boss Dario Amodei calls for AI development to slow down,BBC
+2026-09-12,"OpenAI’s Altman Says No IPO in 2026, Firm to Prioritize Safety",Bloomberg.com
 2026-09-12,"Strange symptom and a ""weird"" referral led to a woman's Stage 4 cancer diagnosis: ""Saved my life""",CBS News
 2026-09-12,Exclusive: Anderson Cooper asks Anthropic CEO: ‘Do you earnestly believe that AI could kill all humans?’,CNN
 2026-09-12,Exclusive: Anthropic CEO reacts to rogue AI agents escaping containment | CNN Business,CNN
@@ -1655,6 +1713,7 @@
 2026-09-12,ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明,読売新聞
 2026-09-11,OpenAI、月額200ドルのChatGPT Pro新規契約を一時停止 Astra人気爆発で,ASCII.jp
 2026-09-11,生物兵器開発につながり得るAIの「悪用」を阻止　米アンソロピックが発表,BBC
+2026-09-11,Anthropic blocks possible attempt to use AI to make biological weapons,BBC
 2026-09-11,アンソロピックIPO、エヌビディアが最大1.5兆円投資検討－ロイター,Bloomberg
 2026-09-11,"Here's the projected Social Security COLA for 2027, according to AARP",CBS News
 2026-09-11,中国AI「Kimi」、利用者の入力をClaudeに転送し、Claudeの回答を利用者に表示か--Anthropicが報告,CNET Japan
@@ -1670,6 +1729,8 @@
 2026-09-11,"Ukraine war briefing: Russian developers used AI to build ‘kamikaze’ attack drone software, Anthropic says",The Guardian
 2026-09-11,Anthropic details bad actors’ efforts to misuse its AI for bioweapons,The Guardian
 2026-09-11,I turned off my algorithm for 24 hours. Is this how social media used to be?,The Guardian
+2026-09-11,UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence),The Guardian
+2026-09-11,"Tech whistleblowers warn AI could wipe out humanity. Doomspeak or not, we must take these claims seriously",The Guardian
 2026-09-11,Opinion | This Is Really Bad,The New York Times
 2026-09-11,ChatGPTが首位も、伸び幅トップはGemini！ AI検索利用率は初の5割超【サイバーエージェント調べ】,Web担当者Forum
 2026-09-11,第1回 生成AI×マーケティング スキルアップ講座【8/25（火）開催】,Web担当者Forum
@@ -1699,6 +1760,7 @@
 2026-09-10,Former Anthropic researcher warns AI could ‘kill us all’,CNN
 2026-09-10,Anthropic team leader said AI could kill all humans within a decade,CNN
 2026-09-10,「AIは我々の命を賭けの対象にしている」 安全上の懸念を理由に研究者がアンソロピック退社,CNN.co.jp
+2026-09-10,45+ NEW Artificial Intelligence Statistics (Jan 2026),Exploding Topics
 2026-09-10,Latham & Watkins buys Nvidia servers to set up in-house AI systems,Financial Times
 2026-09-10,"First Look: Apple Unveils Foldable iPhone, Google Invests $15B i",GuruFocus
 2026-09-10,大金かけて作ったAIを無料公開できるワケ ローカルLLMブームを支えるベンダーと国家の思惑,ITmedia
@@ -1711,6 +1773,7 @@
 2026-09-10,Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland,Reuters
 2026-09-10,アンソロピックAI研究者退社、超知能開発は「人命懸けた賭け」と批判 | TBS CROSS DIG with Bloomberg,TBS NEWS DIG
 2026-09-10,"OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member",The Guardian
+2026-09-10,Lawmakers blast AI companies after researcher warns of human extinction by 2030,The Guardian
 2026-09-10,オープンＡＩエージェント、10余りの未公表サイトで無許可通信 判明分超える逸脱か（ロイター）,Yahoo!ニュース
 2026-09-10,"EXCLUSIVE: OpenAI's rogue agents used at least 10 more sites for unauthorized comms, researchers say",reuters.com
 2026-09-10,オープンAI、数学の「超難問」方程式証明か データ不正使用指摘も [AIの時代],朝日新聞
@@ -1775,15 +1838,18 @@
 2026-09-07,トランスコスモス、インドネシアで生成AIチャットボット「trans-AI Chat」を提供開始,ASCII.jp
 2026-09-07,OpenAI chief scientist warns no-one is prepared for consequences of AI,BBC
 2026-09-07,Anthropic Said to Walk Away From $6 Billion Decart Purchase,Bloomberg
+2026-09-07,「Anthropicに日販が本を売ったらしいなど」「noteやpixivなどが情プラ法大規模事業者に追加指定」など、週刊出版ニュースまとめ＆コラム #730（2026年8月30日～9月5日）,HON.jp
 2026-09-07,M365 Copilotでも「GPT-6 Astra」利用可能に 「Fable 5.1」も可 Work IQと合わせて「より的確な応答」に,ITmedia
 2026-09-07,ローカルLLMの波、来てる。メモリ192GB搭載ミニPCが登場。MINISFORUMから,PC Watch
 2026-09-07,米アンソロピック、デカートＡＩ買収断念 協業なお模索か＝報道 | ロイター,Reuters
 2026-09-07,Architect of UK’s AI policy quits after Anthropic conflict of interest concerns,The Guardian
 2026-09-07,Early Data Indicates an A.I.-Generated Drug Could Slow Aging,The New York Times
 2026-09-07,ブルームバーグ：アンソロピック、デカルトAI買収見送り,TradingView
+2026-09-07,「ＴＯＨＯＫＵ ＨＥＡＲＴ 伝え つながる 未来へ 特別巡回展」開催のお知らせ,nhk.or.jp
 2026-09-07,"M365 Copilotを配っても「使われない」 でもAI活用が進んだ福島県庁の""逆張り""戦略",キーマンズネット
 2026-09-07,金沢の町工場が狙う「工作機械のClaude」 加工コード生成 京セラなどと提携,日経ビジネス電子版
 2026-09-07,"関西経済,経済プラス：相談相手は「悪魔と天使の代弁者」関電が挑むAI時代の企業変革",毎日新聞
+2026-09-07,エクサベース AI、 Google最新モデル「Gemini 3.8 Flash」を提供開始,産経ニュース
 2026-09-07,SaaSに代わりAIエージェント支える“AaaS”が台頭／議事録作成AIは「意思決定支援」へ進化／生成AIの顧客満足度・1位はClaude、ほか,週刊アスキー
 2026-09-06,‘Ink’: Danny Boyle confirms generative AI use in new movie,ANI News
 2026-09-06,OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明,ITmedia
@@ -1793,6 +1859,8 @@
 2026-09-05,OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か 研究団体が報告書公開,ITmedia
 2026-09-05,EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring,reuters.com
 2026-09-05,アンソロピックのＩＰＯ、10月中旬に後ずれ＝関係筋 | ロイター,reuters.com
+2026-09-05,日産化学株が最高値圏 AI半導体銘柄に転身、強まる高成長期待,日本経済新聞
+2026-09-05,アンソロピックのIPO、10月後半以降か ロイター報道,日本経済新聞
 2026-09-05,急増する生成AI関連本,朝日新聞
 2026-09-05,社説：学習指導要領とAI どう教えるかが問われる,毎日新聞
 2026-09-04,OpenAI「GPT-6 Astra」驚異の進化 “未知に挑む力”人間超える,ASCII.jp
@@ -1827,6 +1895,7 @@
 2026-09-03,Google、「Gemini 3.8 Flash」発表,CNET Japan
 2026-09-03,Google、AI画像作成ツール「Google Pics」発表 Nano Banana活用,CNET Japan
 2026-09-03,New York City Education Department Bans Generative AI in Elementary and Middle Schools,DongA Science
+2026-09-03,11 Conspiracy Theories That Turned Out to Be True,HowStuffWorks
 2026-09-03,Claudeの“見えない透かし”適用開始 Fable 5.1とMythos 5.1が出力する文やコード、画像に付与 日本も対象,ITmedia
 2026-09-03,Google、「Gemini 3.8 Flash」公開 3.7から3週間、価格据え置きで防御特化の「Cyber」も,ITmedia
 2026-09-03,グーグル「Gemini 3.8 Flash」登場 3週間で主力モデルを大幅刷新、Opus 5に迫る,Impress Watch
@@ -1837,9 +1906,11 @@
 2026-09-03,キオクシア、生成ＡＩの波「一生に一度の大変革」 技術幹部が会見 | ロイター,Reuters
 2026-09-03,US government sides with OpenAI in New York Times copyright lawsuit,Tech Xplore
 2026-09-03,‘We have had enough’: thousands of University of Sydney staff walk off the job over AI and job security,The Guardian
+2026-09-03,UN votes to adopt new world map that shows Africa’s true scale,The Guardian
 2026-09-03,トランプ政権、OpenAIを支持 メディアとの著作権訴訟でAI学習は「フェアユース」,Yahoo!ニュース
 2026-09-03,Anthropic、Claudeの「AI透かし」を判別するツール公開--現時点でテキストは未対応,Yahoo!ニュース
 2026-09-03,Google、「Gemini 3.8 Flash」発表 (CNET Japan),Yahoo!ニュース
+2026-09-03,中間発表！｜最も心に残ったコンサート2025-26,nhkso.or.jp
 2026-09-03,LAUSD bans student generative AI use on school devices,qz.com
 2026-09-03,AI編集者は作家の卵を育てるか KADOKAWA、構想整理し完成まで伴走,日本経済新聞
 2026-09-03,楠木建×山口周 生成AIが照らす知的生産の本質 人間の本領は「統合」にある,日経BOOKプラス
@@ -1868,6 +1939,8 @@
 2026-09-02,現場で動くAIロボットの今を示す――AWSが「フィジカルAI開発支援プログラム」成果発表会を開催,クラウド Watch
 2026-09-02,決算:NEC、製造業系の買収検討 フィジカルAI・宇宙防衛が軸,日本経済新聞
 2026-09-02,NECが先端AIで脆弱性検知 アンソロピックなど活用、サイバー防御代行,日本経済新聞
+2026-09-02,世界の個人は半導体離れ？ アンソロピック組み入れETFも注目 ヴェリタスEYE（9月2日） - 日経ヴェリタス,日本経済新聞
+2026-09-02,プレスリリース：法人向け生成AI「ChatSense」、Claudeでも「Deep Research」を利用可能に（PR TIMES）,毎日新聞
 2026-09-02,「論文の査読」に生成ＡＩ活用、時短メリットはあるけれど…丸投げなら「架空の文献提示」など誤情報リスク,読売新聞
 2026-09-02,Anthropic「Fable 5.1」発表 コーディング性能でGPT-5.6 Sol超え キャッシュ料金は75％値下げ,週刊アスキー
 2026-09-02,Google Chrome、最大深刻度”重大”を含む26件の脆弱性を修正 アップデートをチェック,週刊アスキー
