@@ -4,11 +4,11 @@ import os
 import feedparser
 import pandas as pd
 
-# 日本語キーワード
-BASE_KEYWORDS_JA = '生成AI OR 人工知能 OR オープンAI OR OpenAI OR ChatGPT OR グーグル OR Google OR Gemini OR アンソロピック OR Anthropic OR Claude OR Copilot OR LLM OR フィジカルAI OR "Physical AI"'
+# 日本語キーワード（SI/超知能関連を追加）
+BASE_KEYWORDS_JA = '生成AI OR 人工知能 OR オープンAI OR OpenAI OR ChatGPT OR グーグル OR Google OR Gemini OR アンソロピック OR Anthropic OR Claude OR Copilot OR LLM OR フィジカルAI OR "Physical AI" OR "スーパーインテリジェンス" OR "超知能" OR "SIエージェント" OR "Agentic SI"'
 
-# 英語キーワード（海外本国用）
-BASE_KEYWORDS_EN = '"Generative AI" OR "Artificial Intelligence" OR OpenAI OR ChatGPT OR Google OR Gemini OR Anthropic OR Claude OR Copilot OR "Physical AI"'
+# 英語キーワード（海外本国用・SI/超知能関連を追加）
+BASE_KEYWORDS_EN = '"Generative AI" OR "Artificial Intelligence" OR OpenAI OR ChatGPT OR Google OR Gemini OR Anthropic OR Claude OR Copilot OR "Physical AI" OR "Superintelligence" OR "Super Intelligence" OR "SI Agent" OR "SI Agents" OR "Agentic SI"'
 
 CSV_FILENAME = "ai_news_stats.csv"
 RETENTION_DAYS = 30  # 30日分保持
