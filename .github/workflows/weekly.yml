@@ -2,9 +2,9 @@ name: Weekly AI News Report Generator
 
 on:
   schedule:
-    # 毎週月曜日の JST 午前 7:00（UTC 日曜日 22:00）に起動
+    # 毎週月曜日の JST 午前 7:00（UTC 日曜日 22:00）に自動起動
     - cron: '0 22 * * 0'
-  workflow_dispatch: # GitHubの画面から手動で実行（テスト実行）できるボタンを有効化
+  workflow_dispatch: # Actions タブから手動実行ボタンを有効化
 
 jobs:
   generate-report:
