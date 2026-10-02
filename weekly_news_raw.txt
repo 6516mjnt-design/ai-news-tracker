@@ -1,4 +1,4 @@
-【対象期間: 2026-09-21 〜 2026-09-27】（総件数: 788件）
+【対象期間: 2026-09-21 〜 2026-09-27】（総件数: 790件）
 
 - [2026-09-27] 「週刊ダイヤモンド」114年続く紙版を終了、完全デジタル化へ“競合”は生成AI？「検索すると最初にAI要約が出てしまう」 (ABEMA TIMES)
 - [2026-09-27] AI in Journalism Statistics 2026 (About Chromebooks)
@@ -253,6 +253,7 @@
 - [2026-09-26] ゲーム業界で加速する、IP創出への注力と生成AIの浸透 「東京ゲームショウ2026」で見えた変化 (kai-you.net)
 - [2026-09-26] 単複エースが連敗で銀 山口茜「何としても勝ちたかった」と涙 バドミントン女子団体決勝 (産経ニュース) (newspicks.com)
 - [2026-09-26] 日本のコンピュータービジョンにおける人工知能市場の最新動向 (pando.life)
+- [2026-09-26] EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges (reuters.com)
 - [2026-09-26] マイクロソフト、「コパイロット」刷新　ＡＩ機能拡充でライバルに対抗 (topics.smt.docomo.ne.jp)
 - [2026-09-26] 家事も接客も自動化へ、フィジカルAIの現在地と社会実装の戦略／天井から双腕ロボ、MWが目指す「アイアンマンの家」 (xtech.nikkei.com)
 - [2026-09-26] 【生成AIによるプレゼン資料作成の実態調査】73.0％が品質に満足する一方、85.2％が作成上の課題を実感 (アットプレス)
@@ -685,6 +686,7 @@
 - [2026-09-23] World Labs Founder Fei-Fei Li Urges Independent Oversight of AI (Bloomberg.com)
 - [2026-09-23] Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI - ABC News (Breaking News, Latest News and Videos)
 - [2026-09-23] Former President Bush and Sen. Cornyn take part in fundraiser for battleground Senate candidates -- without Paxton - ABC News (Breaking News, Latest News and Videos)
+- [2026-09-23] Worries about an AI internet takeover gain new urgency among doomsday scenarios - ABC News (Breaking News, Latest News and Videos)
 - [2026-09-23] GoogleのAndroid責任者「OSからインテリジェンスシステムへ」--Gemini時代の端末像を語る (CNET Japan)
 - [2026-09-23] OpenAI、GPT-6の「Sol」と「Luna」公開 Astraの性能向上を低価格で (CNET Japan)
 - [2026-09-23] AnthropicがClaude新モデル「Opus 5.5」発表 Fable 5.1並みの性能をOpus 5より4割安く (CNET Japan)
@@ -708,6 +710,7 @@
 - [2026-09-23] Trump rebrands artificial intelligence as ‘Super Intelligence’ (United News of Bangladesh)
 - [2026-09-23] EXCLUSIVE-アンソロピック、医療ＡＩ普及へ提携 中低所得国に提供（ロイター） (Yahoo!ニュース)
 - [2026-09-23] Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI (abcnews.com)
+- [2026-09-23] Worries about an AI internet takeover gain new urgency among doomsday scenarios (abcnews.com)
 - [2026-09-23] Anthropic、「Claude Opus 5.5」を発表 ～「Fable 5.1」並みの性能、コストは「Opus 5」比4割減 (forest.watch.impress.co.jp)
 - [2026-09-23] Amazon rolls out new agentic AI for third-party sellers (reuters.com)
 - [2026-09-23] Package stolen by political canvasser (wandtv.com)
@@ -730,7 +733,6 @@
 - [2026-09-22] Gates Foundation launches coalition to build more representative language data sets for AI - ABC News (Breaking News, Latest News and Videos)
 - [2026-09-22] NYC Mayor Mamdani and Trump meet at Gracie Mansion - ABC News (Breaking News, Latest News and Videos)
 - [2026-09-22] States settle lawsuit over Paramount-Warner merger, clearing key hurdle for $81 billion deal - ABC News (Breaking News, Latest News and Videos)
-- [2026-09-22] Worries about an AI internet takeover gain new urgency among doomsday scenarios - ABC News (Breaking News, Latest News and Videos)
 - [2026-09-22] ChatGPT Statistics (2026) – Active Users & Queries Data (DemandSage)
 - [2026-09-22] OpenAI、数学者の独立諮問グループと連携 内部モデルは「100件超の未解決問題を解決」 (ITmedia)
 - [2026-09-22] OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言 「RSIはまだ起きていない」 (ITmedia)
@@ -747,6 +749,7 @@
 - [2026-09-22] OpenAI’s George Osborne says datacentre nimbys holding back Britain (The Guardian)
 - [2026-09-22] Google fined more than €400m by Irish regulator over its use of location data (The Guardian)
 - [2026-09-22] Halt super-intelligent AI with non-proliferation treaty, Ed Davey to say (The Guardian)
+- [2026-09-22] High-mileage electric cars are more reliable than petrol ones, study finds (The Guardian)
 - [2026-09-22] 「AIの国際連携、米国が主導を」 米中会談前にオープンAIが提言（朝日新聞） (Yahoo!ニュース)
 - [2026-09-22] グーグル、新カテゴリーノートPC「Googlebook」発売 899ドルから (Impress Watch) (Yahoo!ニュース)
 - [2026-09-22] 「速度調整」訴えたアンソロピック、オープンＡＩに追撃され新モデル発売検討（ハンギョレ新聞） (Yahoo!ニュース)
@@ -756,7 +759,6 @@
 - [2026-09-22] 「AIの国際連携、米国が主導を」 米中会談前にオープンAIが提言 (朝日新聞) (Yahoo!ニュース)
 - [2026-09-22] ＡＩ搭載ノートＰＣ「グーグルブック」予約開始、899ドルから(ロイター) (Yahoo!ファイナンス)
 - [2026-09-22] アンソロピックCEO、AI巡り国連安全保障理事会で説明へ－23日(Bloomberg) (Yahoo!ファイナンス)
-- [2026-09-22] Worries about an AI internet takeover gain new urgency among doomsday scenarios (abcnews.com)
 - [2026-09-22] Former President Bush and Sen. Cornyn take part in fundraiser for battleground Senate candidates -- without Paxton (abcnews.com)
 - [2026-09-22] Michelle Wie West "Super Excited" for new WTGL challenge (cnn.com)
 - [2026-09-22] Googleが「AIパソコン」､スマホと連携強化 海外先行で14万円台から (nikkei.com)
