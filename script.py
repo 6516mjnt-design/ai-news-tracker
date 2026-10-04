@@ -4,11 +4,11 @@ import os
 import feedparser
 import pandas as pd
 
-# 日本語キーワード（クエリ末尾に when:7d を追加して過去7日分を一括取得可能に）
-BASE_KEYWORDS_JA = '(生成AI OR 人工知能 OR オープンAI OR OpenAI OR ChatGPT OR グーグル OR Google OR Gemini OR アンソロピック OR Anthropic OR Claude OR Copilot OR LLM OR フィジカルAI OR "Physical AI" OR "スーパーインテリジェンス" OR "超知能" OR "SIエージェント" OR "Agentic SI") when:7d'
+# 日本語キーワード（カッコで囲んでグループ化＋主要概念網羅）
+BASE_KEYWORDS_JA = '(生成AI OR 人工知能 OR オープンAI OR OpenAI OR ChatGPT OR グーグル OR Google OR Gemini OR アンソロピック OR Anthropic OR Claude OR Copilot OR LLM OR フィジカルAI OR "Physical AI" OR スーパーインテリジェンス OR 超知能 OR "SIエージェント")'
 
-# 英語キーワード（海外本国用・クエリ末尾に when:7d を追加）
-BASE_KEYWORDS_EN = '("Generative AI" OR "Artificial Intelligence" OR OpenAI OR ChatGPT OR Google OR Gemini OR Anthropic OR Claude OR Copilot OR "Physical AI" OR "Superintelligence" OR "Super Intelligence" OR "SI Agent" OR "SI Agents" OR "Agentic SI") when:7d'
+# 英語キーワード（海外本国用）
+BASE_KEYWORDS_EN = '("Generative AI" OR "Artificial Intelligence" OR OpenAI OR ChatGPT OR Google OR Gemini OR Anthropic OR Claude OR Copilot OR "Physical AI" OR Superintelligence OR "SI Agent")'
 
 CSV_FILENAME = "ai_news_stats.csv"
 RETENTION_DAYS = 30  # 30日分保持
@@ -19,7 +19,7 @@ def get_google_news_rss(query: str, hl='ja', gl='JP', ceid='JP:ja'):
     return feedparser.parse(url)
 
 def fetch_news():
-    """日米英の主要メディアに絞ってニュースを確実に取得"""
+    """日米英の主要メディアに絞って過去7日分のニュースを確実に取得"""
     raw_entries = []
     seen_titles = set()
 
@@ -29,25 +29,24 @@ def fetch_news():
                 seen_titles.add(entry.title)
                 raw_entries.append(entry)
 
-    # 1. 日本国内 主要5紙 ＋ NHK（日本語設定）
+    # 1. 日本国内 主要メディア（明示的なAND結合＋過去7日分指定）
     queries_ja = [
-        f"日本経済新聞 OR 日経 {BASE_KEYWORDS_JA}",
-        f"読売新聞 {BASE_KEYWORDS_JA}",
-        f"朝日新聞 {BASE_KEYWORDS_JA}",
-        f"毎日新聞 {BASE_KEYWORDS_JA}",
-        f"産経新聞 {BASE_KEYWORDS_JA}",
-        f"NHK OR NHKニュース {BASE_KEYWORDS_JA}",
-        # 海外メディアの日本語版記事（CNN Japan, BBC Japan等）
-        f"CNN {BASE_KEYWORDS_JA}",
-        f"BBC {BASE_KEYWORDS_JA}",
-        f"ロイター {BASE_KEYWORDS_JA}",
-        f"ブルームバーグ {BASE_KEYWORDS_JA}"
+        f'(日本経済新聞 OR 日経) AND {BASE_KEYWORDS_JA} when:7d',
+        f'読売新聞 AND {BASE_KEYWORDS_JA} when:7d',
+        f'朝日新聞 AND {BASE_KEYWORDS_JA} when:7d',
+        f'毎日新聞 AND {BASE_KEYWORDS_JA} when:7d',
+        f'産経新聞 AND {BASE_KEYWORDS_JA} when:7d',
+        f'(NHK OR "NHKニュース") AND {BASE_KEYWORDS_JA} when:7d',
+        f'CNN AND {BASE_KEYWORDS_JA} when:7d',
+        f'BBC AND {BASE_KEYWORDS_JA} when:7d',
+        f'ロイター AND {BASE_KEYWORDS_JA} when:7d',
+        f'ブルームバーグ AND {BASE_KEYWORDS_JA} when:7d'
     ]
     for q in queries_ja:
         feed = get_google_news_rss(q, hl='ja', gl='JP', ceid='JP:ja')
         add_entries(feed)
 
-    # 2. 米国主要メディア（米国・英語設定 + source演算子）
+    # 2. 米国主要メディア
     us_sources = [
         'source:"CNN"',
         'source:"Reuters"',
@@ -61,11 +60,11 @@ def fetch_news():
         'source:"CBS News"'
     ]
     for src in us_sources:
-        q = f"{src} AND ({BASE_KEYWORDS_EN})"
+        q = f'{src} AND {BASE_KEYWORDS_EN} when:7d'
         feed = get_google_news_rss(q, hl='en-US', gl='US', ceid='US:en')
         add_entries(feed)
 
-    # 3. 英国主要メディア（英国・英語設定 + source演算子）
+    # 3. 英国主要メディア
     uk_sources = [
         'source:"BBC"',
         'source:"Financial Times"',
@@ -74,7 +73,7 @@ def fetch_news():
         'source:"The Independent"'
     ]
     for src in uk_sources:
-        q = f"{src} AND ({BASE_KEYWORDS_EN})"
+        q = f'{src} AND {BASE_KEYWORDS_EN} when:7d'
         feed = get_google_news_rss(q, hl='en-GB', gl='GB', ceid='GB:en')
         add_entries(feed)
 
@@ -82,7 +81,7 @@ def fetch_news():
     for entry in raw_entries:
         raw_title = entry.title
         
-        # タイトルとソースの分離 ("記事タイトル - メディア名")
+        # タイトルとソースの分離
         if " - " in raw_title:
             title_part, source_part = raw_title.rsplit(" - ", 1)
         else:
@@ -107,7 +106,7 @@ def fetch_news():
 def rebuild_and_collect_all_news():
     print("日米英主要メディアからのニュース取得を開始します...")
     new_items = fetch_news()
-    print(f"取得出来たニュース総数（重複排除後）: {len(new_items)} 件")
+    print(f"取得出来たニュース総数（重複排除前）: {len(new_items)} 件")
     
     df_new = pd.DataFrame(new_items)
     
