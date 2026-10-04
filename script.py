@@ -4,8 +4,11 @@ import os
 import feedparser
 import pandas as pd
 
-# 日本語キーワード（カッコで囲んでグループ化＋主要概念網羅）
+# 日本語キーワード（既存キーワード ＋ 政策・規制・政府関連を追加）
 BASE_KEYWORDS_JA = '(生成AI OR 人工知能 OR オープンAI OR OpenAI OR ChatGPT OR グーグル OR Google OR Gemini OR アンソロピック OR Anthropic OR Claude OR Copilot OR LLM OR フィジカルAI OR "Physical AI" OR スーパーインテリジェンス OR 超知能 OR "SIエージェント")'
+
+# 政府・省庁・政策専用キーワード
+GOV_KEYWORDS_JA = '(日本政府 OR 官邸 OR 首相 OR 内閣府 OR デジタル庁 OR 経産省 OR 経済産業省 OR 総務省 OR 文科省 OR 審議会 OR ガイドライン OR AI規制 OR AI推進 OR AI戦略 OR AI法案)'
 
 # 英語キーワード（海外本国用）
 BASE_KEYWORDS_EN = '("Generative AI" OR "Artificial Intelligence" OR OpenAI OR ChatGPT OR Google OR Gemini OR Anthropic OR Claude OR Copilot OR "Physical AI" OR Superintelligence OR "SI Agent")'
@@ -19,7 +22,7 @@ def get_google_news_rss(query: str, hl='ja', gl='JP', ceid='JP:ja'):
     return feedparser.parse(url)
 
 def fetch_news():
-    """日米英の主要メディアに絞って過去7日分のニュースを確実に取得"""
+    """日米英の主要メディア＋政府動向を確実に取得"""
     raw_entries = []
     seen_titles = set()
 
@@ -29,7 +32,7 @@ def fetch_news():
                 seen_titles.add(entry.title)
                 raw_entries.append(entry)
 
-    # 1. 日本国内 主要メディア（明示的なAND結合＋過去7日分指定）
+    # 1. 日本国内 主要メディア（主要紙＋NHK）
     queries_ja = [
         f'(日本経済新聞 OR 日経) AND {BASE_KEYWORDS_JA} when:7d',
         f'読売新聞 AND {BASE_KEYWORDS_JA} when:7d',
@@ -40,7 +43,10 @@ def fetch_news():
         f'CNN AND {BASE_KEYWORDS_JA} when:7d',
         f'BBC AND {BASE_KEYWORDS_JA} when:7d',
         f'ロイター AND {BASE_KEYWORDS_JA} when:7d',
-        f'ブルームバーグ AND {BASE_KEYWORDS_JA} when:7d'
+        f'ブルームバーグ AND {BASE_KEYWORDS_JA} when:7d',
+        
+        # ★追加: 日本政府・政策・規制に関するニュース全般（主要紙＋官庁動向）
+        f'{GOV_KEYWORDS_JA} AND {BASE_KEYWORDS_JA} when:7d'
     ]
     for q in queries_ja:
         feed = get_google_news_rss(q, hl='ja', gl='JP', ceid='JP:ja')
@@ -104,7 +110,7 @@ def fetch_news():
     return news_list
 
 def rebuild_and_collect_all_news():
-    print("日米英主要メディアからのニュース取得を開始します...")
+    print("日米英主要メディアおよび政府動向のニュース取得を開始します...")
     new_items = fetch_news()
     print(f"取得出来たニュース総数（重複排除前）: {len(new_items)} 件")
     
