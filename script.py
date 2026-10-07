@@ -5,7 +5,7 @@ import feedparser
 import pandas as pd
 
 # 日本語キーワード（既存キーワード ＋ 政策・規制・政府関連を追加）
-BASE_KEYWORDS_JA = '(生成AI OR 人工知能 OR オープンAI OR OpenAI OR ChatGPT OR グーグル OR Google OR Gemini OR アンソロピック OR Anthropic OR Claude OR Copilot OR LLM OR フィジカルAI OR "Physical AI" OR スーパーインテリジェンス OR 超知能 OR "SIエージェント" OR "サイバー攻撃")'
+BASE_KEYWORDS_JA = '(生成AI OR 人工知能 OR オープンAI OR OpenAI OR ChatGPT OR グーグル OR Google OR Gemini OR アンソロピック OR Anthropic OR Claude OR Copilot OR LLM OR フィジカルAI OR "Physical AI" OR スーパーインテリジェンス OR 超知能 OR "SIエージェント" OR "サイバー")'
 
 # 政府・省庁・政策専用キーワード
 GOV_KEYWORDS_JA = '(日本政府 OR 官邸 OR 首相 OR 内閣府 OR デジタル庁 OR 経産省 OR 経済産業省 OR 総務省 OR 文科省 OR 審議会 OR ガイドライン OR AI規制 OR AI推進 OR AI戦略 OR AI法案)'
