@@ -1,6 +1,7 @@
 import datetime
 import os
 import re
+import time
 import unicodedata
 import urllib.parse
 
@@ -12,68 +13,51 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CSV_PATH = os.path.join(BASE_DIR, "ai_news_v2.csv")
 RETENTION_DAYS = 30
 SEARCH_WINDOW = "when:7d"
+REQUEST_INTERVAL_SEC = 0.5  # 連続アクセスを避けるための待機
 COLUMNS = ["date", "news_title", "news_source"]
 
 # ---------------------------------------------------------------
 # 検索クエリ（Google News RSS）
+#   長いOR条件を1本にまとめると返却件数が偏るため、
+#   キーワードごとに短いクエリへ分けて取得件数を増やす。
+#   媒体の絞り込みは取得後に行う（ALLOWED_SOURCES）。
 # ---------------------------------------------------------------
-AI_QUERY_JA = (
-    '(生成AI OR 人工知能 OR オープンAI OR OpenAI OR ChatGPT OR '
-    'アンソロピック OR Anthropic OR Claude OR ジェミニ OR Gemini OR LLM OR '
-    'フィジカルAI OR 超知能 OR スーパーインテリジェンス OR "SIエージェント" OR '
-    'AIエージェント OR ミュトス OR Mythos OR AI)'
-)
-GOV_QUERY_JA = (
-    '(日本政府 OR 官邸 OR 首相 OR 内閣府 OR デジタル庁 OR 経産省 OR 経済産業省 OR '
-    '総務省 OR 文科省 OR 審議会 OR AI規制 OR AI推進 OR AI戦略 OR AI法案)'
-)
-SECURITY_QUERY_JA = '(サイバー OR セキュリティ OR ハッカー OR ハッキング)'
-
-AI_QUERY_EN = (
-    '("Generative AI" OR "Artificial Intelligence" OR OpenAI OR ChatGPT OR '
-    '"Google DeepMind" OR "Gemini AI" OR Anthropic OR "Claude AI" OR Copilot OR '
-    '"Physical AI" OR Superintelligence OR "AI agent" OR Mythos)'
-)
-SECURITY_QUERY_EN = (
-    '("cybersecurity" OR "cyber attack" OR "cyberattack" OR hacker OR hacking OR '
-    '"security breach")'
-)
-
-QUERIES = [
-    ("国内主要紙・NHK・通信社・専門紙",
-     f"(日本経済新聞 OR 日経 OR 読売新聞 OR 朝日新聞 OR 毎日新聞 OR 産経新聞 OR NHK OR ロイター OR "
-     f"ブルームバーグ OR 日経ビジネス OR 日経クロステック OR ITmedia OR 時事通信 OR 共同通信) AND {AI_QUERY_JA} {SEARCH_WINDOW}",
-     "ja", "JP", "JP:ja"),
-    ("日本政府・政策",
-     f"{GOV_QUERY_JA} AND {AI_QUERY_JA} {SEARCH_WINDOW}",
-     "ja", "JP", "JP:ja"),
-    ("日本語のAI×セキュリティ",
-     f"{SECURITY_QUERY_JA} AND {AI_QUERY_JA} {SEARCH_WINDOW}",
-     "ja", "JP", "JP:ja"),
-    ("米英メディア・専門紙",
-     f"(CNN OR Reuters OR AP OR Bloomberg OR \"Wall Street Journal\" OR \"New York Times\" OR "
-     f"\"Washington Post\" OR \"NBC News\" OR \"ABC News\" OR \"CBS News\" OR BBC OR "
-     f"\"Financial Times\" OR Guardian OR Telegraph OR Independent OR Axios OR CNBC OR "
-     f"TechCrunch OR \"The Verge\" OR Wired OR \"Hacker News\") AND {AI_QUERY_EN} {SEARCH_WINDOW}",
-     "en-US", "US", "US:en"),
-    ("海外のAI×セキュリティ",
-     f"{SECURITY_QUERY_EN} AND {AI_QUERY_EN} {SEARCH_WINDOW}",
-     "en-US", "US", "US:en"),
+KEYWORDS_JA = [
+    "生成AI", "人工知能", "AI", "オープンAI", "アンソロピック", "ChatGPT",
+    "ジェミニ AI", "Claude AI", "AIエージェント", "フィジカルAI", "超知能",
+    "スーパーインテリジェンス", "LLM", "AI規制", "AI法案", "AI 政府",
+    "AI サイバー", "AI セキュリティ", "AI ハッキング", "AI 著作権",
+]
+KEYWORDS_EN = [
+    "generative AI", "artificial intelligence", "AI", "OpenAI", "Anthropic",
+    "ChatGPT", "Gemini AI", "Claude AI", "Microsoft Copilot", "AI agent",
+    "superintelligence", "AI regulation", "AI cybersecurity", "AI hacking",
+    "AI security breach", "Physical AI",
 ]
 
+QUERIES = []
+for kw in KEYWORDS_JA:
+    QUERIES.append((f"JA: {kw}", f"{kw} {SEARCH_WINDOW}", "ja", "JP", "JP:ja"))
+for kw in KEYWORDS_EN:
+    QUERIES.append((f"US: {kw}", f"{kw} {SEARCH_WINDOW}", "en-US", "US", "US:en"))
+    QUERIES.append((f"UK: {kw}", f"{kw} {SEARCH_WINDOW}", "en-GB", "GB", "GB:en"))
+
 # 許可する媒体名（部分一致・大文字小文字無視）。
-# 取得結果の「除外された媒体」を実行ログに出すので、必要に応じて追加してください。
+# 除外された媒体は実行ログに件数付きで出るので、必要に応じて追加してください。
 ALLOWED_SOURCES = [
     # 日本
     "日本経済新聞", "日経", "読売新聞", "朝日新聞", "毎日新聞", "産経", "NHK",
     "ロイター", "Reuters", "ブルームバーグ", "Bloomberg", "時事", "共同通信",
     "ITmedia", "日経ビジネス", "日経クロステック", "Japan Times", "CNN.co.jp", "CNN.jp",
+    "東洋経済", "ダイヤモンド", "JBpress", "ASCII", "インプレス", "Impress",
     # 米国
     "CNN", "Associated Press", "AP News", "Wall Street Journal", "The New York Times",
     "The Washington Post", "NBC News", "ABC News", "CBS News", "CNBC", "Axios",
     "TechCrunch", "The Verge", "Wired", "The Hacker News", "CyberScoop", "BankInfoSecurity",
+    "Bloomberg.com", "Fortune", "Forbes", "Business Insider", "Politico",
     # 英国
     "BBC", "Financial Times", "The Guardian", "The Telegraph", "The Independent",
+    "The Times", "Sky News", "The Stack",
 ]
 
 # AI関連判定（NFKC正規化後のタイトル＋概要に対して判定）
@@ -131,7 +115,7 @@ def normalize_key(title: str) -> str:
 
 def fetch_news():
     raw_entries = []
-    print("== 取得状況 ==")
+    print("== 取得状況（クエリごと） ==")
     for name, query, hl, gl, ceid in QUERIES:
         feed = get_google_news_rss(query, hl, gl, ceid)
         n = len(feed.entries)
@@ -141,6 +125,7 @@ def fetch_news():
             status = "OK" if n else "0件"
         print(f"  {name}: {n}件 ({status})")
         raw_entries.extend(feed.entries)
+        time.sleep(REQUEST_INTERVAL_SEC)
     print(f"取得総数（重複前）: {len(raw_entries)} 件")
 
     rows, seen = [], set()
@@ -170,14 +155,14 @@ def fetch_news():
         rows.append({"date": date_str, "news_title": title, "news_source": source})
 
     print(f"AI関連でないため除外: {dropped_ai} 件")
-    print("許可外の媒体（件数の多い順・上位15）:")
-    for src, cnt in sorted(excluded_sources.items(), key=lambda x: -x[1])[:15]:
+    print("許可外の媒体（件数の多い順・上位20）:")
+    for src, cnt in sorted(excluded_sources.items(), key=lambda x: -x[1])[:20]:
         print(f"  {cnt:>4}件  {src}")
     return rows
 
 
 def load_existing() -> pd.DataFrame:
-    """既存CSVを読み込み、蓄積を継続する（これがないと毎回上書きで過去の日が消える）"""
+    """既存CSVを読み込み、蓄積を継続する"""
     if not os.path.exists(CSV_PATH):
         return pd.DataFrame(columns=COLUMNS)
     try:
