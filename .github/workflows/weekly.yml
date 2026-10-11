@@ -2,14 +2,16 @@ name: Weekly AI News Raw Generator
 
 on:
   schedule:
-    - cron: '0 22 * * 0'  # 毎週日曜日 UTC 22:00（日本時間 月曜 朝7:00）
-  workflow_dispatch:      # ★手動実行ボタンを有効化
+    # 毎週日曜 UTC 23:30（日本時間 月曜 朝8:30）
+    # 日次収集（UTC 22:00）の完了を待ってから実行し、当日分を取りこぼさないようにする
+    - cron: '30 23 * * 0'
+  workflow_dispatch:      # 手動実行ボタンを有効化
 
 jobs:
   generate-raw-data:
     runs-on: ubuntu-latest
     permissions:
-      contents: write     # ★リポジトリへの書き込み権限を明示
+      contents: write
     steps:
       - uses: actions/checkout@v4
 

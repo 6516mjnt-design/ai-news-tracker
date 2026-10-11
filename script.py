@@ -16,7 +16,8 @@ RETENTION_DAYS = 30
 BACKFILL = os.environ.get("BACKFILL", "0") == "1"
 SEARCH_WINDOW = "when:30d" if BACKFILL else "when:7d"
 REQUEST_INTERVAL_SEC = 0.5  # 連続アクセスを避けるための待機
-COLUMNS = ["date", "news_title", "news_source"]
+COLUMNS = ["date", "news_title", "news_source", "news_url"]
+REQUIRED_COLUMNS = ["date", "news_title", "news_source"]  # 旧CSVにはnews_urlが無いことがある
 
 # ---------------------------------------------------------------
 # 検索クエリ（Google News RSS）
@@ -184,7 +185,12 @@ def fetch_news():
         else:
             date_str = datetime.datetime.now().strftime("%Y-%m-%d")
 
-        rows.append({"date": date_str, "news_title": title, "news_source": source})
+        rows.append({
+            "date": date_str,
+            "news_title": title,
+            "news_source": source,
+            "news_url": getattr(entry, "link", "") or "",
+        })
 
     print(f"AI関連でないため除外: {dropped_ai} 件")
     print("許可外の媒体（件数の多い順・上位20）:")
@@ -199,9 +205,11 @@ def load_existing() -> pd.DataFrame:
         return pd.DataFrame(columns=COLUMNS)
     try:
         df = pd.read_csv(CSV_PATH, dtype=str, encoding="utf-8-sig")
-        if not set(COLUMNS).issubset(df.columns):
+        if not set(REQUIRED_COLUMNS).issubset(df.columns):
             print("既存CSVの列が想定と違うため、新規に作成します。")
             return pd.DataFrame(columns=COLUMNS)
+        if "news_url" not in df.columns:
+            df["news_url"] = ""  # 旧CSVはURLが無いので空欄で補う（データは失わない）
         return df[COLUMNS]
     except Exception as e:
         print(f"既存CSVの読み込みに失敗（新規作成します）: {e}")
