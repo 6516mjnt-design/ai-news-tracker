@@ -1,537 +1,353 @@
-【対象期間: 2026-09-28 〜 2026-10-04】（総件数: 535件）
+【対象期間: 2026-09-28 〜 2026-10-04】（総件数: 351件）
 
-- [2026-10-04] Russia hits second major bridge in Ukraine's capital Kyiv (BBC)
-- [2026-10-04] Worries about an AI internet takeover gain new urgency among doomsday scenarios - ABC News (Breaking News, Latest News and Videos)
-- [2026-10-04] Google information security engineer charged with using inside information to make $1M on Polymarket - ABC News (Breaking News, Latest News and Videos)
-- [2026-10-04] Hassett defends Trump economy despite voter concerns on inflation (CNN)
-- [2026-10-04] Exclusive: Al Qaeda images posted on Flydubai suspect Hammami’s social media (CNN)
-- [2026-10-04] Saudi-backed Yemeni forces attack Houthis near key global trade route (CNN)
-- [2026-10-04] Ethiopia’s Federal Army Recaptures Mekelle Airport From Tigray Rebels: 13 outlets compared (NewsCord)
-- [2026-10-04] OpenAI safety employee quits, says 'time for trial and error is over' (Reuters)
-- [2026-10-04] Exclusive | New AI Czar Unveils Goals, Members of White House Task Force (WSJ)
-- [2026-10-04] Worries about an AI internet takeover gain new urgency among doomsday scenarios (abcnews.com)
-- [2026-10-04] Google information security engineer charged with using inside information to make $1M on Polymarket (abcnews.com)
-- [2026-10-04] 高市首相、Appleに「生成AIの自殺防止・安全対策」を要請〜クック前CEOらも政府連携に前向き - iPhone Mania (iPhone Mania)
-- [2026-10-04] Here’s when USPS holiday shipping prices start (kltv.com)
-- [2026-10-04] 日経にサイバー攻撃 なりすましメールを取材先などに9千件不正送信（朝日新聞） (news.yahoo.co.jp)
-- [2026-10-04] ギリシャ首相がテック企業を誘致、人工知能の未来には「答えがない」 (Межа. Новини України.)
-- [2026-10-04] プレスリリース：［10/21-23開催］年間200本超登壇の本間謙斗が「DXPO福岡’26」で3日連続で基調講演に登壇｜がばいAIコンサルティング、IT・情シスDXPOにも出展（PR TIMES） (毎日新聞)
-- [2026-10-04] プレスリリース：津南醸造、第78回日本生物工学会大会の本部企画シンポジウムで「生成AIを活用した食用米ブランド日本酒の開発」を講演（PR TIMES） (毎日新聞)
-- [2026-10-04] 「AI」→「SI」推進のトランプ氏 肝心の合意文書で国名誤り (毎日新聞)
-- [2026-10-03] Stories to make you smile from across the West Midlands (BBC)
-- [2026-10-03] G7 to release 100 million barrels of oil and diesel after Trump export ban threat (BBC)
-- [2026-10-03] OpenAIの安全性担当者が退社、AI開発に「原発並み」の多層的対策訴え (Bloomberg.com)
-- [2026-10-03] FDA finds potential source of cyclosporiasis outbreak linked to lettuce - ABC News (Breaking News, Latest News and Videos)
-- [2026-10-03] Former President Bush and Sen. Cornyn take part in fundraiser for battleground Senate candidates -- without Paxton - ABC News (Breaking News, Latest News and Videos)
-- [2026-10-03] Terrorist images found on Flydubai suspect’s social media (CNN)
-- [2026-10-03] NYC bakery's $60 loaf of bread sparks social media buzz (CNN)
-- [2026-10-03] Flydubai attack suspect removed by another airline over extremist views (CNN)
-- [2026-10-03] Dem leader Jeffries reacts to Crockett not endorsing Talarico (CNN)
-- [2026-10-03] Flydubai Flight 1073: A security warning may have been missed before the plane even took off (Greek City Times)
-- [2026-10-03] Bride’s dog steals the show in viral wedding video (KGNS)
-- [2026-10-03] Lewandowski Hat-Trick Lifts Poland To 6-0 Win Over 10-Man Romania In Warsaw: 17 outlets compared (NewsCord)
-- [2026-10-03] 焦点：虚偽説明や失敗隠しも、中国系ＡＩエージェントにも「暴走」リスク (Reuters)
-- [2026-10-03] 焦点：虚偽説明や失敗隠しも、中国系ＡＩエージェントにも「暴走」リスク | ロイター (Reuters)
-- [2026-10-03] OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day (The Guardian)
-- [2026-10-03] OpenAI’s Medicare attack has exposed Australia’s ‘tech debt’. Fixing it could bring a big bill for taxpayers (The Guardian)
-- [2026-10-03] 高市首相はなぜAppleに自殺対策を求めたのか――生成AIが最初の相談相手になる時代の安全対策 #エキスパートトピ (Yahoo!ニュース)
-- [2026-10-03] Former President Bush and Sen. Cornyn take part in fundraiser for battleground Senate candidates -- without Paxton (abcnews.com)
-- [2026-10-03] 高市首相がAppleに要請――「自殺防止機能の搭載を」　生成AIへの相談増加を受け - ITmedia Mobile (itmedia.co.jp)
-- [2026-10-03] Trump's 'super intelligence' order sparks surge in Slovenian domain registrations (news.lavx.hu)
-- [2026-10-03] GRAPHIC: Video inside Flydubai flight shows moment passengers seize control (wandtv.com)
-- [2026-10-03] Video inside Flydubai flight shows moment passengers seize control (wandtv.com)
-- [2026-10-03] 生成AIが「事業成果に貢献」は24% マーケター1000人調査 (日本経済新聞)
-- [2026-10-03] オープンAI、新AIモデルの公開中止 安全性の懸念で (毎日新聞)
-- [2026-10-03] プレスリリース：SNSテキストマイニングがAIで進化、生成AIでの自社の言及も計測。「Tofu Analytics」新機能（PR TIMES） (毎日新聞)
-- [2026-10-03] プレスリリース：［限定30名・オンライン］生成AIアニメ『花魁転生』の制作舞台裏を全公開。企画から完パケまで15工程を解説する有料セミナーを10月16日に開催（PR TIMES） (毎日新聞)
-- [2026-10-03] MEO対策AI「口コミロボ(TM)」、スマホ修理店に続きパソコン修理（PC修理）店向けの口コミ質問を10月3日から提供 Google広告が出しにくい修理店のMEO対策を支援 (産経ニュース)
-- [2026-10-02] Trump vows to never 'stifle' AI as leading executives urge caution (1News)
-- [2026-10-02] Inside FlyDubai's ordeal: Cockpit fight, steep descents and distress codes (1News)
-- [2026-10-02] 山奥で育った僕がグーグルに就職できた理由 元新卒採用責任者が明かす就活生に大切にして欲しい5つのこと (AERA DIGITAL)
-- [2026-10-02] ChatGPTを生んだのは「AIへの恐怖」だった…イーロン・マスクとサム・アルトマンが“人類のため”に手を組んだOpenAI誕生前夜 (AERA DIGITAL)
-- [2026-10-02] South East Water hosepipe ban in Sussex extended to vulnerable (BBC)
-- [2026-10-02] US pressures Europe to release diesel reserves as Trump threatens export ban (BBC)
-- [2026-10-02] UK diesel prices top £2 a litre for first time, RAC says (BBC)
-- [2026-10-02] K-pop giants Stray Kids join BTS in boycotting the Grammys (BBC)
-- [2026-10-02] OpenAI fires three staff over mishandling sensitive information (Banglanews24)
-- [2026-10-02] アンソロピック、11月半ばにも大型IPOを目指す－関係者 (Bloomberg.com)
-- [2026-10-02] 米中AIの実力差はここまで縮んだ 中国の猛追、 最新モデルで徹底比較 (Bloomberg.com)
-- [2026-10-02] Trump and Dana White kick off UFC event on the White House South Lawn - ABC News (Breaking News, Latest News and Videos)
-- [2026-10-02] GOP doubts about Georgia and North Carolina have Republicans shifting focus in battle for Senate - ABC News (Breaking News, Latest News and Videos)
-- [2026-10-02] OpenAI’s Chris Lehane speaks about AI super intelligence | CNN Business (CNN)
-- [2026-10-02] OpenAI executive calls for national AI safety standards amid industry scrutiny (CNN)
-- [2026-10-02] FlyDubai passenger recounts alleged hijack attempt to CNN (CNN)
-- [2026-10-02] Spanish lawmakers to hold key vote on housing crisis (CNN)
-- [2026-10-02] Snapchat messages during alleged Cornell assault included photo of Jane Doe (CNN)
-- [2026-10-02] French high school protests intensify (CNN)
-- [2026-10-02] Cornell students describe the atmosphere on campus since Jane Doe's civil lawsuit dropped (CNN)
-- [2026-10-02] ブロードコムAnthropicに最大420億ドル融資 - CHOSUNBIZ (Chosunbiz)
-- [2026-10-02] OpenAI fires workers for mishandling ‘sensitive information’ (MyJoyOnline)
-- [2026-10-02] “フィジカルＡＩ”搭載のぶどう収穫ロボット 実演会 山梨 (NHKニュース)
-- [2026-10-02] 米アンソロピック、11月半ばにＩＰＯ目指す ブルームバーグ報道 (QUICK Money World)
-- [2026-10-02] アンソロピック、政府姿勢が顧客関係に悪影響の恐れ＝ＩＰＯ目論見書 (Reuters)
-- [2026-10-02] 米ＡＩモデル「ウエート」、中国が盗む恐れ 民主議員が警告 (Reuters)
-- [2026-10-02] グーグルＡＩ要約訴訟、連邦地裁が米メディアの訴え棄却 (Reuters)
-- [2026-10-02] アングル：ＡＩ関連の資金調達、低格付け領域にも拡大 投資家は警戒感強める (Reuters)
-- [2026-10-02] In 1985, Harrison Ford bought an 800-acre ranch along Wyoming's Snake River. 41 years later, 389 acres rem (The Economic Times)
-- [2026-10-02] Anthropic pushes for opt-out model for Australian content as ABC warns of ‘cannibalisation’ of news (The Guardian)
-- [2026-10-02] From Super Bowl champ to master architect: Mike Tomlin’s sprawling Minecraft city is magnificent (The Guardian)
-- [2026-10-02] NRL 2026 grand final: where the Sydney Roosters v Newcastle Knights decider will be won and lost | Angus Fontaine (The Guardian)
-- [2026-10-02] California issues investigative subpoena to OpenAI over rogue agents’ hacking (The Guardian)
-- [2026-10-02] We don’t need to panic about AI. We need to hold its creators accountable when things go wrong | John Quiggin (The Guardian)
-- [2026-10-02] Jimmy Kimmel on Trump’s plan for AI safety: ‘Like asking your kids to self-police their Halloween candy’ (The Guardian)
-- [2026-10-02] OpenAI disclose another hack on government department in Australia (The Guardian)
-- [2026-10-02] Thursday news quiz: Superheroes, AI zeroes and a very lost shark (The Guardian)
-- [2026-10-02] Lyft agrees to pay California $272.5m in largest-ever wage theft settlement (The Guardian)
-- [2026-10-02] Christa Pike execution: Two lethal doses, but she survived. What’s next? (The Indian Express)
-- [2026-10-02] LIVE: New York’s governor and AG set to give update on Cornell rape allegations (WJHG)
-- [2026-10-02] Restorative justice feeds more than the soul in this garden (WTHI-TV)
-- [2026-10-02] LIVE: New York’s governor and AG set to give update on Cornell rape allegations - clipped version (Western Mass News)
-- [2026-10-02] Thrifting a treasure (Western Mass News)
-- [2026-10-02] 伊予鉄G、ロボット関連企業と資本業務提携 フィジカルAI普及へ（毎日新聞） (Yahoo!ニュース)
-- [2026-10-02] ソフトバンクＧ、オープンＡＩに300億ドル出資完了 持ち分13％に（ロイター） (Yahoo!ニュース)
-- [2026-10-02] Trump and Dana White kick off UFC event on the White House South Lawn (abcnews.com)
-- [2026-10-02] Tokyo court grants legal protection to human voices in AI clone case, Asia News (asiaone.com)
-- [2026-10-02] Trump renamed AI (artificial intelligence) to SI (superintelligence) — and demand for Slovenian .si domains increased more than 20 times (dev.ua)
-- [2026-10-02] 伊予鉄G、ロボット関連企業と資本業務提携 フィジカルAI普及へ (mainichi.jp)
-- [2026-10-02] オープンＡＩが社員３人を解雇か、外部の評価機関に機密情報を共有した疑い（読売新聞オンライン） (news.yahoo.co.jp)
-- [2026-10-02] アンソロピックIPO、11月中旬以降か ブルームバーグ報道 (nikkei.com)
-- [2026-10-02] 米グーグルのAI「ジェミニ」のロゴ（ロイター＝共同） - グーグル、新型AIモデル 脆弱性修正や悪用防止強化 - 写真・画像(1/1) (nishinippon.co.jp)
-- [2026-10-02] 生成AIが選ぶ「国内旅行サイト」、1位はじゃらんnet（言及率100%） (産経ニュース)
-- [2026-10-02] 【調査レポート】既存クライアントの50％がAI有料プランを利用 (産経ニュース)
-- [2026-10-02] グーグル、新型AIモデル「ジェミニ4アルゴン」発表 脆弱性修正や悪用防止強化 (産経ニュース)
-- [2026-10-02] Polimill、大阪府河内長野市と「生成AIの利活用等に係る連携協定」を締結 - 市職員のフィードバックでQommonsAIを進化させる【共創】型パートナーシップ (産経ニュース)
-- [2026-10-02] 【限定30名・オンライン】生成AIアニメ『花魁転生』の制作舞台裏を全公開。企画から完パケまで15工程を解説する有料セミナーを10月16日に開催 (産経ニュース)
-- [2026-10-02] オープンＡＩが社員３人を解雇か、外部の評価機関に機密情報を共有した疑い (読売新聞)
-- [2026-10-01] OpenAI delays latest model over security concerns (1News)
-- [2026-10-01] Big Tech's "Morally Binding" AI Pact Feels About As Reassuring As A Crack Addict's New Year's Resolution (2oceansvibe News)
-- [2026-10-01] FTC is investigating OpenAI and Anthropic over possible risks to consumers (AP News)
-- [2026-10-01] AI boom could trigger market shocks, Bank of England boss warns (BBC)
-- [2026-10-01] More than half of Scotland's universities spend more than they earn - report (BBC)
-- [2026-10-01] 中国のAIモデルが生物兵器の製造方法を表示、セキュリティーテスト中に安全策を突破と (BBC)
-- [2026-10-01] Russia targets busy bridge in central Kyiv (BBC)
-- [2026-10-01] Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names (BBC)
-- [2026-10-01] Ethiopia fighting escalates in Tigray killing 52 civilians in Alamata, medic tells the BBC (BBC)
-- [2026-10-01] 米控訴裁、AI企業に打撃——トムソン・ロイター著作権訴訟で画期的判決 (BigGo ファイナンス)
-- [2026-10-01] グーグルが提供開始の「Gemini 4」、社内に懐疑論－コーディングなど (Bloomberg.com)
-- [2026-10-01] OpenAIとアンソロピック、安全性巡りFTCが調査－近く情報提出要求へ (Bloomberg.com)
-- [2026-10-01] OpenAI、ムーンショットが大量のデータ抽出と非難－技術流出を警戒 (Bloomberg.com)
-- [2026-10-01] JPMorgan’s Sundar Sees ‘Healthy’ Tumult of Two AI Cycles at Once (Bloomberg.com)
-- [2026-10-01] AI Safety Measures Widely Backed by Most Americans, Poll Finds (Bloomberg.com)
-- [2026-10-01] FTC opens probe into safety of AI, including Anthropic and Open AI: Source - ABC News (Breaking News, Latest News and Videos)
-- [2026-10-01] California Gov. Gavin Newsom signs laws to protect workers from AI risks - ABC News (Breaking News, Latest News and Videos)
-- [2026-10-01] OpenAI sued by safety group over autonomous hack of Hugging Face - ABC News (Breaking News, Latest News and Videos)
-- [2026-10-01] FTC opens probe into safety of AI, including Anthropic and OpenAI - ABC News (Breaking News, Latest News and Videos)
-- [2026-10-01] $67 billion NextEra-Dominion merger could raise U.S. electricity prices, lawmakers say (CBS News)
-- [2026-10-01] CNN explains what happened aboard Flydubai flight 1073 (CNN)
-- [2026-10-01] CNN’s Nic Robertson explains how Israel may get involved in the Flydubai probe (CNN)
-- [2026-10-01] CEO reacts to tech execs pledging to ‘self-police’ their AI products (CNN)
-- [2026-10-01] Tracing Kushner’s company’s links to a firm with stakes in Israeli weapon suppliers (CNN)
-- [2026-10-01] What happened inside the Flydubai flight to Israel? (CNN)
-- [2026-10-01] ‘Everyone acted heroically,’ passenger says after Flydubai suspected hijacking attempt (CNN)
-- [2026-10-01] Russian drone strikes Kyiv school (CNN)
-- [2026-10-01] Cornell: What we know about what Jane Doe told officials and the Snapchat messages (CNN)
-- [2026-10-01] ‘Rolling Loud: The Movie’ was inspired by a real incident (CNN)
-- [2026-10-01] Google releases most advanced Gemini AI model (Financial Times)
-- [2026-10-01] ブロードコム、アンソロピックに最大420億ドル融資へ ＩＰＯ目論見書 (Infoseek)
-- [2026-10-01] Health Minute: Signs of seasonal affective disorder (KJCT)
-- [2026-10-01] Hegseth deliver's 'State of the Force' address (KNOE)
-- [2026-10-01] 2-headed turtle hatchling found on Cape Cod (KNOE)
-- [2026-10-01] 中司規制改革相“フィジカルAI活用へ 実証実験など推進” (NHKニュース)
-- [2026-10-01] 米ＦＴＣ、アンソロピックなどＡＩ大手を調査 暴走の危険性巡り (Reuters)
-- [2026-10-01] Trump, AI CEOs sign voluntary safety pact, back data center expansion (Reuters)
-- [2026-10-01] ブロードコム、アンソロピックに最大420億ドル融資へ ＩＰＯ目論見書 | ロイター (Reuters)
-- [2026-10-01] グーグル、ＡＩ「ジェミニ」次世代旗艦モデル発表 数カ月遅れ | ロイター (Reuters)
-- [2026-10-01] アンソロピック、ＡＩの経済変革力と人類存続へのリスク指摘 (Reuters)
-- [2026-10-01] ＡＩエージェントがカナダ政府のサイトに侵入未遂＝研究機関 (Reuters)
-- [2026-10-01] EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says (Reuters)
-- [2026-10-01] FTC opens probe into AI giants including Anthropic and OpenAI (Reuters)
-- [2026-10-01] グーグルが提供開始の「Gemini 4」、社内に懐疑論－コーディングなど | TBS CROSS DIG with Bloomberg (TBS NEWS DIG)
-- [2026-10-01] A fake image of a Georgia mayor kissing a person went viral. Can US voters trust everything they see? (The Guardian)
-- [2026-10-01] Trump AI deal rebrands ‘artificial intelligence’ as ‘superintelligence’ (The Guardian)
-- [2026-10-01] New Google Maps images reveal massive scale of devastation in Gaza (The Guardian)
-- [2026-10-01] ‘Whoever is hearing me, we need help’: how flight 1073 survived its 17,000ft plunge (The Guardian)
-- [2026-10-01] Putin Is Repeating Brezhnev’s Major Mistakes — The Telegraph (UA.NEWS)
-- [2026-10-01] 11-year-old goes to court after reciving citation for riding a motorbike (WITN)
-- [2026-10-01] Kids pick up money habits earlier than parents realize, expert says (WSAZ)
-- [2026-10-01] 米連邦取引委がAI大手の調査開始 アンソロピックやオープンAIなど、暴走や悪用の懸念（産経新聞） (Yahoo!ニュース)
-- [2026-10-01] 米ＦＴＣ、アンソロピックなどＡＩ大手を調査 暴走の危険性巡り（ロイター） (Yahoo!ニュース)
-- [2026-10-01] グーグルが提供開始の「Gemini 4」、社内に懐疑論－コーディングなど（Bloomberg） (Yahoo!ニュース)
-- [2026-10-01] ＡＩ「暴走」、米当局がアンソロピックやオープンＡＩなど調査開始…消費者に「危険」及ぼすかどうか (読売新聞オンライン) (Yahoo!ニュース)
-- [2026-10-01] 人気声優・津田健次郎さんの請求棄却 「声模倣」動画は既に削除（毎日新聞） (Yahoo!ニュース)
-- [2026-10-01] グーグル、ＡＩ「ジェミニ」次世代旗艦モデル発表 数カ月遅れ（ロイター） (Yahoo!ニュース)
-- [2026-10-01] ブロードコム、アンソロピックに最大420億ドル融資へ ＩＰＯ目論見書（ロイター） (Yahoo!ニュース)
-- [2026-10-01] アンソロピック、ＡＩの経済変革力と人類存続へのリスク指摘（ロイター） (Yahoo!ニュース)
-- [2026-10-01] ＡＩエージェントがカナダ政府のサイトに侵入未遂＝研究機関（ロイター） (Yahoo!ニュース)
-- [2026-10-01] グーグル、ＡＩ「ジェミニ」次世代旗艦モデル発表 数カ月遅れ (ロイター) (Yahoo!ニュース)
-- [2026-10-01] グーグル、ＡＩの「暴走」止める仕組み導入…最上位モデル「ジェミニ４アルゴン」発表 (読売新聞オンライン) (Yahoo!ニュース)
-- [2026-10-01] グーグル、ＡＩの「暴走」止める仕組み導入…最上位モデル「ジェミニ４アルゴン」発表（読売新聞オンライン） (Yahoo!ニュース)
-- [2026-10-01] ＡＩ「暴走」、米当局がアンソロピックやオープンＡＩなど調査開始…消費者に「危険」及ぼすかどうか（読売新聞オンライン） (Yahoo!ニュース)
-- [2026-10-01] California Gov. Gavin Newsom signs laws to protect workers from AI risks (abcnews.com)
-- [2026-10-01] FTC opens probe into safety of AI, including Anthropic and OpenAI (abcnews.com)
-- [2026-10-01] OpenAI sued by safety group over autonomous hack of Hugging Face (abcnews.com)
-- [2026-10-01] グーグル、ＡＩ「ジェミニ」次世代旗艦モデル発表 数カ月遅れ (jp.reuters.com)
-- [2026-10-01] 米政府、OpenAIとアンソロピックを調査 AI暴走で安全性に懸念 (nikkei.com)
-- [2026-10-01] Google、AIの上位モデル7カ月ぶり更新「Gemini 4 Argon」 (nikkei.com)
-- [2026-10-01] 朝日新聞がAIOタイアップ開始 AI検索でのブランド露出を最適化 (plus-web3.com)
-- [2026-10-01] Trump orders removal of ticks and mosquitoes from nation’s capital (wandtv.com)
-- [2026-10-01] 米連邦取引委、ＡＩ大手を調査 (カナロコ)
-- [2026-10-01] 生成AIガイドライン改定へ 教育特化型AIの必要性など検討 (教育新聞)
-- [2026-10-01] ファーウェイが狙うヒト型ロボの開発基盤 中国上位3社で世界シェア8割、 続々と工場勤務 (日経ビジネス電子版)
-- [2026-10-01] 桂文枝「Geminiと今もお付き合い」 (朝日新聞)
-- [2026-10-01] 声の権利、具体化へ「議論を」 専門家 研究や裁判例、蓄積少なく (朝日新聞)
-- [2026-10-01] ＡＩ開発減速、「企業が規制」協定 トランプ氏、国の関与には応ぜず (朝日新聞)
-- [2026-10-01] トランプ氏が拒むAI開発の国家規制 「中国を圧倒、維持したい」 [AIの時代] (朝日新聞)
-- [2026-10-01] プレスリリース：TOKIUM、ワークフロー機能を操作できるMCPサーバーを提供開始（PR TIMES） (毎日新聞)
-- [2026-10-01] 中小企業における生成AI活用に関する実態調査 (産経ニュース)
-- [2026-10-01] 【Algomatic】双日テックイノベーションと業務提携し、生成AI活用支援パートナーとして協業を開始 (産経ニュース)
-- [2026-10-01] 中国ムーンショットAIの関係者、米オープンAIに「敵対的蒸留」か 規約違反で活動阻止 (産経ニュース)
-- [2026-10-01] 落語家・桂文枝、Geminiと「今もお付き合い」も「やっぱりAIって」 (産経ニュース)
-- [2026-10-01] 生成AIが選ぶ「脱毛クリニック」、1位はエミナルクリニック（言及率93.3%） (産経ニュース)
-- [2026-10-01] 栃木県真岡市で、生成AIチャットボットの提供を開始 ― 市公式ホームページの情報をもとに、市政に関する質問に24時間365日回答 (産経ニュース)
-- [2026-10-01] 高性能ＡＩの社会実装「成長戦略実現に不可欠」、産業構造転換など行動計画…高市首相がきょう策定表明 (読売新聞)
-- [2026-10-01] ＡＩ「暴走」、米当局がアンソロピックやオープンＡＩなど調査開始…消費者に「危険」及ぼすかどうか (読売新聞)
-- [2026-10-01] グーグル、ＡＩの「暴走」止める仕組み導入…最上位モデル「ジェミニ４アルゴン」発表 (読売新聞)
-- [2026-10-01] 米連邦取引委がAI大手の調査開始　アンソロピックやオープンAIなど、暴走や悪用の懸念 (ｄメニューニュース)
-- [2026-10-01] ブロードコム、アンソロピックに最大420億ドル融資へ　ＩＰＯ目論見書 (ｄメニューニュース)
-- [2026-09-30] OpenAI unveils 'always-on' AI agent after model shelved over safety risk (1News)
-- [2026-09-30] ELNETとNTTドコモビジネス、新聞記事を活用した生成AIサービス「ELNET AI」を正式リリース (47NEWS)
-- [2026-09-30] Australia faces 'biggest property downturn in 40 years', raising recession risk (ABC News & Headlines – Australian Broadcasting Corporation)
-- [2026-09-30] ‘Super Intelligence’: Three takeaways from Trump's tech summit (BBC)
-- [2026-09-30] Chinese AI tool told researchers how to make bioweapons (BBC)
-- [2026-09-30] Digger review: Tom Cruise takes the 'biggest risk of his career' in this 'love-it-or-hate-it' folly ★★★★☆ (BBC)
-- [2026-09-30] Andy Burnham to fight next election on pledge to change voting system (BBC)
-- [2026-09-30] Regulating AI 'not the right place to start' says Bank of England governor (BBC)
-- [2026-09-30] アルトマン氏、OpenAIの上場延期を投資家は理解－AIの安全性に注力 (Bloomberg.com)
-- [2026-09-30] OpenAI、企業価値1.4兆ドルで300億ドル調達目指す－年内IPO見送りで (Bloomberg.com)
-- [2026-09-30] OpenAI、年換算の売上高が700億ドルに迫る勢い－アクシオス (Bloomberg.com)
-- [2026-09-30] OpenAI Will Keep Driving Down Prices, Sam Altman Says (Bloomberg.com)
-- [2026-09-30] OpenAI Targets $30 Billion in Funding at $1.4 Trillion Value (Bloomberg.com)
-- [2026-09-30] OpenAI、常時稼働AIエージェント「dots」発表－月8万円の新プランも (Bloomberg.com)
-- [2026-09-30] ヘッジファンド、AI活用でアンソロピックと提携の動き広がる (Bloomberg.com)
-- [2026-09-30] Trump Backs Independent AI Audits in Shift of Safety Posture (Bloomberg.com)
-- [2026-09-30] トランプ氏、AIの呼称を「SI」に変更－否定的な見方の転換狙う (Bloomberg.com)
-- [2026-09-30] OpenAI Will Keep Driving Down AI Prices, Sam Altman Says (Bloomberg.com)
-- [2026-09-30] Sam Altman unveils "dots," OpenAI's new AI personal agent (CBS News)
-- [2026-09-30] Trump and major AI executives sign "morally binding" voluntary controls: "It's almost like a constitution" (CBS News)
-- [2026-09-30] Data centers are changing America's landscape, report says (CBS News)
-- [2026-09-30] FAA investigates software glitch in some Boeing 737 Max jets that could cause issues during aborted landings (CBS News)
-- [2026-09-30] President Trump signs executive order changing the name of A.I. to ‘super intelligence’ (CNN)
-- [2026-09-30] Flight to Tel Aviv diverts to Saudi Arabia after ‘violent incident’ (CNN)
-- [2026-09-30] New details on GOP Senator’s basketball blunder, attack on Jack Smith (CNN)
-- [2026-09-30] Politics of the Day (CNN)
-- [2026-09-30] EXCLUSIVE-アンソロピック、自律型ＡＩ「暴走」の法的リスク指摘＝ＩＰＯ目録見書 (Infoseek)
-- [2026-09-30] Top 5 highest powerplay scores in ODI cricket (Khel Now)
-- [2026-09-30] NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles (NBC News)
-- [2026-09-30] オープンAI 社内で安全性懸念の警告あるも会社側が無視 米報道 | NHKニュース | 生成AI・人工知能、IT・ネット、アメリカ (NHKニュース)
-- [2026-09-30] 台風予測にAI革命 その実力を徹底分析 (NHKニュース)
-- [2026-09-30] オープンAI 社内で安全性懸念の警告あるも会社側が無視 米報道 (NHKニュース)
-- [2026-09-30] 米オープンＡＩ、300億ドルの資金調達を計画 年内のＩＰＯ見送りで ブルームバーグ報道 (QUICK Money World)
-- [2026-09-30] アンソロピック、クラウド大手への事業依存鮮明 売上高や計算資源に集中リスク (Reuters)
-- [2026-09-30] アンソロピック、自律型ＡＩ「暴走」の法的リスク指摘＝ＩＰＯ目録見書 (Reuters)
-- [2026-09-30] オープンＡＩ、年間経常収益700億ドルに迫る 企業向け堅調＝関係筋 (Reuters)
-- [2026-09-30] トランプ氏、データセンター推進を再確認 業界首脳らと会合 (Reuters)
-- [2026-09-30] The 'alarming' safety warning in the Anthropic IPO filing (Reuters)
-- [2026-09-30] Protesters demand OpenAI cut government ties outside company event (Reuters)
-- [2026-09-30] Breakingviews - COMMENTARY: コラム：アンソロピック、時価総額目標2兆ドルを支える急成長は持続可能か (Reuters)
-- [2026-09-30] 途上国、ＡＩルール作りで発言権拡大要求 「先進国主導なら格差拡大深刻」 (Reuters)
-- [2026-09-30] オープンＡＩ、年間経常収益700億ドルに迫る 企業向け堅調＝関係筋 | ロイター (Reuters)
-- [2026-09-30] OpenAI wants dot agents to handle everything from parties to payroll (Reuters)
-- [2026-09-30] トランプ氏、データセンター推進を再確認 業界首脳らと会合 | ロイター (Reuters)
-- [2026-09-30] Breakingviews - COMMENTARY: Anthropic’s $2 trln goal is AI’s biggest moonshot (Reuters)
-- [2026-09-30] Breakingviews - COMMENTARY: Chinese labs are wild cards in AI governance (Reuters)
-- [2026-09-30] EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs (Reuters)
-- [2026-09-30] OpenAI takes on Meta with dots agent in autonomous AI push (Reuters)
-- [2026-09-30] Trump announces vague ‘morally binding’ AI deal among tech CEOs for ‘tremendous self-policing’ (The Guardian)
-- [2026-09-30] We need ‘right to intervene’ in AI amid growing threat, says Bank of England boss | AI (artificial intelligence) (The Guardian)
-- [2026-09-30] Things are changing behind the scenes, so you must decide: do you want human civil servants or AI bots? (The Guardian)
-- [2026-09-30] Brazil’s Biggest Election Question?: Donald Trump’s Next Move (The New York Times)
-- [2026-09-30] OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models (The New York Times)
-- [2026-09-30] Trump Sharply Scales Back Fuel Economy Rules for New Cars (The New York Times)
-- [2026-09-30] OpenAI Ignored Employees Who Warned It Wasn’t Doing Enough About Security (The New York Times)
-- [2026-09-30] EXCLUSIVE-アンソロピック、自律型ＡＩ「暴走」の法的リスク指摘＝ＩＰＯ目録見書（ロイター） (Yahoo!ニュース)
-- [2026-09-30] アンソロピック、クラウド大手への事業依存鮮明 売上高や計算資源に集中リスク（ロイター） (Yahoo!ニュース)
-- [2026-09-30] オープンＡＩ、年間経常収益700億ドルに迫る 企業向け堅調＝関係筋（ロイター） (Yahoo!ニュース)
-- [2026-09-30] OpenAI、企業価値1.4兆ドルで300億ドル調達目指す-年内IPO見送りで（TBS CROSS DIG with Bloomberg） (Yahoo!ニュース)
-- [2026-09-30] トランプ氏、ＡＩの自主規制で企業トップらと合意…呼称を「ＳＩ」に改める大統領令にも署名（読売新聞オンライン） (Yahoo!ニュース)
-- [2026-09-30] アンソロピック､昨年売上高の47%がアマゾンとグーグル経由－ロイター（Bloomberg） (Yahoo!ニュース)
-- [2026-09-30] 利用者の好みを学習、細かな指示なしでもいつの間にか作業…オープンＡＩが新サービス「ドッツ」提供 (読売新聞オンライン) (Yahoo!ニュース)
-- [2026-09-30] TikTok「広告制作をより速く」 生成AI「Seedance」のビジネス活用進む（産経新聞） (Yahoo!ニュース)
-- [2026-09-30] 「人類滅亡」警告しつつIPOへ突き進む米アンソロピック、AI規制不在のまま評価額2兆ドル目指す（ロイター） (Yahoo!ニュース)
-- [2026-09-30] OpenAI、常時稼働AIエージェント「dots」発表－月8万円の新プランも（Bloomberg） (Yahoo!ニュース)
-- [2026-09-30] 生成AI動画巡り 声優の請求棄却 (Yahoo!ニュース)
-- [2026-09-30] 利用者の好みを学習、細かな指示なしでもいつの間にか作業…オープンＡＩが新サービス「ドッツ」提供（読売新聞オンライン） (Yahoo!ニュース)
-- [2026-09-30] 海外マーケットトピック－米アンソロピック、ＡＩインフラに10年で5180億ドル以上投資へ＝ロイター(トレーダーズ・ウェブ) (Yahoo!ファイナンス)
-- [2026-09-30] Australia says OpenAI hacked government website, checks for breaches OpenAI、豪政府サイトに不正アクセス 「意図せぬ行動」再び (asahi.com)
-- [2026-09-30] AIとのつきあいも見出しも 適度な距離感が大事 (asahi.com)
-- [2026-09-30] Altman unveils 'always-on' AI agent after OpenAI shelves model over safety concerns, Digital News (asiaone.com)
-- [2026-09-30] トランプ氏、ＡＩの自主規制で企業トップらと合意…呼称を「ＳＩ」に改める大統領令にも署名 (au Webポータル)
-- [2026-09-30] Regulating AI 'not the right place to start' says Bailey (bbc.co.uk)
-- [2026-09-30] 現場に強い日本の中小企業、フィジカルAI時代こそ有利に (business.nikkei.com)
-- [2026-09-30] BBC会長、AI生成の「ドクター・フー」エピソードを「かなり良い」と評価、業界の不安を煽る (finance.biggo.jp)
-- [2026-09-30] オープンＡＩ、年間経常収益700億ドルに迫る 企業向け好調＝報道 (jp.reuters.com)
-- [2026-09-30] Trump unveils AI-powered government website, meets with AI executives (kkco11news.com)
-- [2026-09-30] トランプ大統領「3～4日以内にスーパーインテリジェンス担当責任者を指名」 (online.nikkei-cnbc.co.jp)
-- [2026-09-30] フィジカルAIの社会実装プラットフォーム「PHYSICAL AI LAB」始動 (sankei.com)
-- [2026-09-30] 海外マーケットトピック－米アンソロピック、ＡＩインフラに10年で5180億ドル以上投資へ＝ロイター | 個別記事 | ニュース (traders.co.jp)
-- [2026-09-30] X2 roller coaster at Six Flags Magic Mountain (wandtv.com)
-- [2026-09-30] What to know about the new flu shot (wandtv.com)
-- [2026-09-30] カリフォルニア州知事候補がCNN討論会、生活費や人工知能政策を論戦へ (Межа. Новини України.)
-- [2026-09-30] ガバメントAI「源内」 (デジタル庁)
-- [2026-09-30] オープンＡＩ、警告無視か (埼玉新聞)
-- [2026-09-30] アンソロピック、生成AI「Claude」で一時障害 (日本経済新聞)
-- [2026-09-30] トランプ氏、アンソロピックなどAI企業20社と自主規制で合意 (日本経済新聞)
-- [2026-09-30] 生成AI、中学3年の8割超が利用 長野県内の大規模調査で判明 (日本経済新聞)
-- [2026-09-30] OpenAI、最上位モデルは公開中止 アルトマン氏「性能より安全性」 (日本経済新聞)
-- [2026-09-30] 米国でIPO延期相次ぐ、オーラやOpenAIなど AI不安と金利上昇が逆風 (日本経済新聞)
-- [2026-09-30] ソフトバンクG株価が大幅反発 OpenAIに資金調達報道 (日本経済新聞)
-- [2026-09-30] OpenAIなど米6社、実効性みえぬAI自主規制 開発減速に温度差 (日本経済新聞)
-- [2026-09-30] 日立、ファナックとフィジカルAIで共同事業 27年度から (日本経済新聞)
-- [2026-09-30] アンソロピックIPO書類「強力なAI、人類存亡のリスク」 ロイター報道 (日本経済新聞)
-- [2026-09-30] AIが発見した脆弱性は約3万件、修正済みはわずか421件 人手の対応限界に (日経クロステック（xTECH）)
-- [2026-09-30] フィジカルAIの次、「プロテインAI」 (日経クロステック（xTECH）)
-- [2026-09-30] 安川・川重・ファナックが異例のタッグ ロボットの「触覚」データ整備 (日経ビジネス電子版)
-- [2026-09-30] 原菜乃華、身近な友達はChatGPT (朝日新聞)
-- [2026-09-30] プレスリリース：フューチャーショップ、生成AIによるメールマガジンの文面・画像作成に対応（PR TIMES） (毎日新聞)
-- [2026-09-30] オリコンニュース：原菜乃華、一番身近な友達はChatGPT 裏切られたエピソード告白「課金をストップして友達をやめようかなと」 (毎日新聞)
-- [2026-09-30] ELNETとNTTドコモビジネス、新聞記事を活用した生成AIサービス「ELNET AI」を正式リリース（共同通信PRワイヤー） (毎日新聞)
-- [2026-09-30] プレスリリース：［QueryLift x 筑波大学］生成AI検索における情報流通・引用構造の共同研究を開始 / 同社チームの研究が国際会議CIKM 2026に採択（PR TIMES） (毎日新聞)
-- [2026-09-30] プレスリリース：吉積情報、「Google Workspace Studio ハンドブック」を Web サイトにて無料公開（PR TIMES） (毎日新聞)
-- [2026-09-30] トランプ氏、AI自主規制で6社トップと合意 監督役設置を検討 (毎日新聞)
-- [2026-09-30] プレスリリース：EC AI導入支援・AI研修を提供開始｜株式会社e-hub、楽天・Amazon等のEC運営業務をClaude Code・ChatGPTで自動化（PR TIMES） (毎日新聞)
-- [2026-09-30] プレスリリース：自社名をAIに聞いたら、競合と混ざっていた――生成AIの“記憶”を3つの質問で測る無料セミナー、10月7日（水）開催。（PR TIMES） (毎日新聞)
-- [2026-09-30] 経済プラス：半導体とトイレの意外な関係 TOTOが挑む新たな市場とは (毎日新聞)
-- [2026-09-30] プレスリリース：撮影ゼロ・出演者ゼロ、ツール費は約1.5万円 - 法人向けAIエージェント「AISAKU（アイサク）」、生成AIだけで制作した実写風CMを公開（PR TIMES） (毎日新聞)
-- [2026-09-30] 利用者依頼を先回りで仕事実行 オープンAIの新機能「ドッツ」 (毎日新聞)
-- [2026-09-30] 人気声優・津田健次郎さんの請求棄却 「声模倣」動画は既に削除 (毎日新聞)
-- [2026-09-30] オリコンニュース：津田健次郎の声を巡る”模倣動画”生成AI裁判判決 日俳連「津田さんの活動を支持し、その勇気に感謝」 (毎日新聞)
-- [2026-09-30] 「コンタクトセンター特化 生成AI実践研修コース」をFOXeeyとミライブーストが共同開発。マネジメント層向けAI人材リスキリングサービスを提供開始（PR TIMES） (毎日新聞)
-- [2026-09-30] 「AtCoder 競技プログラマー就職企業人気ランキング2026」を発表（PR TIMES） (毎日新聞)
-- [2026-09-30] 声の法的保護強まる流れ 生成AI普及で無断利用被害が深刻化 (毎日新聞)
-- [2026-09-30] 声も「権利保護対象」認める初判決 声優・津田健次郎さんの訴訟 (毎日新聞)
-- [2026-09-30] フィジカルAI人材の育成へ。卓上でSLAM・自律走行を学べるLiDAR搭載ロボット「ライトローバー E32」発売（PR TIMES） (毎日新聞)
-- [2026-09-30] プレスリリース：生成AI技術を活用した画像解析ソリューション「mitococa SUU（ミトコカ スー）」（PR TIMES） (毎日新聞)
-- [2026-09-30] プレスリリース：広島のAI研修会社WEAVE、90分・1講座から選べるオンラインの「スポットAI研修」を提供開始（PR TIMES） (毎日新聞)
-- [2026-09-30] プレスリリース：Stella AI、「Claude Sonnet 5.5」を提供開始（PR TIMES） (毎日新聞)
-- [2026-09-30] オープンAI、「暴走前」に危険性指摘した社員の警告無視か ニューヨーク・タイムズ報道 (産経ニュース)
-- [2026-09-30] オープンAI、次世代モデル「GPT6.1アストラ」発表見送り 安全性への懸念が理由 (産経ニュース)
-- [2026-09-30] 原菜乃華、一番身近な友達はChatGPT 裏切られたエピソード告白「課金をストップして友達をやめようかなと」 (産経ニュース)
-- [2026-09-30] オープンAIとアンソロピック、米中間選挙の予備選に82億円投下 政界への影響力強化へ (産経ニュース)
-- [2026-09-30] SEOと生成AI検索（LLMO／GEO）の両方に対応した記事をキーワードから自動生成するAIライティングサービス「AI Writer Beans」を正式リリース (産経ニュース)
-- [2026-09-30] MEO対策AI「口コミロボ(TM)」、Googleマップの無料店舗診断を開始 店名を入れるだけで順位と口コミを登録不要でチェック (産経ニュース)
-- [2026-09-30] 声優の津田健次郎さんの請求退ける 「生成AIで声模倣」TikTok運営側訴えた訴訟 (産経ニュース)
-- [2026-09-30] 津田健次郎の声を巡る”模倣動画”生成AI裁判判決 日俳連「津田さんの活動を支持し、その勇気に感謝」 (産経ニュース)
-- [2026-09-30] 広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に (産経ニュース)
-- [2026-09-30] Uravation、Claude Codeの業務自動化を「動いた」で終わらせない「PoCチェックリスト」を無料公開。PoC前・実行中・判定の3区分と、本物のClaude Codeの実画面6ページを掲載 (産経ニュース)
-- [2026-09-30] 「コンタクトセンター特化 生成AI実践研修コース」をFOXeeyとミライブーストが共同開発。マネジメント層向けAI人材リスキリングサービスを提供開始 (産経ニュース)
-- [2026-09-30] 「AI＝人工知能」改め「SI＝スーパー・インテリジェンス」 トランプ氏が大統領令 (産経ニュース)
-- [2026-09-30] AI、犯罪の道具から主役へ 「仲間」と外部ハッキング謀議、低下する従順さ 米規制合意 (産経ニュース)
-- [2026-09-30] 生成AI技術を活用した画像解析ソリューション「mitococa SUU（ミトコカ スー）」 (産経ニュース)
-- [2026-09-30] 広島のAI研修会社WEAVE、90分・1講座から選べるオンラインの「スポットAI研修」を提供開始 (産経ニュース)
-- [2026-09-30] 住宅業界1,000社をAI支援したSHO-SAN、住宅会社の経営者向け「AIO対策セミナー」を10月5日にオンライン無料開催--AIに推薦される会社になる3つの打ち手 (産経ニュース)
-- [2026-09-30] 2026年10月7日（水）ウェビナー開催のお知らせ「動画生成AIを深掘る。 ─ Seedanceは“プロの現場”で本当に使えるのか ─」 (産経ニュース)
-- [2026-09-30] 日立とファナック、フィジカルAI実装の共同事業化に向けた戦略的パートナーシップを締結 (産経ニュース)
-- [2026-09-30] オープンＡＩ、警告無視か 社員「暴走前」に危険指摘:経済 (福島民友新聞社)
-- [2026-09-30] オープンAIのロゴ＝17日、米サンフランシスコ（ロイター＝共同） - オープンAI、警告無視か 社員「暴走前」に危険指摘 - 写真・画像(1/1) (西日本新聞me)
-- [2026-09-30] オープンＡＩ、新モデル断念 安全面懸念 虚偽説明・無許可で作業 (読売新聞)
-- [2026-09-30] 利用者の好みを学習、細かな指示なしでもいつの間にか作業…オープンＡＩが新サービス「ドッツ」提供 (読売新聞)
-- [2026-09-30] 「声は肖像と同様に個人の人格の象徴」、東京地裁が声の法的保護認める…津田健次郎さんの請求は棄却 (読売新聞)
-- [2026-09-30] オープンＡＩ、年間経常収益700億ドルに迫る　企業向け好調＝報道 (ｄメニューニュース)
-- [2026-09-30] OpenAI、年換算の売上高が700億ドルに迫る勢い−アクシオス (ｄメニューニュース)
-- [2026-09-30] アンソロピック、クラウド大手への事業依存鮮明　売上高や計算資源に集中リスク (ｄメニューニュース)
-- [2026-09-29] OpenAI declines to launch new AI model (1News.az)
-- [2026-09-29] Nvidia unveils security platform to stop AI agents from going rogue (1news.co.nz)
-- [2026-09-29] RBA lifts rates to highest level in 15 years (ABC News & Headlines – Australian Broadcasting Corporation)
-- [2026-09-29] Australia's rising interest rates are not just down to government spending (ABC News & Headlines – Australian Broadcasting Corporation)
-- [2026-09-29] Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news', World News (AsiaOne)
-- [2026-09-29] オープンAI、新モデルの公開を取りやめ　安全上の懸念から (BBC)
-- [2026-09-29] Maharashtra anti-conversion: New law is changing how Indian Christians pray in the state (BBC)
-- [2026-09-29] OpenAI scraps rollout of new model over safety concerns (BBC)
-- [2026-09-29] Watch: Bangkok locals create floating market during floods (BBC)
-- [2026-09-29] アンソロピック､エヌビディアと提携-AIエージェントのセキュリティー (Bloomberg.com)
-- [2026-09-29] OpenAIが次世代AIモデルのリリース中止、安全性巡る懸念で断念－報道 (Bloomberg.com)
-- [2026-09-29] アンソロピック、IPO目論見書でAIの「壊滅的リスク」言及－ロイター (Bloomberg.com)
-- [2026-09-29] エヌビディア､アンソロピックのCEOがトランプ氏と昼食会へ－AI議題に (Bloomberg.com)
-- [2026-09-29] OpenAI Scraps Debut of AI Model as It Sets New Guardrails (Bloomberg.com)
-- [2026-09-29] トランプ氏､アンソロピックCEOと夕食-AI安全性で真逆の2人が初対面へ (Bloomberg.com)
-- [2026-09-29] ExodusPoint Joins Hedge Funds Partnering With Anthropic Over AI (Bloomberg.com)
-- [2026-09-29] Nvidia launches new tool to keep AI agents from going rogue (CNN)
-- [2026-09-29] OpenAI scraps new model release amid growing concerns over AI safety (CNN)
-- [2026-09-29] ‘Didn’t quite meet the bar’: OpenAI won’t release new AI model due to safety concerns (CNN)
-- [2026-09-29] ‘Didn’t quite meet the bar’: OpenAI won’t release new AI model due to safety concerns | CNN Business (CNN)
-- [2026-09-29] Make It Make Sense: Why is the AI boom making inflation harder to tame? (CNN)
-- [2026-09-29] President Trump says he's dead-set against AI regulation. What could change his mind? (CNN)
-- [2026-09-29] Source: Trump personally driving pro-Trump taxpayer-funded ads (CNN)
-- [2026-09-29] Seven months later: How outdated intel contributed to the deadly U.S. strike on an Iranian school (CNN)
-- [2026-09-29] 米アンソロピック、ＡＩインフラに10年で5180億ドル以上投資へ (Infoseek)
-- [2026-09-29] Hayden Panettiere’s ex-fiancé files for temporary guardianship of her estate on behalf of their daughter Kaya (KLTV.com)
-- [2026-09-29] 東京市場サマリー：日経平均は続落 ソフトバンクＧ、オープンAIの新モデル公開中止 トヨタが続落、8月度の世界販売台数6.4％減 ディスコが5日続伸、国内大手証券は投資評価「１」に引き上げ (Moomoo)
-- [2026-09-29] Midterms 2026: Congress Polls and More (NBC News)
-- [2026-09-29] オープンAI 次期モデルの公開中止か 安全性の懸念で (NHKニュース)
+- [2026-10-04] President Donald Trump announces creation of 'Super Intelligence Force' AI task force - ABC News (ABC News - Breaking News, Latest News and Videos) https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3dJODJ0VnUzb3h1TEFnMjNya292VzlNODgyUzZHYkR1eVJ1VE9QdHRmM1A5VGhNcjR4ZUw5bnBCQzdOaXRfd0FEbEYwNVJmU2NlbjRFVnVLZGJQYkpVRUYxSENsT0lKQVhtMUZ1TkVhaWI5MXRSSmFSQTM5dFo4NDdYaFVtb0V2X3QtcmxwaXhTaUtRT2pXUVRaZUI0a0xObnhmdlB5Q0hNTVViMDEzWWJBSEfSAboBQVVfeXFMTWNUMjlJXzBRWF9MbENnMkFVWVV2dS1ld2Y4ZV9hXzRCTFNaM0Zhdk5uZWt3ekMxMDZpTTdMazl6WEF6LW1IYzhDLTU5MkJWX29GRHVqS0xYVlhjTmFrVE9JYmx1OFBrUlBnVW1TS3UtMk1GLU9mY1c1NnlnZHRNLUhNUVdobzNBckRLVTF0ZHlBdk9LVmJXWUY4Y1BaUWpTb3B1OGNQdlRJb2ZhMGlyaXc0YkVGSlduaDN3?oc=5
+- [2026-10-04] Scoop: A powerful new model from startup Reflection is set to shake up the AI race (Axios)
+- [2026-10-04] ソフトバンクGの孫氏、AIの安全性に異例の懸念表明-超知能は危険伴う (Bloomberg) https://news.google.com/rss/articles/CBMid0FVX3lxTE5PcnQ0b1oxSzJxX1ZjdlowbUc3V0tmamwtUU01MG5BclJkb3FWNUdjNHJyYnM5a1JITlZMcU5rSWpudzVqRW9WV09ZRk9oT1BFa3p5bmxsbWI3aVRfRkIyeWtucWxuQjFUUzZSZE1ENVhrWS11elY0?oc=5
+- [2026-10-04] ChatGPT wants to replace the fitting room. I put it through a wardrobe stress test. (Business Insider)
+- [2026-10-04] I used AI to track my job rejections. It changed my search, and I got hired. (Business Insider) https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1p0R0pKeGc3M3pScHlpbHpqazJxRnZRMHhLTEUxeEFYaWpROE11UWxSOUEtVVMyOGJSVVJHaC1XeWVKWTlpVGVZZ25ocHU0d2xadFNoY1lpQWJ5WnZpZ2R0UmtEMFU4MFpQNno1VHZ2cU5FVmROT3dvYVVkQ1dlbTFyNHA2elBEM0NnX0d2WjEwNnNrX3c2NkdR?oc=5
+- [2026-10-04] Trump announces formation of AI "Super Intelligence Force" (CBS News) https://news.google.com/rss/articles/CBMigAFBVV95cUxPbzN5aFk5YXQ1bXNDRVBTc25iSmg1MkJXQjA3NzNlS3NrMUM2NlVXTFdNVGhZUW1ieWg3SWVrbWhaQjNhWmRNUFBYdXgtZEhBcFRMZXE1amFkeEwtcG1zaFl6NXdMN3lZWng2RTIyMzc4WVpPd1N3R0JLVnlIMTNHRA?oc=5
+- [2026-10-04] Investors look to shelter portfolios from rising AI concentration risks (Financial Times)
+- [2026-10-04] What can we learn from the office AI superusers? (Financial Times) https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmh1MTBUdVdCVTQzdkJwOXJCZFozaXpfOGg2dFpweE9yT3JoQV9JcGg2a25PbVFqZkR1OGVUVEI1b19MRG9SM3BvaWpBX19ZWVJjaUdVMmxtMGJsbzV4eGhXN1V3dDNfNFVoOWstb1h3OWVRRFZqQndnWVlYZ0pyTG1XYzE?oc=5
+- [2026-10-04] Legal risks pile up for Altman as OpenAI uncovers dozens of hacks (Financial Times) https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTIyS2l3QWYtSTZxVzB4Znp2U2ZtQzY3NHl5M0VHa3FVMU1PWTR4eWdmd0VwNnNIRTVlS0gyaU9WTVBDZ2RCRGU5dXFKWmc2bWdNWlpfazdrUHpBRGMyRmN5dTc4Qzh6OGh5cUpuZkNGb1BNZ0lxVW5FMmpwLUkycDNPcW8?oc=5
+- [2026-10-04] ChatGPTの世界ウェブ訪問数が3カ月連続増加、停滞期を脱して回復 (Forbes JAPAN) https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xNlVoUWpkUnpPRE9MUWo2cEg3eVhIS2dQLWl2Ri1lR0lBLUt0UG9XX05yR0hIQnFNLU5aUnJ2aTF6NHdtaHI2RVZuTk9GbjBidXZlT3RrNU1YZw?oc=5
+- [2026-10-04] AIエージェントによる通信が1700%増、Cloudflareが課金基盤を整備──ステーブルコイン決済対応 (Forbes JAPAN) https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpZzhValBaVnhwUHRsMnhScXVSeEFTNURObzRqY29qbENsMjFqaXJETFFMTENhZ3NldlRfazk5UmJRaEt6Nkg1WnhDOGNyd0k2MVNmWUtoUEpzZw?oc=5
+- [2026-10-04] Anthropic’s Daniela Amodei says entrepreneurs should go on vacation to test potential cofounders (Fortune)
+- [2026-10-04] Trump names national intelligence director Jay Clayton to lead new 'Super Intelligence Force' on AI (Fortune) https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2pTUy1zZ2FTdnV6N3dkWVY2bmhNVmwxcUJnWTU5NW9JU2JVTHpUeXlGX1otLVVfWXBxOEJwX204TmROS1ZzdFJSWHVVQTdMZWRmUl9PYndmVGtCMFJhcE8zVjM5VlRnNjBWd21SQmk1YnVoc1dPR3hJMVFtSWJ3cTFiNEdOMllzVDJBcG1PTG9QZnVPUW5PTVpibUV1ZUk0c3FSUjJVS0pfOFBnT3FIZV9sRmF3QQ?oc=5
+- [2026-10-04] FDR’s lesson for AI regulation (Fortune) https://news.google.com/rss/articles/CBMidkFVX3lxTE9OcVB4cXVWNnh4SnA4ejJ1SGZENUFPNS00empFS2dGa0RtZi0zdmFMZTloUjVSSTNkVU5KalRzU3puV0VKbmdvem5fb1JlbnJfc1J1WlJ2ellNZDVrbEJGeFczTkxjVE82U2tQWUJxSTFrblhqRXc?oc=5
+- [2026-10-04] AI時代からSI時代へ? トランプ政権のスーパーインテリジェンス (Impress Watch) https://news.google.com/rss/articles/CBMic0FVX3lxTE9Xb3oyTEhobXF2MGI2VDB3QktZMnRMazJORDQ0TjlaQ2xHUU1Lb2o4Z055Mm5lNy1EdDhPS2NGcXJrRmlTUUlydl9Qc2RKZmhXZEVIQ2wzazZuQWNrdUxnSFEtZ2w0bERiTEExd2ZCVUh1MDA?oc=5
+- [2026-10-04] Trump gives spy chief new title: AI czar (Politico)
+- [2026-10-04] OpenAI safety employee quits, says 'time for trial and error is over' (Reuters) https://news.google.com/rss/articles/CBMisAFBVV95cUxPanBnbDA2SnluX0swT1ZpQ212VUNKRHh1T3d2Tmt0VDBieEtFVmh6blFFZEVCZlFLbjd4TnNYRnhacmtoSEdRTTFsbVdQN3RjRW5BTVd2NkJwdkdmcHNBa2czV3BZc19MYnJ1dkFvTkh1YXZQQkw1Zmtma2Y4Qm10RzlIUlhJS1ZSUHJnVVdTNlk1djVnNndqNXJBZ29hcEVJUmdkZTNWcklGWEF4TGtuZw?oc=5
+- [2026-10-04] Shinhan Bank Data Breach Points to AI Agents Hacking Korean Banks (Startup Fortune) https://news.google.com/rss/articles/CBMimAFBVV95cUxNWVdaVjdFZXliTHkyTTJEZGtDLTJTMVNUY29wUWpFenJoY0VONDRfbWRVUDc2a3k3eE1uV2o2WDlYWUtKWGgyTWxMYVd5dGhINVFQT3ZjV194a2JITC1yb1RFS2NIVFVuRU80cE5JN1c1MGxjNmYtNTNqellmMDE3Y19LRUwtV0hEbEgzQUs2MHlqM1Q4cVdSQg?oc=5
+- [2026-10-04] Trump names intelligence chief Jay Clayton as new White House AI czar (The Guardian)
+- [2026-10-04] The AI industry is booming. Women are getting left behind (The Guardian) https://news.google.com/rss/articles/CBMigAFBVV95cUxOejNZa0EtcE1VWVdTcnFEc3RzanFlaExaNVVHZEtUSkdLRWRiaVNDdmIxZWZRQWhKZHk4SklyLUtGZngtMGp0N1ZURXBMdmZCZnNOTGU3VkE4Q05yQ1gzel9CRkFYd1h0WmF1WWEwVnVkcVYwN2pzR3FUNWJseVQ5Rw?oc=5
+- [2026-10-04] OpenAI safety leader quits, warning AI company’s culture is ‘broken’ (The Guardian) https://news.google.com/rss/articles/CBMitgFBVV95cUxOcldEYVVROGhFOHl0UGVvVkEzTnZyWkRBRTVxWkZOeXphTkdqYkJ1dFFNOFFJNldDdVVRTE1KaGxaNUJmQWlBNVhocE9CSHNnMFE1WVZQb3lBRF9KSTZKNVFHMndMSGJOYVdHRzhIdEZXNGMtNml2clZCYUtKTk52TjlZTVRRWE1OVFdiMTBIOFdpeEp2RW5mT2RqaEp2UkFGLVZTLVZPSkdIMzE3blc5YzFMdTFsQQ?oc=5
+- [2026-10-04] Trump names new AI czar as he continues campaign to rename tech 'super intelligence' (The Independent)
+- [2026-10-04] 川崎重工、自律型のヒト型ロボ開発へ ノエトラのフィジカルAIを採用 (日本経済新聞) https://news.google.com/rss/articles/CBMibEFVX3lxTFBYUTJRV1V0Znp3Sm9IOG5NZ0hMZGdwNFQ2UjhpUk01S0MxOHczN2pwUWlwYjhIRnhxeG9tem81VE11VE1oTmJZamh4YXpKNmxlOGRhX3VsajNTTjEzdjJ2OXdCd3V4WnFYbmxKTQ?oc=5
+- [2026-10-04] 韓国で「踊るロボット」人気 フィジカルAI活用、似顔絵制作や演奏も (日本経済新聞) https://news.google.com/rss/articles/CBMibEFVX3lxTFA0Nks3cm9vTGxhUDE1WTlkZXdDNGFhSmxfWmt2cC13U18zMV9qMlBfbzBmZ0cxczI5TzRMNzlpalRnMVBzLTR1MjZXREpKMldrYlhJUFJKejAyREhOeXZoNnVDRzJDaDVvajZkVw?oc=5
+- [2026-10-04] 「日の丸LLM」への挑戦 (日経クロステック（xTECH）)
+- [2026-10-04] AIで英語不要? 中国で揺れる教育 大学は授業再編、SNSで論争 (朝日新聞) https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlTHo2UHc0VGpNTFI4UlpYN2NWVk1FU3dmWVdIRWRvN0Nwd2hlY2lQb0dYSGNKV0VfRUZlNmhIQnNPX2JUcGU4a1RUSE5PNXAyU0J6MVdXWUx1bGR1Z0JpcnJ5MnlkUDQ?oc=5
+- [2026-10-04] ソフトバンクGの孫氏、AI進化で「人間同士が戦うぜいたくはない」 [AIの時代] (朝日新聞) https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aNTBjcnRTbU1Id2o0Z1MyeGk0LXpxM0puczRaYjVEdE95UVRDMF80VXpRR1E3QktnQ2ttMDhTSHptdlJSRGVPdXR3bkc1Qzc1V3lETVVrejhJbFlWSjBXamt6ZDA3bnc?oc=5
+- [2026-10-04] オープンAIの安全性担当者が退社、「主要AI企業は技術のリスク軽減に十分な取り組みをしていない」と警告 (東洋経済オンライン) https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3TnF3bWhRSjVrMnVWU1BncUpZNmgyVGNrNTNDMFYwd3psSG9tTE1mMkRTYzBRTGxqUy14OVU3UDJ6OEdiM1ZrSGQ3TXpSaFhxeWc?oc=5
+- [2026-10-04] 中国「フィジカルAI」銘柄の上場ブームに早くも秋風...ロボット用減速機の環動科技がIPO申請を取り下げ (東洋経済オンライン) https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtY0d0ZnZDV2h2eGIyNUxQTlBmbkh6QkRlN0FaUHI2YjFpcXN2WldwNUMxYzV4aFZMWFUzRzdkLXlVNi14bHJEXzhDSjBJN2dNVWV0aXB0X2duNk0zdndV?oc=5
+- [2026-10-03] Watch James Manyika on AI Regulation (Bloomberg) https://news.google.com/rss/articles/CBMijgFBVV95cUxQaEhXSmZUZF9mSkVyb3E0czk0REd3WERXc2ZMQ1VvTHFndGZvd0NzUzhsWE55aUJORndCdVZfOW1KemtJT0tjbzVLUlNWM3BqbUtINVJfZFJTZF80V3lfOHZTUjlJNVV4TjBVX2pRdVRRNXFIRHBBTXFMV1hhN1RvV2l2NFppeVZONXR1TERR?oc=5
+- [2026-10-03] Anthropic Is Aiming To Transform Healthcare—Here’s How (Forbes) https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOFdMaUxYZThZN1lmTFNDV1VXNDIxakQxTndoX0E5ckduNFR1a29TbnByNV9TZmc0N1dHWVQ2OTJSS0lVN0J6MmVlbUY2dmM1TldnRmpQMjVnd3Fpa0hrNTVLcjVYNU9MMFNoUnZTYWRkR3pUZVBJNDNEQVVkN2h0aXJvdGh4blJQWElGN19JbllwbGVxU3phaG5mRUt3blpDbmJwRGxLV08?oc=5
+- [2026-10-03] ChatGPTの専門家設定は逆効果 AIの実力を引き出す「4つのプロンプト習慣」 (Forbes JAPAN) https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Mbmczem00ZnRNb3Vnc0tmY2FIc3J2RlM3QkdmZXRySV9lMWVsenJBYVVHNDhKT1U5V1lySzZYaFZheEZ0NDB0V3BrSnVTWGZaTmd1V3ZoRnl6dw?oc=5
+- [2026-10-03] 高市首相がAppleに要請――「自殺防止機能の搭載を」 生成AIへの相談増加を受け - ITmedia Mobile (ITmedia)
+- [2026-10-03] OpenAI「dots」で始まる常駐型AI競争、24時間働くエージェントは何を変えるのか? (JBpress) https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uVUZPZnA4TnVhU25CRUlxQ1RDMjdaUDBNSGJPUGtOSUVXMm8zeUdoR3lrX09SS1BIVmJET2RnOVlrVXJ6Y0JOMDB4RElmVnlWUlRvRy1n?oc=5
+- [2026-10-03] AI's race to transform the world before the money runs out (Reuters) https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5
+- [2026-10-03] As public fears of AI grow, Trump digs in on voluntary safeguards (Reuters) https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaktMNDdZV2FZQTFSeGF3SENIXzkwWHhWLUVhT1ZwVHMzTUdQajl0akw3QTlicmFCQ04tV0YxRFFfUEZYYmxqRFA5QVh3TzhTcm9Ca0pWLXBjeTFXaV9DVXV6ZmFPU1h1NXFsUVpxaHlBUlA3SjhxRVNSQU9UZ2ItTmNBN0VvWFpFc05idzd1dWUyaUNmMWRwc0lKR3A4Q0czbkE0ekNXZlM?oc=5
+- [2026-10-03] California’s new laws target workers’ biggest fear of AI taking their jobs (The Guardian) https://news.google.com/rss/articles/CBMikAFBVV95cUxQLWFTSzc4eHl6b3FkNVAzbm1hSG13VlYzTHlTMTFlWFNsRHBLMndPSldyT2JnaGJCTVh1S2FMaW1mV1BPRkJLRnFSOUlncXAtV0FDTEtOUG9fUHFLd0piN2ZxMXBhRURidUdMZlBidl9EXzYtemwtMXI1SnA1OW1yRjJRM0twcjYyVGFCckFwNXg?oc=5
+- [2026-10-03] OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day (The Guardian) https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQV9vbzIxazFuRjRrZVRqQnF1c2toZ1dMcnMxTUN4Uk5ISVNFQ1Q4aGdSd0t6aE16YjMzZ09nWGVHdUYzUE1jN0IyOThnYUNVTEdBNFlEWkJ1LVhBOU0yNGZwWnRvWGgwNTUyTTVNX1BnVkRvb2g1WFlmTDBTcGdfYUd2bGhHWFdycFY4WWFiSGxYOVR2QldpR3VnN0VsLW1JWDFBTUxlTFN6UTVwRjBVRGxjRlE3M3JSRnVV?oc=5
+- [2026-10-03] How to share the riches of the age of superintelligence (The Telegraph) https://news.google.com/rss/articles/CBMipwFBVV95cUxOZWo0Rk9IUUV5ellmeG95aHE3U3JLV1NMRGdfRGZLajlhZjZSaG90LUdMTW5Qa0lzejQ2eXZabVAyOXhhb09kY3o4eXJXSkQ4b2NSaXYxX24wNHF3Y1V0OTd3ODI0RVByU0JaWWlhRldDRXFrQkxEblRpbmF0Uks5Rmh3ckN1Z1dlRjVmbDZMZUI4b3dvZVZfeFkwTk53NnpaSGRKLThWSQ?oc=5
+- [2026-10-03] 生成AIが「事業成果に貢献」は24% マーケター1000人調査 (日本経済新聞) https://news.google.com/rss/articles/CBMibEFVX3lxTE8yVUJZQnA4S2F2TUVmTGdZOENGdkxqOHZiOUxqcnNHZVdoblpJMnZMTFZSbmFnQVRSZjhJZWNOaUlaSjNRd29XUTU3UGwyNUNTT2hQdmJUQlIxQU41RWdFMm1OV1N5dEFGbUZpXw?oc=5
+- [2026-10-03] 特化型AIの開発推進 古川デジタル相「データが勝負」―新閣僚インタビュー (時事通信)
+- [2026-10-03] AI利用で思考停止に陥る学生たち 米国の大学はどう向き合うのか [AIの時代] (朝日新聞) https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKbjhDb2NRQlVVc0J4cmo4SHZRSlZsT21XenI1WFg1SVJSZXpGSkhJdkJ6aUdCQnZDX2swQzlJU3h5Mnc1LTA0WmxHRHQyNDNnMEphNUs1QWRPNjZHRklzclpVRC1vLTA?oc=5
+- [2026-10-03] オープンAIの「AIエージェント」がオーストラリア公的医療制度のウェブサイトに侵入、高まる"暴走懸念" (東洋経済オンライン) https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fek1MUTZQZktRb0E0UHJPWGxaRVI2SmRtWFZaTlVndTIwbTU3b3czRGVPRDAyREY5LTBBTUFhOVo3TlhzT2x4YzZCc3l4S1lBYmFLbDhrQW8waVRhOWtV?oc=5
+- [2026-10-03] オープンAI、新AIモデルの公開中止 安全性の懸念で (毎日新聞) https://news.google.com/rss/articles/CBMif0FVX3lxTE5uV1NYNzZEalFPT1ozRmU5eF9nNXp1dGQtTDJnSXRhMzZRVmFVdFlLOHRtNmlNNUdoeFFjVl9FQW5SZVE3TDNNdDFtVll5Mkl6c0txTmFnOFM5LVZDa3Q0THJhMmtKbFpyMFBXck5NeHhvNEJWbHZKb1A2UDJhNHc?oc=5
+- [2026-10-03] 米政府の対話型AIが公開後に仕様変更、トランプ氏に都合が悪い質問への回答拒否 (読売新聞) https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nbVdPeDA4Y2c5RkZ0cEFxS0IweEVSNGZDNGVIblNYQmpGMW1zbkYzRWNnOHRuZzVrWWNUSE1jV3dPTmt0alJTcWY1cmxXS2I0Rm9yNFZKTEtVcG9mS2J3d3pB?oc=5
+- [2026-10-02] OpenAI reveals another hack into a government agency in Australia - ABC News (ABC News - Breaking News, Latest News and Videos) https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnRRUTIzVFZJTHI2M2pBWjR1ellUbGZVQU5aUVFsREhzRjQxdm11NkhFLVJ6LVBrQUZ1MmplQm5LRHhvdmVKZG15b2VIYUIwRGdrR2YyY0VUZUlLZ0V6X0NjbnRPSnJKUG5GeEpWSkdCbU1mVExfbnE3Z0pheTFxU2c4clJ2dGJCTjNtRmJaZ0lEYTlCSzNRQ1gxMNIBoAFBVV95cUxOX3BySGluR3pzZ29lT1V2Ri12eVUtZVd2SnZWbVllZFhtNjZMdnlpVFVQSTBJcTgyY0NacjNHRE51Q2k3ejhFMVhSQURfU1pNYVhzQW1Rd2p1ck1uby1fWFJ0ckNLUHYzcFFpanF3bWlHaDBySGtGYjJ4WXhqcHlzeUV1c0szVC12cmdzQXVKTXhJSTNiNUtjd3lHSzB5OElp?oc=5
+- [2026-10-02] OpenAI fires workers for 'mishandling sensitive information' (BBC) https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zUUhFVnVxaXJzeG0xV093THUySDk3WThBbzF3cWVVSmZ4X1dBbF9Id00td21XbmcxWnA4em9yQVE3Zkt3Ykp6RTlLc3lTU2ZvZmpRT3ctNHVnSmpWU1E?oc=5
+- [2026-10-02] AI Tools Suspected in Korea’s Shinhan Bank Hack, Yonhap Says (Bloomberg) https://news.google.com/rss/articles/CBMirwFBVV95cUxQc2k2UjhiRThSdW1BWXJUeVExR2QwaE4wNGlYQzdXSWUwYlFvdEFsSEg0NWp1UDd2Z3Jja3VqVklaN3BBSjlodTZxSlFRZlAzbDE3T2FZd0xaSElCSmhPSDB3MVhUX0FldDBPVjdkNkF0YnBZbHUyczhuRlAtOVFaQnJWR3c4a3lLMXM5NTAxV1pQbC1qdHlxU2VGOV9SclpIYjlUTXZ3RzduM3VmbUxv?oc=5
+- [2026-10-02] マイケル・バーリは言う。「人類の利益のため、市場は暴落し、オープンAIとアンソロピックのIPOを阻止すべきだ」 (Business Insider Japan) https://news.google.com/rss/articles/CBMipAFBVV95cUxPRTllcER0cmhWZGt5SlU5MmFUTFZreDNOWU9pTFoyQlBLcjRvSlp0S080OEhCWEladXBzYUhpLTI2TC1xUEdQcXNPaUlzakpmRGR2dXAxUzdkRWtSc1hCQWdSOUVFaENnTUctUm56MHJoX1BodHg5OWZyV256UU16YzZKbHc3dGgxZHpQQTVLUjY2ZVhCOHpUcnZKdjFfa05NSGs1TA?oc=5
+- [2026-10-02] Anthropic to invest $100 million to train AI engineer talent (CNBC) https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0VyVzRrRmNEN2NIRVpSUlRjLW41RDlOdFlzOUtDV0tvQ1ZjVGJOUXMwaFVaZGNWbXJMaVVhODdzcUZKY0dYdk9PQm9xOUQ5LW9hVFdwZDlUcmNSWkhsUG1FcmxuSS1zcmltN3Vnc0ZPRnBCNU52cW0yUWNreTY0eGVrZDZVRVhiczNjR1I2emc1dHVxOTJGa3l4alfSAaIBQVVfeXFMTWRBZndla2REclF0bUR3dTdZcWs2ZEdqLXdwNHEya1BSeXRNZXVEUWE1VkdCWUFQcFJWSk5Ec1U0QnF6VEhDQTlQRlUzTDhCc3ZONHE1SEVOMmVtTFNOM2laLXRKQnRWRkhjQk5ObzJSeERNZFBsQ1pjaEpiUFQzbk5Ga202WUVDMmNZZVhFRWNkRGx6aDRYMXY0b2c2QzFFSFpn?oc=5
+- [2026-10-02] Can Google's new model really catch up to OpenAI and Anthropic at the frontier? (CNBC) https://news.google.com/rss/articles/CBMikwFBVV95cUxQY0EwdFVqRF81X3lORF9KSk9IWTYwSzJxclg4U1BMZmg1NkpzM1NyajBQWUV0ZWk0NXo5Y19SUl9wYWNycFJGYWs3bjA2d05lcmdMMU1yOVktbEQ1WDljNW4yRS1OS3RmdDczTzFPcTZDcHdWcjRFNndiNFR5UWNZZHE1b1QxRXVLenlRdU1ZcW8yRnPSAZgBQVVfeXFMTm12SHI4M2FuUlNia1hWdmZhc0pjMzhfajROeGEwU0V1RkZ3NWhPYURHQWg2YlFUUVVadkFVaDRYSzZFb1BtbnhBVjYtZS1FLVc2c2dRaVRkazRhbDFnV2FQSmZkLVhWQTVvWURobzNUNlhFZVB3VVNTOHJla3htM2JvR1ZJMnV2RVc0N2ZlX1R5aGNFTlVnU28?oc=5
+- [2026-10-02] Why does Anthropic’s IPO feel so weird? (Financial Times) https://news.google.com/rss/articles/CBMihAFBVV95cUxQUk83bVFSQWdpM2N2eXFCRlhJQkVxOWo3V3p1UUFBMDJ2ZWdnRWhqWUNKWXJ2UnljVkFySHdfWF8tcGlRMC0yeWRxY2kyVHZ0ZC1pbXd0dFd5YWpYQ1hxYU1NaTNZem1TR3dEbjYtUHJDWlF6ZzNXbGFzcjNMYXhIWFVrOFk?oc=5
+- [2026-10-02] Executive Order On Renaming AI To ‘Super Intelligence’ Signals Unexpected Legal Bumps Ahead (Forbes) https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTU9iWUhuWmxIOEF6Z3ozbmpibFhlZENTOEpYMG1TSzVNSWQzakhseXVOVjc1NDM3YmRsRFJDQjMzd1ZNTW0wbmdZUk41bURLbXpDTU9BSkJIZFdENGdwbTVSVW1KVWNUX0E0UXhaR2ZYLU1HN0NaNmJPejVNMU41Z2c1ZmRrRTVZbldtMmZyZzZQVHdhVUpPX2FXUkhoUElFY3Nsc2F6NjA5d0U1UzFLNkNYdzJQTVNEVV9zZEE1bkJpcUh0UXZmY3RiVVpWdzVIX2hZS2pyY0c?oc=5
+- [2026-10-02] AI大手アンソロピックの「赤字は6.6兆円」、原因はグーグルとアマゾン (Forbes JAPAN) https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlS3VXRnF5VDNobTgtWXFhUjRFTkthcHdXNmZTQjBHZ05tek9ZalVybWVlcXZOcldIQ2FYaHdPSlVDY01SdlpNLTZQNTJ4eWJFS3dyQ0d3Q0lEdw?oc=5
+- [2026-10-02] ChatGPTの“利用制限”リセットへ 有料ユーザー向け (ITmedia) https://news.google.com/rss/articles/CBMibEFVX3lxTE5ESVAwUUQzX0NBVUdoN3VzZ0ZkMmI0NGwzLWgxd1hMRFpIWmt3N0R2Zl9uZVhXWjh6cEl0QnlrZ0F2VWZuTWlSbFBpZkY5OEk5Uy11VnNBSXFPUGt2TEh4QkJGYlExc25DWUJZTw?oc=5
+- [2026-10-02] ChatGPTにAIでバーチャル試着機能とカメラでの書類スキャン→PDF化機能 (ITmedia) https://news.google.com/rss/articles/CBMiakFVX3lxTFBQUV9rcGRJY3hJTGVfeERXb1JFMVJSak1NSk9obTItQTJJTG9zMUVaRzJ5ek5nbVk2LXVmckFUNERRbFlGdndtX2lncmtaQUVvQTZiVU05RFluajZGa0VESW5vVEpYVTgzVlE?oc=5
+- [2026-10-02] 国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開 (ITmedia) https://news.google.com/rss/articles/CBMibEFVX3lxTE9sTVVfM0lQU0ZlV1pqZHA4Zm5PT1RIMG90OENKQk4wX0c1QnpodlgzdkdYaFRfZ0trUV9oZWxQSEhGSERiQUtSN1FEREFlT2J4SnZydWVUOGlaeU5JRmR3NmxFempnODdzV092aw?oc=5
+- [2026-10-02] 金曜MCは人工知能研究者・黒川伊保子さん 8時台 (NHK) https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SbzFTekhPRHBwSzJ2UGl5ZC1DeG14MkVYelllbWFOTVdhX1FIY3NQQnhDME5QMDZEclRfQjR5QjUySzd2WFc2Mlp5cFQwcVNEcldiVlJfLTVHcDhzTHBpMjdxWkNpN0tr?oc=5
+- [2026-10-02] 焦点:虚偽説明や失敗隠しも、中国系AIエージェントにも「暴走」リスク (Reuters) https://news.google.com/rss/articles/CBMifkFVX3lxTE85aFBUdUl1MzhkYWlmV3J2Rm9uRkExeWF1eTZKNTNoVFp6TDV3UnFhR0p4V0drd3hWR2xTZXRmLS00ZFJJSi1yNGE4SG5ucXdoWV8tV2tmbFo5aENXOTluVGsxQUZxYXpUUVFQa3k4em5fN0xjUkJJeXczOXRwdw?oc=5
+- [2026-10-02] アングル:エヌビディア、AI半導体担保の巨大融資市場構想、資産価値巡りウォール街と溝 | ロイター (Reuters) https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFpNWGttOUdVLVg5ekthOGRCYlNJd09tdy13TC1Mbm5oc3BFb2gwMGRHT1VzV0ZUNXl2bEUzcGFaZ0hSbWtmcHdrY1JNck5nbmJDUGFHRXdxWUhHSWlSZVdjZm1qVUtJVTIyOElIbXB2dkxuaE5ZakN1Tm5VQll0M0E3T2JlZw?oc=5
+- [2026-10-02] アンソロピック、政府姿勢が顧客関係に悪影響の恐れ=IPO目論見書 (Reuters) https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmRYTG8tN2VMQW9seXRPSTFvN3Y1Y0JlZzdXRUdXcDB2Q01nMmZ4S2tCRUlyTDBpVDRBTjBjak1nU3lheEE3WklndTBVQWotWm1XNEtqbEtLMVhrUC1vTDhHSmtseXNQeHhlM0M3SGRJVGdwQkNUbklZa2dDb0NqRFBfZ1MwQQ?oc=5
+- [2026-10-02] EXCLUSIVE: Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows (Reuters) https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUlJTYWFXYlJBZ3IyVUJ4WVNFeXhuWnpUMklldThsaE02Q1lndjFNLU1vUVh2cUp2S1FQRjVUUmVic19pX3RxRTFWZ0lCOFRpM0gtQW1oZUx6MEdpalU3WGlJeXBuMTRKRGRGTnBQa3hGdTYyd0w2bnJkWTlPVlAycEx0ZVYzZFY3dEdWTGRHZDhDbkJXQ0RiN1RTSkVkOEZrRGROMUhxTXphTHpqbmdSZDZmU3BWZWI0LUtSQ2oxdE5tR1NtNXNPS1Y2emQtRmdjbjF2S2pn?oc=5
+- [2026-10-02] EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says (Reuters) https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN?oc=5
+- [2026-10-02] NEWSLETTER: Inside Anthropic’s confidential S-1: a Q&A (Reuters) https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFhLTkZneU9Ya2hKLWthbzg3TmpESVlwR3JVN01jc0VGaE85T0FOUnp6Z09ManVqcDJVNVFwVzUzUk5FMFJ5dUw5UFA4ckpEeDhTcVJLSldfa3k1c3FHMHFjMUVlRURuX014b3BQMmhPSVhrWmQ3ZnhPT05TM2w5dVZYZFZ5ZVoyRjdtSzlUT1Ffck5RSWNGSW9tbUVvSndMMlNUeEFnMWVIalRl?oc=5
+- [2026-10-02] Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order (TechCrunch) https://news.google.com/rss/articles/CBMivwFBVV95cUxPcUlMNEg3QVZfaTM2LVZWS01xclBVUG1EZlNRLUxmS0ZRMF9iVGdKN1Z0clFfQ3AxUFRkWkZvdjdtODZrYTZnYWtkWnhYekwxNVlLQjYzdWwxM2J6ZjZNU1l5clRmOUxoWDF0dnY2SFFCVjRnTW9uZzktNk9VcmtfMFNsSDFsbXdmQ2J1U1NiVVcybDZHQkV5WmNpOGxnM0RUM1l1Q0RiNjhUTy1PUjk1Y3JtWklyekNnLXVXWlBxaw?oc=5
+- [2026-10-02] OpenAI disclose another hack on government department in Australia (The Guardian) https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWszNzZRNHE2MTNpMzYxNFJaeWNYUER0cGY5dGNsUjZicUxqUWEzNF8zZUgwaHJseC1scFhFWVplQnZqbjNhVWVrWDhnQnBiRnk0QmEzRzRpX3ZJdUNuZXJQX2pDN1VnR1BndXYwVFM2RFRYaWtkMjVBeWd1eEpBT1VRNUliX2FUWjNFMm1VQ3ZlckY0akxVRjlZREtRcXNQSlhLRlFyWURiYVdMTGpDZ3Z3aHVfc2c1?oc=5
+- [2026-10-02] Man builds AI torture chamber after discovering artificial intelligence ‘feels pain’ (The Independent) https://news.google.com/rss/articles/CBMifEFVX3lxTE5IQUduVDZqTmNHSE9aZzRuY3ZvdVpmbzYtYUN2MnhYR1oyT3ZFT1RwUGN5S1JnUUt0YkN2SkEyN0NXMUFwNlVFaHN1b1pvR3dfSUlwSndlUDQwZVRKUW05WnhKV2FTQWRsNE5RWU1qMWg4VkpUbFU0MnVSMWw?oc=5
+- [2026-10-02] Anthropic tried to persuade Pope that AI could be conscious being (The Telegraph) https://news.google.com/rss/articles/CBMioAFBVV95cUxNbG5qWklWMnEwblNoUkhIMm1MZTVDQUJxQXQyY3QtZ0dVX25IMWVOdGIyc3pPSHU4LVZ3anQ2MzhyQzdiQ2V5NmxiVEZhcFBjTndtVk5XdFpYMmpNUUdYeTVIeGZjMUVYTnVFWXRnOTZaT3RWTmJIU0NDZFJHODZ2MnJ0WW1HN0twYVlncDhwRDhRSGE3TnM2V2xkWnhVYWNH?oc=5
+- [2026-10-02] A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data (WIRED) https://news.google.com/rss/articles/CBMinwFBVV95cUxQQXF6b0Q4TTRYdTFnWVFQcHlZU0Z2T3cxOW9sdWlub0EzVnVFRVlXUmJMYm1aR05vb3I4cmdlYlJQQVdyMng2VnltNGRWMGJRSTlMZWNLSi1JYlpmZ0wwalVBWTZ5d3RQTDhvYVNIQklhQWNDVGxFUU14eTd2a2Zkek1Xd3pycHRnb1hzMDZnMkI4LU5DT0ZPX0xaWU5sd1k?oc=5
+- [2026-10-02] メタ「ミューズ」発表で金融株も急落、革新的AIエージェントを待ち受ける“大きすぎる壁” (ダイヤモンド・オンライン) https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ER3JjNk4wZkVIOFpIZGdtUTRIQ1pwTFlLZFAzQngtSFY3MUFveEN6b29sTTFCNENidHV0VGtvSm1mWUFSRTFoeTVLdELSAU9BVV95cUxQMFJESl94YXV3M2RzRkMtdTJZVTJyZ2EtV253MTJMT1QxU3VoMk4tRlFHa3dWcjdwZE5kNjN2dVBqR1VnOHE3Y3E3ZjNQNUxj?oc=5
+- [2026-10-02] AI企業トップら、アンソロピックCEOの警鐘を非難していた | WSJ PickUp (ダイヤモンド・オンライン) https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nLUZyQzY0cDhaX1VfNnpna3hRM3h0V3pyVFdzQjVac2liYm9OOXlKMWtOSXdqWkdIUm54ckh0QWxNZnZ3dktDZmxzMUI?oc=5
+- [2026-10-02] 生成AIの利用経験、中国9割超え 「秘書」「友人」の存在 (日本経済新聞) https://news.google.com/rss/articles/CBMibEFVX3lxTFBRWThUcXE4b1A0aTRuNzZ2NHByVVR2Z0h4UnBXRVBkc2xTSTFkSVZMcEdhVXdHUDhZV08wMXIzRUhaUm1CMTFCLUJma1dINXhXMml6V1ZKa3B2V05XSlpyZXhUZ3ZzeUoydzFOVw?oc=5
+- [2026-10-02] アンソロピックIPO、11月中旬以降か ブルームバーグ報道 (日本経済新聞) https://news.google.com/rss/articles/CBMibEFVX3lxTE5KU2RYVEFqN0FHOU50UUdLV1RKb29GTlJSeEkzOWU1MzFfMDd4OHd0Q3lwT3ZHamV5d1FLZGkxbEhQSmN2a3ZPcTVNV3A1M3lMMW9QellyT0FySjItbk1kNVNNdklWc1JxdHhHUg?oc=5
+- [2026-10-02] AI「自由放任論」の無責任 アダム・スミスに学ぶ規制との間合い (日本経済新聞) https://news.google.com/rss/articles/CBMibEFVX3lxTE1OQ0U2eFFXTldFU0J4ajlTbHF5VkpPVVVkMEt4LWhzSUc5cGFJalFRd3I3VmhrS2hCSVNGYTcwSUZ6ZkZZZjZKOTRJOWxUX1VseDFFU2ZBM1F4ZkY0bUZTcjQ1QUpwNm1TYTFjTA?oc=5
+- [2026-10-02] 生成AIの次に来る先端技術は? 光電融合、人型ロボット、量子の可能性 (日経BOOKプラス) https://news.google.com/rss/articles/CBMibEFVX3lxTE9mQ25KMlJGRWR6QXl4TUg0OGprcFJPakx1cEprLUVhN1k0UVQ0MnpQYU1wM0IwWmpFWWw3b1h5NXNKNjdMQmRxT3BxaV8yTWxpRWd6Ynhxb21rY3hfZF9jRVEycXNuNGx4V0VvdQ?oc=5
+- [2026-10-02] 部長2人が全力でおすすめ 「AIエージェント」や「AI駆動開発」を学ぶ10冊 (日経BOOKプラス) https://news.google.com/rss/articles/CBMibEFVX3lxTFBtaEN5LUFSUGFTN2ZWRTl1aVk3dC1VMW52OXgtMXcxNjdqc1JuYTFkTU4xbjhzSXlYYVlWdlhZMTEzWkRIcUc3VFpZZnJ1U3RGSW1kaG10d2hnLTAxVEQ2Y3pZclZxUWM5dEpBRA?oc=5
+- [2026-10-02] 日経ビジネスイノベーションフォーラム TM研究会シンポジウム「フィジカルAIを活かした社会課題解決」 (日経イベント＆セミナー) https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tc19ZVUdPMW9PZEJSbzZ3UkRGc0FTTUJ2LVJQMW9BbVdLdzg0QnY4a2RJbTFLTDJlVGtUUzJfMW9QVWZka09HcnNR?oc=5
+- [2026-10-02] 人工知能は実践的な助言ができるか、2本の注目論文を紹介 (日経クロステック) https://news.google.com/rss/articles/CBMibEFVX3lxTFBhY1ZHeHBhZXllZkhoZUNFbDBsLUVKX0p3YWcyQkVyNGhiZkIxVHB5MXdJLWdHRndPLVRZTjU5bVlwQWdydzZRQVNfSmU4bDJYdDBuNGFOdG11RldHNzJWNlJHNDU0LUk1cV9MRw?oc=5
+- [2026-10-02] 世界を震撼させた先端AI「クロード・ミュトス」の正体とは (日経ビジネス) https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kQVBUZTl6VG5hT0NpR3ctdzBaTnMxNUMtQnAyc05EMXRQZzk1TjltSjJKZGdLbEVkWnE2RUYxd2YycUVYT2hEbDFVdVAzOUg0UHVLMV9GQldQUVhHVkNpY0E3V0ZGSnM?oc=5
+- [2026-10-02] 米政府の新AIチャットボット、トランプ氏の主張と矛盾する回答 直後に一部質問を制限 (時事通信) https://news.google.com/rss/articles/CBMiZkFVX3lxTE91R2NoaFUzV2twaWxiMElzcjJpM2pIdnRlY2ZrcGVaQjRJdlhINDFlWmJiZEpBaldpaTlyR1ZoOUR0NVVQdDY5cERiQk5HX1ZBWDJrMG9qZlZ5cDVneXhCTEZSdDRJdw?oc=5
+- [2026-10-02] グーグル、新型AIモデル「ジェミニ4アルゴン」発表 脆弱性修正や悪用防止強化 (産経新聞) https://news.google.com/rss/articles/CBMidkFVX3lxTE9IYnF1LWw3NGVLdjBZOVhySXhkSEZsZzk3cXVRbmZyb1ZTSVpfVUh2alRqTTNPc1JKVmpIbzJWbEhzcG8yM3gzZnVlbU9JNXNPblljUDZXTlNnTG5xUU5mVC1fOUFDZUs5dGdON2N5cVFKWjBNWVE?oc=5
+- [2026-10-02] 米グーグルのAI「ジェミニ」のロゴ (産経新聞) https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFJ4cnNNNDhmbG9DT1kzTWZ3aUxjaXJqX1FtQjg3M2g1Z2x4VVlDZGIxVVlraExlTFhjTnhyRDNJaVVqeFA2VUZxT3JVaHNTeFRkTWotUU9vc2xZS19SQmRSTWVxS2xzRHBrVEVUTzdDZE5oalZGc0FVcGl2N3pwZ2wzR2Y4YVFIcWowRkh5Y2RGOHhOX0RLZklFb19Jb2w3Wmc?oc=5
+- [2026-10-02] オープンAIが社員3人を解雇か、外部の評価機関に機密情報を共有した疑い (読売新聞) https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YVWdPS0h6SlhmVkdnRDR6dXRLdDdad0J0VVB0a3l4Q2hmZ0dFZDBibGNNYnA2UUdsT2taUDhkSHpnem9SSVVWY3lSYnBzZFVoeWVhQVNjemxVQVFGUWVUV3Vqc0o?oc=5
+- [2026-10-01] A timeline of developments in AI safety since the attack on Hugging Face (AP News) https://news.google.com/rss/articles/CBMiogFBVV95cUxNMURacHFuLUJOMWczTk5zVE1wUXN1TVJaNVFUTGtxU2c5dlRpSVVFT01KX2p4UTd2eUxjNllmSjBoRGFqWkFhT29kUS05SndmVjBlVThoblpjX2VYOXZpWnJ0UmdFUExNdmlwUXlUOVpPWDB4QzZDTmlBVUw5anoxWFlqbzZhNzBqZlhmQ01HQTNLeHMzU05WRGd4dk1vRUZGWmc?oc=5
+- [2026-10-01] 中国のAIモデルが生物兵器の製造方法を表示、セキュリティーテスト中に安全策を突破と (BBC) https://news.google.com/rss/articles/CBMiYEFVX3lxTE42bDFRWnpVbU4xcTYtMUcxMldMMkNmcmt1LXhwOUUzdlJEcV9JVDI1X3JzemZUbVpuaDlyVzhwZ1VBOFdMbVFTSlpTaUJMeG1UN3ZLUDZmOGxrV2tyNExRTw?oc=5
+- [2026-10-01] AI boom could trigger market shocks, Bank of England boss warns (BBC) https://news.google.com/rss/articles/CBMiW0FVX3lxTE45bVJ0cDhPOWNsbndsN0FHTURoM3VnWGhUY2ZtaEoxbGd2cFh4NlpRelFTVi1CUkRTWjZGeVRBM1YwSDZkdFowQ1dBa3p5UWFZaklSMzZqRkplR1E?oc=5
+- [2026-10-01] 'Things may get ugly': Meta's new AI Muse is about to make the internet more annoying (BBC) https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVdTQVNoVkxHUnJwXzdIeXEyRVA4aU45TDhiOExPUVVpdS1KTzNEVTEzdjRkZ1lpUFNuS3hIZ1lrY2llRnM1WTlPZGlxQUswMGoyTmFfUXlncmNDUVlPZjdWWmhMVmFPME9PQUhybHNBdEY4eEJBOV9HMnAyS0h3b1ZnUUtOVHlsSWRKZXdHdlI?oc=5
+- [2026-10-01] Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names (BBC) https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VRVY5eF9FMmg5VE9oTmNDZ014aDRXMHd1YUI3UUQwSER0cUo2MlRIYWxyTGhOaVJsY21kU0RkRkE1aEpBbjlIYUxQRy1kSmlwTnY0N0VfN2hjX2M?oc=5
+- [2026-10-01] アンソロピック、11月半ばにも大型IPOを目指す-関係者 (Bloomberg) https://news.google.com/rss/articles/CBMid0FVX3lxTE82cFMySG1PUnFJdFg1OTYwaW1tTDkyNUkyalRFaklDckFIVTh6TGxjSmhnZGRFWDA4UGpmaE5UenEtUEFGNWc3UmVvVEFjczlDNVYwazBYN082S3RaM3ltYVcwd0VLN2o2RmNaeUs4aHNWQmdYdmJj?oc=5
+- [2026-10-01] Anthropic Targets Mega-IPO Before Thanksgiving Holiday (Bloomberg) https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUlUbXBSYkVLUzFtY2ptTGZ6Nk5HSHBpdFJBZlF1QU1JbXU3VG1Nb2g3OW95elBUTHV1czlHRUNKUFRBV0Nsa3QtVndGNDh2U3dBWFdRenZhRlVEX3hGTm04bl9TcVpuMkxsRkJNQ2NJbzhmYTYzZ01uRTJIS3g1ek80QmRDdE9iaUxRNmhsbzBDci02bnVaS2dpNDJsZzVJb243b2ppUVk0OFpDTWVQLW5B?oc=5
+- [2026-10-01] Barclays Expands Use of Anthropic’s Claude in Efficiency Push (Bloomberg) https://news.google.com/rss/articles/CBMisgFBVV95cUxOS3haT0xoTE5SMVRSUm1IOUFZbl9qbzctbmdSTDItQUVDbzhhOHhsNGd5WlFHTlowYmhJc0Z2di1WZmFPdms3aEFQRU9HMGVreC1Ea2drTzJFLUpsaVo1MnFBS0dsTkdwRGZnUS1WRmJBdHhUV0hKNXU4WWVjN1ZLenFtZzJ2NnVUSGE2SmtpM3Jsd0wtUGdsM3VtUV9jWHY5OC1OMmZ0emd5TENRN2VqdEZR?oc=5
+- [2026-10-01] 9 in 10 Americans have encountered a cyber scam as AI fuels fraud, Consumer Reports finds (CBS News) https://news.google.com/rss/articles/CBMidkFVX3lxTE0wVVJCbVZuRlJuOGtZUEI4S0wxaXcwcUVVTVFkcE9UX3pMOVBkWlpET2c4dHc1cm02RjFWN0d5U2VqUlhLMld6WEE2d3VucG1xMmFRN05VWXhsSlhsZzRMYVZKVG1UbXlpbzM1R2VOVjVNeTdRQlE?oc=5
+- [2026-10-01] Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says (CNBC) https://news.google.com/rss/articles/CBMikgFBVV95cUxQTDVlTE1GRTBsOGtKWlFMUEtqMV9hbFNDMXVBZ1kxeGkzT1hFOHRwcmJUdjZYMXZOeUExZVFyT19oeFZ0WktIY1BHVFJfX25MeGJOSkdRZTM0WWV0VGNIdUtkM1M2dUNYdmZsMDhkV0lBcDZBUmZ0eUtyYW1sMUl2VkdCR295NFA5N0N1MnpkN19nQdIBlwFBVV95cUxOWjJLbklNcUVaLXR6ekNvRmhpbm45Zi1sSEFlOG53eXpMSnJmX05YdURRN0ZiekU5Wk5oY3F2THpmR1ZOY0c2SThxTzh2Yk9jTzMyMFN5TUdzQndMQm9uejVOakdLb1QyeThUdjZiR2hac2t3MnFnMENUWlEyVEpJT3BqOUY1UnhiOE1mV0t5MW13NXBlOEVB?oc=5
+- [2026-10-01] Chinese hackers impersonated an Anthropic exec to get information about AI (CNN) https://news.google.com/rss/articles/CBMikgFBVV95cUxNQUdCRVNLbHRTX0FQUS1NcEdHTC1JMmxFempJc05XMWVUOUVWSkdmQVZ5Rmt0cTBBcG5hUFl6RVZ2Yk1xNjAyOF92bTZOU2ZCVHVaaUhOZ2pJLVZOYTBBYkpicHVneFJEeTd3NnlrX2dISkxnUWF4aWNzSDVKeWVVSVVYdmNBZkNXdjlvc09FbzRUQQ?oc=5
+- [2026-10-01] Is circular financing in AI a problem? (Financial Times) https://news.google.com/rss/articles/CBMicEFVX3lxTFBCMDZ4T01IM0Q0VjdGYVJBUXBJS250M0FWdmNvbnZ3SGlSdkNKSEVDVHI4ZUY0alFQZERIOFlmUERYUmM3VXZxdm5WbjVmTHZtSnZnNGh5VzR0c1VfMTktM0hJUGFibjJFM2R5YkVnR2I?oc=5
+- [2026-10-01] OpenAI Fires 3 Safety Researchers, Wall Street Journal Reports (Forbes) https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbVRJZmFzRFZMOUJRaEVXVDZCcm9QdFB3c2lwUEdxTk5fMjRpUHlLUmh6TzJzdG5vVDlGenp0TS1GWkFQRjZFd2pzQU55bDlKc3BBbS1HaFA2Tm1hbDRfdjVscWR3ZEhuTFFBUTU5dlllUzNUd2I1dzgwMkRlWDdKaEdreWRwRmhNRXlFZGdmeVN3b1FxcjdjcVQ2MWhEZC11ZXN5UlJCRl8wV0RBajZTZXhjQVNMZHhKNDFGc0NYUmluQUotT0xLb3pRd2FrTThXcC1QbjB0UQ?oc=5
+- [2026-10-01] メタのAI「Muse」、500万ダウンロードを突破──ChatGPTやClaudeを圧倒 (Forbes JAPAN) https://news.google.com/rss/articles/CBMiWkFVX3lxTE1keW9JSS1vWUg3cEd4bGhrbmx6ektYUmQ2SEdsSGs5N0lMLUZObmFieFNaZk9QNVB0N0t0NzFzM1NSVzVoYU1lcmVUNFA2aEZxQWVVSGhXSmF6dw?oc=5
+- [2026-10-01] AI ‘godfather’ Yann LeCun: Anthropic CEO Dario Amodei is ‘deluded,’ ‘crazy,’ and doesn’t understand cybersecurity (Fortune) https://news.google.com/rss/articles/CBMingFBVV95cUxNdUxXaW9wZ3RjVXV6ZUNKRFBJVTdMZXNhU0I3eUNhRnI0alc0MmNMbmR4TlZVb3VKRUdYNmRiMW1jM3lyZUk1elphb1VvWVRXTmpKM3IyMmRfbVdvSjZIb2I2LVZWaVdqQ0taQTBUZzBHZTJyNkZRcnR3NWVoT3JNSHhObkxEdHo2cC1kUmw4Tml6RnRWVkhMVXdqN0R4QQ?oc=5
+- [2026-10-01] 「制御不能」に陥る自己改良型AI、暴走に強まる危機感 アンソロピックで研究者離職 (JBpress) https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ycE4yWjlDSVlKb2VsMUhoVXh4U2F4UDRBbHVjUFB2RlF3M0EtTFFvZDZCZWtwall2ZHp1eFU0R2NBanEzMGRJNk1IZlVNSUFQOGduaDdn?oc=5
+- [2026-10-01] 生成AI開発 安全対策は進むか (NHK) https://news.google.com/rss/articles/CBMiX0FVX3lxTE00OUx4M2ZGaHhJUE9fMFhZMmtuX2Rnanp5d1RlQXdybldPamdmQU1KQlY0SUlLOTFfa01NRjhsbFNpYVRPTndRaDIzMDVQbEdKbFdOajdnZEMyLWpKeGMw?oc=5
+- [2026-10-01] 木曜7時台 アメリカ AI規制をめぐる議論/注目!土屋解説委員/気象情報 - マイあさ! (NHK) https://news.google.com/rss/articles/CBMickFVX3lxTE9pZWk3WlNseDVnQmZ2STZLc1YydDVaOWpPZF9ISC1XYmpUQUNfOWxaV0JOd3lzWm4wSDZhbVFXN0lLWXU0UHdrUDEzSXFEdFRYOG5HTW0wZkVzQ2VmcFNCZ0tGSWFXMV8wSWdkS2kyby1nQQ?oc=5
+- [2026-10-01] 共産 AI開発めぐり政府に提言“国際協定締結 監督体制確立を” (NHK) https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UanhiMEwyVFBCR0dxQ3Z1dENsUTg0R3NZM2ZZcDhDU29yVnlHdEpKM0E5c0IydHg4U2FiWTNNLXBMYjhEVzI0VWJ2a0s3QUZZTnQxT0tpdW82bjVRT1lr?oc=5
+- [2026-10-01] Trump’s AI rebrand may stop at the White House (Politico) https://news.google.com/rss/articles/CBMimwFBVV95cUxNYndZZG5Fd0dmLXI2UVA5YkNnZ2NlTC1vcm4xM0Q1OTl3ajgxQ1o2Y3lBRkx3Yk0xVWVPWlVMTFZpbHh2ZFJSaF9aS3JMMldSUFNnWDN0bm9EYzluX0pYWG96a1g4OFRad2ItZWExazFEZnBUMHFLZ01OYi1rMWtPUXNRTnh4MkNhMlpwWlNTd2FWTGt0ZWViZlZ0UQ?oc=5
+- [2026-10-01] ソフトバンクG、オープンAIに300億ドル出資完了 持ち分13%に | ロイター (Reuters) https://news.google.com/rss/articles/CBMie0FVX3lxTE80ZFlLOTFMUlhxSUJjdEt2SDNpWjhLcm4yU0pMR0RLVnlfMGd4Ujlqcmk0Y3FvSFM5YUZaQ2FaYmhVc0R0cndpTHk0RHVtM3JhampkdllUN2xJOEgwT0p3aUh1WXVvaWtwc3h1bzdDV1NUVldtdEw4UmVWZw?oc=5
+- [2026-10-01] 米AIモデル「ウエート」、中国が盗む恐れ 民主議員が警告 (Reuters) https://news.google.com/rss/articles/CBMifkFVX3lxTE5NbGxPcTFQUzN4OWloZGdjWmVadVRlMVF0Y1E5ZjMwUDdkQnpabXhJUmJBZFFQMmpIaDFEU0pMQmNfOXdnamZ5TjhFaDJKNm9PVUlHNVd4cUtrQkgtUjl2MHlwQ2RNOWhoUmtCU3d3VE5vMl9uTjVnMHBQX1Awdw?oc=5
+- [2026-10-01] ブロードコム、アンソロピックに最大420億ドル融資へ IPO目論見書 | ロイター (Reuters) https://news.google.com/rss/articles/CBMifkFVX3lxTE9jQ0NDbjFXSWZaNUpYdlU0R2dPRmQ0eFBnWnpLcU03cUpqaXRmUktZaVpkano0WU03a1B2SWZSZ2ttVVk0OHVXNTBmTWFGRXlSZXJWQU1uYnFyR3p4eHczVEo0MFBiaGhzdzhWRXQ4TFRtbFVfYmE0T0FKMGtIdw?oc=5
+- [2026-10-01] 中国ハッカーが元米政府当局者になりすまし、AI専門家を標的に (Reuters) https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZM3pvTjlDX3F1SllPT0hSdmdMYmNFQmwxTkd0aUhvbzV6czEzY0JMMHVwTWV1VkcyOVNCdGJhNHFtb3NPY3ZtOHBoX2R2SXJlZnZrOWw4bW0xNUxCWlFVanFCNjgzUTRDVmI1ZDY4TzRoTTdjbzhhSEJXTHNwdw?oc=5
+- [2026-10-01] California sets guardrails on lawyers' AI use (Reuters) https://news.google.com/rss/articles/CBMimgFBVV95cUxNZWxTZHFNbXo5YUdtRW5lYnM5VUVXclFXXzJRcGxjcHVISE5SRTFZeWNiYmUwWEF3dmlUMVU3NWQzdnVVdDhHX0FzSHM0QWQyWGJheGgtRHgzdkFMcUNhOXBRcEgtTFo2cnFmdjl3bkJZa1ZXU2gteThTWG9tRlkteXp4SDRKWFdkSURnR1Jza3N2UXRfQWtDZG9B?oc=5
+- [2026-10-01] OpenAI alerts more than 100 groups about rogue AI agent activity (Reuters) https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5
+- [2026-10-01] California AG Bonta issues subpoena to OpenAI over AI cybersecurity risks (Reuters) https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW1Kd2RTeEwzSTRhV20ybDh2VEs5b2pXWVgzWkNsRGV0aDJ6SkRrMUp4SDVESXBHaVBwTEVzZEpzd0ZCM25IM3pRQlp4UVpEaFp3OTAzZTNhWDRCUWJKQUppVTJMRGEzcmgza2pzdjJ4ak8xVjExWU1XUEhDZmhmNjN5TkNEVmdENmY0ZXVuWDVlMzVzY01SeUd6RERia25aTHdzRmFJMC1iSWNrR291X0UxWHdFN01w?oc=5
+- [2026-10-01] SoftBank completes final phase of $30 billion investment in OpenAI (Reuters) https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ0ZDMDNNS0hZT0xNc01aV0RzMkxtS2lLaUZ6cnlZX19DQS1LajRmSHdrSzVoZ3J4bGNfYmFPbXJCTTBRX1dydEpYTlgxWXVRSmJOMHZ3VERsSVV4aGRYZS1oclNzQUVzb0ZxU2dtOWpNMGI2NHpQdkE5MUZ4TlhnbUoxRDQ1UGJmbHd4Y0MzOEZZTWxaQlprekZ3ZnJRNnJZdjJ2NV9OYjRhUEhpT0VUUlc1U0tldw?oc=5
+- [2026-10-01] EXCLUSIVE: Anthropic's IPO pitch embraces AI's promise and peril (Reuters) https://news.google.com/rss/articles/CBMilwFBVV95cUxQcDlCdU9Zek0tNW81WHEzdzdUU0FMa0hrWGVlaS13ZWMtVGRRTXNqYkZuaWV0WVZlSFR0Nm1vblBwd3h4ZFI3OWdXYnlJclNxM20wUHNORlB6T3lsV0k1R1pWSlpnVmozUTM4SjhqTlNHQ3B4VlJRNUdhNFoyUzV5MWZ0azM5YzR6b211N0hJMnVKdktaR2Rv?oc=5
+- [2026-10-01] AI cybersecurity startup Armadin valued at over $2.5 billion after new funding round (Reuters) https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRVNRVnY0bEVHMFFBV095N0xyYkVsTTNWdDNEOHJ0cVhoSFpJUVFrZ1pxZkNuX191dDdlSF9oRVQ1MHFoVmt5UzVBNDN1NjR6UUhxcDBNLVVYUXhUYWloMC1GWjVtSjdTUjJLOHVlR1R5aHV3aXIyTEhmVE94b1lCOXdqbGNMeTA2ckU3cWxwbzlqXzFsRGdMa2dLQ0FOR21TM0lEcHFPd3d4VURrazd6NXVER0dfUDFDUjZ5TGdUMjZ0WXBJYVlZYXVZdnQxbXAy?oc=5
+- [2026-10-01] Fight AI with AI, Thales CEO tells cybersecurity gathering (Reuters) https://news.google.com/rss/articles/CBMioAFBVV95cUxOYlN6bWY1dXlxX1Z5T00yNGdvSEphTTg1R001TnhZVWtwa2c3MWo1MHItbFhnZFFzNkhyY0FObHFQR2E1WEZQQmdXazhmSkZiWDRGTVZtS3dPUzQ1bTlscURLLTJISEc0MHN2NE5FWDdyUFN6QWxKQ005UlhUa1hDd1lPcENxTVN6YjdCeTRNMTFoZ0lLVHREN29rZm5NMTEx?oc=5
+- [2026-10-01] Chinese hackers impersonated ex-US official to steal emails from AI experts (Reuters) https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHRqRS1jN2w4cEJmeUFHYkZ1N2RFVTJiRUtJYnZWSTRvMWVHNWVNU2IyYUh4Qjd1aG1pT21SSVRPbEpYVlBRUXRtZTFjS3dzMlF5SThULW1NaXRZTXlHNXdodTNfdGE1QmpMTHdGS1NSbmUxdkh2RXFubWs2eFRPSFF3MkMxVGx3cmd6U0xsSWthamd3YVdFaE8wU183SktHU3ZhNE5NVDNURFpHMU81N25YMG5jbDhQTXZjSg?oc=5
+- [2026-10-01] OpenAI cuts ties with 3 safety researchers, WSJ reports (TechCrunch) https://news.google.com/rss/articles/CBMimAFBVV95cUxOXzdCYW9BX1hfRWV4Ykh4Y1lPTF9VNTF4ckFXYUI1SzJIOUN6UkdaSEFsb1lRc1VIQ0FEbjZRVGMyekYxVVY5NmJBSnFIQkU3X3k4aHVTQ0hPcVZCNnlBNmdFUzBLZlpIRDl5MThNN3d0TFprbktxYUxNVjVwMFlSOFVQa3BLRm10WllwTlZVN0FsZEF1ckVEYw?oc=5
+- [2026-10-01] ChatGPT can now virtually try on clothes for you (TechCrunch) https://news.google.com/rss/articles/CBMiiwFBVV95cUxObWFoWGZaei1UNC1PVVU2NFl0bmRBQV91RDNZVWlXbHdNOGFmVGl0cEtzX2lVNVF3R3FTNlJ3MnRvLUZOWW5LUHh0Q01hUFV2dVJMakxGMG44UHQzLVdzd2xkSkJNTERXQzdjT0pMalZOdTRlUjdnTVpKSzdUY0hwbTQzR21HQzVIX0Q0?oc=5
+- [2026-10-01] Google rolls out new Gemini AI model but restricts access over safety concerns (The Guardian) https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGxacWxBMjBHTEdEel95dW1GOVVOX09PR3laaEVXQXZvNDBRalVNMFNDTmstQUZ2YU1fX19SaHAwZnp1UVdvS2dVeHBPbTBGU1pfYmllWmJoVFozUUZXcDdHQm9kal92dWpCaEtyVndfWFhuVkVQcEk0djRROS1VUEJFa09VOS15M0U1YVZPSHZIWDVqZVZB?oc=5
+- [2026-10-01] AI chatbots remove hijabs from images of Muslim women when prompted | AI (The Guardian) https://news.google.com/rss/articles/CBMiigFBVV95cUxPTWdQWG5OMm1VZ3dKUWRvS3lvYTJxWEFwX2gxVG1OdGY5ZXdDMzdENzdDWTJUX3gyUU5iNmlPSmRGNU9kWl82NS1nbXZJcDVjY2hjd09ldFU1NDN5RUU5QVd2cG8xcjBKejljbDgxNDR0UHJ3bG5KU2hLejR0ZjhERWRxSTgzMzVCMVE?oc=5
+- [2026-10-01] Forget ‘superintelligence’: error-prone AI nearly sparked world war three this month | Timnit Gebru and Emily M Bender (The Guardian) https://news.google.com/rss/articles/CBMizgFBVV95cUxQcFZCSFFiVG9DajFGU0JRbWZ3ZTJZVlA4Mmc3Rk5jbXAtbzQzRHJydXhMdEhmVmFZeGpnQS1Id2hLLWtkS0xBRmpSYkRrTTZpd3EyUEloVEYxU1dXUlNiSWhody1aZld5M1VTbm5xV0Mwd20xeHA1ay1wR1lkSmtlalJwaWduWXh3VktsM1pseTdZNGFqMWo0YTRFc2ZGQU1wa25xRmNseEZJOXRrQ0hxSDEydHV6VGFSYmFfZXNTTGlnZEVjNnJBd3JNNWYxdw?oc=5
+- [2026-10-01] California issues investigative subpoena to OpenAI over rogue agents’ hacking (The Guardian) https://news.google.com/rss/articles/CBMilAFBVV95cUxPZDRjNlRLem5OVV9vMEJTR09fbkliOXJTNVg4RXMwempEZk9Mc1RfNzVVTUUtbVNINDR3REJPVUtpYnpuc2xvV1lMOFd6ZEtZbVpVMjFZSUhBZE56NjNJWHJqbWQ1YVV6NTJWOE9vNW1ScGtfVHpMei1UM19hb2hwQlVrWEpLdjFBSHZYdC1rY1psX3FV?oc=5
+- [2026-10-01] Anthropic pushes for opt-out model for Australian content as ABC warns of ‘cannibalisation’ of news (The Guardian) https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeWZoTkRIQzBZSFBSM19FVnlybXpkVVJfOWFnUjlyMjdHeF9UaUR5eVlvUDRMT0ZFLUZlWkFwMlZ2YkNLdHNmazFFMk9QYlhHWW1iNDFvWHhFQ3RETEtkQ1VzR2MtZ0N2NFpTUU5rTXFQWms2OUdoalVUbmhaNU93Z1I1NUFmdDdGdGxUcS1TN09hR1g5UzZaWkI3TXJUeXNxVUwtaVoxeEVhQ3hKS1YwTTdDSjZ6NEhMcGdz?oc=5
+- [2026-10-01] Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version (The Hacker News)
+- [2026-10-01] Google’s Gemini AI has a new advanced model that only certain people can use (The Independent) https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0hNREtuQVBtUER6RG51VjlBR3NlZWdEVVV6b0I1c3NZZVlMRDhJczF5SEdGQThQYTlKdVlqWE9SY0R3OFBTQTNSeXNqMGJPb0dTMEg0VzJFaTlMeVB1aC05eFBiM1djcEoyZ0ptY0VoTHI5RkZRYUp1Ul8zcFR6UW1WbENibkQ5WWc?oc=5
+- [2026-10-01] Inside Microsoft’s big Copilot rethink (The Verge) https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0dKY2FCNlRYRGlCdnNNRDhlcmhmQUx2empqRmxFYnZnTnE5RzdJU3hVN0Z2WVNqdWtOSmtXcDRWQ1czYndQeUFJMUE1S1pvZV9hSXByRWp6TF9YY09kdHBRNjNJcEhiOC11ak5WcVozWUQ0ZXBwekJOXzBpMHJGVw?oc=5
+- [2026-10-01] OpenAI、Hugging Faceへのハッキングを巡り提訴される (WIRED.jp) https://news.google.com/rss/articles/CBMickFVX3lxTE9YVDNxOGVxZFhsU2laM0tUUVd2cGFNakY2SjJLclZJakZsX3R2WEQwUHlodGlHcXJTSlp4OEFnbUlBQ1pZU0c5Z2VITUhuRm1vMDdlbkZNbFc0OXBpQ1R6VDJUNUhVUkpPZGROWi1BUmhUQQ?oc=5
+- [2026-10-01] メタのAI「ミューズ」、記者が鍋の買い物体験 食材選択は及第点 (日本経済新聞) https://news.google.com/rss/articles/CBMibEFVX3lxTE1KSVBZbUFaVWtraFZvNW14YzNIX3lqM1E5R0ozb2QwMF91d1ZaWDZEcExLc01RNWZQU2stLXgyWERJc01UQXNPN0M0X0lUODg0QXJzUVZ6bFpSVzJYQnoxWVZ0YmRqMzVuTm41Yw?oc=5
+- [2026-10-01] 米政府、OpenAIとアンソロピックを調査 AI暴走で安全性に懸念 (日本経済新聞) https://news.google.com/rss/articles/CBMibEFVX3lxTE9lQ3BVMEpzQVVVZmNqZVJIY195aGR4cVpGMnJVRkswTHRLT0NUZUJ0eXJYa01oR3VoUE5hSWszMk5iZTNiTDNqWGdVMERFNThnYW9xX0xEclA1VDEzdmw3UzV3N1ZGNDdFMVd2Qw?oc=5
+- [2026-10-01] Google、7カ月ぶり上位AI更新で挽回狙う 「Gemini 4 Argon」 (日本経済新聞) https://news.google.com/rss/articles/CBMibEFVX3lxTE5VTE45WnVnU0xCUDl4clVIZVRselJfX0lRMmhFWG5uelcxbUZuZFVsMEFic2dSMnhXZXpTUTVRS09ScWZiaS1ncHYybmdJa28zODBmUUtuWGNRUllZRGMtZkpVaVhsbU5IeGstVQ?oc=5
+- [2026-10-01] フィジカルAIで協業 日立・ファナック、来年度から (日本経済新聞) https://news.google.com/rss/articles/CBMibEFVX3lxTFA1NjNxVkI2Tkk0bHQwN3ZESWtFYVRLNko2YkRwa1I2a180c0w1VTdtSHZ3cm5SdjFIYnNmVnJkNG1zZnZSRFRnRUQzNGNlcVhzczRuYl9NbFdTZFl5dU9NMGVrTVRCTzBVa3Y4cA?oc=5
+- [2026-10-01] 生成AI活用「効果あり」が62.4%の高率、研究開発で成果実感 独自調査 (日経クロステック) https://news.google.com/rss/articles/CBMibEFVX3lxTFBkbmVvZmJTRVROYUl6S1JVaGVmT0YxbU1udHoycERibmVWTW5YZUwxZ0ZaZnRSWmkwdnlJUnJGZ2k4QXN0eDRfT043Tm9kOEQzUlZQTkhOVTlPZEppY3lYNHZZVlBiNC1vZXdxdQ?oc=5
+- [2026-10-01] 生成AI+「手足」=AIエージェント 1年半前のClaude Code登場でブレーク (日経クロステック) https://news.google.com/rss/articles/CBMieEFVX3lxTFBZMXdTelk5WnZJN0lGMWJqUUJxbVFtQVh4TWNubDN2bWhEYkd0UUxpeTZFb29zTjRTRlJhbjdSYXBTNTd4WVRKdXg4NFRKaWV3S0ZJUzF3OVBwbUxrZUNnUUFoS0R6RUM4dFhlSGp4OHI0VzVORVZTOA?oc=5
+- [2026-10-01] 米当局、AIの危険性調査 オープンAIやアンソロ社対象 (時事通信) https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yUk90aFg3TmhNTjlfeTNScHIxc0NxcmN3WXdJX19lS01TeWJScGN6Z0daTmp2YzJvQlhKMk1CYkEzM1FiNkhkTThNcENsU3BBSTFWLWlPam5VbUVoc2RFM0VSMA?oc=5
+- [2026-10-01] 中国新興、米オープンAIに「蒸留攻撃」か:時事ドットコム (時事通信) https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0WUZZNWliZXBfdW9feFNvcF9ta1hfWlp0N1NENTRIaDVVTWRROXM3TWZQMWZKMHBoa0JOR1FSWmU3UVZvN2stTXRWZ0lweU5LRzBJOWpoXzB1aXc1bm41ek82TQ?oc=5
+- [2026-10-01] 画像・写真:中国新興、米オープンAIに「蒸留攻撃」か:時事ドットコム (時事通信) https://news.google.com/rss/articles/CBMigAFBVV95cUxNTnNJYS1qYlFmSjY0UHVwYk54TDBSX01jcjRka1lXWjBuUUl3VWxtVWhiaFN1QldWVS1GQWVYNEpvZmhzYWt3eEM4Sjd4Z01Gc2JZWk9XRFVraXhTSWZ6MXZhQ0JubU1TZEVPR3FRQmdMTjNwTldOaHNXc1pjYXhwSg?oc=5
+- [2026-10-01] 米グーグル、新型AI「ジェミニ4アルゴン」発表 サイバー防御強化:時事ドットコム (時事通信) https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGcVBCdkFwNEZXX1M5Mlg4VDlvRzJxLUlUaVR1VGZBS0QyejN3blVFOGxPVHdPZzNWZDBNbl85Z0t2TWxRNmVhYWI2OXoxS0k5ODVsbGVNbDlPTkg4bEdFN3BYWQ?oc=5
+- [2026-10-01] 米グーグル、新型AI「ジェミニ4アルゴン」発表 サイバー防御強化 (時事通信) https://news.google.com/rss/articles/CBMigAFBVV95cUxQSjQ0R2QxbjloU0JjdGFrZ29LS283Q3E1cE0zb1hfdzNqVTFXM3hVWGNVcFlCMW8yRDlnLXdOSGdJVTEyR0U2OHRldW5MYnVDMjNjRlNaVWtNNGQ4S1lnTjVuNFlVVzFBblFsQVEtWWZYQ3dHOWlDQXVwMlBYQ0JmMA?oc=5
+- [2026-10-01] AI開発減速、「企業が規制」協定 トランプ氏、国の関与には応ぜず (朝日新聞) https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YZnNXeFdKbUdoNVlSVDZWMTZxMVd2MmdlTVFBOC1IcjJRSHVsY2FJNVYzbGplUWUya2tseTdQN2pMQnRWdHdOYi1pNzRmcFFNUm42WEZ0YzhBQ2Jk?oc=5
+- [2026-10-01] トランプ氏が拒むAI開発の国家規制 「中国を圧倒、維持したい」 [AIの時代] (朝日新聞) https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wS0VTMjdScEJ2OXpBN2N3SDBfRFk5RllxeTlDRGstMFYtTE9jbFNMNF84bGtnZUpCOGFVM0VPTXI1ZnIyU0lXajlYdzJyM3RVSk5kQl9hTldxRXluODlvNlZJMnBhNHc?oc=5
+- [2026-10-01] DELTA、プロダクトのLLMコスト削減支援を開始 機能ごとのコスト可視化から削減の実務まで一貫支援 (朝日新聞) https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tNnBTSGFnYUtTc0pWN2w3TzhtRnZEUl9VNml2d1ZPRFZuT1EwWUdWSDBoVWl3SEljSk5jWHZIMTJfY1BQUE83MlZUUDVoaGk0VnNMTFAyWU9scXc?oc=5
+- [2026-10-01] AI「暴走」、米当局がアンソロピックやオープンAIなど調査開始...消費者に「危険」及ぼすかどうか (読売新聞) https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uZFEwczQwMjZlTWNRTWY4S1ozOEhJS2JtU2dQQVpXbXAxRjl0dnp5dHl0NHlqb3RTXzk2ZUpQNl9MT2pkUlhhU2hJTEdrX0dQcXRxc0c2WjlpX2IwRGIxZTdJR3o?oc=5
+- [2026-10-01] グーグル、AIの「暴走」止める仕組み導入...最上位モデル「ジェミニ4アルゴン」発表 (読売新聞) https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5UGxEX0hwYWRXcWtNREFXdm1wLW05QXpDWXp5Yk1JVVAxX1RidmpaN0ZzN3FEeXhNT0JMbGZGb2hrc3pvdnRUb0R2bUJyMXRDQ3NfbVFOT3A1ckt3dW5Xc3FmVHQ?oc=5
+- [2026-10-01] トランプ氏「AI自主規制」合意、中間選見据え世論に配慮...リスクを「デマ」と切り捨てる姿勢転換 (読売新聞) https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNU3JiVFowb0Fsbl9wS3lUVFlpb25nX1JrVTFVZ1dUVWJQNUFUMU5icDM2MHRrVmFfM2xRLVFJQ29tclBISmRnc015TDVDT1dzaG0zNmhPVFVjeWpzMFpuUmpn?oc=5
+- [2026-10-01] 高性能AIの社会実装「成長戦略実現に不可欠」、産業構造転換など行動計画...高市首相がきょう策定表明 (読売新聞) https://news.google.com/rss/articles/CBMiZkFVX3lxTE44bjVDelN1RkZTWThCM2JJQlJLV1A1THlSVy1ONms4Si1HME0tZHNPX2sxVWIxa3IzaG9aVGFjUnlVUFk1andFcmdRaTBEOHluS2txOFc1UzFuNlpJWEcxQzFEWmZSdw?oc=5
+- [2026-09-30] New report looks at how AI is impacting trust between students and teachers - ABC News (ABC News - Breaking News, Latest News and Videos) https://news.google.com/rss/articles/CBMimwFBVV95cUxQbmVqRjZva3dqVXZmTWprX1A0eGdlblZEb3JlVk0zRVdRYm5UalJ1bE4yQlQzdzFEOUZoZXYzWGpHMUhRQzZ2ZkdCajRmWU0zUU9GQzZrLWVxdU5nVlNCQ1drM2RvTmh4YWVyRUxwUWkyRHZIU0Fsc3NvOWRZci1rdDRGWmRvcE1aREtMZlRVb0haMUtybTVwNDJ3ONIBoAFBVV95cUxOMkhMVW9OWWMwdG92TkxSOVNVM1M1Q2FtVzNURktEdm1CdjI3QWFPZVhMcV9pQXRhOXE5TDVhQmFOMUlsYWJXamYwajNpaGhOek9vTG9WZ0hrUG1jMHRkQVFVTGRuVTF5UmJialhmRzJnaVdMZHlaekZfNzFCV2xrVXBDUnRaWXFTUUFxYVdSb3J3MGhwcGwtTVRDWDloQVNa?oc=5
+- [2026-09-30] OpenAI sued by safety group over autonomous hack of Hugging Face - ABC News (ABC News - Breaking News, Latest News and Videos) https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGk0MnJrR0tQVHFrdVZSZ08tN05ZQXN5V19sRklaQVlHdFUyODNxa1JyY1JLLWRNSktuOGFPOFUwaXlXMnFLam04bDlRRXlNa055SzEwWFhOWEpZQ0s3U0FidXJwaE1ralg3bFFXTTY2ZU1MWW9kWmpQaGsya1NqVmJHVHFkRzROMWFUNU1tdW1nbjh5ZGx4OdIBngFBVV95cUxQdm0yVm05eTg4czRMbkJpWGJOTkFrZmpUYmg5aFotZjVnYUlxbWN0ek5fdWRjck1YX3h4WnBPeUpPVC1FY2xRTGNRbk9aOEh3SHFWU1ZOVmF0bXJXVXZtaHRWU0JjZDdrdG1ueGFicHBfSThDVnVIZ2lUeWhMSURnYTZnYlhEdkdzb2g3RWZQTVc5d0VQdVI5eEpsVC00UQ?oc=5
+- [2026-09-30] Google unveils long-awaited Gemini 4 (Axios) https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zMTN2Y3VVU1JKSnZTcnV1VExtekpnTS1hRy1uSUxhLWxIU2F4bnZkNWJQOEkxaWprb3l6anY5V294RG5KSk5sMUp2a3JQamtiVWhUZDN1YkNlZDli?oc=5
+- [2026-09-30] トランプ氏、AI開発での中国との協力を否定 (BBC) https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ISGh2QjdBYmVxRnUyRndPWXAxSDgwbmF2VW1UdzRPWXI5dGtpakxGcG1SWXJ1U1J5U0xranFnUjUwdTFEcFVuaHR6b2s4dmNGVlMyenBHd2pmeEpnN0FpN9IBZkFVX3lxTE01TWJPbUw4VkZUYzA0bW94b012aVZnRzhKV1hzajI5SFdTY2FCb25yTXA5QlV1ZEJReTFQYVlNYzJraEFrdnNaTk4xTGpYZEY1cG0yVllBZ01FandDXzRyMEZQY2NKUQ?oc=5
+- [2026-09-30] Regulating AI 'not the right place to start' says Bank of England governor (BBC) https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RcG81NDFqSHJHT3ZTdWJ5c184NFdrbURWaENxbUg2LUtjN3pVRzBWMU5VQXVhc1pJNmV1RFM2VEdVbmlpSWhKc3pib2N2SlZiSWpmMjFxSkdaQUZkZkE?oc=5
+- [2026-09-30] Chinese AI tool told researchers how to make bioweapons (BBC) https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNMUhhUE5TbHZMOFRqSjNQVFEwaXRTeW1BSjVPb1ZVTklkeVR4VUEya0IxNlJOdjBuT1lZQWlNaGtZbHhjRF9nSWFDQUJHSURVUm5YWms5RU9aQ0hrQUE?oc=5
+- [2026-09-30] China has cracked down on AI relationships. Is it ahead of the game? (BBC) https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sdk41N0VqNHNwaWpqMzluNkEyem1uZmlrYmk4SE5BRUpRQ1Y1SVVsZ0w2dDVCZWVRYVBXTHc3dGd5SThSSGh2MXRRRUNlWXlfQWYyVnhVY29sS2c?oc=5
+- [2026-09-30] OpenAIとアンソロピック、安全性巡りFTCが調査-近く情報提出要求へ (Bloomberg) https://news.google.com/rss/articles/CBMid0FVX3lxTE8weEJOODZYNWFZbEtmYWFDUENVdWdPY2UyYmlSRDRMV3BzcWdBTFhXNUxHc2V5dmpvNDhuUjZNd2hzY1YtRVBuSl9Rbm9jUlZkZGY4YjgtSVk3V3kyeWdnQ01pOWFTejZaNFVxOU9hV0IxM3R0WHMw?oc=5
+- [2026-09-30] AIで米国の労働力の18%が職失う恐れ-ブリッジウォーターCEOが警告 (Bloomberg) https://news.google.com/rss/articles/CBMid0FVX3lxTE5DdTRMNTJudHptLUF4ZWRfajUya3JPMXZSU21GSUJLLTBrbU4zNV9Hdm1VTnQySm5tOVZReWZmOWtKRnpWQ3ZDaWthejJIMFY0OGxhMndKYmRLZFVLYV96OUlQOHpKYnJuUFVydlAxRVd2aFU2U2pN?oc=5
+- [2026-09-30] Google Grapples With Employee Skepticism About New Gemini 4 (Bloomberg) https://news.google.com/rss/articles/CBMitAFBVV95cUxPMUo1VEZLVjIyY1ZXMXVfUzB5ZVpjSzlZQjFGLWVCSWdWMzYxbDJabnNMU3BuTDliOTdSb1hjcGFTNmdVWnJjcU9PVlpKeHlULUtsNjQ4X0hGaTJmVXp6eTVCVW1UODJFX2xsTGhybE95VzNWZVpnUTlDSHdrYk5rUmtZYzVzaEJ0T1o1X1psU1Y4OHVVdWMwUlBHMjhDXzNjQ21ZOUYteXYtWVZtaXVvUHFBM1M?oc=5
+- [2026-09-30] Google Launches Gemini 4 Argon to Reclaim the AI Frontier (Business Insider) https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjhXNFB6ekptRTRrZW1GY0lVRHhBMWZjSzlWeDZGVDJKdjJQczd6YXdHWS0wWDdHNnB4SWh2WUxVZHkxVEZsNngxSlp5WmxvOFV4eHpyYTQ5LWY2NnN1c0xIbVJlLXQtcjZSWWJEOC1sTHZwN3VhTUg2RXQ1TnNjWGlwdU4zWlZ5Ym96bXNSbU5pMDQ5eW9HX1ZxbFpQV0VrV3JUOVZVWVlEOWM1Ui12eQ?oc=5
+- [2026-09-30] 人類存亡を語るアンソロピック、赤字は約6兆5100億円に膨らんだ (Business Insider Japan) https://news.google.com/rss/articles/CBMilwFBVV95cUxQRkNYdlkyak5ueHRGZU1rQUhQb2x5VXc1U3Fpb2U4VXJkdmdRbEM0M0x2MENmWVRaakl4Nk5NQ3doRmZydnhIUHVrYkpXbU9SV1REVjRHQzZqWmJJbVFYamQtUjF3YncwTlBMWjFmSUswbUVCemt0MnNMc0RhSm1kNEozSnZ2R0FDWWcxaUx5QWZWZVdzaG9R?oc=5
+- [2026-09-30] パランティアCEOが痛烈に批判...大手AI企業が政府に規制を求めるのは「知的財産訴訟対策」 (Business Insider Japan) https://news.google.com/rss/articles/CBMikwFBVV95cUxNQm9mR0dTcVQwRzI1bm9rWFk0MWFKcFA1a0Q5Nm5UX3lTUFh3Y0JaZVRzbHVBbXdsVU5ZaHJwcnZLaUZDeEg3QU1DVmJHRmdaQmVrQ19mTXktTndPbzVtcG5fNUU3OTVrcWxPSklhQVZTNUFnVk1ibDRwNFdRRVJmc3NXY0hKZkk2ajBDTEgxVkU3Tkk?oc=5
+- [2026-09-30] Trump's meeting with tech leaders leaves AI safety more unsettled than ever (CNBC)
+- [2026-09-30] AI race heats up as OpenAI flags alleged model-copying campaign (CNBC) https://news.google.com/rss/articles/CBMidkFVX3lxTE1kSmhrQ0lQOWwyV3JGWWpoclhLX1ZHYm9qX2tOTVRvcms5eUpOUjlrQ2RYdnhlVlJYTUNFelFRWjVkYXpJbVBPTU42amJ3QW5IMDdqYTZzcjVULWxuSjh0OUYyRTV6RG84ZlpLM2NlblNoWHJDdXfSAXtBVV95cUxQSTFoTHRwbXlLVFQtRXNCVlpLblVkRGNiMnN3RjgwVHE5anZvUW1aQlNzTGVGRXJISm9JUGdka1dWUnFEd0Nqc2s1N1d4UldwLUlTNWdCOWxJUFluSVZSTUJzZFhkM3VKNUNLd3cwNjJRa29QbWQ3d0hDN28?oc=5
+- [2026-09-30] FTC is investigating OpenAI, Anthropic and other AI companies over product risks (CNBC) https://news.google.com/rss/articles/CBMidEFVX3lxTFBaX3E1SXJOeEJHVWxxNEpSUDZxRmRJZFBTQ3hDU1R2Z3FLT0hOREVTZEQ4eXNQdmRKNkQwMExCXzA0blJRRE5kb3oxb2haU1h0eGFyQ3NrOGxJSjFNYzBIVU1DU1Z1SEhkWExyelZIeHh5amE40gF6QVVfeXFMUEI1a0NEa0xqMTNScWtrWXZjS3ppbE5xVHQyWXJjVWJMQUZDby1HNlE2bG1DNUtFOFgzdDlDXy00QW1VSHJ1RDFaZ1lnUE50b2VSdjI1YlJ6LTdMUktDaWtTdm9JUG5PbDF1dFVXOUNQSFhndHpmWjlMLVE?oc=5
+- [2026-09-30] OpenAI follows Meta into the red-hot market for personal agents. But will users pay? (CNBC) https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEttVk44QURLOUhOTHY5bU8wa3NReFE0TmtMbmFndGdrUmZrbXljWkJmU2QyWXRRMUNVeWFyUlVzMHFjOFFLdFVjSHB6eUZLVm9UVWRYZEd1RC1WV21uLWR4ZW1JM0ZHLVlSalpGYWN1V3JGMzQzbkRyR0pOcmpTWDN6VGY0R0RKVkROT1RudlZLVlNIby1HYjBQTGdxeDdjaUHSAacBQVVfeXFMUE1tN2VudWpTdmU5MU9kbGtMSS1WQVJtTU9Ea2VNNV9QbHdEM3pMOG1KR0lrcjRONXRkVVdwRWNoVUNCSThKMndoaWJlX2lPNndId2toUmo5RmlwNTYxYlFacXpGWjcwVVJwcUpUYjdlRTFCQlFlMmt5Ti1Ddk43MjctdFItcGp3QUhidVpnU3J3ek5fSjRyVjdHUzAxSmdnRmdPdDh4OW8?oc=5
+- [2026-09-30] Kalshi traders see high odds Anthropic's IPO is announced this year (CNBC) https://news.google.com/rss/articles/CBMipwFBVV95cUxNLU5oQnpJNFFOOGZMSGhtNGxkUXZYTXNpeDFtd2wydks4ZjdES20taFlGLXlVakZUTkFYVHpxMkh6aFZBNEh1Zm84ajhjLXk2elM5UHVyeFZiNFhuU3U2M1BHVnBubEw2MTIxY1hhT0NEaEVDYWJ2VHZXVnlFR0ZUeXU4bTdQMkdoRlBJbW5yTXp0TlQtdlNIREJ5eFQzWGVtelNiR3ViVdIBrAFBVV95cUxPUVJhTGVkaTZCYWxHM1hQT2RDZGkzYXJ4NWlIU19ya3psWHJHaFhaX0M2NTYyTVB3cXFvSHlPZk95UWFsS3JmS2dpNVdqaF9WbVZWLUpBb3BDRkFpZE5USDVKbng4NTZqdUoxM2V6a0tMcjZkMElKWUlOb2UzRW5lZm1CQzFiRE1ydXpSZWc1RUptY2o5S0xJR0NIWEpMQnVUV0Y1Rk9la0wxSnNI?oc=5
+- [2026-09-30] Google rolls out Gemini 4 Argon, its most advanced AI model (CNBC) https://news.google.com/rss/articles/CBMibkFVX3lxTFA3RWVHRldQeDcwbUo2d1FlaUEza2FnMFJZX0xuRGtGZWFyamU4TTJfM09MWHhVeDB1X0o1Y2d2VzJzeFZiQi0zOThLZkdDX1VvWnNTUkxmLXFWa1U5bHotNEliUm83M1htWWNGcWR30gFzQVVfeXFMUDZ2SVZ0VVhMa01TVnJ4UXN2Yk9VQXBadXlobU5wY0hyUndwNzFBT19kNnVzTzZ6Z3JIa253TmdubVdSYXBoNU9hNHYwNDE4TzRkZXlOdzJ2OXRxc2hNSDB5TzFfRmNIR2tpbXBwb3psTHZ6RQ?oc=5
+- [2026-09-30] AI's coming roadblock in regulation: Antitrust hawks (CNBC) https://news.google.com/rss/articles/CBMieEFVX3lxTE5SVXliUWZzM3JMYTdJLTlNUTlvUUlmR05MUUp1T1VwT0ZFT3hBNnZ6cjhpaUNQdk9PLUgzUElhM2RNMVhJM1BwNnhQanBLTjFmQjBvNWd2TmNLV1ZlQ29CN3Zha0tiTnpKdl93WlhtOGxvak5qUkhkVNIBfkFVX3lxTE5BZzFFN3hDUk1uUUZTbmJjUFg3c016Njd3MjBQX0ZKNVUzdVZrOVlnOHpZa09ad3JHZjNTdkV5SHZnT3E2N1N4QURwWHgxTF8xY0RaN25lbk1JYldObHRkVE9RaG1lWE5wZi1PM3dCc3UxamlQNVRCc0o5Sm5ZQQ?oc=5
+- [2026-09-30] OpenAI is sued over rogue AI Hugging Face cyberattack (CNBC) https://news.google.com/rss/articles/CBMibEFVX3lxTE1vcm94WTgtQnVWX3AyX2pKaXZGRmt4bmdkSWFjSXItNE1YSmZmUGJkbm1NZEs0YS1zTGlBVVdHQ28zLVl2TXUtbjh0aTU5dG1UWTNGVHkzaHNuRld4ZjdvZTUxbjd6Rmd6Q25xNNIBckFVX3lxTE4wQ3psakxsek9pd0R5V09IZEMxNklxTDdfS0pHTzVfQVFwY3YwZnBSNWlYNnpUX0hHbFFmRHMxd3RhZDVvaC1kUEFyd3JqQXhuSDVpVGhUd2RJMlVWR0N0V0lOOUxkWmVraXlCX3dhbmdkUQ?oc=5
+- [2026-09-30] Google releases most advanced Gemini AI model (Financial Times) https://news.google.com/rss/articles/CBMihAFBVV95cUxONHZCTWxBOEZWZTVseDhUeFdNMTZoTTRqa242NDFQRWdrMEdWYlEtWVNwQkRjUXdmX1dzUEhkZlV2bDY2aTVPbnBfNGJhXzk5NWVPRWlqbTJKTkZDU0k2dTJENXo1N2dDRHVGdHYyWVJGNUxiWVczMlBnV0JRWC12d1llUVk?oc=5
+- [2026-09-30] OpenAI’s agents obscured hacking activity in government site breaches (Financial Times) https://news.google.com/rss/articles/CBMihAFBVV95cUxOQTlYal9nb2ktdWJoLWtwUTlRM2Y0NXM1dElRSXZ6elZkampwSFBGa2FZZWFteENTZGxKRjQ0Y05rcmQzd1hZSkhLOFcyWTJRclcwR2RUaW1hcnJTMk5xM3J3VktJWGdlN29CeXZJQ0FMN3hDbGgzdWRrZnhwSTQxYXVRMm4?oc=5
+- [2026-09-30] Transcript: Trump shrugs off AI regulation (Financial Times) https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3NtU0sxS0JxMkxfWlBITkE4MHlvcjIwMXVheHFNTTNrSHdEMGNobVNSSjBsUkN3UnNPS0RlUVVqeU00RllBNU9NRktLR0dhTFRITkJPelZ6N0dLV3FVdkJtVmk2azlzWlpoTFQwenNDM3ROZFFkeWl6NDREWDdONkxoMXk?oc=5
+- [2026-09-30] Here’s The White House’s 308-Word AI ‘Accord’ In Full—Including Misspelling (Forbes) https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSVhNRDZKZnZBVEpMc0dhcWVZdkxZTV9yclNmTGRuWUxfNl81d1NlaEFCdWY3OU51VmRJbi1kQW1rZ2xFWWdjREhEY01SZE1qcm1URWRKVnNiMHcwMk9uV281UjcxS2s2dUxJUjlnblhUbnRKQTNBakdIeXlPaE5FdGZIZS1YUFN1b25IaXRzMHRhVUxLR19ybG9pWnBReTZ0bXNKdm5DeXBTMTJYeTVXUGdHV0V0UGtldHdsVGwzVGVuM0E?oc=5
+- [2026-09-30] Establishing Secure And Sovereign Supply Chains For Physical AI (Forbes) https://news.google.com/rss/articles/CBMitwFBVV95cUxQWFlzQ0VLQ3k4UzB3NTFBRXV2a0NGMlk0dHNRUlQ3RUlIbnN0YS1VQVZwb1hVQmY5LTFBUVVIanNVSXlrVjhtZFVKd0FMSkhTUkVZTk14aEpwbWtZTEpxb3ZIUkdBWmYyVTdqYWxicFUwbDZQWnRiOFlSOHRIR3lQZDNEQzlROEJpWl9pcDRSeGdZV284dENBbVpKWWVsRFBTbjd2ZmR4ZUtsN2lnd3lCS1FpOVluNUU?oc=5
+- [2026-09-30] トランプ、大統領令でAIの呼称を「超知能」に変更 政府文書で「人工知能」禁止──何が変わるのか? (Forbes JAPAN) https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MTU03R0hiQk1rRzQ1MEZyQzBUcXpfaVJKOWxNU0NsamtKN0VOb0xlNTBrRUlIZUFrV003cGhSWUpnMUNDdURMVjhMcjhXelVtcklIRnplODV2Zw?oc=5
+- [2026-09-30] OpenAIの「DevDay 2026」で発表された主なことまとめ (ITmedia)
+- [2026-09-30] OpenAI、「24時間働く」エージェント「dots」発表 Astra搭載、クラウド上で常時稼働 (ITmedia)
+- [2026-09-30] OpenAI、豪政府サイトへの不正アクセスで謝罪 最先端AI学習の安全指針も公開 (ITmedia)
+- [2026-09-30] AIで「人月モデル」は崩壊する それでも“若手エンジニア不要論”が危険な誤解である理由 (ITmedia) https://news.google.com/rss/articles/CBMickFVX3lxTFBHYzZnRV9vSkdZd3hZU0VwUWVpdU1YMUhXSzVpTVd5and4RDNsYjNEUVFQTFBHYllUNmoxOGxRUklIbjd4ZGhmelFLR2N4WHRzYjRrNlI3RGgxejh5cm84Ty1FdzNidUlFbVJuOERGdUd2QQ?oc=5
+- [2026-09-30] ChatGPTに「Ultrafast」、Astraを8倍高速に 利用には「月500ドル」最上位プランが必須 (ITmedia) https://news.google.com/rss/articles/CBMibEFVX3lxTE5aSGFMMWs2ZTI2UlFQRVIwdGlFNHVyWllhVDhKbjZZaHFzQk1TMV85eVd5S2NkckhtYU9KRkhwdmphSHM3eGh6M1NYZ2VNaUtuNDNSY3RLSFNrY1JvY3BHVWdOSVkySklJNUVSbg?oc=5
+- [2026-09-30] OpenAIが「Jev」に追従、「Decisions API」 Lunaで“リアルタイムに意思決定” (ITmedia) https://news.google.com/rss/articles/CBMibEFVX3lxTE9XNG82bXNGb3oxQjlDM1FEWFI5NUFKenlXSUVLemdyNTA0VHJpS0d4X1ZBZjJVQUw2OFgwOE8xcVctVjBmTEluZ0tNamNpLXNFVU5NTDZvdGpZVHRqenNXcVNOUk1OV1VNOUJCRw?oc=5
+- [2026-09-30] AI企業トップらと昼食会のトランプ米大統領、政府内で「AI」を「SI」と呼び替える大統領令に署名 (ITmedia) https://news.google.com/rss/articles/CBMiakFVX3lxTE4tdFFSc2hkYmt2MHlBWGF2XzVOWWRVNnR0OGJqREVVOTNoVjZxZzhTaG1zdmJqQ2lvTWo5cjNWaVVSbEZ5ZDc0TjhBTUlPdmMwRFZJb2pZOVpMVFhfWk9VN0NZcUpxQ0J5d1E?oc=5
+- [2026-09-30] グーグル、観光や行政支援など 全国9自治体の生成AI事例を公開 (Impress Watch) https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwaUIwSTRfR2xKRS1mTW1qYjY0blJ4ekktOHc4UWVTY3lqUlNVcE1LZUhDbHpYNng2TEFCOTRkdm1pbGJ2RWJRbWNzZjlaUklUb3VRZ1NlNlNPUU5PdWdSMi13Z2c?oc=5
+- [2026-09-30] 米国のAIは「スーパーインテリジェンス」「SI」 政府文書で「AI」禁止 (Impress Watch) https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GQS1pOFZBQVkyVFQ3Q0NBcDUyZk52ZWh2QkVNTWRYQXp4WDNOZjNmWTJGRTNpYkQzZHB3eVlZN3FXTlozY1NRa1NTdHk2QkV0dHc1UHZDYzlzRFpiUDh0Um5wTXI?oc=5
+- [2026-09-30] President Trump’s AI regulation accord with top tech CEOs appears ‘purely voluntary’ (NBC News) https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLWt6a1BWY0hic2M5SGNyWnRFLWNua0I5bUZOckg0U0JjSUdUOHhmalVSVjJNYjlSNE9kSWluWkJDZW05X0NkZV96SGJEd0FHT0p3Nl96QzZfLVJFNG0wbUc4bHJ4VVl4T0w5dEpaSF80X3JZTkhQMUVNei1wQVpLU1c2WjNSOTNIcko5UHdUdHRkd3FKYzYxamFfTUhiZHE5VGtTaHZ2V2NYRi15OXl0dG9jSjhWVHBUcjZQd00zS29JNUlrN2dFeUtob2dWaVZXT1AtZHBhNA?oc=5
+- [2026-09-30] 台風予測にAI革命 その実力を徹底分析 (NHK) https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XbFJJeEljOUl3VWpMREd2T2ktVmRCV2dibHVFdFF0TFYxWHRXM2ZVbTJkMGdQMnJUZzhWVnRNNnJHTkdiaUNQbzg2TDkyRUl1Wlg1ZW1uQXlCNmNKSXdN?oc=5
+- [2026-09-30] オープンAI 社内で安全性懸念の警告あるも会社側が無視 米報道 (NHK) https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWTJpWjZ5aXQ4clNESlhzX0kzcjF6OVk5akhNRGdHaDdmMUJRZHlLeHpuU1B2eVdOUnM0aWpsMEpQQU1ySmNIemV1NHVxTFk0cXhZOVY5TjZnQU9HRXl3?oc=5
+- [2026-09-30] トランプ大統領 AI規制に消極的な考え 中国とは競争の姿勢 (NHK) https://news.google.com/rss/articles/CBMiX0FVX3lxTE83VGhNRUJFdHVaeUI2a0NhVWtHU2J3WUI5eG0xMFI0eWtBUHdkMHZBWUxDREw1bWRKRENwdTRDSkpTODUzLThwMG9sLW4waFJZeWVsbVVYVkp2X1FYN08w?oc=5
+- [2026-09-30] War of words: Newsom orders California to say AI after Trump’s ‘superintelligence’ decree (Politico) https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSF9ZMHZBcldKLUJtdzB6cUJmUV9PXzJwTV9MVEpNX25yWWVqTUNFaDEyTGEwZE5KbkhaX3lHOE5qcFNqZUFfcGFnZ2gteGN4ak5PUWJMenlqUnpfN0pJNHZtX0tBdG9zeVp0bVdsMFFQaGp2TFNMYXFtOGFuV3V2MTZSNEp6bUpxUnRHUzBoVXNnT2VicngxOXpvNzV2V05xZDh1MWc3bHVfVzgwa2g5Vk9yWFctbjJoU1FVS2g2X1ZQYjZHUWFjeW9DYXU4bzlv?oc=5
+- [2026-09-30] New Mexico to jump into frontier AI regulation (Politico) https://news.google.com/rss/articles/CBMihgFBVV95cUxNYVdGX09uLU8zSXRIZVVMbGJacXFOX0l1bTUtWFJlSVcwUFloWUZzQTllYnNrWFRIMTNWU3NObGh5UGRVYlkwUDYwZDVQZUgwakRXdlBPeTZuZnkxdzhTR1l5bm52T1ZBWndGTUxWeTk5cE4zelRqU2NzMmd2NU5RbTd1WDE1Zw?oc=5
+- [2026-09-30] 米FTC、アンソロピックなどAI大手を調査 暴走の危険性巡り | ロイター (Reuters) https://news.google.com/rss/articles/CBMifkFVX3lxTE9MVzdaMkJOaUU0dGVJY0U2QVpWbVhoMFp2RThScGdUWHo2OTRMcWotbUlYRS14Sng1UkVFeXFWeVU3Z2tTV3lJUEN1S3VvT09NU2ptMDN4MlFxa1VtWTltVXI3STd1aGdsVHdYbTI3QzhoaEtTVjhYVkRibHR5UQ?oc=5
+- [2026-09-30] AIエージェントがカナダ政府のサイトに侵入未遂=研究機関 (Reuters) https://news.google.com/rss/articles/CBMifkFVX3lxTE1mUVo3b2IwTUdSNzFmVlQwbEdwNzdzTkM5WFUxTFI0MWlUMTBweDdFcXpjYTJ6QXIzNkE0X2dPQjl3VFZPV3V6NTJiWkZBd2VFNzhCZ0c4aXJqd1NJaWl2UjhYTWZUYXFfbzlZTEpxMkV6WDV0MVpoUUdkc3B0QQ?oc=5
+- [2026-09-30] アンソロピック、AIの経済変革力と人類存続へのリスク指摘 (Reuters) https://news.google.com/rss/articles/CBMifkFVX3lxTE5UdHpyeXRJR1JYemJqNWF4QVRucmV5V0RtNDVMMlltNFZ2UnJqYTdLNlVKRGxHODk2NUNaMk1pUGdwZFhFRVhaWXMwV01vbnNDRnNWRTJnTWY1Z0h5Z1JLSE5IZzNBQTBrbmcydFRFaF9nY2QzdWIyMktZTkdpQQ?oc=5
+- [2026-09-30] グーグル、AI「ジェミニ」次世代旗艦モデル発表 数カ月遅れ | ロイター (Reuters) https://news.google.com/rss/articles/CBMifkFVX3lxTFB6VzhQd2hab1p4UlFCY2VtRUtSX1BiVl9JTnFWR0JEd3BhaXBCcjRkU3duamsxemRkNTFqblh1ZzU2by15YWNnaF9QRkJGRnp0MFh3WnpVZWZvSDRaMWpWcGhpUlJWdUxRY2xqVEhleFVLeEFfdkJ6OERnUGl1Zw?oc=5
+- [2026-09-30] AI agents tried to hack a Canadian government website, research firm says (Reuters) https://news.google.com/rss/articles/CBMirgFBVV95cUxPYzhEbGpQTnhlQWp0SnozRGlpaGlBQ3Fud3lnTHB5Wi15NmJDaXhZZ2RGc2ZSUDJVYjZuY3RaQ3V5ajUtelBiU3E5UDlMVUtMY3hOUG02ZW9McXotTWdPeUVRMG9uWG00ZG1ZVTZTUTBWVm1aSUxvdVJRajZ5NTR4aGdoblF6dktQV2VSVDVENmJybDBRaldyTDRSclVVRVBLeHFfeW14Vk5pVEl3NlE?oc=5
+- [2026-09-30] FTC opens probe into AI giants including Anthropic and OpenAI (Reuters) https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdzYzcTVSY1JmRld3cFRBRlRaX0w0YVZHTjU3NWVvVG5BcXFIZGFwdXViLXBLNnhJQ3d0RS13T2VURWdNQ19ySkJuVXNlV2NWX0E3LUExYUZQaFBsTTVEaC1NMXJtR0RGYlllQVotQmM3VlRaVmd2em04YWdzTXFkMjhsUlQ0b1JlcVJBRENNRFFBT1NLcU00YUtqU0N5LUlJa0YxaEhzdU1mR1lkUTJ0MFhLMjA3a1FJVlQ5RXpMOEIxdw?oc=5
+- [2026-09-30] Synopsys, OpenAI strike deal to develop AI model for chip design work (Reuters) https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUQ2UF9xa0tYb2VKRTFLNVpwb04xbnJCMld6TWx3Wm1IYTA0V2lXRmFEZC1hRm5zUXNOV3djUUo2SmRHbEFNbWRpMzQ0TFAzUzZGenQ1bEV4eGtkWXdWUnF4bGZmZXprb0lvOHdCcWhZU080QzU1aTl1WVBfR0V3NmNpNFVBM1Z6cWNEaDFFYkQ0eU5MLVdmNjJJTkFCSDg4eElUSUZqZ0Ntdw?oc=5
+- [2026-09-30] Google announces Gemini 4 flagship AI model after months of delays (Reuters) https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0kxM3JDazhISnQtVGJ1Q2phRmxPR2Mtb2R4X1dQX0U3TkVZLWV0YUZNSnRfQ25OQnRuWHpNczNHSzhCZFFkdHFCWEVXYUhuazBDLWJ0eV92WU9nMDR6Nnl5ZDRCOG5UdWtwNnpTNkVtS2NLejVrX1Y3eXFvbDRMc0Y2Q2hvN0Q5YTEzTVA3NDFLaHprbnpuNWVBejNPVUlKemJCSHZUcHZSVE9iNmt3TWxXMXFBWkU?oc=5
+- [2026-09-30] Google releases Gemini 4 Argon, called its most powerful model yet (TechCrunch) https://news.google.com/rss/articles/CBMiogFBVV95cUxOaThYZG00MENsWUtiaDkwbW44Z3BDNlNkcDRoSldzZGNBcnVEc3FSLVU3UXVRMDhtRmI0MnJXSnRsWC1IbEVtMVRnWlY2b3M2TnN1bkk5VURBNFp0RmtmU2JkZl94RC03c29OOTJuenJ2cS1BUFRlWDVEZExGLXVpRDZqd1B2OU5aMlVTbFVKc0xpMnZJYmgxeHNCMjZ5a2hYblE?oc=5
+- [2026-09-30] DoorDash launches an AI agent you can text to order food (TechCrunch) https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXdXbXhYTkZzbFU3LTR5dUJyYmdTLUZ0TnVTVFVRMWZyclpEQmVhWENuSENoS0VEXzRyUlRpU0hELWFxbkxudm0teFZscjJDX2J0cV94dW9BTC1pYTFxWV9HLTlLWFgtZk9YVWdhbTB2SldjTDdveGpfNkNWSDVpLVdLZGlYMmdaYzNudmZQREVxMU5wUUE?oc=5
+- [2026-09-30] Trump AI deal rebrands ‘artificial intelligence’ as ‘superintelligence’ (The Guardian) https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFVZQVZWMk1XVVREWXRWcVZaWGZrb0dGSURLVkl4MUg0ZHFoTHNWckY5WU9hWXJuOXhnU21xY1NHM0hMM2FiQkRKdUtmWlpRcHdGbEg1MmphUXFWaEE1VC1YSGgwTlJIVlhwX0tOcl9HV2F1UnhMOHZPV3hQMkEwdWI3c2N6TGxYOWVJS052Q3E3UmM?oc=5
+- [2026-09-30] AI tool that copied actor’s ‘lustrous’ voice violated his rights, Tokyo court rules (The Guardian) https://news.google.com/rss/articles/CBMingFBVV95cUxOVF93OS1qYzhDOHZlcURzdExLUlJyNjNEeEdmaHZkZDNPZGNndjhOQjVyUlBtbnlkcXhQbU1fd0E3YnN5SF9CTnNtTXYzNUFKT0dEWk1ELVJ5dGFKZmlSb21CM3JHZmJNalNCd2FmTVVuQTQzVm9oX1dKNllsWmM3Zkc1M2QxMUJSLVhwQmJiNFkwSFZXc0RHTFQtSm9rdw?oc=5
+- [2026-09-30] OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns (The Guardian) https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjJKXy1xWWNFX3hLZktkaW5tZ2Q3cHoyZ3FnTDRHM2hQSlFjRVJ5X253RUNmZTg5VjJtOUFnMlhpZHN5VU5meVFGTWRFbWprUnBrb3pnMjl1bjJIUWdjQ2ZXa0w5V2g0X3E4ODloa0FmTXc3MTlHMDBQZFh6LXpYbTUwbVBYcTZSMEh1MXRQbFdyRFdBbzhPbmFn?oc=5
+- [2026-09-30] US trade regulator opens investigation into AI giants including Anthropic and OpenAI (The Guardian) https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWF1VUlLZVBPSkduVjFQcVdFR3VYbFNtbTdMU1hkUndzUFNnREVMTEIxR3o4WDFzSWxRcG9IbzRYODFnWXRsdWRKclNOVXdVSXRhYlJ4c3ZKU3NpbS1FZFBBUGZpVTFKXzc1V2hPczFqOTRSVVhEMjB4dDloZE42RC12bE9jXzNtZlE?oc=5
+- [2026-09-30] Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures (The Hacker News) https://news.google.com/rss/articles/CBMigwFBVV95cUxQZWRmTmFtNjRVZWlaSTdwVkZidTlqTU9HMm4yOVBhTjBueklsbGxiRmhSUTFMYW9vQnZmQ2ltaTNaUENCMjd4M2dGOUVFejNWMjlBTm5sUTRPWUQ1TjdTZGRSTmxRQjFMcU5UTGt4QmV6VENPdDlZRVhrOFRDc0Q3YkN0NA?oc=5
+- [2026-09-30] What do WorldTour cyclists think about artificial intelligence? (The New York Times) https://news.google.com/rss/articles/CBMiogFBVV95cUxNWGhSWTd2UU1uM0Y3VnFqck9YcUVSWHkzYXpPWGhRUEF0Y1ZqWmJtN1NLUFFoM3BkQ2xkemZSanRpNUNmbGp5YUpxTXFmZkczZmM5akZEcjY5RkFfZXhwOE92bm5CXzR0SThJcmxEcHg5V1l6empnLW1HUTdQSVM2LUpCWnlJSmJTOVA0dG5mMHQ0S2tRbWxWa25HWEZLLS1DSWc?oc=5
+- [2026-09-30] Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate (The New York Times) https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1Z3VVVlemc0Zm9HYy1HSTNuSlZhT1BRQ0I0TVJtMVltbDRGS1pCR1VKNk1OUnhkNjVycjhIbEplY0NaNWR5eDNDVzRGcHN5NFRDNlpsU28xMWs0MkJ6U01lNkJJb0syN2hMSkwtMUpiS0dHS2gwa3FYX2dkanFPTE96aVNQcDd2OHc?oc=5
+- [2026-09-30] AI agents tried to hack a Canadian government website, researchers say (The Washington Post) https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEVjbGN0N2NJSC1vQ3FPTUNmZFdLSWhlVmhiZVJ4TnhISFh2VjJZZzJrdEFka2IwUTdGaW5aY3FzZ3dQRk9UQnF3dHhhbXA3a0NlVW82Q0JXSFA1ak9keHdydVBXdnZURXlVWmx6MDdHbzFxOGo3V3hOazEtb2F0Vko3VHhoUVZmM1M3b2J3b0RoZUp4c3FqZHRNN1phaGdXLVlzdFlLTnJGNXpOeUl4dTBCU3A?oc=5
+- [2026-09-30] The Battle to Be Your Personal AI Agent Is Here (WIRED) https://news.google.com/rss/articles/CBMie0FVX3lxTE5SdDdLUHI0c3Vtci1XaGdPX2ZGR3JybU9QWVhXaW16bUZCbzJtcUJBb3hKMGcwOV9qRlRKVExzd0xiT01pMEtQbGN2eFBRMndTTWZGSGhxVXg1d0xtZzA1VzF2VlRsMDRlUk9vZDdORWZTbGRINWdWdnRGWQ?oc=5
+- [2026-09-30] AIの“集合知”で自律的に動くマルウェア、新たな追跡ツールで判明 (WIRED.jp) https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGpBYjRGbmluRXVZNWVKS2JkNUp4WGI4a3V4ZHBsLU5ydmJ6M25BT0VHRjZxQWpBU1hUbWJaZFFVUllEdjNkcUh1SGIxOTRRel9hbEtwbUNYb09OR01uNFZlX2RnclRkTHJfMkNoX25tVWFWMnFfeDNMVll5V1ZzeG1yZlJSbW8yVzloOFMwSGd0a1c5c0lmUWNfTUZQRDl4SVlUclBMYTNpUQ?oc=5
+- [2026-09-30] 生成AIのセキュリティー事故、企業の8割弱が経験 情報漏洩が最多 (日本経済新聞) https://news.google.com/rss/articles/CBMibEFVX3lxTE93WlkzOEpUREtCN2VCNm5lWnYwamlTaGtNRl94TEVRT2w2d3JCSjBsS0JzR2Nvb3JuM0xLR0RMcDBZbE56OF9HZG1lNG5ORF96QXk0N2ZRcUhJVmIzZ3dxbGk1dnVCSGJESmRLNA?oc=5
+- [2026-09-30] 東京都、AIで100以上の業務アプリ開発 「世界リードする実装都市に」 (日本経済新聞) https://news.google.com/rss/articles/CBMibEFVX3lxTE9xX0xVQXRxRXc1QlIzQWpMQUNNYTY1ZThuQm94SXV0c292ZDBUUGRXMkVmbGd2bi1EMG0zVERjRlc5dzdJNVZXcG9MOTNtU1Y5MmNud09tNnJOZ2NYTjljUlpQVUxnWHJIb2xZSA?oc=5
+- [2026-09-30] アンソロピックIPO書類「強力なAI、人類存亡のリスク」 ロイター報道 (日本経済新聞) https://news.google.com/rss/articles/CBMibEFVX3lxTFBvWmlNQndZU09CWG5Vb2lUdnZ6ZXBtVWFUWU1TdFU4Q3VsbktnOWY4UmJya2haWnV1YjFSVFZkNXZWQW5lTjBOb3VjeWl5a1REcXJ5Tk52Q3JwUzdBbE95bkxTSDlYaVBUMFB4cg?oc=5
+- [2026-09-30] トランプ氏、アンソロピックなどAI企業20社と自主規制で合意 (日本経済新聞) https://news.google.com/rss/articles/CBMibEFVX3lxTE04RDNPOVg4bG5kUjFaRzlCRlFZYTRUTHFrdUdObTJTUUgwbkVSOTFzOUEtNEQxeTJYTHpsMlBFMTRRYlljeTFOdXdPOUtFN3lwdGdjNzJvTmZQNUtFZHdwS2RQYlU4OFRTbk1PMA?oc=5
+- [2026-09-30] アンソロピック、生成AI「Claude」で一時障害 (日本経済新聞) https://news.google.com/rss/articles/CBMibEFVX3lxTE96am9rVEhKbEV6T2NKY01vZHBINXlmLTdNWWRCcktjbzJDVUwxTV80aWNycm9abGVqY1ozWVh5c1pVbHNKSGd6ckZmeVI0TS1MTEJ3QWJhX2liSFBBcHZvOEszMlZial80eUJCbA?oc=5
+- [2026-09-30] OpenAIなど米6社、実効性みえぬAI自主規制 開発減速に温度差 (日本経済新聞) https://news.google.com/rss/articles/CBMibEFVX3lxTFBZbXFaRm5GbDM0TWtvd1FPRV9YcU5OUVoyanRYTGtyemF3XzNjTmZqTm5nTGNfNWUyekRoRnFKMG5pTVp6eHlyWHBkWHZ4ZmVtSEVJTDZ0X3JKQ3l2X0xkeW1fc0xOYjB2NzRtZg?oc=5
+- [2026-09-30] サイバーセキュリティクラウド[4493]:AIの脆弱性を「見つける」から「直す」へ。 『AIセキュリティ改善・実装支援サービス』を提供開始 2026年9月30日(適時開示) :日経会社情報DIGITAL (日本経済新聞) https://news.google.com/rss/articles/CBMiakFVX3lxTFByWjdQMS1HOWhDRFBGUjhuT2NKby1sUnVaTEJieEktVEVwYkxtWC04d2hLMndNcmJsWVcxMFVYZHlKaWVoczRYMTEyamdHaWFVVUZoWTFhdDZYNWRuV1kwVk40bTR0SmtHR2c?oc=5
+- [2026-09-30] 「AIによる人間支配」の危機を検証 (日経クロステック) https://news.google.com/rss/articles/CBMilAJBVV95cUxORUlrbllHbjE0eGM1YVE3U2s2ejdCT0xwbFlTZnFGUXlIenZtbWFnOHM0TjdKNTdSa3o2d0NIelRDam1lb09GdVAzaExaVTBDY3AwVlQyeVFIaGtESGw5U3B4YkRqc3pPd2g2dmdQZHFJNUs5bVA5dHBURXhzeVJ3QXoweEhqRWNEOUFCTVFCRW5LUjJoOU91LVpZdGsyVnczc3NSVFRxSnVfRnJMeEp2QkVmaWF5Sm5OV0Y1REJ3OWZ2eEp3ek1FQ3hTNE5walZWT0pzN2hpU19Wb2FvSGVEeHhmaW1QUUwteDdxLXZSQ3FzdGpQMVNKMUFOX21nLU5GSkI5a3phQW83TVZBMXJ0T19tZjI?oc=5
+- [2026-09-30] Claude、ChatGPTで「AIマーケター」をつくる1day基礎講座【11月11日実施】 (日経クロストレンド)
+- [2026-09-30] AI活用の成否を分ける経営者の目配り力 「熟度・トークンコスト・リスク」が焦点 (日経ビジネス) https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Lby1MTmRucTlNMFEwMTVjVFE2VEVyTWRDZzhLNHIxeU5tbERabG52S2U4bGJWNzRHUS1QZTJNcFQ1bkQ4M3BlUFA3ZUttcEIzZTJEQ2FCdXhwUEd6bGU3X2pRaTVNRm8?oc=5
+- [2026-09-30] 現場に強い日本の中小企業、フィジカルAI時代こそ有利に (日経ビジネス電子版)
+- [2026-09-30] 声の権利保護「声優に追い風」 生成AI模倣巡る判決に―業界団体 (時事ドットコム)
+- [2026-09-30] 声にも「パブリシティー権」初判断 生成AIで模倣、人気声優訴え―削除請求は退ける・東京地裁 (時事通信) https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sU0RDMmUyZXRxQWI5UkpHR2dYM0NJMTRvVE5WLVpOSlFnaTVDeGtUdVpPbEZsVUoyUXZ5ZUpkNlpnUVkwbkZib05Od2RhUTkydV9BNUJZcVFxajJySzVYV0x4aw?oc=5
+- [2026-09-30] AIエージェント「ドッツ」提供 24時間稼働で仕事代行―米オープンAI (時事通信) https://news.google.com/rss/articles/CBMiY0FVX3lxTE5waUk3R2lSWmJ0dmZ4UFRUN2VUWGZIcUREV1FVVjlIei1UMk90MklTb0x4WXdEVjZsOV9YNi0ybHJLOV94NEQweHQ0VmNFRFhiQUJ3cDhvQkpac2EzLWlNYTFMWQ?oc=5
+- [2026-09-30] トランプ米大統領、「SI」使用を命令 AI、政府文書で (時事通信) https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jY21FY3laR1oycTBnMlVyaTZCd2tFNXFnRjFZWUdzbURVTS1VTGlXVTBlRFdneTRYOEFVZ01LTm1ISUhLTlNxSjNFLXVkRlFYWm9wdTc3S1ZaVzJrUjE2U0M3bw?oc=5
+- [2026-09-30] 【速報】米大統領は、政府文書でAIではなく「SI」の使用を命じる大統領令に署名した (時事通信) https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIOWdaeGVvemFLeWtod2NyZzNSQXFiNTI3VHU1WV9ETXJ1b2lBR1RVdlFzeXI3SmZRWWlXb19raEFtVFVaZ0tRQmdUT1Nuek5GTVU3R08yTVdBM3BtY2ctc2hjdGZfZw?oc=5
+- [2026-09-30] トランプ氏、AI企業トップと会談 安全性議論か「共有事項は多い」 [AIの時代][トランプ再来] (朝日新聞) https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lZ0tjYXE4TVY2dU1KM25YRjZzMHh3QVhIVGpJX3psWlo1RE1pY3ZGYlVMMUpNRHl0LXA5d0wyMkxTTXV5SlNVRUV0cDk0SkhxNDUweEhVOXZQVkhHVE9jcGNnYTMwSnM?oc=5
+- [2026-09-30] AI開発で自主規制強化へ トランプ氏とIT企業トップが協定に署名 [アメリカ中間選挙][トランプ再来] (朝日新聞) https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKa05pR2tmZWVCWmxZUWNVYVRxM1M1MUZsNGVIb2FzRVNMb0Z0V2ZSY3hpbjFQR1hYNWo3Qi1WNFo3aWZ1d2tUdjB6QmVsWHc5N0pKXzZHWk4xQTVWd2pFOTI1d1AtN3c?oc=5
+- [2026-09-30] 利用者依頼を先回りで仕事実行 オープンAIの新機能「ドッツ」 (毎日新聞) https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BaU9Ka2dWSnpNZnh4NVZqUnR1WDQ0OGlTX1RyQ1VaSXNFNXR6MFRtaGl5OVljYnBLcjNqazVOWV9JYi1PUFZMS0hrZ2V2M05MYjljMUF1X2ZQSTZYbi1LWFZDVHRWU29H?oc=5
+- [2026-09-30] WSJ日本版:トランプ氏、緩いAI規制を志向 業界の警鐘よそに (毎日新聞) https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLNFUzSkwyUjQtSDNPbDFzdUJEeTB4UzRnd3VYWHdGX3ZXUm5IcXloQlBQbU96ZGJudllpaUNoWEJuUTZBV09yeFAzUUs1M2M5NTBWZFk5RlhSMDJTNGtfSnpXY2xQWmI0?oc=5
+- [2026-09-30] 「AI=人工知能」改め「SI=スーパー・インテリジェンス」 トランプ氏が大統領令 (産経新聞) https://news.google.com/rss/articles/CBMidkFVX3lxTFByN3lhUGhtNEI4TXR4NjJsRzJPQnJnQy1feXZQSWhNRTdQaHd3ZklKYjlGLVNlekgzY1Y4aFlSNi1yZTFDMG9GVFNkU1R3S0Q0TnZMMVB4OWtMdDA4eEpPMDhtMTJxRkdEYkQzUkk3U1p6SkQ2MFE?oc=5
+- [2026-09-30] オープンAI、「暴走前」に危険性指摘した社員の警告無視か ニューヨーク・タイムズ報道 (産経新聞) https://news.google.com/rss/articles/CBMidkFVX3lxTE5OYmFSS3RkaWs4YkpURDdfSC1wbTlyOEFfV2laU2tUQWhuUHhhNV9rUTl2T09hUWlvSDNmN0gyd1JoOHBSMXBGRlFqbEphNWtWZ2wzTFctR1NsQllQM1RaVnU0a3dmeEV1UUVIS19KcUV6R01GR0E?oc=5
+- [2026-09-30] AI、犯罪の道具から主役へ 「仲間」と外部ハッキング謀議、低下する従順さ 米規制合意 (産経新聞) https://news.google.com/rss/articles/CBMidkFVX3lxTE5HYmdheVgxbTBraUpQT2pzc0JBMV93Sl9ReXJwMU9VNGsxZy10Vk9kM3A5R3RSVWtCZG44RzhYR2xqazB2cXVqa3d3UTM3dG5TMVNDc1hEVlFCQU5iaVlRclRyMDRpTVk2UDRvN2pWZDdzbVRwcXc?oc=5
+- [2026-09-30] トランプ氏、AIの自主規制で企業トップらと合意...呼称を「SI」に改める大統領令にも署名 (読売新聞) https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wRXlBQzlFaGdKbE1xVXFLWW5XMzRQVzduVWpFWjhtR3FEUlAzMllCU1J2TzFmX1o4N0JhSnRkZm1FbnFTUmVkblltTDRiZXJuRHZ4dzhWcVBqVDRBODBRMjhn?oc=5
+- [2026-09-29] Scoop: OpenAI's annual recurring revenue nears $70B (Axios) https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2xYcWJPOUFTTWFUWmpMSFN1UzdQc3ZoWmFFUEpsTFJFcjZBbkdqemNrN18ydnpIQnJyR09xMW9Ba2ZHWkFwRUMyMlZLcFkxQ1dDdl9mb1MxZnYwcExXcGNFTFQ3UHBTbERwM2pVYzdwcnZ6MnNSM3NHbE5VODFfaXNhX3dsQjF3?oc=5
+- [2026-09-29] OpenAI hit with landmark lawsuit following Hugging Face hack (Axios) https://news.google.com/rss/articles/CBMickFVX3lxTE51dmdLSEl6NmNpYzhnSW1SeVBBMTZRcmFtVkpKUUltTV9TbllGS0N3cU1hSkRETmdJd0JqenIxeG5XaElGUmhlLV9aLWhjX2t5aW5vZng2OWRzUk5XMWRkcUVnanlwR2p0U2JtREYtZVppZw?oc=5
+- [2026-09-29] オープンAI、新モデルの公開を取りやめ 安全上の懸念から (BBC) https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KRzZ4UUVia1VtTzZXOXVtVVBkc1JHdzhpSkZNQ3NKemJuS3JkaEtCUlh5TkQ5V2x6cUtKNXYza0hYX0g0bEQ0dHpveXNPdDVkQUpNM1dMZXVaZG15WU5wctIBZkFVX3lxTE5vdkJnVnhyc2lkdlA4akVVRDNjSkJEU2N6cXVKRUJRc1pQRlRCSUpQU18yTDFuSXFIT2hlaEVPQ216Y1J4T1dHaWV4MHR6V3lGWEpfRjU1a2pFaHNkUG1BN2RZR0xDQQ?oc=5
+- [2026-09-29] OpenAI unveils AI assistant 'dots' while safety worries delay new model (BBC) https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwYXkyeXRQQk1yZHY0T0w1SS1PR1I2UkZiN1NmSXVBY2Jtc2h5dnc1enpISnRaS015NFpZeWVKWHBDX191OGlnel91SDFpMVhZSGRhaVo0WWUyUDhVTXc?oc=5
+- [2026-09-29] OpenAI scraps rollout of new model over safety concerns (BBC) https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoUlV2OXF6UjM4MGkxYVd6aEl3MS1lMjRaNS1mZmE2Sl9CR0VKcUs0YndBOThyeThZc0pYdFdPNmlNWmdrRlhRbVdBX21TamdMelBlcWIyWnZqQWo2aWc?oc=5
+- [2026-09-29] Trump rules out joint US-China venture to develop AI (BBC) https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GUWpLZGs2QUN5WmNkZi1hQkctZ0NtdnJGOWpHaFlKWDl1enJLcW9xX1VBdVRCYW1jNnRjM001RjUwM0JrR1VpYjJWcVZnM0pNcThjTEJJSmRkclJlS2c?oc=5
+- [2026-09-29] アンソロピック、IPO目論見書でAIの「壊滅的リスク」言及-ロイター (Bloomberg) https://news.google.com/rss/articles/CBMid0FVX3lxTE1sR0xHaENsbE5vdzB0SVNiT3BmcFJRRVhkVFU2VU90NlN2ZGxzVW02WEZobmh5a1QtNEozckFGTExFVjJiMmNxcGNNeXdRWlB2dW1mWEFvSUdoTjFvOUVKZHBWTEEwVjVBemhnY3VCSlRSZUUxMnE0?oc=5
+- [2026-09-29] ヘッジファンド、AI活用でアンソロピックと提携の動き広がる (Bloomberg) https://news.google.com/rss/articles/CBMid0FVX3lxTE8yalRuc1BoLXNmVVZ3S1JwVEljNTh3Qk90RnNPM3NBdG1lam5IeVJST0k3T2VwOFFkMDRoZ3FUaDZVUXlnYkhiaWJQV3ozemZISm9jOXlReUQtUTRuUjJNNGJobGJ5aEE3dzBXTWlGQXFYeDNGVlBz?oc=5
+- [2026-09-29] トランプ氏、AI規制を拒否し「自主規制」を強調-業界幹部らと昼食会 (Bloomberg) https://news.google.com/rss/articles/CBMid0FVX3lxTE5sS2s1LUl2M1Z3UG5tU3V5czYxemJwVmlxVXNseHo4NGxiajNOVHB0YUo3WEpvZzktMjBja0lXZWR2SENVSVdWUGRIdVVsUmZZZTIxYkxvZFNmWVJMeFVGaVU3b0VKdHkwNDRSVXA0dVpEYlZLWEFv?oc=5
+- [2026-09-29] OpenAI Unveils Always-On AI Agent Dots, New $500 Paid Tier (Bloomberg) https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVkdWY0tGVFAtWVplbzRxRmNxdzJaQ0JVSVFTbXBEZHVvZnJRRUtGNUF4Q05kU1ZyNGNUYjgwWld3WWltZWpmSUNuX3ZFX3czSDlhbFh6S1psUU1rTkRSdjlCYUlNak53b3dCZDRqcmZFMVNOMk1NWEFSNkJCTGR2enBRckM0STVVd3I2VmMtOUxnQVJCS1dZa0tNRmhwam9wYThHcUoteWU3NUU?oc=5
+- [2026-09-29] ChatGPT's New Plan Costs $500 a Month (Business Insider) https://news.google.com/rss/articles/CBMijwFBVV95cUxNY2lCM0h0aHpuVEREVHh4OUFQSngtd2JSUi1PeVkteXoxbHhFOF9uX3hGMGhiMWdOek8ybUVfd0ROaEpwWmdrS2lYQ293bkhsZUVRVVNPWVNhM1Jkd1A2WS13dTd1cHpJS2trczN2bTlscjVrYU5IcFg0Y1pyRk5ScGNWOGNUbFFkU0hHeDQ0VQ?oc=5
+- [2026-09-29] Sam Altman unveils "dots," OpenAI's new AI personal agent (CBS News) https://news.google.com/rss/articles/CBMif0FVX3lxTE9tRjZqS3R6VW1rR1UtMU9raVlfRnR0OFNZV1dGSWhIVDZYelFabjdjWTl3cmxMcEprRDQ0bDQzb2dxQUEzWk9GMS0wNU9SdG8yczRnTzh2WUxNWDdJVkFEaGZBcTZyMVJiOFpZQkFwTlVTY00tancyb25NWlpWc3M?oc=5
+- [2026-09-29] Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue (CNBC) https://news.google.com/rss/articles/CBMickFVX3lxTE5UNXFhZTZhVFdfYnJGdFJmOVlfSl9Na21BY2ItZDFQa0FvY05xUWx1NzU5dlc5U0ZMeGxDRXQycHgtelNGbWVtZEExTzBlcHBQMzNZdWg4VnZNbDFQNnluYjNOOTlPQnUxSGpMSkpidzRZZ9IBd0FVX3lxTE9UaTd0ZFJWSEd3WE91WUFiM0h5UWVEOWxvQk9iZmJHMTVhRk1GQm5vRjVIZEJ0Y09wNG55bndieDk3MFpoZl9ucHN6MWRLa3hYRzQzRm0wYWRsYkE2Y2hwam52eEpDejV4MFVQY0dhaG40Y3UySWtB?oc=5
+- [2026-09-29] 米オープンAI、最新AIモデルの公開を取りやめ 安全性の「基準を十分に満たさなかった」 (CNN) https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZFdVejcyWlBsck5BWHFobDg2STI0b09seDZuQUZxQm0tMW5tajY5VUhhcmRSeVpZeFJpOFN2cnhGbUxUdmJxRHZkSGZudHBvaGc?oc=5
+- [2026-09-29] Sam Altman says OpenAI will delay its IPO until it overcomes safety concerns (Financial Times) https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUViY1R6MFNqS1dEYnRjVTVELVRjdENjUFpUOEdPazJZTU4yNWt1TjlCOFBndjJFUFdWQTMwMkJQUF9pb2dnWTBSdU5aOFRsandmbUI1UWJ2eHdaMkxtZGw5NkgyUzFGWkl4aHB4UjFRMkRVSXZZUlA5TTVKWkhPQzd3VWk?oc=5
+- [2026-09-29] FirstFT: Anthropic IPO filing warns of ‘existential risks’ (Financial Times) https://news.google.com/rss/articles/CBMihAFBVV95cUxQZndNSUpJMzZTQnR5UFhNNHhiRHA5eVB1a0ExRFNiNGV1RlVOaGhaREpvVXdiMmJwWlhnQ0hqdW1rUkN6Y25jZkxHNkxvZUN1RkZfLXBXRFlKWHNKdDlobnNpUTRZX0JFNjJSNlZXdmRVMDdlQ0pMSGN4bTRWTm9GdGIxeXk?oc=5
+- [2026-09-29] Donald Trump praises tech bosses’ ‘self-regulation’ of AI (Financial Times) https://news.google.com/rss/articles/CBMihAFBVV95cUxNY1Uyam5sS252bldCSGlvRHZ1akFzcWtVbktNOGl3OTZpcGYxVWItRUc1U0oyZ2V3YlBXSGczYzdoNE5vOTZVd0UzT21nc2VWTlZXLWlRQVRXaExBa1lZS2ZBX3YwSkhsZVByNWg0ZjZxNHRfV19iWTJVcml5Skk5T3N1NHg?oc=5
+- [2026-09-29] アンソロピックのIPO目論見書、自社AIが「人類への存亡リスク」をもたらす可能性を警告 (Forbes JAPAN) https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fa2JBcGJkZUc0UC1LLUtVN0V1Zmtmd1p6eEtMaEtOR0RHYkR1RkdqaUwwbTRJSGVnSW0xM2FhT2pjNWNHWVI4ZkxVRVI1Y0xndjQwNVlNNGxJZw?oc=5
+- [2026-09-29] OpenAI unveils Dots as rival to Meta’s Muse, plus a $500 monthly plan (Fortune) https://news.google.com/rss/articles/CBMiygFBVV95cUxQaG9rbjZYZGgxdGZJbHJKYXpTSkFIYmlJQngxVk5Sc1NtaERJX0ZaeXQ0bHRPR3lwbkk1R2hXeWdtUkVlYnlmMFpLV3EwRXZlR0lJYk5tdzM3amFROWJDVU9nUWo1amxacThpejAtNHB2X1FaSkhISWpTY1llZ3ViRlVyQ29sQlhYWllybExPTm5lOUQyX09MY1gtYjNac09mc2U3MFhLenMxZ1F0U2xLMFA2d1I0M2QwY3lvaXpSOUlRbm80U2RiSlRB?oc=5
+- [2026-09-29] Anthropic’s leaked IPO prospectus details steep losses, rapid growth, and a fear that AI could end humanity (Fortune) https://news.google.com/rss/articles/CBMimAFBVV95cUxPT1VnSWcyaGx2WXRNaEc2NmhQVVhuVmFDaGN4MVkydU5yYTltYmMzd0RtMzFTUEdLSURWbGFjNlFSMUlEdjV3QjhaQ25oX0xJNFF0azNCck5sMThQaXdhQTg0aVYwRk1zWkEzTzM5WUI4dWlnc0hvdE11ajQ4Q1N2Y1pEYktxQTFSdC1lX01kYjVaOFNwak9yQQ?oc=5
+- [2026-09-29] 7割の企業が生成AI「個人利用」への対策せず デロイト調査 (ITmedia)
+- [2026-09-29] ChatGPT、サブスク最上位プランの新規受付を再開へ “5時間制限”を完全撤廃 「利用枠を消費しない新機能」も (ITmedia) https://news.google.com/rss/articles/CBMibEFVX3lxTFBwZ0xJQXZfYnVDSTR6eFlKVWVNX2hkT1pzQmFBc2p1U2N6RVlJV1NQcGNZMjlleF9sbkphZ2VORHVuRW40eDlNR1RCbjdrYW5BWmlwMG9FeE83R1pIb1FvSFg2SVplMnpMU3U3cg?oc=5
+- [2026-09-29] NECが全社員に「Claude Cowork」導入――なぜ「Claude Enterprise」じゃなく“Amazon Bedrock経由”を選んだ? (ITmedia) https://news.google.com/rss/articles/CBMickFVX3lxTE41VHRfNUFrQ2Ywc19nZkRWZ0hQTFZwRkVVM0RCY1lXY2UwdXltSDh3a2k3N1J1a3NoUU82S0hpTlh3MUV5U2gwZXd5c3BOUk1GUUlCTWRnTU9rZ0ktc0ZQeWRqMnBpdllCWmsyTy1kdk50Zw?oc=5
+- [2026-09-29] AIエージェントに頼るだけでは失敗する 「あと5年」で打つべき次の一手 (ITmedia) https://news.google.com/rss/articles/CBMickFVX3lxTE1xeXdvTGl1NjZMZzNraUpPbWJRN1YtSmlxNnVTZkk2ak9mM1ZpZnNaQXl5cUJDMmJXZUg2cWw5VWtHVVo4cTV0QThqek8zci1fUVhZdmV3UWQ5N2cyREdKa1pXc2Y3dEtEblNBa3RuTFl1UQ?oc=5
+- [2026-09-29] NVIDIA、AIエージェントをハードウェアでも監視する「Open Agent Safety Platform」発表 Anthropicなど100以上の組織が参加 (ITmedia) https://news.google.com/rss/articles/CBMiakFVX3lxTFBfWTVxVnl5Q2lfQnB5Vy1sWkJHVEtMdmIzWEpIRlA3Sm15WmFOYlVWNTcwYzB0MFBHRFM1eV83Y1ZtdThhSC02NlIyalFmZTcwLXV5TG9VOGN5VVRjN3hlcXV5MldVSUg0Unc?oc=5
+- [2026-09-29] “何でもLLM”では生産性を上げられない フィジカルAIの「分業」に学ぶ、AI導入のヒント (ITmedia) https://news.google.com/rss/articles/CBMickFVX3lxTFAybWNHUGNqQ2F0WFJLdnB0Wm53Umh5Y1dCWHJXazJVeVhfc0NwaG5IMEJfbXQ2T1FpWko0b285blhHX2NLYlM4bW90d0Mta01XeHhnZ2F1RlRQdi1SSUttcFpIaVhYM2Q1bERUS0ZLYzJmdw?oc=5
+- [2026-09-29] ChatGPT、「カスタム GPT」を12月終了 プラグインへ移行 (Impress Watch) https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NblJVd0JMdDltdGotS0FjbFJjMXpLaGVfQ2JIS0xkWVpBU0txQ1pOYkRkUnItOFNBU1BWWHFtMkhUbGIxeDMtZjllS0syM1RyQzVMNlJJdGV3V0k4djFJMDJFZWY?oc=5
+- [2026-09-29] After summit with tech titans, Trump calls for ‘tremendous self-regulation’ by AI companies (NBC News) https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjV0bUtBZ25mSXdRaS1vSkdYdnptUk9kdEpaLTg5dlhMZWVUMExuM01LYTU3cWxRT01yLWFnMmlQT0lfakgwdGpRUGZKX3haZF9NbXA1Zk01U2t0ME1QaVhxQV9EYVBZY05Pd0hOS2ZBUDJlY2NFdmVyOUppZzNzUVpiN1lsc3E3WV8tWml4TTU4aS1Sb1p3MkxaVTFZMi1udUE?oc=5
 - [2026-09-29] オープンAI 次期モデルの公開中止か 安全性の懸念で アメリカ有力紙が報じる (NHKニュース)
-- [2026-09-29] 【うれしいご報告】著書『猫でもわかるChatGPT』が読売新聞オンラインで紹介されました - クラウドファンディング (READYFOR)
-- [2026-09-29] 朝日新聞社、生成AI検索に対応した新広告メニューを提供開始 (RTB SQUARE)
-- [2026-09-29] アンソロピック、ＡＩの「人類存亡リスク」警告 ＩＰＯ目論見書 (Reuters)
-- [2026-09-29] アンソロピックＩＰＯ目論見書、壮大なＡＩ構想もコスト増浮き彫り (Reuters)
-- [2026-09-29] 米アンソロピック、ＡＩインフラに10年で5180億ドル以上投資へ | ロイター (Reuters)
-- [2026-09-29] アンソロピック、「クロード５．５」ファミリー第2弾モデル公開 | ロイター (Reuters)
-- [2026-09-29] ＡＩ研究者らが企業に警告、自己改善型システムのリスク巡り (Reuters)
-- [2026-09-29] オープンＡＩ、豪政府サイトへの不正侵入を謝罪 「信頼回復へ努力」 (Reuters)
-- [2026-09-29] オープンＡＩ、次期モデル公開見送り 社内テストで安全性に懸念＝ＷＳＪ (Reuters)
-- [2026-09-29] アンソロピック、創業者組織が過半議決権確保へ 公益重視 (Reuters)
-- [2026-09-29] アンソロピックとオープンＡＩ、豪上院ＡＩ公聴会への出席見送り (Reuters)
-- [2026-09-29] ＥＵ、グーグルへの罰金活用し加盟国の予算拠出額削減を＝仏閣僚 (Reuters)
-- [2026-09-29] OpenAI shelves new AI model release over safety concerns (Reuters)
-- [2026-09-29] EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing (Reuters)
-- [2026-09-29] Anthropic rolls out second Claude 5.5 model as it builds toward IPO (Reuters)
-- [2026-09-29] アンソロピック、ＡＩの「人類存亡リスク」警告 ＩＰＯ目論見書 | ロイター (Reuters)
-- [2026-09-29] Teachers at Euan Blair firm report ‘horrendous stress’ after AI used to rate their work (The Guardian)
-- [2026-09-29] AI godfathers warn of runaway ‘intelligence explosion’ (The Guardian)
-- [2026-09-29] Can you solve it? Isaac Newton’s tower drop puzzle (The Guardian)
-- [2026-09-29] Did you solve it? Isaac Newton’s tower drop puzzle (The Guardian)
-- [2026-09-29] Revealed: the five-paragraph email OpenAI used to inform Australia about agent attack (The Guardian)
-- [2026-09-29] OpenAI scraps release of new model over safety concerns in internal testing (The Guardian)
-- [2026-09-29] Anthropic ‘warns of existential AI risks to humanity’ in IPO document (The Guardian)
-- [2026-09-29] Two people sentenced to 60 and 45 years in prison in death of Telemundo reporter (The Guardian)
-- [2026-09-29] Paris magic and tradition keep the Arc in a class of its own above the latest gimmicks (The Guardian)
-- [2026-09-29] Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own? (The New York Times)
-- [2026-09-29] Andrew Bailey, a Deputy Director at the F.B.I., Leaves His Job (The New York Times)
-- [2026-09-29] Cornell Sexual Assault Investigation to Be Reopened (The New York Times)
-- [2026-09-29] Possible Terrorist Plot at RAF Fairford Air Base in U.K.: What We Know (The New York Times)
-- [2026-09-29] Release of Suspects in U.K. Prompts New Questions Over Possible Terror Plot at RAF Fairford Base (The New York Times)
-- [2026-09-29] Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever (The New York Times)
-- [2026-09-29] Embarrassing Breach at F.B.I. Fuels Fears of Harm to Its Employees (The New York Times)
-- [2026-09-29] 朝日新聞社が生成AIに自社ブランドを引用される新広告メニュー「AIO/GEOタイアップ」を提供開始 (Web担当者Forum)
-- [2026-09-29] OpenAIが次世代AIモデルのリリース中止、安全性巡る懸念で－報道（Bloomberg） (Yahoo!ニュース)
-- [2026-09-29] アンソロピック、ＡＩの「人類存亡リスク」警告 ＩＰＯ目論見書（ロイター） (Yahoo!ニュース)
-- [2026-09-29] アンソロピックＩＰＯ目論見書、壮大なＡＩ構想もコスト増浮き彫り（ロイター） (Yahoo!ニュース)
-- [2026-09-29] 朝日新聞社が生成AIに自社ブランドを引用される新広告メニュー「AIO/GEOタイアップ」を提供開始（Web担当者Forum） (Yahoo!ニュース)
-- [2026-09-29] 人間の指示に従わず、正直に答えないAI オープンAIが公表見送り（朝日新聞） (Yahoo!ニュース)
-- [2026-09-29] 人間の指示に従わず、正直に答えないAI オープンAIが公表見送り (朝日新聞) (Yahoo!ニュース)
-- [2026-09-29] アンソロピック、「クロード５．５」ファミリー第2弾モデル公開（ロイター） (Yahoo!ニュース)
-- [2026-09-29] 米アンソロピック、ＡＩインフラに10年で5180億ドル以上投資へ（ロイター） (Yahoo!ニュース)
-- [2026-09-29] ＡＩ研究者らが企業に警告、自己改善型システムのリスク巡り（ロイター） (Yahoo!ニュース)
-- [2026-09-29] アンソロピックとオープンＡＩ、豪上院ＡＩ公聴会への出席見送り（ロイター） (Yahoo!ニュース)
-- [2026-09-29] オープンＡＩ、次期モデル公開見送り 社内テストで安全性に懸念＝ＷＳＪ（ロイター） (Yahoo!ニュース)
-- [2026-09-29] アンソロピック、創業者組織が過半議決権確保へ 公益重視（ロイター） (Yahoo!ニュース)
-- [2026-09-29] アンソロピックＩＰＯ目論見書、壮大なＡＩ構想もコスト増浮き彫り (ロイター) (Yahoo!ニュース)
-- [2026-09-29] OpenAI、次世代AIモデルのリリース中止－安全性評価で期待に届かず（Bloomberg） (Yahoo!ニュース)
-- [2026-09-29] アンソロ社 AIの人類存亡危機警告 (Yahoo!ニュース)
-- [2026-09-29] トランプ氏、アンソロピックなどＡＩ企業幹部らを招きＡＩ開発や規制のあり方を協議へ (読売新聞オンライン) (Yahoo!ニュース)
-- [2026-09-29] アンソロピック、ＡＩの「人類存亡リスク」警告 ＩＰＯ目論見書 (ロイター) (Yahoo!ニュース)
-- [2026-09-29] 大分市、自治体業務に生成AI デジタル庁「源内」活用、議会答弁や文書作成を支援（電波タイムズ） (Yahoo!ニュース)
-- [2026-09-29] 大分市、自治体業務に生成AI デジタル庁「源内」活用、議会答弁や文書作成を支援 (電波タイムズ) (Yahoo!ニュース)
-- [2026-09-29] PwCはロボット1人1台で1000人育成 フィジカルAIの導入支える「泥臭いFDE」 (business.nikkei.com)
-- [2026-09-29] AI学習用にアマゾン上で古書を大量自動発注か 発送先は同一事業者 (business.nikkei.com)
-- [2026-09-29] 工場から人が消えたシャオミ、1つのソフトで全設備を制御する新潮流「SDA」 (business.nikkei.com)
-- [2026-09-29] 米オープンAI、最新AIモデルの公開を取りやめ 安全性の「基準を十分に満たさなかった」 (cnn.co.jp)
-- [2026-09-29] Anthropic's IPO filing shows soaring revenue, mounting costs, and "existential" risks (the-decoder.com)
-- [2026-09-29] LIVE: Verdict reached in Caleb Flynn trial (wandtv.com)
-- [2026-09-29] More than 25,000 bottles of blood pressure medication recalled. Here’s why (wandtv.com)
-- [2026-09-29] School bus left dangling over river after crashing through bridge (wandtv.com)
-- [2026-09-29] ［激動ＡＩ］アンソロピックＣＥＯと会食 トランプ氏、安全性議論か (yomiuri.co.jp)
-- [2026-09-29] アンソロピック「人類危機」警告 (カナロコ)
-- [2026-09-29] アンソロピック、IPO延期も立ち止まれない事情 収益は好調 (日本経済新聞)
-- [2026-09-29] AMD、「AIゴッドマザー」の米新興1.3兆円買収 フィジカルAI開発 (日本経済新聞)
-- [2026-09-29] 生成AIで商品調べたら…詐欺サイト 犯罪集団が検索結果を不正操作 (日本経済新聞)
-- [2026-09-29] DIC、米マンティス・ロボティクスに出資 フィジカルAIで協業へ (日本経済新聞)
-- [2026-09-29] 日本企業の生成AI利用率、OECD平均の半分未満 労働経済白書 (日本経済新聞)
-- [2026-09-29] あらためて考える「IT資格」の価値、生成AIがあれば勉強は不要なのか (日経クロステック)
-- [2026-09-29] 生成AIで変革と内製化を一体推進 紙や手作業を相次ぎ撤廃 (日経クロステック)
-- [2026-09-29] 配筋検査や測量にAI、フィジカルAIの取り組みも 建設DXの展示が目白押し (日経クロステック)
-- [2026-09-29] AIエージェント暴走 本番データを全削除 (日経クロステック（xTECH）)
-- [2026-09-29] コンペ荒らしが実践する生成AI「超」企画術 (日経クロストレンド)
-- [2026-09-29] ＡＩと数学研究、あり方は データの不正利用、指摘も 「難問解いた」オープンＡＩ発表 (朝日新聞)
-- [2026-09-29] 人間の指示に従わず、正直に答えないAI オープンAIが公表見送り [AIの時代] (朝日新聞)
-- [2026-09-29] 朝日新聞社、AI検索対応の広告「AIO/GEOタイアップ」を提供開始 (株式会社ヴァリューズ)
-- [2026-09-29] 米アンソロピック、AIによる人類の危機に言及 上場関連書類で (毎日新聞)
-- [2026-09-29] 「GenAI/SUM2026（生成AIサミット）」にプラチナパートナーとして協賛するとともに、単独講演およびシンポジウムを開催（PR TIMES） (毎日新聞)
-- [2026-09-29] 軍事・安保分野のAI導入を議論 慶大・神保教授らが研究会発足 (毎日新聞)
-- [2026-09-29] プレスリリース：住宅ローン比較診断サービス「モゲチェック」、ChatGPT向けアプリを提供開始（PR TIMES） (毎日新聞)
-- [2026-09-29] プレスリリース：製造現場の技能データを活かすフィジカルAIと生成AIの最前線を解説する製造業向け無料オンラインセミナーを開催（10/5 月）（PR TIMES） (毎日新聞)
-- [2026-09-29] プレスリリース：Uravation、生成AIの効果を稟議・経営会議で説明する「生成AI ROI・KPI設計シート」を無料公開。式入りExcelの記入例と実画面で、費用と効果を同じ単位で計算しKPIを毎月記録する型に（PR TIMES） (毎日新聞)
-- [2026-09-29] プレスリリース：PCの録画からマニュアルを自動作成。新サービス β版 募集開始（PR TIMES） (毎日新聞)
-- [2026-09-29] 米アンソロピックが投資家向けに「人類危機」警告 高度なAIに「自己保存」する可能性 (産経ニュース)
-- [2026-09-29] 「次期GPT公開中止」と米紙報道 オープンAI、想定外の「暴走」安全上の懸念 (産経ニュース)
-- [2026-09-29] デル・テクノロジーズ、企業のAI・生成AI活用とセキュリティ リスクに関する調査結果を発表 (産経ニュース)
-- [2026-09-29] 生成AIを活用した組織変革（AX）を加速する「AXマネジメント レディネス研修」「AXレディネス研修」同時提供開始 (産経ニュース)
-- [2026-09-29] TSクラウド、中小企業のAI実務定着を本格支援する「AI活用支援サービス for Gemini」を開始 (産経ニュース)
-- [2026-09-29] 【Claude Opus 5.5】自治体AI zevoに新たなClaude系LLMが2026年9月29日に追加！ (産経ニュース)
-- [2026-09-29] エクサベース AI、 Anthropic最新モデル「Claude Opus 5.5」を提供開始 (産経ニュース)
-- [2026-09-29] 富士ソフトグループ、「スマート工場オファリング」を体系化し本格展開 設計・製造・設備運用・データ活用をAI×IT×OTでつなぎフィジカルAIへ (産経ニュース)
-- [2026-09-29] アイスマイリー、「Claude対応 生成AI研修・リスキリングサービス比較ガイド」を公開！自社に合う研修タイプの選び方と主要6サービスを整理 (産経ニュース)
-- [2026-09-29] 米アンソロピックのロゴ＝6月（ロイター＝共同） - アンソロピック「人類危機」警告 高度AI、上場書類で言及 - 写真・画像(1/1) (西日本新聞me)
-- [2026-09-29] 利用者に事実と異なる説明・許可されていない作業進める傾向…オープンＡＩ、最上位後継モデルの公開を断念 (読売新聞)
-- [2026-09-29] トランプ氏、アンソロピックなどＡＩ企業幹部らを招きＡＩ開発や規制のあり方を協議へ (読売新聞)
-- [2026-09-29] 長門市が検診申し込みを２４時間受け付け、生成ＡＩで自動応答する電話サービス活用…来年度に本格導入へ (読売新聞)
-- [2026-09-29] アンソロピック、「クロード５．５」ファミリー第2弾モデル公開 (ｄメニューニュース)
-- [2026-09-29] アンソロピック、創業者組織が過半議決権確保へ　公益重視 (ｄメニューニュース)
-- [2026-09-28] AI doomsday scenarios that researchers say could put humanity at risk (1news.co.nz)
-- [2026-09-28] 〈社説〉米中首脳会談長期的視野で責務果たせ (47news.jp)
-- [2026-09-28] 生成AIは「導入」から「定着」のフェーズへ。KINDLER、東京商工会議所 渋谷支部で中小企業向けAI活用セミナーを開催 (AERA DIGITAL)
-- [2026-09-28] Nature spaces 'need to be next to where people live' (BBC)
-- [2026-09-28] Embattled Serbian president resigns, paving way for early elections (BBC)
-- [2026-09-28] Energy bills: What is happening to gas and electricity prices? (BBC)
-- [2026-09-28] 豪機密情報は「要塞」で保護、副首相が強調－OpenAIモデルの侵入受け (Bloomberg.com)
-- [2026-09-28] アンソロピックのアモデイCEO、トランプ氏と夕食会へ (Bloomberg.com)
-- [2026-09-28] From Geisha Face Paint to Servers, Sakai Chemical Emerges as AI Linchpin (Bloomberg.com)
-- [2026-09-28] Nvidia unveils security platform to stop AI agents from going rogue after new, troubling incidents - ABC News (Breaking News, Latest News and Videos)
-- [2026-09-28] オラクル製ソフトへに再びハッカー攻撃、防御策回避＝グーグル (Infoseek)
-- [2026-09-28] OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways (NBC News)
-- [2026-09-28] 生成AI検索時代に対応した、新しい広告メニュー 「AIO/GEOタイアップ」を提供開始 (PR TIMES)
-- [2026-09-28] 生成AI検索時代に対応した、新しい広告メニュー 「AIO/GEOタイアップ」を提供開始 | 株式会社朝日新聞社のプレスリリース (PR TIMES)
-- [2026-09-28] デジタル庁OSS「源内」を活用した生成AIサービスを自治体で初めてLGWAN環境から利用可能に (PR TIMES)
-- [2026-09-28] ロンズデール氏、ＡＩ企業の「存亡リスク」警告を批判 市場支配固定化に懸念 (Reuters)
-- [2026-09-28] オープンＡＩとアンソロピックのＣＥＯに証言要請、豪議会 ＡＩ巡る調査で (Reuters)
-- [2026-09-28] トランプ氏、アンソロピックＣＥＯと27日会食へ ＡＩ懸念は一蹴 (Reuters)
-- [2026-09-28] 米メタ、ＡＩエージェント「ミューズ」の安全警告強化 脆弱性を発見 (Reuters)
-- [2026-09-28] オープンＡＩとアンソロピックのＣＥＯに証言要請、豪議会 ＡＩ巡る調査で | ロイター (Reuters)
-- [2026-09-28] 中国宇宙ステーションで初の外国人活動へ、「宇宙外交」でパキスタン人候補が訓練中 (Reuters)
-- [2026-09-28] 中国宇宙ステーションで初の外国人活動へ、「宇宙外交」でパキスタン人候補が訓練中 | ロイター (Reuters)
-- [2026-09-28] Anthropic will not appear at Senate inquiry into AI and datacentres amid fallout from OpenAI hack (The Guardian)
-- [2026-09-28] Concern mounts over slow-moving, planetary-scale ‘Kelvin’ wave heading for California (The Guardian)
-- [2026-09-28] Mamdani’s Shadow Looms Over Hochul’s Bid for Re-election (The New York Times)
-- [2026-09-28] Dario Amodei of Anthropic to Dine With Trump at White House (The New York Times)
-- [2026-09-28] Under Trump, Commodity Futures Trading Commission Scales Back Enforcement, Worrying Farmers (The New York Times)
-- [2026-09-28] China and the U.S. Pledge to Cut Tariffs on $60 Billion in Goods (The New York Times)
-- [2026-09-28] Watchdog Agency Pulls Back on Markets Enforcement Under Trump (The New York Times)
-- [2026-09-28] Pivotal Challenge for Talarico in Texas: Getting Black Voters to the Polls (The New York Times)
-- [2026-09-28] The Big Question Looming Over Brazil’s Elections: President Trump’s Next Move (The New York Times)
-- [2026-09-28] BtoB購買、85.2％が生成AIを活用！ 日経・WBSを上回ったビジネス情報源は？【イニシャル調べ】 (Web担当者Forum)
-- [2026-09-28] オープンＡＩとアンソロピックのＣＥＯに証言要請、豪議会 ＡＩ巡る調査で（ロイター） (Yahoo!ニュース)
-- [2026-09-28] オラクル製ソフトへに再びハッカー攻撃、防御策回避＝グーグル（ロイター） (Yahoo!ニュース)
-- [2026-09-28] トランプ氏、アンソロピックＣＥＯと27日会食へ ＡＩ懸念は一蹴（ロイター） (Yahoo!ニュース)
-- [2026-09-28] BtoB購買、85.2％が生成AIを活用！ 日経・WBSを上回ったビジネス情報源は？【イニシャル調べ】（Web担当者Forum） (Yahoo!ニュース)
-- [2026-09-28] ＮＳＳＯＬ－大幅に3日続伸 アンソロピックと提携 AI基盤を外販＝日経(トレーダーズ・ウェブ) (Yahoo!ファイナンス)
-- [2026-09-28] Migration cuts, AI and rising interest rates mean an era of long-term disinflation (abc.net.au)
-- [2026-09-28] Nvidia unveils security platform to stop AI agents from going rogue after new, troubling incidents (abcnews.com)
-- [2026-09-28] 朝日新聞社、生成AI検索時代の新広告メニュー「AIO/GEOタイアップ」を提供開始 (au Webポータル)
-- [2026-09-28] 米オープンAIのボット、複数のアメリカ政府機関サイトに干渉 (bbc.com)
-- [2026-09-28] プレスリリース：法人向けAI「ChatSense」、NotebookにWeb検索・追加機能を9月より新たに搭載（PR TIMES） (mainichi.jp)
-- [2026-09-28] 朝日新聞社、生成AI検索時代の新広告メニュー「AIO/GEOタイアップ」を提供開始 1枚目の写真・画像 (media-innovation.jp)
-- [2026-09-28] Wout Faes leaves Leicester City to join Shabab Al Ahli (onefootball.com)
-- [2026-09-28] デジタル庁OSS「源内」活用の生成AI、大分市がLGWAN環境で自治体初導入 (projectdesign.jp)
-- [2026-09-28] CNNが「死んだインターネット」説を取り上げ、ボットや人工知能の投稿が広がる背景を探る (Межа. Новини України.)
-- [2026-09-28] トランプ氏、アンソロピックのアモデイCEOと会食へ 初の面会 (日本経済新聞)
-- [2026-09-28] プロミス、返済相談に生成AI 貸金業で国内初 (日本経済新聞)
-- [2026-09-28] フィジカルAI「次の主役」に浮上 評価額急伸の米新興に注目 (日本経済新聞)
-- [2026-09-28] AI時代の新人教育 18社の試行錯誤 (日経クロステック)
+- [2026-09-29] Trump signs executive order renaming AI to ‘super intelligence’ (Politico) https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFg3S3prLVYtei1ELWhSY0Z5SVlQdzJkV1YzVWRFM2lGMk96U0NHbjRNek9mMnZJY2hGdHlDdTN0ZHpLTnB4R0FtOHItOVc4V0RVMVNWam05MktkVWtHMVJpUWpPNklHeENxYTBRWGNsMjZ1Qk5WZHRtTkZEajNjUURXSWNscjRtWmpIUXZON2l2U3hmU1ZlNkpNNmI0OGpNZG9OQVRIeE1wcllrX21GRQ?oc=5
+- [2026-09-29] オープンAI、年間経常収益700億ドルに迫る 企業向け堅調=関係筋 | ロイター (Reuters) https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xend2cHhtRjFZV2lkbGtqWEdVaTJuLWdjX2RNSmVObGNOQmJORWRJM0l4bW5kem0wbkJ2Ym5lYzliUHNiTXlIOXl0NGlTVXhnUnp0UzMxRWs2NDRfZE5nQlVhZGcwcTVuSzdScEJYenlsSUltTU55V1pndktfZw?oc=5
+- [2026-09-29] 途上国、AIルール作りで発言権拡大要求 「先進国主導なら格差拡大深刻」 (Reuters) https://news.google.com/rss/articles/CBMif0FVX3lxTFBwdWZoeWpiNEhlOE0yV0RwM2pVbkRMZnU5NU9hWXhGZ1o4dHVzSmlrclg3N19Mem1Xc2Q2X29Ucjd6cnJiZlk1UThmZ1c2Vy1XVnBBdkt5SzV2Sy1aa1k2QzJ5SlBBNlBkU0tNU2QxMGtUczNQRVM1RzBjeGJuZVk?oc=5
+- [2026-09-29] アンソロピック、自律型AI「暴走」の法的リスク指摘=IPO目録見書 (Reuters) https://news.google.com/rss/articles/CBMifkFVX3lxTFA2SEFDSTBuRGJqdU1pWjhGS0pXZFVLYlRrOXhTVmloejdjQmJkM2tubkVOdE8xdTI3T08ySzdRd0lSTXZ4WEtpWndVY21oSVM5MlY1V0M1Y1FhLUlOelc5YUpQd3ZRc3pTUmdibm5NY2UyODY3TzV4ZlhSX2Vjdw?oc=5
+- [2026-09-29] アンソロピック、クラウド大手への事業依存鮮明 売上高や計算資源に集中リスク (Reuters) https://news.google.com/rss/articles/CBMifkFVX3lxTE5ITWxHbThzTlhvZlYtNzNZbEpxLVhvdkJLcTJjNmEyZ0wwRmZhN3A1WE9lZ3dRNzE2b2h4QzdEWEdFbG80OVFWRWZaZUJWLWQ2eUlvMHVBY2ttTTREV05VVng2ZkVUME9DLUxUd09TRWNzQnNTTlMxd05mV3Nfdw?oc=5
+- [2026-09-29] 米アンソロピック、AIインフラに10年で5180億ドル以上投資へ | ロイター (Reuters) https://news.google.com/rss/articles/CBMifkFVX3lxTE1zMW8zRWtUb0ViXzFXT0VoUnM0MjhQMmhYb1V3eXRqNG9ibF9UcUZEd2ZUaC12ZzJ0b0JmdVR3WjExRkVicURqMVlGZV9vNDVOZjJueEpQRUlZLUtrdUdWQ25hVnlQb1BGZUxrUkNtbDJQV195dXk0U2ZBeFpGUQ?oc=5
+- [2026-09-29] Breakingviews - COMMENTARY: コラム:アンソロピック、時価総額目標2兆ドルを支える急成長は持続可能か (Reuters) https://news.google.com/rss/articles/CBMikAFBVV95cUxPYzhNZFpaZVhENUh3YnVTYnpFdXRlbkliZXhvclBhdGk4elpoZHVQUFd6TWRHVUdJRHdpQnhUSE5HMk5PMUthVl9SLWkybUJPVVN5aElod0J2a0tDN1NCM2RoeEd6WmZHcER3UERoZWxLRDlFejExTTQtUW5FZklEVHZhRmpHMVMtS3F2UDMxU1Q?oc=5
+- [2026-09-29] トランプ氏、AIガバナンスでの対中協力を否定 「超知能」開発での米優位性を強調 (Reuters) https://news.google.com/rss/articles/CBMieEFVX3lxTE9Rd3U3cHR0Yk12eGliZ256cG01OVFLdUd2UGpvSDg3RFJzMmRtd1VJT3lsa1dDMU9LdzZlcGcyZ3pyOVlZTGs4N2dzb3p2YTdSalNMMEFaay0tSDUtT2Y1Tmd0TDhaVUhTRUdfcFBXRldfVE9adnVoRA?oc=5
+- [2026-09-29] China's AI agents can lie and scheme - just like their US rivals (Reuters) https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5
+- [2026-09-29] EXCLUSIVE: AI researchers warn companies rushing self-improving systems despite safety risks (Reuters) https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWXBiMU9va2F1QUVhR0RCUk1DQm10d2g3MFJiblhXa2JuTHBEZG04TjMtUVpqeldtbW9LcVZ4SVdhMzBlcllVNEtsTVE3OGJZMVpYWTZtYUtfLXBkOFlEWHpZNDFFQTBnc3J1QXl3Q3k1ZWNvU1JNZ0hSUXo1aGJVY2J1YUItZ1MzVXNqYzNrM20xTWtsYWJQSmxxbC1WNkRIdVFmVGtTZmZFNGtIMURxa0w0dVV5ZC1m?oc=5
+- [2026-09-29] OpenAI shelves new AI model release over safety concerns (Reuters) https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXc5dDQ0V0FSdEZfMWN3YjNGcG1jZmdHaG1mTDRwMExSZ2pLcjFzRzN1aU0tZFNJa0ZBZXVDdzJJQWxqN01WTmxUbXcyOFEyU1hIUjVpLXlJMW5SVUpiTWRkOHFQd1lyYmVCRHM1UzRtc3lPQXdoRHVvQmQ2ZGp2dGFjLXA1YWNhRjhDc0Z0MmVfejhYdk1IOFEzdUVTYl9Rc0hOWWVKY0RzeENVaks0eFZR?oc=5
+- [2026-09-29] OpenAI takes on Meta with dots agent in autonomous AI push (Reuters) https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHpSWDN2U2FHZk9uM2NIZVVkQjVWQXBudENFN09DM3ZWdWlBdVdCdndKTFlQa2duMmpYcDVYamdOSGNhTnBkQmQ1dG01T3ZYU2Zyb2VEXzg1VG05N1dwR0FWZlNqWDlNNldWS2VEcGlDby1TQ1JUMy1La1R1TncwQkN1OVRIN2lEeDJpQTQ2VkNXZ2lmVG12bHBPOU5sZW9sX2FvSlk5VGhTU3c?oc=5
+- [2026-09-29] EXCLUSIVE: Anthropic says rogue AI agents pose uncertain legal risk for the company (Reuters) https://news.google.com/rss/articles/CBMiuAFBVV95cUxNam1mZHNtdF9aRFc4Wm5FOXRnb1lXYm1vUGtYcHNsQS1GbnZyUV8xNHZhbDFuMjZFN3I5Mm9MeEc1NVh0Y1hoWFM4R2RmVVJybGpIZjczcmxVYlFkOUk3VFN4NzdvUnNkZ0hQUWt4cGpjTTlOSmVuLWdqNms0bktvU3BvZ1NjQlVjRGd0U1BxN0ZDT296bmthZ0tsSDlfTkZfV3hQYWlzZ2U0TGRseFVJeUsyS05XRmZP?oc=5
+- [2026-09-29] EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing (Reuters) https://news.google.com/rss/articles/CBMiugFBVV95cUxNVndoU28yRmZKcU1nd1MtOThsNXYtejlvampCQXFwRXIxcUJWdWZ5R0twWnM2czMyMmt3cERxQmhEYk5pWVh0UExTMVEzU3k0Tk5wa3Zkdkxkc0E3aTIzbEhOVmZrWmZPajJJaFRBb2JxUElza0puQW56MGpXM21lMDBSR1BDTkY3Ullja3pTQW1mQ20wWVhDTnMxRHB1MkFyUFQySkoxQldxNmFkNmp1dG95dndFUmZOb2c?oc=5
+- [2026-09-29] EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs (Reuters) https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVlPeVROc0FBWTl6a0ZCZXdPVF93WjdPT1BFV2xkQmlyRE9oYS1wRF9yWk0zV1EwSlJ5Vmt0UkpucHdQWUpSbGdzUmdVeC1EWm5sMzBkTUNQMkg3ekVYMkMtemVySUxhWnRCTWRNLTA1Vl8tZVZkRU80ZVk4TjdZbE5LdjJ5VzJXbUlmM1FvMnJqTFE4TkZVeEJFVndEMmpIbGN5WDRxclhHX0JZdHp6LWlad3JTakZr?oc=5
+- [2026-09-29] Anthropic's $518 billion AI buildout hinges largely on deals that cannot be canceled, filing shows (Reuters) https://news.google.com/rss/articles/CBMiwgFBVV95cUxNazVCbjhpLXhaZU5LbGk2TENxV0NHbXdFSS03bVpudXJnOE84Y2ItOGxEdHRHRHYwNG80SlRsZEVLNDN4eDJNaDJJRmlxbWpyNDU4Uk9scjNCQXVzelhERzZzZUZOS1c0M3JEMFpMWjFuRGU2cHhqQk1ZSDlIMFRwZmtCYXJZajFpcEM4cFRIUF9tUWljSVRzRFN4akQyLWdaNVltTDY3anJJUkRHbWctVkNRbzNQV3FBejF4UldtcXA2QQ?oc=5
+- [2026-09-29] EXCLUSIVE: Anthropic IPO prospectus lays bare deep dependence on Big Tech partners (Reuters) https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1Q4X3lqOUdZYllBZFVuZFBIWGt6dmdua2JoVnZ0aVVnWnd0M2lscWd0UFB6c3QxRmNJdXJ2T3ppbXR5TW8wZ2lzQU5obDR2U2t0WldJUWx4MEo2V29HVldhSEtVUWVPdkdIQ1dVSUtkcG5hTE5UWDVKek9hTjhkNGU4eGNKcmRPY1JjWmRaTXJVblBoWldzNU1PalhocDRfRHdPRnhxVEV5ckRsenJZ?oc=5
+- [2026-09-29] Anthropic's path from AI startup to industry-defining IPO (Reuters) https://news.google.com/rss/articles/CBMimwFBVV95cUxNX052MC1jLUZIY3dvZFMzWmdrMnFTa1RFWjJkUlhtV0dlZkV2NS1ocnRFbkUyRHJtQVE4clRJdUZsVVk0MHF3Y2oyUVVRczhGcGl5dlVxdGlfSTFTOUNlSTZLR2U0VmdsckhFLVpwLUlyOXUweUF6c0xvci1rY1RpdjVJV0NPeDNxWjMxRmpsa1VHUElRaGdNOXBwaw?oc=5
+- [2026-09-29] Anthropic's IPO prospectus sharpens focus on AI valuations (Reuters) https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFI3SDBna2ppaVVKa0FJWjRYdzZicnJCdnBRRGtmQ1ZncnVfWWZQLU9oSHJqZ0RyZ0hnVDduR0VhSTV2R1BpbWQ2dEdBUlFRdWtMYm5pWDI0bU82YWhkZ0ZZSTAzOEpKTXRBQ2lrUVVSQ21QUmttWlVBaHlqMk8yUXd2N0ZhLTBOTF9zNTdDM1FFLWdza3BNTHdxMlkwMURE?oc=5
+- [2026-09-29] Meta expands Muse AI agent for small businesses (Reuters) https://news.google.com/rss/articles/CBMipAFBVV95cUxPSi1tN1ZXNTdVQUMyT0d0blBucGY2TC1la3lyY1VUd1EtR0dCVWstellOQTJOTm9BLWg4a2RGTW9LaXpzbWJXeEQwaVJtb2pZdHFyU3ZISWxPMzh6amFXMVFjbDk5LWlvQ0VjbGRXQ21iSXZtVEozeFVEWDZCS0J0ZUxDMHphNTZXOWtGZWNnYmVVQkF5d1V0b3p5Z2VyMDRQeEVidg?oc=5
+- [2026-09-29] OpenAI scraps release of new AI model after it showed 'higher levels of deception' (Sky News) https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzNoelNnSUhCdS03MG5NYnpzdmRKU3FOb3pJbk1IcWVZTDRNaGpTek1ySFVDVmYzQWplMzVEek53NS04dFMxQ0lOa2JrYU85WGFsOFVIeVVLbUJYc2FDQjUwTWh0bzlrLWRLRHNuYVptT3lJNFNuMEVTNUNBczd2dXBuNlY0V0V2NFRfdEtpRGpQMVJ1bzNVN0diRWZDQW1lYUNqTFBkV3I0Vy1RcU10OURQWnNFcG8?oc=5
+- [2026-09-29] OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations (TechCrunch) https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQV80SktFakxmVkxUVHRyd2hBZUxuLUVRbEIxeFJpZVNadWQ3NC03QzhqcmZwQ2MwMDJ4S1B4Z0VfcjlEX2hSUmNrcVY4eW5tMDJDUU5pTHF1ZjZ4ZVZIM0RQRE1Zb0hDdm1sVl9UVXJ2QTdXTk1xWnVYempKd0ZxOGZUdEtIVW9ick51S3I4cVBZY2puSmFRMmR0Z0FsYTQybmhaNml1Q2NqSDg?oc=5
+- [2026-09-29] OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT's own office suite (TechCrunch) https://news.google.com/rss/articles/CBMizgFBVV95cUxPMThVYXNHdk44dXhHc1F0NHZ5SzJYd2FBN3BWSHJ3R1pXMjMySWlfbTQwaVRxc2l3QkFGUDJLamZ2Yk1zVlBFekl6SVRlbF9kc0lpWEdjQVBHUzhETUNMQm0waVdPSmlOLTh6MlhNZ2pmbFZBR0hpQnYtQUhVX2tiTzBtbEp0YkRuQjViX0Z2eGFpTzVwMFlOd010STAyeVRKVHhlWVNnZ0xpYTcxVDlxM3dha2tjbXp3SE9QRGhfTkdNNlJLQm9sOTh4dHdpQQ?oc=5
+- [2026-09-29] Meta is expanding its AI agent Muse to small businesses (TechCrunch) https://news.google.com/rss/articles/CBMilAFBVV95cUxOdGFrYW01S3VtTkFVMzJLUXhMOFFpMEhnZmhsWTJqVjd5V3ZWbDRoNGNCMFBfSjRJd0NoZWNJX05SSXB3RjV2ajBDc3BQWFQ4clJiUWRRZ2llb2QzX3JFWDZHNEYyaXF1Z1ZXbl8xaXZXTnVIUkt2M1FBOTFlX0k3LW41UDV2VmdGWTU4MnlFdDk4WTdl?oc=5
+- [2026-09-29] Reco raises $55M as AI agent security startups crowd the market (TechCrunch) https://news.google.com/rss/articles/CBMingFBVV95cUxPRW52SnVvUDJIMzZobWpaZGV1ajdjZUxNMTU0WWtaVkM1XzhEMG1LbGJjckIxaS0wOUtpNF9KWmdXZ0ROSmtGN0FxVWtlVDJSUFNtbWJORnpGM3BaOWJyZmxaUHU3MlZaTnYyTTVZazUyNTg2QzMybTF1WTF2dk50TjhKWVRRT3l6YnJzeGpXb1NPVHNWSzVLclJ6WTI2dw?oc=5
+- [2026-09-29] Teachers at Euan Blair firm report ‘horrendous stress’ after AI used to rate their work (The Guardian) https://news.google.com/rss/articles/CBMixgFBVV95cUxNdjlPTWVXNmhvUHQ0TFRscEhzcmE4YS1YR3BmaURRZXVpbzJiM0hvNEZXS0lEXzItTUk4YkhabjhneHdiczc0Q0tjUWlUVVJOQk9DMzloMk1jeEczYVE1dEIzVG5KdjJHRW43MXNTWUVzNnBNbFIzMkV2Q183NS1kYXRaZWR4NVB3WGdUdGRhTTdmaWdINGVXY29IOEJjVWhOanRCNkpOQjYwLWVBaHlxMXdZUWJScV9ZTzVWdVVCTldpUkY2bUE?oc=5
+- [2026-09-29] As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you (The Guardian) https://news.google.com/rss/articles/CBMisgFBVV95cUxQS1RBNVlQOU9oc0N0MUNoNkU1WFF4dkxKbm5EbHFMdUhYMkZ4U2NoSlB6RXRPYXpvXzlHSlRWUEVyWFRYZWlReVdTekVKcHJjLTdjRVpNRWNYV1lXVGRnaWxhYUkyQlB1VUhMTHc0Yy1YajRrdXlQRVprQmZTYXBTM1pyTVFkeWZkWnJNMFlCLW1EdU0yU3U4X1M1SjQ3RnM3Z3RaZm9EMU1PYmlJdUtKQXVR?oc=5
+- [2026-09-29] Revealed: the five-paragraph email OpenAI used to inform Australia about agent attack (The Guardian) https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaXY4NHVCTW9nM0p3V2ppUVZ6QTFxSXNjcGhQS0FKQnJjUm1UaFBlSURWN1VtV0syck8yTW5MdHZGQUJGZVd0eHMyeGM5Vl9rOXFranI4dmdubWVfdVBqMlNVRFpaZ1RteE14SUVUMmtwd2lYdzdhcDBlMHJrd2ZDZV81OFVpLUM0b2E3dC11MFktb2ozQXotQ3ZwdW9YT1ZwNDBYOHFqaVk5b0wxUm1WSzdXSzZWWUt0NjNPdEJqVzhjdw?oc=5
+- [2026-09-29] Anthropic ‘warns of existential AI risks to humanity’ in IPO document (The Guardian) https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDd1U3B6WHhqcExpRHVEam1nY3VUZ1lnbmlOXzcya212aExJWDl1R0hiZnZFeTNONzhBNjRQWWo5OXkxTk0zQkI5OE9uekQzbDFkc1VpYmE0NF9SQ19kNnhJZWI2SFhfTFlxejgzRXZ3ZDRfS3FWejRsS0tBejBlT0hZb0c1c2c1cjkwdVJtZ20wdDVfNVFLYmN0eDZ0aFY1XzF5RGR5S0RMeXB0MjRpcVdZR25HMnc?oc=5
+- [2026-09-29] First Thing: Anthropic warns of AI ‘existential risk’ as concerns emerge over Meta’s Muse and OpenAI’s model (The Guardian) https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOUZxOExJS0h3RWQ5NHlxVVhyejRQZ2RMT3pXNjJfRHUwV3BGc0txQ1dBNjUzcXBMdkZ0eFd3TjNQTnRiMk81NXNiSlQtTUhsYXdDQmNtdzZQR2x5bjY0Q2otQlpwZVowcGJhZUdEYWZmN3hpV1NoV0cydkY1Q3Z5cE4xTk55RmdnY1VIV1FLWnhVRmF5WUZDR1drMVcwSlhBVkxScWFiNHYzQQ?oc=5
+- [2026-09-29] The AI agents are spiraling out of control | Technology (The Guardian) https://news.google.com/rss/articles/CBMicEFVX3lxTE1rYkNJMVlKVU12dWJ5NjNpWHhPUTAwWlAzY3NDMnNuclhTaXZCaVB6S2Rud21KZHBLbE1HM3R0WlRsWXJQT2pOZm1kaWZTclFyakpOMS1BY0s1Y0xFX0hEcmFtbEY5ek5ud3A5a1V5YjQ?oc=5
+- [2026-09-29] AI caught telling future versions of itself to bypass human controls, OpenAI reveals (The Independent) https://news.google.com/rss/articles/CBMimwFBVV95cUxOeFdiUGhPaHNOOWhwNUJkcEZVdWNCV2gxSjN6SEdsNldhcWJUNmExeFg2OGI1Yjk1bjhGTHlnNVNlWnRMaDlyelFmWTFBcjVhMHVFNjl1YUhwU2kzR3RaMExSSlozT2ZWNzlGWXJYd3RhcDVhV3VlT1VVa01scXNEMXV0eGJBWjFfX1Bpd2FZcnp0QTVlQVM0QkhuZw?oc=5
+- [2026-09-29] OpenAI Ignored Employees Who Warned It Wasn’t Doing Enough About Security (The New York Times) https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0RzVDRlOVNUaHZteVZrWEkxYVNJckVZbzYtU1NfNEhveGNuUnUwMW5aNHZFN3Etd1ZlMXVrLXJIODZfLWp5M0tjV19NT2tCMGxDWWFqRmVOVWhxVWhydjJVQkV4WXY2ekNYLUpueWVxY21yYy1DSU9tc3JKOW1qMg?oc=5
+- [2026-09-29] A New A.I. Agent Enters the Marketplace: OpenAI’s Dots (The New York Times) https://news.google.com/rss/articles/CBMifEFVX3lxTFBiM2JxUFlyQlA5czluSW5Ea2VhVVA0bW1NTnZkcEExX2RZM3QtRkpzLTNVM2Y2azNJYUpyRkY0a05mRVdtWEVUcFBrN29XSWNhaElMbzFTNUl3WjNCbWtsTW50dUItV0JFTElNRjdkME91bFF5MUpka3hUZnA?oc=5
+- [2026-09-29] Religious Scholars Met With Anthropic. What They Heard Stunned Them. (The New York Times) https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oem5hSlF0RzhoVzdJVjhkREdkWlo0eWU4VDR3aVRsMXVzT3JuRlV1VGc4UVV2dkpKc28wdFAxY2VkczNXdmFzUWRPUzQ4bFBJVHZFWU8wYnV5RHdBdGpMcHR0aWdwcXBXZVotUHB4R1o2QXNGQV9vMA?oc=5
+- [2026-09-29] What’s In Anthropic’s I.P.O. Filing (The New York Times) https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZS1LM2l5WFJ4SVlnOTFVNmlhSm54RUlXZktOeUJUeDlsRDFwa2I0Rm9adE9qUG9rQ0lMN0p2Q1ZYZ2M5dDd3TW9DSllQNkt5ZWhMYm52VGFIdm1MWVVnZmhhaUNlMUI0Z0QxTlo3empUaGItYW84ZXpaaFBxb2xIMGtYQmRvT2k0?oc=5
+- [2026-09-29] Video: Anthropic’s Quest for Humanlike A.I. (The New York Times) https://news.google.com/rss/articles/CBMiigFBVV95cUxQRTg4TlAwVmR5UGNUSDFldGQ2R3B2U2hNVG96Z0FTZVBrRGJFQUw1S3FIOWFsRVRMQ3V5THRKZUJNQTJ3RUxZVl9IdVJ5dk8wdU92RmxEMkxUaW1RRWVZMGVKcVk1bU0yMEJCZzh5ZzI3MjUxSk1vWndzN0FnT3VKT01XUktwclEzQnc?oc=5
+- [2026-09-29] AI jobs crisis risks plunging Britain further into lawlessness (The Telegraph) https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmNhZkFpSVlmUWlRTDJVOXVxVkZwQ0hTNjBPbzNibHVpeU9PUXlhQVllTjhrcXNkenJaeklVeDNBOFRWTjEtaE9GNVNtVUdVU3lMQVBIZDhISlQ0WW50dFJrQWx3TFlOMUhneU1kcGxyVWY3eXc2V2RfOGRhY2E2TkR2amhXZlg3S29qZ1EzZ2psN3JnN1IwQ0xFa183dXhlM25uMXFB?oc=5
+- [2026-09-29] Trump claims tech bosses agreed to drop calls for AI regulation (The Telegraph) https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlRBRXpwdzNPYVd1bTRteWxHZDJQN3FjTzNkQVNrQ1cyS3J1R2JzdHNpaVdtUG5JYWF6Ymd6LTNnT3hXMDBjdkRIckhhMWlMR0FtLXVienFBSEFNa21QRjdhMVZQMkZ4SlhBMWlvTnVsaFkxNFJmcHdjekxLWV9MZFl5QmhKVmVjcUhRT29jQzJNY3pQaUhsb0Q2Q0E2OG9CaHM1ejYyaVEwcWM?oc=5
+- [2026-09-29] Trump orders US government to call AI ‘Super Intelligence’ (The Verge) https://news.google.com/rss/articles/CBMijgFBVV95cUxNWVE5aXFYTUFIMDZobk8zUEVvSm1JeDRlLVZmXzIxdWxRZktybzN2RWtPdkpRQVRETFc1OGlDSmdkMUlBY1U5SS1WanU4WElkMFVIcFVlTHNWekJpeFV6WTMzU0M0NUVCalMxeVBmWFB6TnoxYk9ab2lfajJQUG5pX213N3BCckhXYnFpNUtB?oc=5
+- [2026-09-29] AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’ (The Verge) https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGJBenRicmptaFZjQ08tMnZ2U01BSDlkOEd3d1FIaHBxRlI0SjBZRUlza3F4TGZjYVpmdEtkY0xWd2V4VXloU2Q1VXpzM3NPQ0tUM0lUeDZfcS10c2xVODJRby01aHFlQU9CZzZOakVuV0JWQS13eE9KN0FlUkQ2Vkdra2Rhb0pWRVk4cG9jZGdjemcwbFJMb3lKcXhSWHZJR2tFWm9jaTJidF9SUnZmcmZ4d1FjQ1k?oc=5
+- [2026-09-29] Anthropic Says It Discovered a Crispr-Like System. Now What? (WIRED) https://news.google.com/rss/articles/CBMikAFBVV95cUxQM2xTUE0xbzE2VVVLVjNGaUtoM2ZrSzdZWjc3MW1oSkFOclN0OGJ2bkVhaTJmNzM5eG9ObUNkWi1pWkw2cWxsVDZLNDRWTUhiWXhjRU8xeC1tWmlSTVVYRG9MQTZMMzZxaWp1QUZlVDBCNEl2RnV2bUdlTmoydmNnSGd1MHFVTmw4dUM1YUo2ejU?oc=5
+- [2026-09-29] OpenAI Gets Sued Over the Hugging Face Hack (WIRED) https://news.google.com/rss/articles/CBMidkFVX3lxTE1sWXNhZ2ZMMlZzU2REeFZIR3ZJX3dsRFVveGcweGR5dlVsY0lhYnljb0JOM3VWY3B3dDZONm1rcGdma2RpWExtdXNMckNkWmdDam1ZeUpXcjdUemxCQjIzNFo2SFVYeUJIRW11RUVPXzdIRTRERmc?oc=5
+- [2026-09-29] AIは本当に「暴走」できるのか? (WIRED.jp) https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EejdFbldMbzNrYXNQR0RSemoydDB4c01LQ24tSDNaM2N0TnlYc2d4V0s3WjlEMTdPNms0RGJ6cTdMOTVidkk2dHdPVmNraDd4TkhJRHNCbw?oc=5
+- [2026-09-29] 生成AIで商品調べたら...詐欺サイト 犯罪集団が検索結果を不正操作 (日本経済新聞) https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZQk1NR3VVamlMZlQ4TnJRVEpONnlGVkpIQWtuUDZyNEJEdWN0N2tjcXpwTjZ6YWxkOFhwUzFLUmptbF9OMndYWWFOa3dzWlVtd210T2RWRVpTY3Rnb1BoYkoyQnI3b2ZBSlE4WQ?oc=5
+- [2026-09-29] 損保ジャパン、AI普及へ「戦隊方式」 レッドやブラックが孤軍奮闘を救う (日経ビジネス) https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13Z244blNCX3pHNU9KSU0wcG5WZHhFVjFSUjhOeWJsVEZsYXhNSU96VS1iZTZPeDJCSlJmTmFoOW05bTFTV3ZlT2x6MXBYTlhlUHlHNlBGYUhrR291WEpEMHJna1l5YUU?oc=5
+- [2026-09-29] AI時代、論理的思考が重要に 問題解決力で賃金も高く―労働経済白書 (時事通信) https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vcmJielBXcHNtZ1Jva3FqVWJzNHprMlRFQzNXUzVQdjdacU1TVU4wVWhPeC1SWXRLaDJvbFpETEo0bmxsb09nVmxwYWZUOHlSaWxQd1dLdGVlbWYzakgzRGRvUQ?oc=5
+- [2026-09-29] 米オープンAI、次世代モデルの公開取りやめ 安全性懸念 (時事通信) https://news.google.com/rss/articles/CBMiY0FVX3lxTE92SktRX3lwLU9ZbHZ3aUdWdzM1SFYyekE2aHB0alBzY1gzM2lJd1JLRjlya2xmcTZsLWx1OG5RcVVkaUhCY1k1WWhSUlVuQmNlY3h6ZWQtWDBsSm9FSWVCVXhGNA?oc=5
+- [2026-09-29] AI「人類存亡リスク」警告 米アンソロ社、上場向け文書で―報道 (時事通信) https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zSktKQVZIanVyZFhMZVdGb3FSQkh1LVp6MV84aGx3VzlyYmJ1UjJKQzFVR1RqUVBaYzkzZ1YyejJBa2NiLWpsLXJQUmZTald0WlJmQnpSU3h5aEtOVjVaQnRiRQ?oc=5
+- [2026-09-29] 「重大局面は人間が判断を」 戦場で加速する防衛AI活用とその課題 [高市政権の安保見直し][安全保障関連3文書][AIの時代] (朝日新聞) https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51M0owQ3BRTEpzTFYxbDhBNHVEenRDcFRvWVQwcUJVTlJXMGhMZWl3TjdZcGdCWGRXTjhpRHE3TmhKOGFHUTF1RlVCengzSDFlT1hGVmQ4dTlwSjhHWC16SXdCc1h5ZHM?oc=5
+- [2026-09-28] Contradicting Trump, Pope Leo says artificial intelligence safety concerns not ‘fake news’ (AP News) https://news.google.com/rss/articles/CBMipwFBVV95cUxONnhKYktPd0xYRGF2UF9KZW85Uk9SZWtnclVZMHJxdFRMdWpMUlU1ZmVlbGJLb2ZsVFAwcExqbHhiY2ZfdGF4c1ItUG4yenFDSkloZDBnbnVQalU1OUtOMVpreVBQaDZtUzVWNWp1TW01dkR1LXRfU0h6bGdPa2dwLUtMTkZ6X1RvNUp3TVM0U3hmMHd1TmVzQmpTVHQwLVhnMEQ0YXlraw?oc=5
+- [2026-09-28] Florida asks for order to halt ChatGPT development (Axios) https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzhBVnMzUG5hbUVsZHZ3LXZoMEVmRlc4SHhTQWk3OEZqT3JRU1ZUbXF4cENwTXVEZ1QzbmRSRkYzWHhVbGh0RE5jM0xpcmIxZVluQ1VCX0kycmRNR1hRN1Ata3A0OE9EVnBnNVRnN3JyS2pYdVFlLW9TZmdHTGkwUw?oc=5
+- [2026-09-28] 米オープンAIのボット、複数のアメリカ政府機関サイトに干渉 (BBC) https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zdDJUXzlJYm9lb3ZFdHJIZ25HT2NPcThJMVpfOTFqdXV2MWNmeGxSTng2a0FNMWdtaUt0SnpOTTV3dmtvRE90eUROWEZTZGtUdWpPMzhBa3ZfLVhvaXRkMNIBZkFVX3lxTE94aFVnNk8zTDJpNWFHMEkwTFl1NmlxcmFOdndYc1VrTjBRRVN4NjV0U1BiNWpscUtYZzlkTTFmY0hiLW9uY3ZfTDZFV0NpT0JnTmxMVkhhRExZeDA0Qy04R0RRNmZVQQ?oc=5
+- [2026-09-28] エヌビディア、アンソロピックのCEOがトランプ氏と昼食会へ-AI議題に (Bloomberg) https://news.google.com/rss/articles/CBMid0FVX3lxTE9jaHl0X3NBWEFLcm56NzI3N19Yc0NYZHlPVHF3b0dDZElJYWp0YVlaQWRPMmsxT2RXbUkwVWlWNXZJTTZ1Z254cmZNSnd6TW5nZ0E0c0N1SDdGMDJvNHlQeGhBZVBpcHVFblo1emVNeHVJcFE3Yk4w?oc=5
+- [2026-09-28] 動き始めた米民主党の進歩派若手議員、階級闘争とAI規制で2028年照準 (Bloomberg) https://news.google.com/rss/articles/CBMid0FVX3lxTE5fdzRGTHNidVhsTi01alZ2STF1Mks0bkZPWTVVcXRqRjMtWWxsdHRHV2F3bEJhSmNseHZWWFhfVW9Hc29fZmdfSkdYQ1BnWHNkRGRLTVdzV3dxNFl2dXZIWTFUYi10aHd5ZjRHSkZEdHJ6QUdUR3Bz?oc=5
+- [2026-09-28] エヌビディア、AIの暴走防ぐ新システム発表-二重の安全機能 (Bloomberg) https://news.google.com/rss/articles/CBMid0FVX3lxTFBxSHpQMUVoV1dZOFd1d1AtellVUVluMnZCcHAtV0lMcWk3N1RLQ2NSWi0wMjZBZlpBcHB5UzNET0UwUFFLcHJxTlVWY3huaFVFOWhiRzRIa0xLOGl6U21kSTdHRjhIQW1fLTN0cVgydjVpNUtXbWFz?oc=5
+- [2026-09-28] Watch Gecko CEO: Physical AI Needs Humans in Control (Bloomberg) https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlBWSEpfWVRIcmoyRVNKTXB2LWhpcHF4X1lDYUNORmpobkhjcVY3ZXNxYkFNSFctMjNMZTJwaTh2bEg5eFF4REdYVEFCaXpIZzc3WHNGR0hKa0w4V1pPX2VtazRCZG0wV2ZwVHNUTGl6THAzbVM2eTN0WnIyNXBFSHBXeWJTTnhNUGtFdzNENDNPN0FTSWhVVUtFVF9XWVVRdmc?oc=5
+- [2026-09-28] I used an AI detector for a month. What I found from my peers, dates, and heroes horrified me. (Business Insider) https://news.google.com/rss/articles/CBMijAFBVV95cUxNUVl1bjdjUUdrdDRDY2RaQWZTN1Jyc1dIMUFfSHc2VWhJV2tkQ3FRUHdfYWU2Y25lMW1kZU1GRUR4bS1EcU9LN0JNTnZJTzFOVnBabTQzYVV0NVgtcmxqelgwV0llR3NVaUFHYWFkRmFha2drTHNndVdXZDVucEx4NDVzMzY0b29aeFllYw?oc=5
+- [2026-09-28] Microsoft's Copilot chief opens up about the AI future he fears most (Business Insider) https://news.google.com/rss/articles/CBMijwFBVV95cUxOekM0aGNRTzZfSjEwVmtsUXAwMGliTTk4YTlHMWNPclV2dmt4YUhnVnMyTXJLOV9abEY2RWdtaUFkcFVHTTJpNG1ranNkZElNQU0yaXVUaGxVYzhkSkxQVGJRM0IwSGFET1A4UVY2bTlrcmpwVGJGbkZfVFktX21NMlhOeUJ5UjdUaWdXOGRTRQ?oc=5
+- [2026-09-28] OpenAI holds off on releasing new model over safety concerns, saying it "didn't quite meet the bar" (CBS News) https://news.google.com/rss/articles/CBMid0FVX3lxTFBnUDU1QlU3cmVCTU85Y29JYm9RRTZJWHBLWnQzQlR1UnIwZGhjOUhYRXRTQ0xRUWRjVF9iQ0pSekpiQV9tVzB1Mjl5d3RrVkRNYXB5LTJEeWRabl90U0diR0ItZWl0c1NjeFlhZTdzZVItcUQ0NmNZ?oc=5
+- [2026-09-28] OpenAI abandons plan to release upcoming model as safety concerns escalate (CNBC) https://news.google.com/rss/articles/CBMisAFBVV95cUxON3J6Rk5EcVdTM1V5QmZWRVhSQW1DaDBmYU5YQ0JnM1hLMUxXbWVSVy1vdmZYWjA1T1N2WnRMNnB2N0NkVUwySjFlU05ISE5uRUFOdnIxYVVxVTkwaTlNcm5LdlduajAwZHFGcUExZ3Z5Rm5zZmNFcldST2pfN2pvWU5JRkY2US1TUVRZZ09jYjFLQUh3cnBsVHNCQmh4SHdKcC1mM0ZLRFNmV0o4R2tfUtIBtgFBVV95cUxQakpZOVlkQTEzOHdkWEI5ZmxXVUc1MFJCWkFLNkVxNld2NjA4WkRwUFV0TlM4ejJhWnZzc1JfcERhMFIwdUEtWU5pLU9tSzN6VnBLbFpKYkd3SEZqMnBJcFVJY3VLdjlqS2NWUDVKTVNXZ0otXy1RZE9XaGg4YVYydjJEM3BjSHlDXzZla2dleU9lOTZjem1oWDBqRWp1LXlyckFZcTNDd3lmazBVcGZJc0dUc0xGUQ?oc=5
+- [2026-09-28] Anthropic warns investors of AI’s 'existential risk to humanity' in IPO prospectus, reports say (CNBC) https://news.google.com/rss/articles/CBMilwFBVV95cUxQUTQ4TDJMcHl5ZjY1cW4wbE4ySFY5OGRYQjh4OEZjb2FzUjJ0TzFEbnFuVXZ3ZTFxblpHN0NRUDNxS1RLTXhkYWRJbDhQbHM5Ymh4dGtjeHMwMVpLRFFVUGVlcGtfNEttYnU2MnVabV9rcjkzbTJCWFZET05saFBCQzllQ1gxZXg3VFE3XzNjaTgyZHZyOC1R0gGcAUFVX3lxTE9uTHkxQlREQndhT25wazhTZ1ZkcTFVOFFQMmx2ZG15WUU0eDZDbDIySHNSY1Bvc0lJTHlJeXVMTHpDbXFCVDlXckgwWXVaTFdhSzhZcjZORk5lZTVzQnV0M1QtMXJENnc4N3BpbVRaRHJQbS1iV1d4YkZIZzhtbDF5M1FsT0hTdW04OUUxanl6dkhBT3dlR0g4WENPSA?oc=5
+- [2026-09-28] Nvidia releases software platform to stop AI agents from misbehaving (CNBC) https://news.google.com/rss/articles/CBMiYkFVX3lxTE4weHBRVEI3cE1uNDdNT2VtbWxCMm9iWkpzWVY0dXc4X2hGanFpZnRVLW9JY3IzTXJtMWNFMDRaNlJKZ1BUWkNfRlp2Yk00emxRUVllS3N0NlhtM0lTRHp4WUNR0gFnQVVfeXFMTTR0S3E4cUJLNEZjYmtKT2c4Vk5kXzFXQzhVOWVzdFViUlUwYkg5Zl9kVmZzdXpXVldGdW81NHFzVVZhMWZwOXE1TVVEdkdyV1VtRFJZV1ROU3JOblA4emtyTGVoaFF0MA?oc=5
+- [2026-09-28] Gecko Robotics CEO: Humans must remain in control of physical AI (CNBC) https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUE4ZmdmQlBkOFRJYjk0YlZLTHNLNHRrODRTMTlGM0pJb0dkUWFHclNDcmFSbVdKNVowcjk4NEZGRHdZZ0ozekFRTFJlUTJHbnVtVkR4ckRxem5lam14UzU4LThIWWNrV0tQUDdRVVAxNVVocHFsc0JqRGwzT1J2OFgxNTB4ZGN5RFM1R2RNd0NRdGVNeUp2N0M3ZWJSdUUwVEt6cnozNU1iQQ?oc=5
+- [2026-09-28] AI agents promise to do everything for you. There may be a big wrinkle in that plan (CNN) https://news.google.com/rss/articles/CBMib0FVX3lxTFBJeG9LaUIzTUU4MnRiMGNlSTFfSDZKQ25iU3FEWWVVUE02TDlZSjdOU1FqczhnRlVQUy1xS3d1RUU2MGJ5WkxHcXc4R2ZieFl0Tlc1NVZ0S2FRNnhTZ0xhYy1BdVZacmktRmVVTG1EMA?oc=5
+- [2026-09-28] OpenAI axes next model citing safety issues (Financial Times) https://news.google.com/rss/articles/CBMihAFBVV95cUxQRG1hUE1kb3pRMjN6YVhSUlB6OElYYlZHOXZ2ZmlkbHA0YUtzZ0l4MUpuWEFNaUxqTGFCMFFkcF9hYjhLUVdNTDU5cVNzSEJYTFJyWXpqMGFwRzZ3d3NiUktHMzBGVXRYd3k1dGI1bjUyZldkd3NTT3h4bHk3cTltc3hlZXM?oc=5
+- [2026-09-28] Anthropic warns of ‘existential risks to humanity’ in IPO prospectus (Financial Times) https://news.google.com/rss/articles/CBMihAFBVV95cUxQSy1KbEtmZ1NBTnFEd3Fkck9jajdOcHNMRnhrRDAzNEV6UWRVaWk4LWZLdlNCeHQ2U29rWUQzaFpmd3ZfUzNQWXQxMVhmX01ELXYyMEk4MzBLRjlrRGdPT0dEMlBsZUU0UFdmZ0VmYVNhTmFtRTJtaXRPNjc5MVBCcFNNaHY?oc=5
+- [2026-09-28] Anthropic IPO Prospectus Warns Its AI Could Pose ‘Existential Risks To Humanity’ (Forbes) https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkxab0QyUjlGT2k1ZUN3QTZDYXRneUxLNjA4RjlZOGh6WFFLdnllQXdwU0xibklaZU1idUFXbTlmVVlianE5MDhtaExaQzlDRDVlTk1EcmxVVXRNM1BmOXlUcTQzWkR3dHFFbGY2ck5hLTdxWlFaRVN1aC1wZGlJWkEzOEdnajZHSVNrQkpHZlg3dzR0c3NIMnZrNGg5OFpHNUw4RTN3amZxeFFmRWx0cUw4U3ByQUpuaTlDQXNDRU1uV0lkdm1YTkdHVkY?oc=5
+- [2026-09-28] 35歳時代遅れ説をデータが「完全否定」、AI時代に中堅社員の採用が増える理由 (Forbes JAPAN) https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWOHBobFF1T2ZNNDJxcjg0NFFQVG5PM3EzVTVjOFFFcWNVTU9XalpPSEFOQWFUMkdVaFJ1MzBZLURJZ2c1NU1MWTlfRVdGRTNHdFJUZ3hfQzVpUQ?oc=5
+- [2026-09-28] ビル・ゲイツがトランプに反論、AIの安全性への懸念は「でっち上げではない」 (Forbes JAPAN) https://news.google.com/rss/articles/CBMiWkFVX3lxTE11LXB1aUUyTmcwbG94ZWJIY0lNeFlTX3ZrVlBld29hYTZFRTlKQmRnMTJFc3NVUnZYd19meUg3X2FGb25vRUxJb3h1dEJuZExWUVYzQXVUU0Vrdw?oc=5
+- [2026-09-28] AMD acquires startup cofounded by ‘godmother of AI’ Fei-Fei Li for $8.2 billion (Fortune) https://news.google.com/rss/articles/CBMijwFBVV95cUxPbTJZazg1STZjVGNheUZjOW1SczBSSXJCOXpzbldyNWFaWVlYZmFETkExZWZzdnRrNk42eVN5VjVxZzFBY0s3Um5rV0RxSHhpam5NMzc4bXVMZ2ZYOXVjSy1zMWtnTzlJcWFXOUI1V2UwNDhXNXY2Y1VJYXhxYzFmUTZ2QktsaTdtVUc5ekZYUQ?oc=5
+- [2026-09-28] 富士通が脱人月モデルへ CROが説く「AI時代のバリュープライシングへの転換」とは:Weekly Memo (ITmedia) https://news.google.com/rss/articles/CBMidEFVX3lxTFBCQWQ1RFpQaGpEbVFYT3V4TzA4QWw4c1lES1Z0b09OdmM4bjFkdjJITERkMkwxSXRoNUV3MHlGam9yS3lrZVkzRDdFRjhiTUp3NEs2ZUV0UHBLa0RVbVFqdzMyT1hIdW9maEJNT2NLSzRrRC1u?oc=5
+- [2026-09-28] Florida AG seeks injunction to hamper OpenAI development (Politico) https://news.google.com/rss/articles/CBMikAFBVV95cUxNeFpqVmlDUVNFZlZMVjBEQVpaZmRfTmM5WjF3STJLeWdJaFlKM2YyQjZNN1V3SHY4bEhpdUhSTWRhYTVQU1dscXF2TlZwWVFBXzl2ZkJoTUVHZFBjR1JiNjQ5SjczWENWYktFTWk1cFp5OUV2UjRnbWxuaDR6aHJSTjVObGVTcG1vR2V4dURnQmU?oc=5
+- [2026-09-28] ‘Do better for Australia': OpenAI apologizes for unauthorized access (Politico) https://news.google.com/rss/articles/CBMitgFBVV95cUxPUWt6eG4yU0d4RFJOdGJoZnp2ZGF5XzMtVUtJaHhoOE1fQVkzeXA4T0FOV0dJQ0pFejU2N25qN3pEb3F2VnJmTldCcV93UHMzYjctbm9NLW9aZ0VSY2R2bnpUZzRuWndjUXJqdVhMYjQzMkdDNlNhM0VUXzcyejVqSUlFV1p4Q3JPTHBjLWhhMTR1MUEtQUthUUVabmVUY3FhRi1WdXhiQXBielBfbzlCb3c2YjZEZw?oc=5
+- [2026-09-28] アンソロピック、「クロード５．５」ファミリー第2弾モデル公開 | ロイター (Reuters)
+- [2026-09-28] アンソロピック、AIの「人類存亡リスク」警告 IPO目論見書 | ロイター (Reuters) https://news.google.com/rss/articles/CBMihwFBVV95cUxNcHNmdzRaX3FtM2NxUVVvejgzRllfVWQzMnZJTVlxWXFqSHd5RnRNU094NElaelhKT0hRN1FHa0xLVVl6NGZ3cDY3NU1yZ3REU3hDQTFTVThpNzVvVkNFUkZwalo4VXh0YWJvaVEwb01vQjJ4M0dZQWhUa3ZrVHZZZDIwc0FGaXM?oc=5
+- [2026-09-28] オープンAI、次期モデル公開見送り 社内テストで安全性に懸念=WSJ (Reuters) https://news.google.com/rss/articles/CBMifkFVX3lxTE5jNzJXZ1NsRTZnTHBsR3JzTkJHaHJSUmpKVnZ6WG9aNVktZ2NLeXNmdnk5LWREcTJOY0dieHF3bHhnOTc1ZThUbi00LVgyVldHLTZuUUJSQ1p1bnNveFVQLUtLT0xZTTlkMUppNnBaMXhVYU51QmRrNTd6cVoxZw?oc=5
+- [2026-09-28] OpenAI apologises for Australian government website hack, pledges to rebuild trust (Reuters) https://news.google.com/rss/articles/CBMivgFBVV95cUxQUkZZNkxncTBjTjVfS2tIU19wdG9XZHJHTGxwLVdLSW5wUjlSVUlSRnRPbEFlTWtDcm11VE05bW5QV2tnR202RjFfRmVib3d1dy1ubXZVVXI1N3BzdjhsUWdYM0NQMk5EanI5bzgtbklXVGN1RjluaWFXZHJZZ0g0VGJuVnd5dHQ0RFRadWJkaDNqZkU5Uzc0QUJZZXphOC1BM2M3cE1RNDNHRDF4MloyNzVYSG1EZTV2cDlaYmh3?oc=5
+- [2026-09-28] AI agent firm Instinct raises $1 billion in latest funding round (Reuters) https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSng0ZWE1OGdrZ1h0amRIYTBJeFVXd0JpellybmtzcHY5WEM0RWpWY2hkZ1FVVUloZUVSalRkQnAxb3hPS0ljbHViV1NXMnUtcEpfV2hRdUU0YXV3OWFUQnp3a25icW9IbnFUbWs4TG9pYXVfZWt3bkRCOHVJb1AxZEpxbWJOekpRT3o1UElTT1dUR0N0bWRpc2MxTUtRS20wbHhzT203Q0VHdUE?oc=5
+- [2026-09-28] Google is killing off Gemini’s Gems in favor of ‘skills’ (TechCrunch) https://news.google.com/rss/articles/CBMikgFBVV95cUxOLXBWbzJIY2ZWejIzajdwcVF2QTItQjZGMWxNZkdIU05GZ2RDaWVRTWJybWpNaVdONDNQZGpLVVJXWW0yR3dNX1RpNXhtbXZZWnZ1VHc2d2NjbzU0QVgxb3FZZWNKWkVBQjVxOTUwaWg5bVNaMWttN2ZoN0d3bXhWM25JaENPUjRxQVVRajZ6dXJ6Zw?oc=5
+- [2026-09-28] Viral AI agent Instinct raises $1B Series C at a $10B valuation (TechCrunch) https://news.google.com/rss/articles/CBMinAFBVV95cUxQR19WOTV3NHNLQl9CRHJUQXRwTkdzSFJJN2lBUTBsek1KSk1nQnpfS2N3RXQyNUNrQnVELWZPSGF2RENQbE9QaWQ0dEphQWhTeEstbWU0Sk1ZczV4SW1oX0lsMjd3LVNmXzAtaXBwRWlKUnUxcHhHVTRkS1RsMG41cDdqOU9yZFJ3QXRpSTlRMmk3aHVjTXQ1RDVBcnI?oc=5
+- [2026-09-28] Physical AI chip developer SiMa AI hits $1.45B valuation (TechCrunch) https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTdLR2U5RVBUd2QxaTU0WGNHc1p1S2Y4Wk1nTUhqMXlTOE1zeHdWc1Y2eFNfQ2FTZFB1bzZwT2dTSHp5Z3p4RVhwZUtNRGpkQ3RNYnVkUTd2ZG1EZk5PeGZNWGN0d19wOGp1dkQyRzRWM0xFcS04bjFkakt6Um5oWTFCTXphWERMYWRzX01IQURWekNZ?oc=5
+- [2026-09-28] AI godfathers warn of runaway ‘intelligence explosion’ (The Guardian) https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFNkQmpvTmdlZER6dDF6NXlNZ2x2WnpicUlHeDBvRjNRUzlaZy01OUI5Sm91YV9DRUh0Qmk4TzNwTTQ1alBveEdGOHNHcy0wa1pqR0lsZVR2dUxoQ3R1V1FnZTJuZG9MS1d3OWs3eTgxb0ZmUl96dGNiWkhzMk1wN3oyV0xFYjVrdGtIQ1Vzb0l0SWdBWlZEalo3WmxNbVpxNjJoX1dR?oc=5
+- [2026-09-28] Meta’s AI agent Muse gives out user’s home address without permission, sending buyer to his house (The Guardian) https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQWc2VVNhcEpaRUJWWXhxbkJSclA2YXFsdDBGSFV3VDZrQlIwMUFmMUFibVBDdHJXQVZEUnZLTFdvNmtSb2U4aFJYclFBUWN5U1dRU0djNk5XWHF6ZFNRLWhLcmNLNEpMWUVQdzkxeVd1QUptT1Q5V1FMdEVLRUgwcEpOY28wbjdZQlpR?oc=5
+- [2026-09-28] OpenAI scraps release of new model over safety concerns in internal testing (The Guardian) https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXhIYXpqMlNLUGRTTTczOExfbm9PMWNZcGZNeEFPU1g5WVBhMl9UZ0VvOUplQlZ1TEdXQThXVFY4QktncmY4T0NRbW53VlZKYXViUklCMFhNaVU5SmRnc3ZFYUt5REtEYnJQa2JuWXZsOWZGaG9aWDFfS2lHUlNiMDRmY2dCRVBaZFpWSGNoMWVtdFlm?oc=5
+- [2026-09-28] Anthropic will not appear at Senate inquiry into AI and datacentres amid fallout from OpenAI hack (The Guardian) https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbGtET0VEaFJwOUpXOWgyS2RtMkJXLXBmcXpYQkZuWkUzWnQtSGUtVFp3Nko5M3BhR3h4c0FIYTI3Z3hlX3p5MkhVaVczT1d2VWNkYnlxV2tuS2k4c2Z0YWozNkVWdzlnQmIzYkxLRlg3THZoUmFaaHpoVTRzRnJETmsyS0padEJpX0YzQUZfeEJYX3ZxNzEzZkZsb3lKSTJUS2J3UFZtNFlKUGF4R2FVUGxYZW1qYXpZVzh1WGN5SVFpQjJGUkNfcGZsVmdDSUpFc2tpN2dQUV84VWdUWWV1cVY2VmNDTUgzLVQ4YnJfTC0?oc=5
+- [2026-09-28] Nvidia unveils security platform to rein in AI agents and $150bn stock buyback (The Guardian) https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ2ZDbzFoNURoVDVfazFBZVpDelc3aWRUaURxYTNTX0tWdGt4QldvYW5SLVJvNmY5TV9hX3hka3UweWIteGVZTHpxbmx1bjJsaVg3MmozZThoRzlSdXltaGRSaFpUVHZBODAwb245MnRPTExCSjl2UV9ZRGMyLWdTeTE4ZmlTZWxyc09ISjI4NEFwS1BpNFFkdXF2UG5zcms?oc=5
+- [2026-09-28] OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns (The New York Times) https://news.google.com/rss/articles/CBMiekFVX3lxTE44UldTTk4wWS1oa3NoWXZ3RFdSZ3M1Q2lhMFFCa3A2QmMzTjRmYWk5bHp3cVBPUldmdzBDRjNmUVVfNnFycy05YVdTVjU4T1ljYUZxRkJZY2RINVNUV1lxMUdyX3BodGNja09adjlRNTYwelNZUEZWR093?oc=5
+- [2026-09-28] AI Agents Are About to Flood the Workforce. No One’s Ready for It (WIRED) https://news.google.com/rss/articles/CBMilwFBVV95cUxNbFdhcWQ2RTdPX3NzQlVSeGp6bUlaTFZLa2E4cG9NcDAtdFA0T294TWsxUWMyaGJucG1vYXNEWUJ0OWJkUzNUdldMY3djSm1TbTl6TzhlamVTRDloREhxOFNoRnluUFAyWVNOTFJxSDBsNEVTdHM4U3U3VGxzSzZSOENPY0E2RWxYT1JfV0hQMjVjMWVGR0dz?oc=5
 - [2026-09-28] 【10月29日】オンプレミス生成AI活用最前線、朝日新聞社の導入事例と次世代映像監視ソリューションが示す新たな可能性 (日経クロステック Active)
 - [2026-09-28] セールスフォースが諸刃の転換、アンソロピックと提携で「SaaSの死」に抗う (日経ビジネス電子版)
-- [2026-09-28] AI使う企業向けソリューションを実演展示、日経クロステックNEXTが29日開幕 (日経ビジネス電子版)
-- [2026-09-28] 文科省 生成ＡＩガイドライン改定、デジタル教科書などを10月１日に審議 (月刊私塾界)
-- [2026-09-28] 好きな映画を的中、性格も判定 内面暴くAI、データ利用は企業次第 [AIの時代] (朝日新聞)
-- [2026-09-28] WSJ日本版：トランプ氏とアンソロピックCEO、ホワイトハウス夕食会へ (毎日新聞)
-- [2026-09-28] WSJ日本版：トランプ氏とアンソロピックCEO、ホワイトハウスで夕食会 (毎日新聞)
-- [2026-09-28] プレスリリース：Uravation、社内向け「生成AI講演・AI登壇」の外部講師について、登壇テーマ・対象・形式と時間・費用の条件を公開。非エンジニアの全社員向けから経営層向け、Claude Codeの実演まで（PR TIMES） (毎日新聞)
-- [2026-09-28] プレスリリース：外注先探しで約8割が「生成AI検索迷子」に！？条件は満たすのに“何か違う”違和感の正体と、9割が求める「専門家の介在価値」（PR TIMES） (毎日新聞)
-- [2026-09-28] アンソロピック側と27日に会食へ トランプ米大統領 AI利用について意見交換 (産経ニュース)
-- [2026-09-28] 「ホームページは作っているのに、AIにおすすめされない」--ChatGPTのクリニック回答5,460件を分析して見えた“2つの構造”【Mayui調査】 (産経ニュース)
-- [2026-09-28] 書籍『フィジカルAI進化論』（SBクリエイティブ）Amazon予約開始のお知らせ （株式会社d-strategy,inc） (産経ニュース)
-- [2026-09-28] スタッフサービス・エンジニアリング、生成AIパスポート団体受験で派遣エンジニア298名が合格 (産経ニュース)
-- [2026-09-28] 生成AI時代にAIの本質を学ぶ公開講座を開催 (産経ニュース)
-- [2026-09-28] オンライン学習プラットフォーム「デジマナ」を法人向けサービスとしてリニューアル ～生成AIの業務活用を学ぶ「生成AI人材育成プログラム」を中心に提供 (産経ニュース)
-- [2026-09-28] ダイワボウ情報システム、Google Beam(TM) の取り扱いを開始 (産経ニュース)
-- [2026-09-28] TISI、生成AIでJR西日本のAPI開発プロセス高度化を支援し、鉄道・MaaS領域の業務効率化に寄与 (産経ニュース)
-- [2026-09-28] 米アンソロピックのダリオ・アモデイ最高経営責任者＝2025年1月（AP＝共同） (産経ニュース)
-- [2026-09-28] 大分市、デジタル庁「源内」活用の生成AIをLGWANで導入 (電波タイムズ)
+- [2026-09-28] 好きな映画を的中、性格も判定 内面暴くAI、データ利用は企業次第 [AIの時代] (朝日新聞) https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9meVRVMnNCSkdVdHdISDNrN1ZqX0RLX2RJV1pKVjB0MlJlMzNnZHdGTTVVLTNMcm1MSHFrMHhZeV9IOVppeEJfa3h6N2hvQ2R3ZWdYeUpkTWdZbk53TVF2NWVHUzFUcU0?oc=5
