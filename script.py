@@ -12,7 +12,9 @@ import pandas as pd
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CSV_PATH = os.path.join(BASE_DIR, "ai_news_v2.csv")
 RETENTION_DAYS = 30
-SEARCH_WINDOW = "when:7d"
+# 通常実行は直近7日。環境変数 BACKFILL=1 のときは直近30日を取得して欠けた日を補う
+BACKFILL = os.environ.get("BACKFILL", "0") == "1"
+SEARCH_WINDOW = "when:30d" if BACKFILL else "when:7d"
 REQUEST_INTERVAL_SEC = 0.5  # 連続アクセスを避けるための待機
 COLUMNS = ["date", "news_title", "news_source"]
 
@@ -91,12 +93,42 @@ def clean_title(raw: str) -> str:
     return title.strip()
 
 
+# 表記揺れを統一する（左側に含まれる表記を右側の名称にまとめる）
+SOURCE_ALIASES = [
+    ("日経クロステック", "日経クロステック"),
+    ("日経ビジネス", "日経ビジネス"),
+    ("日本経済新聞", "日本経済新聞"),
+    ("インプレス", "Impress Watch"),
+    ("Impress", "Impress Watch"),
+    ("ITmedia", "ITmedia"),
+    ("NHK", "NHK"),
+    ("時事", "時事通信"),
+    ("産経", "産経新聞"),
+    ("Forbes JAPAN", "Forbes JAPAN"),
+    ("Business Insider Japan", "Business Insider Japan"),
+    ("Business Insider", "Business Insider"),
+    ("Bloomberg", "Bloomberg"),
+    ("Reuters", "Reuters"),
+    ("ロイター", "Reuters"),
+    ("CNN", "CNN"),
+    ("Politico", "Politico"),
+    ("POLITICO", "Politico"),
+]
+
+
+def canonical_source(name: str) -> str:
+    for pattern, canonical in SOURCE_ALIASES:
+        if pattern.lower() in name.lower():
+            return canonical
+    return name
+
+
 def source_name(entry) -> str:
     src = getattr(entry, "source", None)
     if src and getattr(src, "title", None):
-        return src.title.strip()
+        return canonical_source(src.title.strip())
     m = re.search(r"(?:\s[-–|]\s|[(（])([^-–|()（）]+)[)）]?\s*$", nfkc(entry.title))
-    return m.group(1).strip() if m else "不明"
+    return canonical_source(m.group(1).strip()) if m else "不明"
 
 
 def is_allowed_source(name: str) -> bool:
