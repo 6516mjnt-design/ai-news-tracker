@@ -1,162 +1,168 @@
 import datetime
-import urllib.parse
 import os
+import re
+import urllib.parse
+
 import feedparser
 import pandas as pd
 
-# 日本語：AI系キーワード（従来どおり）
-AI_KEYWORDS_JA = '(生成AI OR 人工知能 OR オープンAI OR OpenAI OR ChatGPT OR グーグル OR Google OR Gemini OR アンソロピック OR Anthropic OR Claude OR Copilot OR LLM OR フィジカルAI OR "Physical AI" OR スーパーインテリジェンス OR 超知能 OR "SIエージェント")'
+CSV_FILENAME = "ai_news_v2.csv"  # 旧CSVは廃却し、新規ファイルで蓄積を開始
+RETENTION_DAYS = 30
+SEARCH_WINDOW = "when:7d"
 
-# 日本語：セキュリティ系キーワード（AI語との組み合わせ専用）
-SECURITY_KEYWORDS_JA = '(サイバー OR セキュリティ OR ハッカー OR ハッキング)'
+# ---------------------------------------------------------------
+# 検索クエリ（Google News RSS）
+#   ※ source:"..." 演算子はRSSで効きにくいため使わず、
+#     媒体名は取得後に entry.source.title で判定する
+# ---------------------------------------------------------------
+AI_QUERY_JA = (
+    '(生成AI OR 人工知能 OR オープンAI OR OpenAI OR ChatGPT OR '
+    'アンソロピック OR Anthropic OR "Claude AI" OR "Gemini AI" OR LLM OR '
+    'フィジカルAI OR 超知能 OR "SIエージェント" OR "AIエージェント")'
+)
+GOV_QUERY_JA = (
+    '(日本政府 OR 官邸 OR 首相 OR 内閣府 OR デジタル庁 OR 経産省 OR 経済産業省 OR '
+    '総務省 OR 文科省 OR 審議会 OR AI規制 OR AI推進 OR AI戦略 OR AI法案)'
+)
+SECURITY_QUERY_JA = '(サイバー OR セキュリティ OR ハッカー OR ハッキング)'
 
-# 既存の媒体別クエリ用（AI系のみ）
-BASE_KEYWORDS_JA = AI_KEYWORDS_JA
+AI_QUERY_EN = (
+    '("Generative AI" OR "Artificial Intelligence" OR OpenAI OR ChatGPT OR '
+    '"Google DeepMind" OR "Gemini AI" OR Anthropic OR "Claude AI" OR Copilot OR '
+    '"Physical AI" OR Superintelligence OR "AI agent")'
+)
+SECURITY_QUERY_EN = (
+    '("cybersecurity" OR "cyber attack" OR "cyberattack" OR hacker OR hacking OR '
+    '"security breach")'
+)
 
-# 政府・省庁・政策専用キーワード
-GOV_KEYWORDS_JA = '(日本政府 OR 官邸 OR 首相 OR 内閣府 OR デジタル庁 OR 経産省 OR 経済産業省 OR 総務省 OR 文科省 OR 審議会 OR ガイドライン OR AI規制 OR AI推進 OR AI戦略 OR AI法案)'
+# 検索クエリ一覧: (クエリ文字列, hl, gl, ceid)
+QUERIES = [
+    # 日本国内（主要紙・NHK・通信社）
+    (f"(日本経済新聞 OR 日経 OR 読売新聞 OR 朝日新聞 OR 毎日新聞 OR 産経新聞 OR NHK OR ロイター OR ブルームバーグ) AND {AI_QUERY_JA} {SEARCH_WINDOW}", "ja", "JP", "JP:ja"),
+    # 日本政府・政策
+    (f"{GOV_QUERY_JA} AND {AI_QUERY_JA} {SEARCH_WINDOW}", "ja", "JP", "JP:ja"),
+    # 日本語のAI×セキュリティ
+    (f"{SECURITY_QUERY_JA} AND {AI_QUERY_JA} {SEARCH_WINDOW}", "ja", "JP", "JP:ja"),
+    # 米国・英国・海外メディア（媒体名は取得後に判定）
+    (f"(CNN OR Reuters OR AP OR Bloomberg OR \"Wall Street Journal\" OR \"New York Times\" OR "
+     f"\"Washington Post\" OR \"NBC News\" OR \"ABC News\" OR \"CBS News\" OR BBC OR "
+     f"\"Financial Times\" OR Guardian OR Telegraph OR Independent) AND {AI_QUERY_EN} {SEARCH_WINDOW}",
+     "en-US", "US", "US:en"),
+    # 海外のAI×セキュリティ
+    (f"{SECURITY_QUERY_EN} AND {AI_QUERY_EN} {SEARCH_WINDOW}", "en-US", "US", "US:en"),
+]
 
-# 英語：AI系キーワード（海外本国用）
-BASE_KEYWORDS_EN = '("Generative AI" OR "Artificial Intelligence" OR OpenAI OR ChatGPT OR Google OR Gemini OR Anthropic OR Claude OR Copilot OR "Physical AI" OR Superintelligence OR "SI Agent")'
+# 許可する媒体名（entry.source.title に部分一致で判定、大文字小文字無視）
+ALLOWED_SOURCES = [
+    # 日本
+    "日本経済新聞", "日経", "読売新聞", "朝日新聞", "毎日新聞", "産経", "NHK",
+    "ロイター", "Reuters", "ブルームバーグ", "Bloomberg",
+    # 米国
+    "CNN", "Associated Press", "AP News", "Bloomberg", "Wall Street Journal",
+    "The New York Times", "The Washington Post", "NBC News", "ABC News", "CBS News",
+    # 英国
+    "BBC", "Financial Times", "The Guardian", "The Telegraph", "The Independent",
+]
 
-# 英語：セキュリティ系キーワード（AI語との組み合わせ専用）
-SECURITY_KEYWORDS_EN = '("cybersecurity" OR "cyber attack" OR "cyberattack" OR hacker OR hacking OR "security breach")'
+# AI関連判定（タイトル＋概要）。英字は前後が英字でない場合のみ一致させ、
+# 「生成AI」など日本語に隣接する表記も拾う
+AI_PATTERN = re.compile(
+    r"(生成AI|人工知能|超知能|フィジカルAI|(?<![A-Za-z])AI(?![A-Za-z])|OpenAI|ChatGPT|"
+    r"Anthropic|アンソロピック|(?<![A-Za-z])Claude(?![A-Za-z])|Gemini|(?<![A-Za-z])LLM|"
+    r"Copilot|Superintelligence|Physical AI|アンソロピック|オープンAI|オープンＡＩ|"
+    r"Artificial Intelligence|Generative AI)",
+    re.IGNORECASE,
+)
 
-CSV_FILENAME = "ai_news_stats.csv"
-RETENTION_DAYS = 30  # 30日分保持
 
-def get_google_news_rss(query: str, hl='ja', gl='JP', ceid='JP:ja'):
-    encoded_query = urllib.parse.quote(query)
-    url = f"https://news.google.com/rss/search?q={encoded_query}&hl={hl}&gl={gl}&ceid={ceid}"
+def get_google_news_rss(query: str, hl: str, gl: str, ceid: str):
+    encoded = urllib.parse.quote(query)
+    url = f"https://news.google.com/rss/search?q={encoded}&hl={hl}&gl={gl}&ceid={ceid}"
     return feedparser.parse(url)
 
+
+def clean_title(raw: str) -> str:
+    """末尾の媒体名（「 - X」「 | X」「（X）」）を除去する"""
+    title = raw
+    title = re.sub(r"\s+[-–|｜]\s+[^-–|｜]+$", "", title)
+    title = re.sub(r"\s*[（(][^（()）]+[)）]\s*$", "", title)
+    return title.strip()
+
+
+def source_name(entry) -> str:
+    src = getattr(entry, "source", None)
+    if src and getattr(src, "title", None):
+        return src.title.strip()
+    # フォールバック: タイトル末尾から推定
+    m = re.search(r"(?:\s[-–|｜]\s|[（(])([^-–|｜（()）]+)[)）]?\s*$", entry.title)
+    return m.group(1).strip() if m else "不明"
+
+
+def is_allowed_source(name: str) -> bool:
+    low = name.lower()
+    return any(allowed.lower() in low for allowed in ALLOWED_SOURCES)
+
+
+def is_ai_related(entry) -> bool:
+    text = f"{entry.title} {getattr(entry, 'summary', '')}"
+    return bool(AI_PATTERN.search(text))
+
+
+def normalize_key(title: str) -> str:
+    """重複判定用：空白・記号・大文字小文字を揃える"""
+    return re.sub(r"[\s\W_]+", "", title).lower()
+
+
 def fetch_news():
-    """日米英の主要メディア＋政府動向を確実に取得"""
     raw_entries = []
-    seen_titles = set()
+    for query, hl, gl, ceid in QUERIES:
+        feed = get_google_news_rss(query, hl, gl, ceid)
+        raw_entries.extend(feed.entries)
 
-    def add_entries(feed):
-        for entry in feed.entries:
-            if entry.title not in seen_titles:
-                seen_titles.add(entry.title)
-                raw_entries.append(entry)
-
-    # 1. 日本国内 主要メディア（主要紙＋NHK）
-    queries_ja = [
-        f'(日本経済新聞 OR 日経) AND {BASE_KEYWORDS_JA} when:7d',
-        f'読売新聞 AND {BASE_KEYWORDS_JA} when:7d',
-        f'朝日新聞 AND {BASE_KEYWORDS_JA} when:7d',
-        f'毎日新聞 AND {BASE_KEYWORDS_JA} when:7d',
-        f'産経新聞 AND {BASE_KEYWORDS_JA} when:7d',
-        f'(NHK OR "NHKニュース") AND {BASE_KEYWORDS_JA} when:7d',
-        f'CNN AND {BASE_KEYWORDS_JA} when:7d',
-        f'BBC AND {BASE_KEYWORDS_JA} when:7d',
-        f'ロイター AND {BASE_KEYWORDS_JA} when:7d',
-        f'ブルームバーグ AND {BASE_KEYWORDS_JA} when:7d',
-
-        # 日本政府・政策・規制に関するニュース全般（主要紙＋官庁動向）
-        f'{GOV_KEYWORDS_JA} AND {BASE_KEYWORDS_JA} when:7d',
-
-        # ★追加: AI×セキュリティ（セキュリティ語とAI語の両方を含む記事のみ）
-        f'{SECURITY_KEYWORDS_JA} AND {BASE_KEYWORDS_JA} when:7d',
-    ]
-    for q in queries_ja:
-        feed = get_google_news_rss(q, hl='ja', gl='JP', ceid='JP:ja')
-        add_entries(feed)
-
-    # 2. 米国主要メディア
-    us_sources = [
-        'source:"CNN"',
-        'source:"Reuters"',
-        'source:"Associated Press"',
-        'source:"Bloomberg"',
-        'source:"The Wall Street Journal"',
-        'source:"The New York Times"',
-        'source:"The Washington Post"',
-        'source:"NBC News"',
-        'source:"ABC News"',
-        'source:"CBS News"'
-    ]
-    for src in us_sources:
-        q = f'{src} AND {BASE_KEYWORDS_EN} when:7d'
-        feed = get_google_news_rss(q, hl='en-US', gl='US', ceid='US:en')
-        add_entries(feed)
-
-    # 3. 英国主要メディア
-    uk_sources = [
-        'source:"BBC"',
-        'source:"Financial Times"',
-        'source:"The Guardian"',
-        'source:"The Telegraph"',
-        'source:"The Independent"'
-    ]
-    for src in uk_sources:
-        q = f'{src} AND {BASE_KEYWORDS_EN} when:7d'
-        feed = get_google_news_rss(q, hl='en-GB', gl='GB', ceid='GB:en')
-        add_entries(feed)
-
-    # 4. ★追加: 海外全般のAI×セキュリティ（セキュリティ語とAI語の両方を含む記事のみ）
-    q_security_en = f'{SECURITY_KEYWORDS_EN} AND {BASE_KEYWORDS_EN} when:7d'
-    feed = get_google_news_rss(q_security_en, hl='en-US', gl='US', ceid='US:en')
-    add_entries(feed)
-
-    news_list = []
+    rows = []
+    seen = set()
     for entry in raw_entries:
-        raw_title = entry.title
+        source = source_name(entry)
+        if not is_allowed_source(source):
+            continue
+        if not is_ai_related(entry):
+            continue
 
-        # タイトルとソースの分離
-        if " - " in raw_title:
-            title_part, source_part = raw_title.rsplit(" - ", 1)
-        else:
-            title_part = raw_title
-            source_part = "不明"
+        title = clean_title(entry.title)
+        key = normalize_key(title)
+        if key in seen:
+            continue
+        seen.add(key)
 
-        # 配信日時の取得（JST補正）
-        if hasattr(entry, 'published_parsed') and entry.published_parsed:
-            pub_date = datetime.datetime(*entry.published_parsed[:6]) + datetime.timedelta(hours=9)
-            date_str = pub_date.strftime("%Y-%m-%d")
+        if getattr(entry, "published_parsed", None):
+            # 配信日時はUTCなので日本時間(+9h)に補正
+            pub = datetime.datetime(*entry.published_parsed[:6]) + datetime.timedelta(hours=9)
+            date_str = pub.strftime("%Y-%m-%d")
         else:
             date_str = datetime.datetime.now().strftime("%Y-%m-%d")
 
-        news_list.append({
-            "date": date_str,
-            "news_title": title_part,
-            "news_source": source_part
-        })
+        rows.append({"date": date_str, "news_title": title, "news_source": source})
 
-    return news_list
+    return rows
+
 
 def rebuild_and_collect_all_news():
-    print("日米英主要メディアおよび政府動向のニュース取得を開始します...")
-    new_items = fetch_news()
-    print(f"取得出来たニュース総数（重複排除前）: {len(new_items)} 件")
+    print("AI関連ニュースの取得を開始します...")
+    rows = fetch_news()
+    print(f"AI関連かつ許可媒体の記事: {len(rows)} 件（重複排除後）")
 
-    df_new = pd.DataFrame(new_items)
+    df = pd.DataFrame(rows, columns=["date", "news_title", "news_source"])
 
-    if os.path.exists(CSV_FILENAME):
-        try:
-            df_existing = pd.read_csv(CSV_FILENAME, dtype=str)
-            if 'date' in df_existing.columns and 'news_title' in df_existing.columns:
-                df_combined = pd.concat([df_existing, df_new], ignore_index=True)
-                df_combined.drop_duplicates(subset=['date', 'news_title'], inplace=True)
-            else:
-                df_combined = df_new
-        except Exception:
-            df_combined = df_new
-    else:
-        df_combined = df_new
+    # 直近30日分のみ保持（既存CSVは読み込まない）
+    df["date_dt"] = pd.to_datetime(df["date"], errors="coerce")
+    cutoff = datetime.datetime.now() - datetime.timedelta(days=RETENTION_DAYS)
+    df = df[df["date_dt"] >= cutoff].drop(columns=["date_dt"])
 
-    # 直近30日分のデータのみ保持
-    df_combined['date_dt'] = pd.to_datetime(df_combined['date'], errors='coerce')
-    cutoff_date = datetime.datetime.now() - datetime.timedelta(days=RETENTION_DAYS)
-    df_filtered = df_combined[df_combined['date_dt'] >= cutoff_date].copy()
-    df_filtered.drop(columns=['date_dt'], inplace=True)
+    df.sort_values(by=["date", "news_source"], ascending=[False, True], inplace=True)
+    df.to_csv(CSV_FILENAME, index=False, encoding="utf-8-sig")
+    print(f"'{CSV_FILENAME}' に保存しました（{len(df)} 行）。")
 
-    df_filtered.sort_values(by=["date", "news_source"], ascending=[False, True], inplace=True)
-    df_filtered = df_filtered[['date', 'news_title', 'news_source']]
-
-    df_filtered.to_csv(CSV_FILENAME, index=False, encoding="utf-8-sig")
-    print(f"\n'{CSV_FILENAME}' へ無事に更新・保存しました。")
 
 if __name__ == "__main__":
     rebuild_and_collect_all_news()
